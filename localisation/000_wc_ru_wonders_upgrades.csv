@@ -27,14 +27,27 @@ upgrade_demonic_machinery;Демоническая Машинерия;;;;;;;;;;;;;x
 upgrade_demonic_machinery_desc;Гигантские механизмы Скверны, поддерживающие работу этого комплекса.;;;;;;;;;;;;;x
 upgrade_fel_pool;Бассейн Скверны;;;;;;;;;;;;;x
 upgrade_fel_pool_desc;Этот бассейн энергии Скверны питает демонических существ, населяющих эту структуру.;;;;;;;;;;;;;x
+upgrade_construct_quarter;Construct Quarter;;;;;;;;;;;;;x
+upgrade_construct_quarter_desc;This corridor of the necropolis is completely dedicated to the construction of undead amalgamations bent on serving the Scourge.;;;;;;;;;;;;;x
+upgrade_moarg_workshops;Mo'arg Workshops;;;;;;;;;;;;;x
+upgrade_moarg_workshops_desc;These workshops are worked by the engineers of the Legion, the Mo'arg, and they work to pump out demonic armaments and equipment for our soldiers.;;;;;;;;;;;;;x
+upgrade_condemned_halls;Condemned Halls;;;;;;;;;;;;;x
+upgrade_condemned_halls_desc;These halls echo with the whispers of the Old Gods, and they serve as a large gathering place for their crazed followers.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #General;;;;;;;;;;;;;;x
-upgrade_stained_glass_window_desc;Прекрасное произведение искусства, показывающее мифическую сцену.;;;;;;;;;;;;;x
-upgrade_giant_cross;Гигантский Шпиль;;;;;;;;;;;;;x
-upgrade_giant_cross_desc;Гигантский шпиль, подчеркивающий силуэт здания.;;;;;;;;;;;;;x
-upgrade_collection_architecture_desc;Секреты строительства великих зданий, дорог и мостов, раскрытых в классических трудах древних авторов.;;;;;;;;;;;;;x
-upgrade_collection_math_desc;Коллекция начиная от работ калдорайских мыслителей до новейших трактатов по математике.;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+upgrade_stained_glass_window_desc;A beautiful piece of art reflecting a mythical scene.;;;;;;;;;;;;;x
+upgrade_giant_cross;Giant Spire;;;;;;;;;;;;;x
+upgrade_giant_cross_desc;On top of the [FromFrom.GetWonderTypeShortCap] is a big spire, embellishing the silhouette of the building.;;;;;;;;;;;;;x
+upgrade_collection_architecture_desc;The secrets of building great edifices, roads, and bridges are revealed in the classical works of ancient authors.;;;;;;;;;;;;;
+upgrade_collection_math_desc;From the works of Kaldorei thinkers, to the most recent treatises on mathematics.;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+#Historical wonder upgrades;;;;;;;;;;;;;;
+upgrade_forge_of_wills;Forge of Wills;;;;;;;;;;;;;
+upgrade_forge_of_wills_desc;The Forge of Wills was built by the Titans to strengthen the slumbering Azeroth. It can also use her energies to create legions of titan-forged warriors.;;;;;;;;;;;;;
+upgrade_silithid_greathive;Great Silithid Hive;;;;;;;;;;;;;
+upgrade_silithid_greathive_desc;The great silithid hive located in Ahn'Qiraj houses the biggest of their queens who is constantly laying eggs to produce armies of inscetoid warriors.;;;;;;;;;;;;;
+upgrade_crucible_of_storms;Crucible of Storms;;;;;;;;;;;;;
+upgrade_crucible_of_storms_desc;A long-submerged evil stirs beneath the Shrine of the Storm. The whispers that drive to madness echo within the depths, a siren song of eldritch power. Those who listen and obey prepare dark rituals to carry out their master’s will.;;;;;;;;;;;;;
