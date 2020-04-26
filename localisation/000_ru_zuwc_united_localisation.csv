@@ -433,8 +433,8 @@ EVTOPTA_WCFEL_9972_tooltip;Вы продолжаете подготовку к ритуалу.\n;;;;;;;;;;;;;x
 EVTOPTB_WCFEL_9972;Нет, о чем я только думал! Это нужно немедленно остановить.;;;;;;;;;;;;;x
 EVTDESC_WCFEL_9973;You have begun the next ritual. By sacrificing a sentient being's life, you manage to tear open a temporary rift that bridges the gap between Azeroth and the Twisting Nether. Seconds later, you see the figure of [Root.GetDemonTypeOutcome];;;;;;;;;;;;;x
 GetDemonTypeOutcome_deceitful_nathrezim;a two-legged creature with wings and hooves. It stands upright before leaping on to you and firmly gripping your neck. “Now I shall take your place in this world, worm!”;;;;;;;;;;;;;x
-GetDemonTypeOutcome_ambitious_annihilan;a gigantic creature with wings and six limbs, but it is not alone: a small group of demons followed it into this world. The creature straightened before storming towards you. A few moments later its giant hammer swings towards you. "Fool, now we will purge this world in the name of the Burning Legion!";;;;;;;;;;;;;x
-GetDemonTypeOutcome_deceitful_observer;a giant levitating creature with one glaring eye. A few moments later, it materializes near you, its eye wreathed in green flame. "You are now unnecessary to me, mortal!";;;;;;;;;;;;;x
+GetDemonTypeOutcome_ambitious_annihilan;"a gigantic creature with wings and six limbs, but it is not alone: a small group of demons followed it into this world. The creature straightened before storming towards you. A few moments later its giant hammer swings towards you. ""Fool, now we will purge this world in the name of the Burning Legion!""";;;;;;;;;;;;;x
+GetDemonTypeOutcome_deceitful_observer;"a giant levitating creature with one glaring eye. A few moments later, it materializes near you, its eye wreathed in green flame. ""You are now unnecessary to me, mortal!""";;;;;;;;;;;;;x
 GetDemonTypeOutcome_normal_case;a large demon. It rises to its feet, before offering you a gift in gratitude for your help. Seconds later, it disappears.;;;;;;;;;;;;;x
 GetDemonTypeOutcome_good_case;a large demon. It rises to its feet, before offering you the previously agreed upon gift as well as its loyalty in gratitude.;;;;;;;;;;;;;x
 EVTOPTA_WCFEL_9973_bad_case;Нет, нееет!;;;;;;;;;;;;;x
@@ -2597,244 +2597,244 @@ RULE_PATRONS_EXIST_DESC;Patron characters will not recieve a special patron trai
 nick_the_defiler;the Defiler;;;;;;;;;;;;;x
 helya_opinion;[helya.GetName] Opinion;;;;;;;;;;;;;x
 nick_the_decrepit;the Decrepit;;;;;;;;;;;;;x
-EVTDESC_WCDAC_7041;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nThese mortals think that they have the right to judge us, but they have not seen even half of the potential of our dark magic! However, necromancy requires sacrifice, and now is the time to find another mortal for our experiments.\n\n[Root.GetDWExpression]\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_WCDAC_7024;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nAn opportunity to strike at foolish heretics has presented itself. Residents of the province of [From.GetHolding] of [From.GetName] are ignorant of the greatness of the Lich King. Show them the face of death, and punish them for their ignorance in the name of the king!\n\n[Root.GetDWExpression]\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_WCDAC_8001;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\nThe Fel has given us so much, and now it is time for us to offer it a gift in return. Fel magic feeds on the vital energy of mortal creatures, and the council wants you to captivate and drain the soul of a mortal, [Root.GetSocietyRank]!\n[Root.GetDWExpression]\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-merge_with_champion;Merge with Champion;;;;;;;;;;;;;x
-merge_with_champion_desc;You are connected with the one who holds Frostmourne as long as a part of your soul trapped within the blade. Even though you are imprisoned, your champion can break this ice prison and become one with you.;;;;;;;;;;;;;x
-someone_found_frostmourne_tooltip;Someone found Frostmourne;;;;;;;;;;;;;x
-EVTDESC_WCUND_540_lich_king;[target_champion.GetBestName] couldn't reach the Frozen Throne. You no longer see [target_champion.GetHerHim]... but you can feel Frostmourne is still somewhere out there.;;;;;;;;;;;;;x
-EVTDESC_WCUND_540_champion;You couldn't reach the Frozen Throne. You can no longer hear the voice of the Lich King, so you have no choice but to turn back.;;;;;;;;;;;;;x
-imprisoned_in_ice_tooltip;Is imprisoned within the Frozen Throne;;;;;;;;;;;;;x
-EVTDESC_WCUND_400;The [target_lich_king.GetTitle] is getting weaker, and [target_lich_king.GetHerHis] power is constantly seeping out of the Frozen Throne. In order to prevent the Scourge from being undone, immediate action needs to be taken. As the Champion of the Scourge and wielder of Frostmourne, you must venture to Icecrown Glacier and ascend to the Frozen Throne. Then, claim the Helm of Domination to become the new host for the demigod and solidify control over the legions of undead lest they become a mindless horde.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_400;I must save the Scourge!;;;;;;;;;;;;;x
-EVTOPTB_WCUND_400;No! I will not become the Lich King!;;;;;;;;;;;;;x
-EVTTITLE_WCUND_400;The Ascension;;;;;;;;;;;;;x
-EVTDESC_WCUND_411;After what feels like a month has gone by, you have once again dropped anchor in Northrend. As you set foot on dry land, memories of your last journey here come flooding back into your mind.\nYou remember when you first set down in Daggercap with your men. You remember having decided to stop at nothing to destroy the Dark Lord and avenge the lives of your countrymen. The dreaded blade that made your vengeance possible cost you everything: your men, your friends, your sanity...\nIn the end, it did not matter. You were willing to pay any price to save your people[Root.GetChampionGuilt]. You shove these thoughts back into the recesses of your mind, trudging ever forward into the frozen wastes.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_411;I am different now. I cannot let my own past hold me back now.;;;;;;;;;;;;;x
-EVTDESC_WCUND_525;Here it is, the frozen spire hidden within the wastes of Northrend. It is hard to believe anything could find its home here in such a desolate place, but it seems almost perfectly appropriate for the Lord and Jailer of the Damned. You begin your ascent to the top of this tower. Memories of your [Root.GetChampionKilledCharacter] flood your mind, and the closer you get, the closer salvation seems to be. You reach the top, and a voice penetrates your mind,\n"Return the blade, complete the circle, release me from this prison!"\nWithout hesitation, you shatter the diamond ice that encases the Helm of Domination imprisoning [target_lich_king.GetFirstName]'s soul. As the ice breaks apart, the helm falls at your feet, almost as if it beckons you. You proceed to pick up the crown with both hands as it thrums with power and place it upon your head. There is only one obstacle left in your way.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_525;Consume the soul of [target_lich_king.GetFirstName], becoming the rightful Lich King!;;;;;;;;;;;;;x
-EVTOPTB_WCUND_525;Merge with the soul of [target_lich_king.GetFirstName], sharing in [target_lich_king.GetHerHis] power as Lich King!;;;;;;;;;;;;;x
-EVTDESC_WCUND_530;They started out weak and faint, seemingly just random daydreams and thoughts entering and leaving your mind in less than a second. Recently, they have become stronger, almost as if they are a part of your reality. One of these visions stands out amongst the rest, and it takes almost complete control of you. A malevolent voice whispers to you from the back of your head, but another voice rises to meet it, the remains of your very humanity.\n\nIn the end, one of these voices will overcome the other and your intervention will be the deciding factor in choosing the victor. One of these entities shall win the day, and giving in to one of them seems to be the only path to retaining your sanity.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_530;No one shall control me and my thoughts! Both shall be purged!;;;;;;;;;;;;;x
-EVTOPTB_WCUND_530;I am no longer who I once was, I must move on from my past.;;;;;;;;;;;;;x
-EVTOPTC_WCUND_530;I will not lose sight of who I am. This evil being will not win.;;;;;;;;;;;;;x
-EVTDESC_WCUND_535;In an instant the dream that overtook your mind ends. You find yourself having collapsed to the ground winded and gasping for air. The dominance of [target_lich_king.GetFirstName] has come to an end, and now you are in absolute control of your destiny. Even so, with all the power that the Lich King had, why is it after all you have experienced you still find yourself weakened by what once made you alive?\n\nAt the edge of the bottomless abyss, you have the opportunity to remove the last portion of you that holds back your potential, the beating organ that sustains whatever else may still be alive in your broken vessel.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_535;I must destroy that which makes me weak!;;;;;;;;;;;;;x
-EVTOPTB_WCUND_535;I cannot, it is truly all I have left.;;;;;;;;;;;;;x
-can_be_undead_tooltip;Can be undead;;;;;;;;;;;;;x
+EVTDESC_WCDAC_7041;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nЭти смертные считают что имеют право осуждать нас, но им неведома даже половина потенциала нашей темной магии! Однако, некромантия требует жертв, и сейчас нам нужен смертный для наших опытов.\n\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_WCDAC_7024;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nНастало время ударить по глупым еретикам. Жители провинции с высокомерием относится к величию Короля Лича. Покажи им лик смерти и накажи за высокомерие, во имя короля!!\n\n[Root.GetDWExpression]\nПодписано [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_WCDAC_8001;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\nСкверна дала нам так много, и сейчас наступило время предложить ей подарок взамен. Магия Скверны питается от жизненной силы смертных существ, так что Совет просит Вас принести в жертву душу смернтого. Root.GetSocietyRank]!\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+merge_with_champion;Слияние с Чемпионом;;;;;;;;;;;;;x
+merge_with_champion_desc;Вы соединены с тем, кто владеет Ледяной Скорбью, поскольку часть Вашей души заперта в этом клинке. Ваш чемпион может разрушить Вашу ледяную тюрьму и стать единым с Вами.;;;;;;;;;;;;;x
+someone_found_frostmourne_tooltip;Кто-то завладел Ледяной Скорбью;;;;;;;;;;;;;x
+EVTDESC_WCUND_540_lich_king;[target_champion.GetBestName] не смог достичь Ледяного Трона. Вы больше не видите его... но все еще чувствуете, что Ледяная Скорбь продолжает существовать где-то там.;;;;;;;;;;;;;x
+EVTDESC_WCUND_540_champion;Вы не смогли достичь Ледяного Трона. Вы больше не слышите голоса Короля Лича, и Вам ничего не остается, кроме как повернуть назад.;;;;;;;;;;;;;x
+imprisoned_in_ice_tooltip;заключен в Ледяном Троне;;;;;;;;;;;;;x
+EVTDESC_WCUND_400;[target_lich_king.GetTitle] становится слабее. Чтобы не позволить Плети быть уничтоженой, следует действовать немедленно.Как Чемпион Плети и владелец Ледяной Скорби, Вы должны отправиться в Ледяную Корону и подняться к Ледяному Трону, чтобы воздеть Шлем Господства и взять под контроль орды нежити, пока они не превратились в безмозглый рой.;;;;;;;;;;;;;x
+EVTOPTA_WCUND_400;Я должен спасти Плеть!;;;;;;;;;;;;;x
+EVTOPTB_WCUND_400;Нет! Я не буду становиться Королем Личом!;;;;;;;;;;;;;x
+EVTTITLE_WCUND_400;Восхождение;;;;;;;;;;;;;x
+EVTDESC_WCUND_411;После месяца скитаний, Вы наконец бросили свой якорь у берегов Нордскола. Когда Вы ступили на твердую землю, воспоминания о Вашем прошлом путешествии нахлынули на Вас. Вы вспомнили, как впервые высадились в Бухте Кинжалов вместе с Вашими людьми. Вы вспомнили, как поклялись пойти до конца чтобы остановить Темного Повелителя и отомстить за жизни Ваших подданых. Ужасный клинок, сделавший возмездие возмжным, стоил Вам всего: людей, друзей, рассудка... в конце концов, это не значило ничего. Вы были готовы заплатить любую цену, чтобы спасти Ваших людей. [Root.GetChampionGuilt] Вы отбросили эти мысли, выступая в путь в ледяные пустоши. ;;;;;;;;;;;;;x
+EVTOPTA_WCUND_411;Я стал другим. Я не могу позволить своему прошлому остановить меня.;;;;;;;;;;;;;x
+EVTDESC_WCUND_525;Наконец-то Вы добрались. Здесь, на вершине ледяного шпиля посреди пустошей Нордскола, находится Повелитель и Тюремщик Проклятых. Вы начинаете Ваше восхождение на вершину этой башни. Воспоминания о [Root.GetChampionKilledCharacter] переполняют Ваш разум, и чем выше Вы поднимаетесь, тем ближе чувствуется спасение. Вы достигаете вершины, и вкрадчивый голос появляется в Вашей голове: «Принеси меч.. замкни круг... и ВЕРНИ МНЕ СВОБОДУ!». Без промедления, вы разбиваете хрустальный лед, в котором замурован Шлем Господства и заключена душа [target_lich_king.GetFirstName]. Когда лед разбивается, шлем падает к Вашим ногам. Вы поднимаете корону обеими руками и надеваете ее. Теперь осталось только одно препятствие.;;;;;;;;;;;;;x
+EVTOPTA_WCUND_525;Поглотить душу [target_lich_king.GetFirstName], став законным Королем Личом!;;;;;;;;;;;;;x
+EVTOPTB_WCUND_525;Слиться с душой [target_lich_king.GetFirstName], разделив с ним власть Короля Лича!;;;;;;;;;;;;;x
+EVTDESC_WCUND_530;Все начиналось как легкие видения, проникающие в разум и исчезающие через мгновение. Недавно они стали сильнее, почти столь же реалистичны, как если бы были частью действительности. Одно из этих видений особенно сильно выделяется и полностью берет контроль над Вами. Злобный голос нашептывает Вам откуда-то из глубин головы, но другой голос, Ваше человеческое начало, восстает против него. В конце концов один из голосов одержит верх, и Ваше осознанное вмешательство будет решающим фактором в этой борьбе. Возможно, это единственное, что способно сохранить Ваш рассудок.;;;;;;;;;;;;;x
+EVTOPTA_WCUND_530;Никто не будет контролировать меня и мои мысли! Оба будут уничтожены!;;;;;;;;;;;;;x
+EVTOPTB_WCUND_530;Я уже не тот, кем был раньше. Я должен идти дальше.;;;;;;;;;;;;;x
+EVTOPTC_WCUND_530;Я не забуду, кто я такой. Злу не сломить меня.;;;;;;;;;;;;;x
+EVTDESC_WCUND_535;В одно мгновение тягостный сон, окутывающий Ваш разум, закончился. Вы обнаружили, что лежите на промерзлой земле и тяжело дышите. Власть Короля-Лича больше не сковывает Вас, и Вы вновь обладаете полным контролем над своей судьбой. Удивительно, как Король-Лич со всей своей безграничной мощью не смог забрать Вашу жизнь. Там, на краю бездны, Вы смогли сбросить последнюю цепь, сдерживающую Ваш потенциал — Ваше сердце, вырезанное и все еще бьющееся.;;;;;;;;;;;;;x
+EVTOPTA_WCUND_535;Я должен уничтожить то, что делает меня слабым!;;;;;;;;;;;;;x
+EVTOPTB_WCUND_535;Я не могу, это буквально всё что у меня есть.;;;;;;;;;;;;;x
+can_be_undead_tooltip;Может стать нежитью;;;;;;;;;;;;;x
 GetChampionKilledCharacter_target;[target_killed_character.GetRootRelation];;;;;;;;;;;;;x
-GetChampionKilledCharacter_mentors;mentors;;;;;;;;;;;;;x
-scourge_is_free_tooltip;The Lich King has summoned the Legion and the Scourge is free;;;;;;;;;;;;;x
-GetChampionGuilt_guilty;, but with every brandishing of Frostmourne, you feel the guilt of your [Root.GetChampionKilledCharacter]'s death press down upon you most of all;;;;;;;;;;;;;x
-nick_the_blade;the Blade;;;;;;;;;;;;;x
-EVTTITLE_WCUND_1010;End of the Scourge;;;;;;;;;;;;;x
-EVTDESC_WCUND_1010;After a long and costly war, with many brave and valiant lives lost, the Lich King and his Scourge have been defeated, and the dead rest in peace once more.\n\nFriends and family of the dead can finally bury the twisted and disfigured corpses of their loved ones, their grief no longer accompanied by the horror that the one they knew in life was serving evil after death. With the Lich King's demise, a new era dawns over Azeroth.\n\nNevertheless, his dark shadow continues to loom over the world, whether in the memories of veterans, tales told to scare children, or wicked death cults seeking to revive his undead empire.;;;;;;;;;;;;;x
-ITS_NOT_OVER_YET;It's not over yet!;;;;;;;;;;;;;x
-WE_CAN_SLEEP_PEACEFULLY_NOW;We can sleep peacefully now.;;;;;;;;;;;;;x
-EVTDESC_WCUND_9910;In your dreams you see the throne hidden in the heart of Northrend. The creature that sits on it calls you, promising to deliver you from the agony of mortal life.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_9910;Alright. We're going to find the creature.;;;;;;;;;;;;;x
-EVTOPTB_WCUND_9910;Seems too dangerous.;;;;;;;;;;;;;x
-EVTDESC_WCUND_9915;With each day of your journey to the heart of Northrend, the blizzard is getting stronger. Through the veil of snow, you can see black figures surrounding you. Once they were living beings, but now they are nothing more than rotting corpses. The creature on the throne looks at you with its glowing blue eyes. Tired, you fall to your knees as the living dead approach you.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_9915;Bow to the Death God!;;;;;;;;;;;;;x
-EVTOPTB_WCUND_9915;I laugh in the face of death!;;;;;;;;;;;;;x
-EVTDESC_WCUND_9920;With each day that passes on your journey to the heart of Northrend, the blizzards are getting stronger. Finally, you decide to turn back home. A few of your companions have vanished, so this adventure seems to have been a total failure.;;;;;;;;;;;;;x
-dwarven_gnomish_alliance_origin_description;Historical Friend;;;;;;;;;;;;;x
-GetHospitalTempleBuilding_hospital;hospital building;;;;;;;;;;;;;x
-GetHospitalTempleBuilding_temple;temple building;;;;;;;;;;;;;x
-GetHospitalTemple_hospital;hospital;;;;;;;;;;;;;x
-GetHospitalTemple_temple;temple;;;;;;;;;;;;;x
-is_dragon_race_trigger_tooltip;Is a dragon;;;;;;;;;;;;;x
-has_no_class_trait_trigger_tooltip;Has no class;;;;;;;;;;;;;x
-is_medium_humanoid_tooltip;Is a medium humanoid;;;;;;;;;;;;;x
-is_large_humanoid_tooltip;Is a large humanoid;;;;;;;;;;;;;x
-text_effect_decision_abduct;Enables §GAttempt to Abduct§! on courtier portraits;;;;;;;;;;;;;x
-GetInSociety_society; in [This.Society.GetName];;;;;;;;;;;;;x
-GetInSocietyYellow_society; in §Y[This.Society.GetName]§!;;;;;;;;;;;;;x
-GetSocietyMembers_society;Society members;;;;;;;;;;;;;x
-GetSocietyMembers_brethren;brethren;;;;;;;;;;;;;x
+GetChampionKilledCharacter_mentors;наставники;;;;;;;;;;;;;x
+scourge_is_free_tooltip;Король-Лич призвал Легион, и теперь Плеть свободна.;;;;;;;;;;;;;x
+GetChampionGuilt_guilty;, но с каждым взмахом Ледяной Скорби, чувство вины за смерть Вашего [Root.GetChampionKilledCharacter] становится все сильнее;;;;;;;;;;;;;x
+nick_the_blade;Клинок;;;;;;;;;;;;;x
+EVTTITLE_WCUND_1010;Конец Плети;;;;;;;;;;;;;x
+EVTDESC_WCUND_1010;После долгой и кровопролитной войны, Король Лич и его Плеть были повержены, и мертвые вновь уснули вечным сном. Друзья и семьи погибших наконец могут предать изуродованные тела земле, и больше не бояться, что они придут за их жизнями. С падением Короля Лича восходит новая эпоха.И если его жуткая тень продолжает скитаться по миру, то только в рассказах ветеранов и в остатках разрозненных культов, таящих надежду снова восстановить мертвую империю.;;;;;;;;;;;;;x
+ITS_NOT_OVER_YET;Все еще не закончено!;;;;;;;;;;;;;x
+WE_CAN_SLEEP_PEACEFULLY_NOW;Теперь мы можем спать спокойно.;;;;;;;;;;;;;x
+EVTDESC_WCUND_9910;В Ваших снах Вы видите трон, укрытый в сердце Нордскола. Некое создание, восседающее на нем, обращает к Вам свой зов, обещая избавить от агонии смертной жизни.;;;;;;;;;;;;;x
+EVTOPTA_WCUND_9910;Отлично. Мы найдем это создание!;;;;;;;;;;;;;x
+EVTOPTB_WCUND_9910;Нет, это слишком опасно.;;;;;;;;;;;;;x
+EVTDESC_WCUND_9915;С каждым днем, что Вы проводите в своем путешествии в сердце Нордскола, бураны становятся все яростнее. Сквозь снежную пелену Вы видите черные фигуры, окружающие Вас. Однажды все они были живыми созданиями, но теперь от них остались лишь гниющие тела. Существо на троне обратило на Вас свои пылающие синим глаза. В изнеможении Вы падаете на колени и тени окружают Вас.;;;;;;;;;;;;;x
+EVTOPTA_WCUND_9915;Склонись перед Богом Смерти!;;;;;;;;;;;;;x
+EVTOPTB_WCUND_9915;Я смеюсь в лицо смерти!;;;;;;;;;;;;;x
+EVTDESC_WCUND_9920;С каждым днем, что Вы проводите в своем путешествии в сердце Нордскола, бураны становятся все яростнее. Наконец, Вы решаете повернуть домой. Ваши немногие спутники разбежались, и это путешествие оказалось полным провалом.;;;;;;;;;;;;;x
+dwarven_gnomish_alliance_origin_description;Исторический Друг;;;;;;;;;;;;;x
+GetHospitalTempleBuilding_hospital;постройка госпиталя;;;;;;;;;;;;;x
+GetHospitalTempleBuilding_temple;храмовая постройка;;;;;;;;;;;;;x
+GetHospitalTemple_hospital;больница;;;;;;;;;;;;;x
+GetHospitalTemple_temple;храм;;;;;;;;;;;;;x
+is_dragon_race_trigger_tooltip;является драконом;;;;;;;;;;;;;x
+has_no_class_trait_trigger_tooltip;не имеет класса;;;;;;;;;;;;;x
+is_medium_humanoid_tooltip;является обычным гуманоидом;;;;;;;;;;;;;x
+is_large_humanoid_tooltip;является крупным гуманоидом;;;;;;;;;;;;;x
+text_effect_decision_abduct;Позволяет §GAttempt to Abduct§! на портретах придворных;;;;;;;;;;;;;x
+GetInSociety_society; в [This.Society.GetName];;;;;;;;;;;;;x
+GetInSocietyYellow_society; в §Y[This.Society.GetName]§!;;;;;;;;;;;;;x
+GetSocietyMembers_society;члены общества;;;;;;;;;;;;;x
+GetSocietyMembers_brethren;собратья;;;;;;;;;;;;;x
 GetSocietyWe_society;[This.Society.GetName];;;;;;;;;;;;;x
-GetSocietyWe_we;we;;;;;;;;;;;;;x
-wc_united_sacrifice_all_prisoners_decision;Perform a Mass Sacrifice;;;;;;;;;;;;;x
-wc_united_sacrifice_all_prisoners_decision_desc;Sacrifice all your prisoners to [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
-GetHighwaymenType_dragon_hunters;dragon hunters;;;;;;;;;;;;;x
-GetHighwaymenType_monster_hunters;monster hunters;;;;;;;;;;;;;x
-GetHighwaymenType_witch_hunters;witch hunters;;;;;;;;;;;;;x
-GetHighwaymenType_highwaymen;highwaymen;;;;;;;;;;;;;x
-GetAsYouRise_try;As you try to rise;;;;;;;;;;;;;x
-GetAsYouRise_to_challenge;As you rise to challenge him;;;;;;;;;;;;;x
-RULE_KILLING_SPEED;§RWarCraft§!: Killing Chances;;;;;;;;;;;;;x
-RULE_KILLING_SPEED_OFF;Off;;;;;;;;;;;;;x
-RULE_KILLING_SPEED_OFF_DESC;The chances of the killing plot attempts are unchanged.;;;;;;;;;;;;;x
-RULE_KILLING_SPEED_PLAYER;Player;;;;;;;;;;;;;x
-RULE_KILLING_SPEED_PLAYER_DESC;Player's chances of the killing plot attempts are increased by §G10§!.\n§RThe rule is created for testing. Use at your own risk.§!;;;;;;;;;;;;;x
-RULE_KILLING_SPEED_ALL;All;;;;;;;;;;;;;x
-RULE_KILLING_SPEED_ALL_DESC;Both player's and AI's chances of the killing plot attempts are increased by §G10§!.\n§RThe rule is created for testing. Use at your own risk.§!;;;;;;;;;;;;;x
-GetHighwaymenType_40_adventurers;forty adventurers;;;;;;;;;;;;;x
-GetHighwaymenType_25_adventurers;twenty five adventurers;;;;;;;;;;;;;x
-GetHighwaymenType_10_adventurers;ten adventurers;;;;;;;;;;;;;x
-GetHighwaymenType_5_adventurers;five adventurers;;;;;;;;;;;;;x
-GetHighwaymenType_3_adventurers;three adventurers;;;;;;;;;;;;;x
-nick_the_calculator;the Calculator;;;;;;;;;;;;;x
-nick_the_shatterer;the Shatterer;;;;;;;;;;;;;x
-starts_training_tooltip;§Y[This.GetBestName]§! starts training;;;;;;;;;;;;;x
-ACCEPTANCE;Acceptance;;;;;;;;;;;;;x
-ask_to_be_mentor;Ask to be Mentor;;;;;;;;;;;;;x
-ask_to_be_mentor_desc;§Y[Root.GetBestName]§! is a master of [Root.GetClassSkill]. You can ask [Root.GetHerHim] to mentor the selected character.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1500_yourself;[mentor.GetBestName] is a well-known master of [mentor.GetClassSkill]. You could ask [mentor.GetHerHim] to train you and share [mentor.GetHerHis] experience. You only need to choose a direction and wait for [mentor.GetHerHis] letter.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1500_others;[mentor.GetBestName] is a well-known master of [mentor.GetClassSkill]. You could ask [mentor.GetHerHim] to train [student.GetDynName] and share [mentor.GetHerHis] experience. You only need to choose a direction and wait for [mentor.GetHerHis] letter.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_2100_yourself;[Root.PrimaryTitle.GetFOA], I have heard legends of your skill. If you are amenable to being my mentor and do not believe me to be unworthy of your attention, I would be honoured to become your student.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_WCCLS_2100_others;[Root.PrimaryTitle.GetFOA], I have heard legends of your skill. If you are amenable to being a mentor of [student.GetDynName] and do not believe [student.GetHerHim] to be unworthy of your attention, [student.GetSheHe] would be honoured to become your student.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTOPTA_WCCLS_2100;I'll help [student.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTC_WCCLS_2100;No, [student.GetSheHe] isn't worth my attention.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_2101_yourself;[Root.PrimaryTitle.GetFOA], I gladly agree to be your mentor.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_WCCLS_2101_others;[Root.PrimaryTitle.GetFOA], I gladly agree to be a mentor of [student.GetDynName].\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_WCCLS_2103_yourself;[Root.PrimaryTitle.GetFOA], apologies, but I have no desire to be your mentor.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_WCCLS_2103_others;[Root.PrimaryTitle.GetFOA], apologies, but I have no desire be a mentor of [student.GetDynName].\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-has_not_students_tooltip;Does NOT have students;;;;;;;;;;;;;x
-EVTDESC_WCCLS_2151;You have waited for so long, but have gotten no answer from [mentor.GetBestName]. You don't know what happened, but it seems you need to look for another mentor.;;;;;;;;;;;;;x
-GetClassSkill_the_bow;the bow;;;;;;;;;;;;;x
-GetClassSkill_the_sword_and_magic;the sword and magic;;;;;;;;;;;;;x
-GetClassSkill_magic;magic;;;;;;;;;;;;;x
-GetClassSkill_the_sword;the sword;;;;;;;;;;;;;x
-opinion_refused_to_be_mentor;Refused to be Mentor;;;;;;;;;;;;;x
-ROOT_likes_FROM_tooltip;§Y[Root.GetFirstName]§! likes §Y[From.GetFirstName]§!;;;;;;;;;;;;;x
-ROOT_dislikes_FROM_tooltip;§Y[Root.GetFirstName]§! dislikes §Y[From.GetFirstName]§!;;;;;;;;;;;;;x
-ROOT_is_charitable;§Y[Root.GetFirstName]§! is §YCharitable§!;;;;;;;;;;;;;x
-ROOT_is_gregarious;§Y[Root.GetFirstName]§! is §YGregarious§!;;;;;;;;;;;;;x
-ROOT_is_trusting;§Y[Root.GetFirstName]§! is §YTrusting§!;;;;;;;;;;;;;x
-ROOT_is_greedy;§Y[Root.GetFirstName]§! is §YGreedy§!;;;;;;;;;;;;;x
-ROOT_is_shy;§Y[Root.GetFirstName]§! is §YShy§!;;;;;;;;;;;;;x
-ROOT_is_paranoid;§Y[Root.GetFirstName]§! is §YParanoid§!;;;;;;;;;;;;;x
-ROOT_dislikes_FROMFROM_tooltip;§Y[Root.GetFirstName]§! dislikes §Y[FromFrom.GetFirstName]§!;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1440;As you told [student.GetHerHim], [student.GetBestName] finished [student.GetHerHis] training in the art of [student.GetClassSkill].;;;;;;;;;;;;;x
-ROOT_likes_FROMFROM_tooltip;§Y[Root.GetFirstName]§! likes §Y[FromFrom.GetFirstName]§!;;;;;;;;;;;;;x
-GetClassSkill_the_dagger;the dagger;;;;;;;;;;;;;x
-GetClassSkill_the_gun;the gun;;;;;;;;;;;;;x
-you_will_awake_in_3_years_tooltip;§Y[This.GetBestName]§! will awake in 3 years;;;;;;;;;;;;;x
-is_immune_to_pruning_tooltip;Is immune to game pruning;;;;;;;;;;;;;x
-is_historical_tooltip;Is a historical character;;;;;;;;;;;;;x
-GetGenocideName_cull;Cull Population;;;;;;;;;;;;;x
-GetGenocideName_raise;Raise Dead;;;;;;;;;;;;;x
-GetGenocideName_genocide;Purge Population;;;;;;;;;;;;;x
-GetGenocideDesc_cull;Hunt down the dead of §Y[Root.Location.GetName]§! converting the province to your §YReligion§! and §YCulture§!.;;;;;;;;;;;;;x
-GetGenocideDesc_raise;Slaughter the living of §Y[Root.Location.GetName]§! and raise them as your faithful §YUndead§! servants.;;;;;;;;;;;;;x
-GetGenocideDesc_genocide;Purge the population of §Y[Root.Location.GetName]§! converting the province to your §YReligion§! and §YCulture§!.;;;;;;;;;;;;;x
+GetSocietyWe_we;мы;;;;;;;;;;;;;x
+wc_united_sacrifice_all_prisoners_decision;Совершить массовое жертвоприношение;;;;;;;;;;;;;x
+wc_united_sacrifice_all_prisoners_decision_desc;Принести всех Ваших узников в жертву [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
+GetHighwaymenType_dragon_hunters;охотники на драконов;;;;;;;;;;;;;x
+GetHighwaymenType_monster_hunters;охотник на монстров;;;;;;;;;;;;;x
+GetHighwaymenType_witch_hunters;охотники на ведьм;;;;;;;;;;;;;x
+GetHighwaymenType_highwaymen;разбойники;;;;;;;;;;;;;x
+GetAsYouRise_try;Вы пытаетесь подняться;;;;;;;;;;;;;x
+GetAsYouRise_to_challenge;Вы выходите, чтобы бросить ему вызов;;;;;;;;;;;;;x
+RULE_KILLING_SPEED;§RWarCraft§!: Вероятность убийства по заговору;;;;;;;;;;;;;x
+RULE_KILLING_SPEED_OFF;Отключено;;;;;;;;;;;;;x
+RULE_KILLING_SPEED_OFF_DESC;Вероятность убийства по заговору остается без изменения;;;;;;;;;;;;;x
+RULE_KILLING_SPEED_PLAYER;Игрок;;;;;;;;;;;;;x
+RULE_KILLING_SPEED_PLAYER_DESC;Вероятность убийства по заговору для игрока увличена на §G10§!.\n§RЭто правило сделали для тестирования, использовать на свой страх и риск.§!;;;;;;;;;;;;;x
+RULE_KILLING_SPEED_ALL;Все;;;;;;;;;;;;;x
+RULE_KILLING_SPEED_ALL_DESC;Вероятность убийства по заговору для игрока и ИИ увеличена на §G10§!.\n§RЭто правило сделали для тестирования, использовать на свой страх и риск§!;;;;;;;;;;;;;x
+GetHighwaymenType_40_adventurers;сорок приключенцев;;;;;;;;;;;;;x
+GetHighwaymenType_25_adventurers;двадцать пять приключенцев;;;;;;;;;;;;;x
+GetHighwaymenType_10_adventurers;десять приключенцев;;;;;;;;;;;;;x
+GetHighwaymenType_5_adventurers;пять приключенцев;;;;;;;;;;;;;x
+GetHighwaymenType_3_adventurers;три приключенца;;;;;;;;;;;;;x
+nick_the_calculator;Вычислитель;;;;;;;;;;;;;x
+nick_the_shatterer;Изувер;;;;;;;;;;;;;x
+starts_training_tooltip;§Y[This.GetBestName]§! начинает обучение;;;;;;;;;;;;;x
+ACCEPTANCE;Согласие;;;;;;;;;;;;;x
+ask_to_be_mentor;Попросить стать наставником;;;;;;;;;;;;;x
+ask_to_be_mentor_desc;§Y[Root.GetBestName]§! является мастером [Root.GetClassSkill]. Вы можете попросить [Root.GetHerHim] стать наставником выбранного персонажа.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1500_yourself;[mentor.GetBestName] является знаменитым мастером [mentor.GetClassSkill]. Вы можете попросить [mentor.GetHerHim] обучать Вас и поделиться своим опытом. Вам только следует выбрать направление для обучение и дождаться[mentor.GetHerHis] ответа.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1500_others;[mentor.GetBestName] является знаменитым мастером [mentor.GetClassSkill]. Вы можете попросить [mentor.GetHerHim] обучать [student.GetDynName] и поделиться своим опытом. Вам только следует выбрать направление для обучение и дождаться[mentor.GetHerHis] ответа.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_2100_yourself;[Root.PrimaryTitle.GetFOA], легенды ходят о Ваших выдающихся способностях. Надеюсь, Вы не откажетесь стать моим наставником, если найдете меня достойным Вашего внимания.\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCCLS_2100_others;[Root.PrimaryTitle.GetFOA], легенды ходят о Ваших выдающихся способностях. Надеюсь, Вы не откажитесь стать наставником [student.GetDynName], если найдете [student.GetHerHim] достойным Вашего внимания.\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPTA_WCCLS_2100;Я окажу помощь [student.GetHerHim].;;;;;;;;;;;;;x
+EVTOPTC_WCCLS_2100;Нет, [student.GetSheHe] не стоит моего внимания.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_2101_yourself;[Root.PrimaryTitle.GetFOA], я с радостью стану Вашим наставником.\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCCLS_2101_others;[Root.PrimaryTitle.GetFOA], я с радостью стану наставником [student.GetDynName].\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCCLS_2103_yourself;[Root.PrimaryTitle.GetFOA], приношу свои извинения, но у меня нет желания обучать Вас.\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCCLS_2103_others;[Root.PrimaryTitle.GetFOA], приношу свои извинения, но у меня нет желания обучать [student.GetDynName].\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
+has_not_students_tooltip;НЕ имеет учеников;;;;;;;;;;;;;x
+EVTDESC_WCCLS_2151;Долгое время Вы провели в ожидании, но ответа от [mentor.GetBestName] так и не последовало. Вы не знаете, что произошло, но похоже Вам придется искать другого наставника.;;;;;;;;;;;;;x
+GetClassSkill_the_bow;лук;;;;;;;;;;;;;x
+GetClassSkill_the_sword_and_magic;меча и магии;;;;;;;;;;;;;x
+GetClassSkill_magic;магия;;;;;;;;;;;;;x
+GetClassSkill_the_sword;меч;;;;;;;;;;;;;x
+opinion_refused_to_be_mentor;Отказался быть наставником;;;;;;;;;;;;;x
+ROOT_likes_FROM_tooltip;§Y[Root.GetFirstName]§! испытывает симпатию §Y[From.GetFirstName]§!;;;;;;;;;;;;;x
+ROOT_dislikes_FROM_tooltip;§Y[Root.GetFirstName]§! испытывает неприязнь к §Y[From.GetFirstName]§!;;;;;;;;;;;;;x
+ROOT_is_charitable;§Y[Root.GetFirstName]§! является §YCharitable§!;;;;;;;;;;;;;x
+ROOT_is_gregarious;§Y[Root.GetFirstName]§! является §YGregarious§!;;;;;;;;;;;;;x
+ROOT_is_trusting;§Y[Root.GetFirstName]§! является §YTrusting§!;;;;;;;;;;;;;x
+ROOT_is_greedy;§Y[Root.GetFirstName]§! является §YGreedy§!;;;;;;;;;;;;;x
+ROOT_is_shy;§Y[Root.GetFirstName]§! является §YShy§!;;;;;;;;;;;;;x
+ROOT_is_paranoid;§Y[Root.GetFirstName]§! является §Yparanoid§!;;;;;;;;;;;;;x
+ROOT_dislikes_FROMFROM_tooltip;§Y[Root.GetFirstName]§! испытывает неприязнь к §Y[FromFrom.GetFirstName]§!;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1440;As you told [student.GetHerHim], [student.GetBestName] окончил свое обучение в искусстве [student.GetClassSkill].;;;;;;;;;;;;;x
+ROOT_likes_FROMFROM_tooltip;§Y[Root.GetFirstName]§! испытывает симпатию к §Y[FromFrom.GetFirstName]§!;;;;;;;;;;;;;x
+GetClassSkill_the_dagger;кинжал;;;;;;;;;;;;;x
+GetClassSkill_the_gun;ружье;;;;;;;;;;;;;x
+you_will_awake_in_3_years_tooltip;§Y[This.GetBestName]§! пробудится через 3 года;;;;;;;;;;;;;x
+is_immune_to_pruning_tooltip;обладает иммунитетом к изгнанию;;;;;;;;;;;;;x
+is_historical_tooltip;является историческим персонажем;;;;;;;;;;;;;x
+GetGenocideName_cull;Вырезать население;;;;;;;;;;;;;x
+GetGenocideName_raise;Поднять мертвых;;;;;;;;;;;;;x
+GetGenocideName_genocide;Очистить провинцию;;;;;;;;;;;;;x
+GetGenocideDesc_cull;Уничтожить нежить §Y[Root.Location.GetName]§!, обращая провинции в в §YReligion§! И §YCulture§!.;;;;;;;;;;;;;x
+GetGenocideDesc_raise;Истребить население §Y[Root.Location.GetName]§! и вернуть его к жизни в виде Ваших §Yundead§! прислужников.;;;;;;;;;;;;;x
+GetGenocideDesc_genocide;Очистить провинции §Y[Root.Location.GetName]§!, обращая ее в §YReligion§! И §YCulture§!.;;;;;;;;;;;;;x
 genocide_decision;[Root.GetGenocideName];;;;;;;;;;;;;x
-genocide_decision_desc;[Root.GetGenocideDesc] The local population will be very angry.;;;;;;;;;;;;;x
-ongoing_genocide;Genocide;;;;;;;;;;;;;x
-ongoing_genocide_desc;The population of this province is being exterminated.;;;;;;;;;;;;;x
-ongoing_culling;Culling;;;;;;;;;;;;;x
-ongoing_culling_desc;The undead of this province are being exterminated.;;;;;;;;;;;;;x
-ongoing_raising;Raising Dead;;;;;;;;;;;;;x
-ongoing_raising_desc;The population of this province is being slaughtered and raised as undead.;;;;;;;;;;;;;x
-genocide_province_cooldown;Recent Genocide Attempt;;;;;;;;;;;;;x
-BM_ASCENSION_OF_THE_LICH_KING;Ascension of the Lich King;;;;;;;;;;;;;x
-BM_ASCENSION_OF_THE_LICH_KING_DESC;Azeroth is still reeling from the devastation caused by the horrors of the Third War. The kingdoms of northern Azeroth lie in ruins, consumed by the relentless march of the undead Scourge. The forests of Kalimdor bear the horrible taint of the demonic Burning Legion, despite their spectacular defeat at the summit of Mount Hyjal. Nevertheless, new developments occur as the orcs finally begin to settle the red sands of Durotar and the fractured Alliance deals with threats on every front, including domestic ones. The undead Scourge is also in dire straits, as the Illidari return to Azeroth in order to finish the job they started in Dalaran, while the undead forces in Lordaeron are on the brink of civil war...;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_100;Plaguelands Civil War;;;;;;;;;;;;;x
-EVTDESC_WCTFT_100;In recent months, the leadership of the Scourge had been thrown into disarray due to the damage inflicted to the Lich King's icy prison through Illidan Stormrage's tampering with the Eye of Sargeras. This has led to splinter factions of undead emerging within Tirisfal Glades, while Scourge loyalists were pushed back eastwards and their champion recalled to Northrend to repel the Illidari armies converging upon the glacier of Icecrown. Seeing the chaos as a golden opportunity to reclaim the heartland, the human vestige in Silverpine Forest prepares for the final confrontation with the undead, but there are concerns about the future of the kingdom should they come out victorious in their campaign, as the fate of the last living heir is still unclear to the chain of command, making it difficult to decide to whom should the crown of Lordaeron ultimately go...;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_100;To the strongest!;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_100;Calia might yet live, and so the throne rightfully belongs to her!;;;;;;;;;;;;;x
-EVTOPTC_WCTFT_100;The Scourge is the only true master of Lordaeron!;;;;;;;;;;;;;x
-EVTOPTD_WCTFT_100;The age of the humans is over. Lordaeron belongs to the Forsaken!;;;;;;;;;;;;;x
-EVTOPTE_WCTFT_100;The vestige of Lordaeron makes its final stand. Hopefully they prevail.;;;;;;;;;;;;;x
-EVTOPTF_WCTFT_100;The Legion will not give up Lordaeron so easily!;;;;;;;;;;;;;x
-EVTOPTG_WCTFT_100;How the mighty have fallen.;;;;;;;;;;;;;x
-nick_the_zealous;the Zealous;;;;;;;;;;;;;x
-nick_the_summoner;the Summoner;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_110;Liberation of Capital City;;;;;;;;;;;;;x
-EVTDESC_WCTFT_110;The long struggle for the heart of Lordaeron is over. With the last undead holdout within the Capital City culled by the human resistance, the entire city has completely fallen under the control of the forces loyal to the Grand Marshal Garithos. In the meantime, Resistance scouts have learned of the whereabouts of Princess Calia from a source that wished to remain anonymous. The princess herself was reluctant to accept the crown, but ultimately chose to lead her people in their hour of need and was crowned in a private ceremony. Lord Garithos himself swore an oath of service to Queen Calia and was subsequently declared a hero of Lordaeron for his role in the reclamation of the capital. The Alliance immediately sent envoys to re-establish proper relations with the kingdom - a ray of hope for the future after countless days of war, death, and sorrow.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_110;The Light has triumphed this day.;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_110;Her rule won't last long.;;;;;;;;;;;;;x
-EVTOPTC_WCTFT_110;At least she is someone who can be reasoned with, unlike that xenophobic oaf.;;;;;;;;;;;;;x
-EVTOPTD_WCTFT_110;Interesting.;;;;;;;;;;;;;x
-nick_the_blightcaller;the Blightcaller;;;;;;;;;;;;;x
-RULE_FROZEN_THRONE_STORY;§RWarCraft§!: Frozen Throne Story Events;;;;;;;;;;;;;x
-RULE_FROZEN_THRONE_STORY_ON_DESC;The storyline events exclusive for Ascension of the Lich King bookmark are enabled, allowing for a more railroaded, yet immersive experience with multiple paths for certain characters.;;;;;;;;;;;;;x
-RULE_FROZEN_THRONE_STORY_OFF_DESC;The storyline events exclusive for Ascension of the Lich King bookmark are disabled, focusing on a sandbox-style gameplay from the very beginning.;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_111;The Silver Hand's Loyalties;;;;;;;;;;;;;x
-EVTDESC_WCTFT_111;With the restoration of Menethil rule in Lordaeron becoming a fait accompli, the paladins of the Silver Hand are now pondering the future of the Order as an independent entity as the struggle against the Scourge continues in the earnest. Because the entire history of the Silver Hand was strongly intertwined with the Alliance, many advocate its continued affiliation with the kingdom, and by extension the entire faction. However, recently there have been some dissenting voices as well, particularly from the faction in the east that believes the nature of the conflict in the Plaguelands is purely spiritual and reaffirming the ties to a political faction would be seen as a discrimination for the righteous representatives of the races that are regarded as Alliance's enemies, such as the orcs, trolls or even free-willed undead. With a potential split looming over the order, the Highlord has to decide the course of action that will ultimately decide the fate of Lordaeronian paladins.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_111;The Silver Hand stands with the Kingdom.;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_111;The Silver Hand will remain neutral.;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_112;The Silver Divide;;;;;;;;;;;;;x
-EVTDESC_WCTFT_112;Despite long negotiations, the loyalist and independence factions of the Silver Hand were unable to strike a compromise, effectively ending any hope for a continued existence of a united paladin order, which many observers regard as a major setback to the war effort against the Scourge in the Plaguelands.\nThe loyalist faction has sworn fealty to the recently crowned Queen Calia of Lordaeron and resumes their duties to the Alliance as it has always done in the past. The independence faction which was comprised mostly out of the eastern knights and landlords has formed a new order that calls itself the Argent Dawn. They maintain a policy of open arms to anyone willing to aid in their crusade against evil and strongly oppose any involvement in political affairs, having proclaimed total neutrality.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_112;Regrettable.;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_112;This foolish bickering makes them easier targets.;;;;;;;;;;;;;x
-EVTDESC_WCTFT_120;The long struggle for the heart of Lordaeron is over. With the last undead holdout within the Capital City culled by the human resistance, the entire city has completely fallen under control of the forces loyal to the Grand Marshal Garithos. The victorious warlord marched into the city and proclaimed himself new ruler of Lordaeron, a deed that wasn't much of a surprise to his men, but sent a major shockwave among the Alliance, especially the non-human members who have learned of his xenophobic policies, leading to the faction proclaiming the takeover as unlawful and ordered Garithos to vacate the throne immediately, an order he refused as he claimed the throne is his by "right and deed". The paladins have also condemned the actions of the usurper, but apparently there is a faction that silently approves the new course for the kingdom. Only time will tell what will come out of this.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_120;This will surely ruffle some feathers.;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_120;The infighting will only make them weaker.;;;;;;;;;;;;;x
-EVTOPTC_WCTFT_120;And so, the last remnant of honour has been crushed under Garithos' boot.;;;;;;;;;;;;;x
-EVTOPTD_WCTFT_120;We live in an interesting time.;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_121;The [d_scarlet_crusade.Holder.GetLastWordInDynastyName] Schism;;;;;;;;;;;;;x
-EVTDESC_WCTFT_121;Many in the Silver Hand disapproved of the unlawful assumption of rule over the [k_lordaeron.GetFullBaseName] by [k_lordaeron.Holder.GetTitledFirstName]. However, there is a faction of sympathizers within the order whose views on superiority of humans over what they deemed as "lesser races" are closely aligned with those of [k_lordaeron.Holder.GetLastWordInDynastyName]' own: the Scarlet faction of [d_scarlet_crusade.Holder.GetTitledFirstName].\n\nHaving recognized [k_lordaeron.Holder.GetTitledFirstName] as the true King of [k_lordaeron.GetName] and the only hope against the Scourge, the followers of [d_scarlet_crusade.Holder.GetLastWordInDynastyName] have renounced the Silver Hand and went on to form a heavily militant doctrine of the Light faith, with the new order, the Scarlet Crusade, as its chief arm.;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_121;What horrible delusions are behind this lunacy?;;;;;;;;;;;;;x
-EVTOPTC_WCTFT_121;No mercy will be shown, no quarter given.;;;;;;;;;;;;;x
-EVTOPTD_WCTFT_121;They don't stand a chance.;;;;;;;;;;;;;x
-EVTOPTE_WCTFT_121;This quickly went from bad to worse.;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_135;An Order Divided;;;;;;;;;;;;;x
-EVTDESC_WCTFT_135;[target_future_crusader.GetDynName] snuck up on you as you were alone, [target_future_crusader.GetSheHe] spoke charmingly of your natural leadership abilities, and how a [Root.GetManWoman] like yourself should be in a position of influence, of power and how [target_future_crusader.GetSheHe] had told your [target_silver_leader.GetRootRelation] just that. "I've proven myself time and time again" you told [target_future_crusader.GetHerHim]. [target_future_crusader.GetFirstName] nodded before offering you a deal for great power and prestige within the Order... but for what? The death of your very own [target_silver_leader.GetRootRelation], [target_silver_leader.GetDynName]. [target_future_crusader.GetFirstName]'s words deeply penetrated your thoughts, as if an unseen darkness loomed over them, reminding you of the old and bitter memories of living in your [target_silver_leader.GetRootRelation]'s shadow. "The window of opportunity is narrow, if you are to embrace your future, if you are to prove your worth, prove your [target_silver_leader.GetRootRelation], and all the others wrong, then the time to act... is now" [target_future_crusader.GetFirstName] exclaimed.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_135;I'll do it.;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_135;I can't do it, it is my own [target_silver_leader.GetRootRelation].;;;;;;;;;;;;;x
-EVTDESC_WCTFT_141;[target_future_crusader.GetFirstName]’s plan was set in motion, with the [target_silver_leader.GetTitle] expecting nothing as [target_silver_leader.GetSheHe] had just departed with a small band of soldiers towards [Root.GetATargetProvince]. You rode after them by following their tracks. As you arrived outside of [Root.GetTheTargetProvince], a battle had commenced between the small force and [target_province.GetTargetProvinceEnemies]. Your brothers and sisters fell one by one, until only one was left standing, [target_silver_leader.GetTitledFirstName], who kept fighting until there were no [target_province.GetTargetProvinceEnemies] left in sight. Exhausted, [target_silver_leader.GetSheHe] fell down to [target_silver_leader.GetHerHis] knees, breathing heavily as [target_silver_leader.GetSheHe] dropped [target_silver_leader.GetHerHis] weapon. You snuck up on the [target_silver_leader.GetTitle] without being noticed, and in haste you took up the [target_silver_leader.GetDuelWeapon], plunging it deep into [target_silver_leader.GetHerHis] back. [target_silver_leader.GetSheHe] let out a loud agonized scream as [target_silver_leader.GetSheHe] looked back over [target_silver_leader.GetHerHis] shoulder. "What have you done, [Root.GetFirstName]? Why... did you do such a thing?" [target_silver_leader.GetFirstName] let out with what strength [target_silver_leader.GetSheHe] had left in [target_silver_leader.GetHerHim] before [target_silver_leader.GetHerHis] lifeless body fell over.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_141;The deed is done, may my own legend begin!;;;;;;;;;;;;;x
-EVTDESC_WCTFT_200;To your surprise, you have lost track of [target_silver_leader.GetDynName]. Your informants told you that [target_silver_leader.GetSheHe] has died, others claim that [target_silver_leader.GetSheHe] has went into hiding after hearing rumours of an assassination attempt on [target_silver_leader.GetHerHis] life... In any case, your little plot turned out to be a failure.;;;;;;;;;;;;;x
+genocide_decision_desc;[Root.GetGenocideDesc] Местное население будет разъярено;;;;;;;;;;;;;x
+ongoing_genocide;Истребление;;;;;;;;;;;;;x
+ongoing_genocide_desc;Население этой провинции истребляется;;;;;;;;;;;;;x
+ongoing_culling;Очищение;;;;;;;;;;;;;x
+ongoing_culling_desc;Нежить в этой провинции была уничтожена;;;;;;;;;;;;;x
+ongoing_raising;Поднятие нежити;;;;;;;;;;;;;x
+ongoing_raising_desc;Население этой провинции проходит процедуру жестокой казни и поднимается в виде безвольной нежити;;;;;;;;;;;;;x
+genocide_province_cooldown;Недавно была попытка истребления;;;;;;;;;;;;;x
+BM_ASCENSION_OF_THE_LICH_KING;Восхождение Короля Лича;;;;;;;;;;;;;x
+BM_ASCENSION_OF_THE_LICH_KING_DESC;Азерот все еще лихорадит от разрушений, вызванных ужасами Третьей Войны. Королевства на севере лежат в руинах, поглощеные бесчисленной нежитью Плети. В лесах Калимдора осталась гнойная рана демонического вторжения, несмотря на их поражение в Хиджальских горах. Вместе с этим, орки начинают обживать красные пески Дуротара, и серьезно по страдавший Альянс вынужден сражаться с угрозами на каждом фронте, включая внутреннюю смуту. Нежить Плети отхлынула в Нордскол, поскольку Иллидан вернулся в Азерот чтобы закончить то, что начал в Даларане, и силы нежити в Лордероне находятся на грани гражданской войны.;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_100;Гражданская война Чумных Земель;;;;;;;;;;;;;x
+EVTDESC_WCTFT_100;На протяжении последних месяцев Плеть пребывала в смятении, поскольку Иллидан Ярость Бури воспользовался Оком Саргераса, чтобы ворваться в ледяную тюрьму Короля Лича. Это привело к тому, что нежить в лесах Тирисфаля раскололась на два лагеря. Верные Плети были оттеснены обратно на восток, а их чемпион был вынужден отправиться в Нордскол, чтобы отразить натиск войск Иллидари, разбивших лагеря в Ледяной Короне. Увидев в этом хаосе прекрасную возможность вернуть свои земли, остатки людей в Сребролесье готовятся к последней конфронтации с нежитью, но среди них нет единого мнения по поводу будущего королевства в случае их победы, ведь судьба последнего живого наследника королевства до сих пор неясна. Кому достанетася корона Лордерона — неизвестно.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_100;Сильнейшему!;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_100;Калия все еще жива, и значит трон по праву принадлежит ей!;;;;;;;;;;;;;x
+EVTOPTC_WCTFT_100;Плеть — единственный хозяин Лордерона!;;;;;;;;;;;;;x
+EVTOPTD_WCTFT_100;Время людей подошло к концу. Лордерон принадлежит Отрекшимся!;;;;;;;;;;;;;x
+EVTOPTE_WCTFT_100;Останки Лордерона приняли свой последний бой. Будем надеяться на их победу.;;;;;;;;;;;;;x
+EVTOPTF_WCTFT_100;Легион не отдаст Лордерон так просто»;;;;;;;;;;;;;x
+EVTOPTG_WCTFT_100;Так пали сильные.;;;;;;;;;;;;;x
+nick_the_zealous;Ревностный;;;;;;;;;;;;;x
+nick_the_summoner;Призыватель;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_110;Освобождение Столицы.;;;;;;;;;;;;;x
+EVTDESC_WCTFT_110;Затянувшийся конфликт в сердце Лордерона подошел к концу. Столица, последнее убежище нежити, пала под натиском сил грандмаршала Гаритоса. В то же время, разведчики сопротивления выяснили местонахождение принцессы Калии из источника, который предпочли не раскрывать. Принцесса не горела желанием принимать корону, но понимая, что ее люди нуждаются в руководстве в этот черный час, была коронована на приватной церемонии. Лорд Гаритос лично принес клятву верности королеве Калии и был объявлен героем Лордерона за свою роль в возвращении Столицы. Альянс немедленно отправил посланников для восстановления отношений с королевством — это был долгожданный луч надежды после бесчисленных дней войны, смертей и скорби.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_110;Это был триумф Света.;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_110;Ее правление не затянется надолго.;;;;;;;;;;;;;x
+EVTOPTC_WCTFT_110;По крайней мере с ней можно договориться, в отличие от этого ксенофобного болвана.;;;;;;;;;;;;;x
+EVTOPTD_WCTFT_110;Интересно.;;;;;;;;;;;;;x
+nick_the_blightcaller;Гнилостень;;;;;;;;;;;;;x
+RULE_FROZEN_THRONE_STORY;§RwarCraft§!: События The Frozen Throne;;;;;;;;;;;;;x
+RULE_FROZEN_THRONE_STORY_ON_DESC;Исторические события Пробуждения Короля Лича включены, позволяя играть с определенными глобальными событиями, влияющими на весь мир и открывающими различные сюжетные выборы для определенных персонажей.;;;;;;;;;;;;;x
+RULE_FROZEN_THRONE_STORY_OFF_DESC;Исторические события Пробуждения Короля Лича отключены, позволяя сфокусироваться на свободной игре с самого начала.;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_111;Люди, сохранившие верность Серебряной Длани;;;;;;;;;;;;;x
+EVTDESC_WCTFT_111;Теперь, когда восстановление правления Менетилов в Лордероне окончательно стало фактом, паладины Серебряной Длани планируют дальнейшее существование Ордена в виде независимой силы, сражающейся с Плетью на востоке. Поскольку на протяжении всей своей истории Серебяная Длань тесно взаимодействовала с Альянсом, многие отстаивают позицию присоединения к королевству. Однако слышны и голоса людей, преимущественно выходцев с востока королевства, настаивающих на том, что настоящее предназначение Ордена не может иметь ничего общего с политикой, поскольку это неизбежно перерастет в дискриминацию врагов Альянса — орков, троллей и даже нежить, не контролируемую Плетью. Под угрозой потенциального внутреннего конфликта, Верховный Лорд должен выбрать политический курс и судьбу паладинов Лордерона.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_111;Серебряная Длань останется с Королевством.;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_111;Серебряная Длань останется нейтральной.;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_112;Раскол Серебряной Длани.;;;;;;;;;;;;;x
+EVTDESC_WCTFT_112;Несмотря на долгие переговоры, фракции лоялистов и сепаратистов в Серебряной Длани так и не смогли прийти к компромиссу, так что любая надежда на дальнейшее существование единого Ордена паладинов была потеряна, а это никак не может положительно сказаться на войны против Плети в Чумных Землях. \nФракция лоялистов принесла клятву верности недавно коронованной королеве Калии и продолжила свою службу Альянсу, как это было раньше. Фракция сепаратистов, состоящая преимущественно из восточных рыцарей и землевладельцев, сформировала новый Алый Орден. Они с радостью принимают в свои ряды всех, кто готов помочь им в их священном походе против сил зла и отказываются от любого вмешательства в политику, объявив о полном нейтралитете.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_112;Сомнительно.;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_112;Дрязги глупцов делают их легкими мишенями.;;;;;;;;;;;;;x
+EVTDESC_WCTFT_120;Затянувшийся конфликт в сердце Лордерона подошел к концу. Столица, последнее убежище нежити, пала под натиском сил грандмаршала Гаритоса. Победоносный военачальник прошествовал в город и объявил себя новым правителем Лордерона, не слишком удивив своих людей, но вызвав настоящий шок в Альянсе, особенно среди его нечеловеческих представителей, которые были осведомлены о ксенофобных принципах нового короля. Внутри Альянса была сформирована фракция, утверждающая, что занятие Гаритосом трона было незаконной узурпацией, и потому он должен немедленно отказаться от своих притязаний, но тот отказался, утверждая, что занял его по праву освободителя. Паладины также публично осудили действия узурпатора, но и среди них оказалось немало людей, втайне одобряющих новый курс королевства. Только время покажет, что получится из всего этого.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_120;Это определенно огорчит их.;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_120;Внутренняя борьба только сделает их слабее.;;;;;;;;;;;;;x
+EVTOPTC_WCTFT_120;Последние остатки чести и достоинства были сокрушены сапогом Гаритоса.;;;;;;;;;;;;;x
+EVTOPTD_WCTFT_120;В интересное время мы живем...;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_121;Схизма [d_scarlet_crusade.Holder.GetLastWordInDynastyName];;;;;;;;;;;;;x
+EVTDESC_WCTFT_121;Многие в Серебряной Длани с неодобрением отнеслись к незаконному занятию трона[k_lordaeron.GetFullBaseName] Гаритосом. Однако нашлись и другие, которые симпатизировали его взглядам на превосходство людей над теми, кого они называли «малыми расами»: так называемая «алая фракция».\n\nПризнав Гаритоса настоящим королем Лордерона и единственной надеждой на победу в борьбе с Плетью, последователи [d_scarlet_crusade.Holder.GetLastWordInDynastyName] отреклись от Серебряной Длани и сформировали новую военизированную религиозную доктрину поклонения Свету под руководством Алого Ордена.;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_121;Что за ужасные наваждения стоят за этими безумствами?;;;;;;;;;;;;;x
+EVTOPTC_WCTFT_121; началом Алого Ордена.;;;;;;;;;;;;;x
+EVTOPTD_WCTFT_121;У них не было ни шанса.;;;;;;;;;;;;;x
+EVTOPTE_WCTFT_121;Ситуация быстро ухудшалась...;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_135;Орден разделенный;;;;;;;;;;;;;x
+EVTDESC_WCTFT_135;"[target_future_crusader.GetDynName] подловил Вас, когда Вы были одни, [target_future_crusader.GetSheHe] сделал Вам комплимент о Ваших выдающихся лидерских качествах, добавив, что человек вроде Вас заслуживает того, чтобы прийти к власти, of power and how [target_future_crusader.GetSheHe] had told your [target_silver_leader.GetRootRelation] just that. ""Раз за разом я доказывал свою силу и доблесть"" ответили Вы [target_future_crusader.GetHerHim]. [target_future_crusader.GetFirstName] предложил Вам сделку, которая принесет великую власть и славу в Ордене, но что будет ценой? Смерть Вашего [target_silver_leader.GetRootRelation], [target_silver_leader.GetDynName]. Речи [target_future_crusader.GetFirstName] глубоко засели в Вашем сердце, постоянно напоминая, что Вы уже не так молоды, а за Вашими плечами — долгая жизнь в тени [target_silver_leader.GetRootRelation]. ""У Вас не так много времени, но если Вы хотите на самом деле взять будущее в свои руки, доказать всем что Вы — достойны, то время сейчас самое время начать действовать"" - закончил он.";;;;;;;;;;;;;x
+EVTOPTA_WCTFT_135;Я сделаю это;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_135;Я могу сделать это самостоятельно [target_silver_leader.GetRootRelation].;;;;;;;;;;;;;x
+EVTDESC_WCTFT_141;"План [target_future_crusader.GetFirstName] был приведен в исполнение, всего несколько солдат сопровождали [target_silver_leader.GetTitle] в его пути по [Root.GetATargetProvince]. Вы шли по их следам. Когда вы прибыли к [Root.GetATargetProvince], произошло сражение [target_silver_leader.GetTitle] с [target_province.GetTargetProvinceEnemies]. Ваши братья и сестры погибали один за другим, пока не остался лишь один [target_silver_leader.GetTitledFirstName]. Он сражался до тех пор, пока не осталось ни одного [target_province.GetTargetProvinceEnemies]. Обессиленный, [target_silver_leader.GetSheHe] упал на колени, тяжело дыша, и уронил свой клинок на землю. Вы подкрались, подняли его [target_silver_leader.GetDuelWeapon] и пронзили [target_silver_leader.GetHerHis] спину. [target_silver_leader.GetSheHe] вскрикнул и обернулся, увидев вас. ""Что ты наделал, [Root.GetFirstName]? Зачем... зачем ты сделал это?"" сказал  [target_silver_leader.GetFirstName], прежде чем силы покинули [target_silver_leader.GetHerHim]  и  [target_silver_leader.GetSheHe] упал на землю.";;;;;;;;;;;;;x
+EVTOPTA_WCTFT_141;Дело сделано. Да начнется моя собственная легенда!;;;;;;;;;;;;;x
+EVTDESC_WCTFT_200;К вашему удивлению, вы потеряли след [target_silver_leader.GetDynName]. Ваши информаторы сообщили, что [target_silver_leader.GetSheHe] погиб, другие утверждали, что [target_silver_leader.GetSheHe] залег на дно после сообщений о готовящимся покушении на [target_silver_leader.GetHerHis] жизнь... В любом случае, ваш маленький заговор обернулся провалом.;;;;;;;;;;;;;x
 Get_target_province;[target_province.GetName];;;;;;;;;;;;;x
-Get_the_city;the city;;;;;;;;;;;;;x
-Get_undead;undead;;;;;;;;;;;;;x
-Get_demons;demons;;;;;;;;;;;;;x
-Get_void_beings;void beings;;;;;;;;;;;;;x
-Get_enemies;enemies;;;;;;;;;;;;;x
-Get_a_border_city;a border city;;;;;;;;;;;;;x
-EVTDESC_WCTFT_150;You just left with a handful of men, a mission to clear a pathway towards the bastion within [Root.GetTheTargetProvince]. When you arrived outside of the gates of the city, you and your soldiers were met by a large enemy force. The [target_province.GetTargetProvinceEnemies] fell, one by one to your might, but soon only you were left standing. You breathed heavily, fell down to your knees, and dropped your sword to the ground. A silent moment of peace and quiet ensued. Seconds later, a blade, your own sword was plunged into your back. You couldn't help but let out a loud agonized scream as you looked over your shoulder, seeing [target_silver_betrayer.GetFirstName]. "What have you done, [target_silver_betrayer.GetFirstName]? Why... would you do such a thing?" you said with what little strength you had left in you, before everything turned dark and you fell over.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_150;Betrayed by my own...;;;;;;;;;;;;;x
-EVTDESC_WLAT_9001;[Root.GetStartWCLAT9001], most within the order have become more zealous and fanatic in their mission to eradicate the unholy beings of Lordaeron and beyond, transforming a large part of this once noble order into a vicious and xenophobic crusade against all unholy beings and what are considered lesser races.\nSome, however, chose not to take this path guided by [d_scarlet_crusade.Holder.GetTitledFirstName], instead choosing to go their own way under the leadership of [d_argent_dawn.Holder.GetTitledFirstName] to form the Argent Dawn. These noble warriors of the Light preach a more cosmopolitan order in contrast to that of their xenophobic brethren. Meanwhile, the fanatics of [d_scarlet_crusade.Holder.GetTitledFirstName] have rebranded themselves as the Scarlet Crusade. What still remains of the Silver Hand keeps to itself within the bastions of Khaz Modan and Azeroth.;;;;;;;;;;;;;x
-GetStartWCLAT9001_highlord;With the fall of Highlord [target_former_highlord.GetFirstName] of the Silver Hand;;;;;;;;;;;;;x
-GetStartWCLAT9001_light;After the Light left Lordaeron;;;;;;;;;;;;;x
-scarlet_light_opinion;[scarlet_light.GetName] Opinion;;;;;;;;;;;;;x
-lordaeronian_opinion;[lordaeronian.GetName] Opinion;;;;;;;;;;;;;x
-nick_the_ravager;the Ravager;;;;;;;;;;;;;x
-liberator_of_lordaeron;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-liberator_of_lordaeron_desc;When everyone was desperate, [This.GetFirstNameWithNick] led the people to the walls of Lordaeron. As the war was over, [This.GetSheHe] returned the crown to the rightful ruler.;;;;;;;;;;;;;x
-scarlet_king;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-scarlet_king_desc;When everyone was desperate, [This.GetFirstNameWithNick] led the people to the walls of Lordaeron. As the war was over, [This.GetSheHe] proclaimed [This.GetHerHim]self the new king.;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_130;A New Power in Lordaeron;;;;;;;;;;;;;x
-EVTDESC_WCTFT_130;The three-way civil war in the Plaguelands has finally come to a conclusion. The once living and thriving bastion of humanity, Capital City, fell into the hands of Lady Sylvanas Windrunner.\n\nShe has managed to come out on top despite all odds with her skillful political maneuvers and sly schemes by turning her enemies against one another. She has carved out a new nation within the Plaguelands and thus became the undisputed ruler of Capital City. With the conquest of Capital City, she declared her defection from the Scourge and named her people the "Forsaken", vowing to slaughter all who stand in the way of their destiny.;;;;;;;;;;;;;x
-TREACHEROUS_SCUM;Treacherous scum!;;;;;;;;;;;;;x
-EVTOPTB_WCTFT_130;For the Forsaken!;;;;;;;;;;;;;x
-EVTOPTD_WCTFT_130;Our fallen champion.;;;;;;;;;;;;;x
-EVTOPTE_WCTFT_130;Looks like the balance of power has changed...;;;;;;;;;;;;;x
-nick_the_remorseless;the Remorseless;;;;;;;;;;;;;x
-nick_the_wildshaper;the Wildshaper;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_400;The Illidari Retreat;;;;;;;;;;;;;x
-EVTDESC_WCTFT_400;With every battle between the Illidari and the Scourge, [target_illidan.GetFirstName] watched more of [target_illidan.GetHerHis] soldiers fall before the undead hordes, only to be raised up as part of the enemy's unholy army.\n\nFinding their foe demoralized and vulnerable, the Scourge led a decisive assault on the Illidari, driving [target_illidan.GetFirstName] to call for a retreat through portals to the planet once known as Draenor, today commonly known as Outland.\n\nWith the Illidari regrouping, many of their allies were left without reinforcements, meeting a cruel and untimely demise from either the brutal Northrend cold, or the merciless hands of the undead.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_400_scourge;Death is eternal!;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_400_illidari;We were not prepared...;;;;;;;;;;;;;x
-EVTDESC_WCTFT_400_kaelthas;With the Illidari's defeat against the Lich King, [target_illidan.GetTitledFirstName] has been found unconscious after a duel against one of the Lich King's champions. With the Illidari ranks being left in disarray, the coalition has been left without a leader against the undead hordes.\n\nYou managed to scramble together enough forces to locate and retrieve [target_illidan.GetTitledFirstName] from the battlefield, and now with [target_illidan.GetHerHis] forces retreating back to Outland, you have a choice to make. Shall we follow those who found us while we were down on our knees and helpless? Or sail back home to Quel'Thalas to forge our own destiny?;;;;;;;;;;;;;x
-ITS_TIME_TO_GET_HOME;It's time to go home...;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_400_follow_illidan;We will follow Illidan!;;;;;;;;;;;;;x
-EVTTITLE_WCTFT_500;End of Thalassian Regency;;;;;;;;;;;;;x
-EVTDESC_WCTFT_500;[target_kaelthas.GetPrincessPrince] [target_kaelthas.GetDynName] returned home to the High Kingdom after a long journey. In an attempt to find a way to sate [target_kaelthas.GetHerHis] people's magical addiction, [target_kaelthas.GetSheHe] has learned quite a bit on the expedition.\n\nAs the [target_kaelthas.GetPrincessPrince] entered Silvermoon, [target_kaelthas.GetSheHe] was met by a cheering crowd. [target_regent_lord.GetTitledFirstName] greeted the [target_kaelthas.GetPrincessPrince] personally before leading [target_kaelthas.GetHerHim] towards Sunfury Spire, where they discussed urgent matters. A few hours passed before the gates of Sunfury Spire swung open, with a large crowd assembled outside. [target_regent_lord.GetFirstName] held a short and elegant speech where [target_regent_lord.GetSheHe] resigned from [target_regent_lord.GetHerHis] position. [target_kaelthas.GetFirstName]' speech began shortly afterwards, where [target_kaelthas.GetSheHe] proclaimed [target_kaelthas.GetHerHis] own crowning as High King and a bright new future for Quel'Thalas under [target_kaelthas.GetHerHis] reign.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_500_negative;It would have been better if [target_kaelthas.GetSheHe] hadn't returned...;;;;;;;;;;;;;x
-EVTDESC_WCTFT_550;You couldn't reach Quel'Thalas. No one in these once magical woods is waiting for you to return, so you have no choice but to turn back.;;;;;;;;;;;;;x
-get_game_over_tooltip;§RYou get a game over!§!;;;;;;;;;;;;;x
-ERA_CHAR_INFO_48081;Lady Jaina Proudmoore, the young ruler of Theramore and hero of the Third War, faces a difficult choice. Jaina has been drawn into a war between her father, Lord Admiral Daelin Proudmoore of Kul Tiras, and her former allies of the Horde, who she fought alongside against the Burning Legion. A pacifist at heart, she is uncomfortable with conflict. The situation is made all the more complicated by her newfound friendship with Thrall, Warchief of the Horde. However, neither side is willing to negotiate, and it seems all but certain that Jaina will be forced to choose between her family and her newfound friends. There are no easy choices here for the young Lady of Theramore.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_60030;Grand Marshal Othmar Garithos, leader of the remnants of the Alliance of Lordaeron, grew up in the small town of Blackwood. Othmar didn't necessarily get to his position due to his skills or abilities within the military, but because of his father's reputation. With the fall of Lordaeron by the Scourge, he became the strongest human warlord in the area and recognized by the Alliance as the last potential and stable government of what once was Lordaeron. Under his leadership however, the alliance with the Elves of Quel'Thalas has soured through his bigoted and racist views. With a brutal civil war looming in the air within the Plaguelands, Othmar must ensure humanity's foothold in Lordaeron by reconquering Capital City and reinstating a rightful ruler.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_42003;Prince Kael'thas Sunstrider lost nearly everything. The Scourge invasion caused widespread destruction in Quel'Thalas, the death of his father, and, most devastating of all, the desecration of the Sunwell. In the aftermath of the war, the Prince returned to his kingdom, only to find his brethren suffering from magical withdrawal due to the loss of the Sunwell. Kael'thas left Quel'Thalas to find a cure for his people. Although he first looked to the Alliance for aid, difficulties arose from Lord Garithos' distaste for his kind, leading to Kael'thas' imprisonment, where Lady Vashj lent him a helping hand. She later brought him to Illidan Stormrage, who promised Kael'thas a cure in exchange for his aid. Now, Kael'thas stands beside Illidan in a desperate bid to destroy the Lich King and to find a cure for his people.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_42076;Lady Sylvanas Windrunner, the former Ranger-General of Silvermoon, used to be a ferocious fighter before her death by Prince Arthas Menethil, and still is in her undeath. With an iron will she has managed to break free from the Lich King's grasp. As the bulk of the Scourge forces are thinning in Lordaeron to deal with a threat to the Frozen Throne, Sylvanas Windrunner and her rebellion are running amok. The Forsaken heartland in Tirisfal Glades is in a quite terrible position. With enemies surrounding it, the Forsaken struggle in their survival and are in dire need of a way to ease the pressure. With that, Sylvanas has set her sight upon Capital City, due to its strategic value in being a chokepoint to Silverpine Forest. Their fate depends on the capture of Capital City, for without it their fate is less certain.;;;;;;;;;;;;;x
-nick_the_betrayer;the Betrayer;;;;;;;;;;;;;x
-ERA_CHAR_INFO_340009;Illidan was imprisoned for nearly ten thousand years in solitude under the watch of the Wardens, when he was released by his love, Tyrande. Tyrande believed him to be an indispensable asset to the Legion's defeat, which he indeed proved but at the cost of his people's trust and mortal soul. After his banishment, Kil'jaeden sought him out with an offer. Illidan was tasked to destroy the Lich King. He attempted to use the Eye of Sargeras in Dalaran to cast a cataclysmic spell, but was thwarted. Fearing the wrath of Kil'jaeden he fled to the shattered remnants of Draenor, but despite his efforts he was found and Illidan accepted the deal once again. In one final endeavor with his followers, he shall march into the frozen valley of death where the living dare not tread, facing countless hordes of scourge fiends.;;;;;;;;;;;;;x
-EVTOPTA_WCTFT_110_wish_to_be_calia;Sometimes I wish to be in [target_calia.GetHerHis] place.;;;;;;;;;;;;;x
-remove_regent_lord_title;Resign as Regent Lord;;;;;;;;;;;;;x
-remove_regent_lord_title_desc;You've waited long enough. Prince Kael'thas isn't going to return. It's time to move forward.;;;;;;;;;;;;;x
-EVTDESC_WCTFT_600;Today [From.GetTitledFirstNameWithNick] announced that [From.GetSheHe] had received the news that Prince Kael'thas had died. Thus, [From.GetFirstName] resigns as a regent but doesn't leave [From.GetHerHis] people. "It's time to move on" [From.GetSheHe] said, "From now on, the noble lords and ladies shall choose the king of Quel'Thalas!";;;;;;;;;;;;;x
-bloodline_effect_scarlet_king;Can §GVassalize§! the §YScarlet Crusade§!;;;;;;;;;;;;;x
-vassalize_d_scarlet_crusade;Vassalize the Scarlet Crusade;;;;;;;;;;;;;x
-vassalize_d_scarlet_crusade_desc;As a long-standing ally, the Scarlet Crusade could be convinced to become vassals of the realm if they see us fit.;;;;;;;;;;;;;x
-ERA_CHAR_NAME_60030;Othmar Garithos;;;;;;;;;;;;;x
-ERA_CHAR_NAME_42076;Sylvanas Windrunner;;;;;;;;;;;;;x
-ERA_CHAR_NAME_340009;Illidan Stormrage;;;;;;;;;;;;;x
-ERA_CHAR_NAME_42003;Kael'thas Sunstrider;;;;;;;;;;;;;x
-ERA_CHAR_NAME_48081;Jaina Proudmoore;;;;;;;;;;;;;x
+Get_the_city;город;;;;;;;;;;;;;x
+Get_undead;нежить;;;;;;;;;;;;;x
+Get_demons;демоны;;;;;;;;;;;;;x
+Get_void_beings;порождения пустоты;;;;;;;;;;;;;x
+Get_enemies;враги;;;;;;;;;;;;;x
+Get_a_border_city;пограничный город;;;;;;;;;;;;;x
+EVTDESC_WCTFT_150;"Вы остались лишь с горсткой людей, расчищая дорогу к крепости [Root.GetTheTargetProvince]. Когда вы добрались до ворот города, вы и ваши солдаты встретили крупные силы противника. [target_province.GetTargetProvinceEnemies] падали один за другим, сраженные вашей мощью, до тех пор, пока врагов не осталось. Вы тяжело вздохнули и упали на колени, бросив меч на землю. Наступил короткий момент тишины и покоя. Секундой позже ваш собственный клинок пронзил вас. Из последних сил вы обернулись и увидели [target_silver_betrayer.GetFirstName]. ""Что ты наделал,  [target_silver_betrayer.GetFirstName]? Зачем, зачем ты сделал это?"" - проговорили вы, чувствуя как мир вокруг вас застилает тьма.";;;;;;;;;;;;;x
+EVTOPTA_WCTFT_150;Предан мною...;;;;;;;;;;;;;x
+EVTDESC_WLAT_9001;[Root.GetStartWCLAT9001], большая часть членов ордена предались еще большему фанатизму в своей миссии по очистке земель Лордерона от нежити и превратили эту некогда  благородную организацию в жестокий и ксенофобный культ, объявивший войну всем нечестивым созданием, включающим в себя также и малые расы. Некоторые, однако, предпочли избрать другой путь и, ведомые [d_scarlet_crusade.Holder.GetTitledFirstName], сформировали Серебрянный Рассвет. Эти достойные воители Света проповедовали более космополитичные взгляды, в отличие от своих фанатичных собратьев. В то же время фанатики [d_scarlet_crusade.Holder.GetTitledFirstName] избрали для себя название Алый Орден. ;;;;;;;;;;;;;x
+GetStartWCLAT9001_highlord;С падением Верховного Лорда, [target_former_highlord.GetFirstName] из Серебряной Длани;;;;;;;;;;;;;x
+GetStartWCLAT9001_light;Когда Свет покинул Лордерон;;;;;;;;;;;;;x
+scarlet_light_opinion;Мнение [scarlet_light.GetName];;;;;;;;;;;;;x
+lordaeronian_opinion;Мнение [lordaeronian.GetName];;;;;;;;;;;;;x
+nick_the_ravager;Разрушитель;;;;;;;;;;;;;x
+liberator_of_lordaeron;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+liberator_of_lordaeron_desc;Когда все были в отчаянии, [This.GetFirstNameWithNick] возглавил людей и захватил Столицу Лордерона, [This.GetSheHe] вернул корону законному правителю.;;;;;;;;;;;;;x
+scarlet_king;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+scarlet_king_desc;Когда все были в отчаянии, [This.GetFirstNameWithNick] возглавил людей и захватил Столицу Лордерона. Когда война была окончена, [This.GetSheHe] объявил себя новым королем.;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_130;Новая сила в Лордероне;;;;;;;;;;;;;x
+EVTDESC_WCTFT_130;Трехсторонняя гражданская война в Чумных Землях наконец-то подошла к концу. Некогда оживленный оплот человечества, Столичный город, оказался в руках леди Сильваны Ветрокрылой. Она смогла одержать верх благодаря тайным интригам, заставившим ее врагов повернуть друг против друга. Она создала новую нацию в Чумных землях и стала неоспоримым правителем на руинах Лордерона. С завоеванием Столицы она окончательно объявила об отречении от Плети и назвала своих людей Отрекшимися, поклявшись уничтожить любого, кто встанет на пути их судьбы.;;;;;;;;;;;;;x
+TREACHEROUS_SCUM;Вероломное отродье!;;;;;;;;;;;;;x
+EVTOPTB_WCTFT_130;За Отрекшихся!;;;;;;;;;;;;;x
+EVTOPTD_WCTFT_130;Наш падший защитник;;;;;;;;;;;;;x
+EVTOPTE_WCTFT_130;Кажется, хрупкий баланс сил переменился...;;;;;;;;;;;;;x
+nick_the_remorseless;Беспощадный;;;;;;;;;;;;;x
+nick_the_wildshaper;Перевертень;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_400;Отступление Иллидари;;;;;;;;;;;;;x
+EVTDESC_WCTFT_400;С каждым сражением меджду Иллидари и Плетью, Иллидан видел, как его войска тают на глазах, растворяясь в бесчисленных ордах нежити только затем, чтобы восстать как часть нечестивой армии врага. Видя что противник ослаблен и деморализован, Плеть провела разрушительную атаку на Иллидари, заставляя их отступить через порталы на планету, ранее известную как Дренор, а сейчас называемую Запредельем. Многие из союзников Иллидана остались отрезаны от основных сил и встретили жестокую судьбу от суровых северных морозов или безжалостных лап нежити.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_400_scourge;Смерть вечна!;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_400_illidari;Мы были не готовы...;;;;;;;;;;;;;x
+EVTDESC_WCTFT_400_kaelthas;После поражения Иллидари в войне против Короля Лича, Иллидан был найден без сознания после долгой битвы с одним из чемпионов Плети. Без его лидера, силы Иллидари смешались и хрупкий союз остался без предводителя против бесчисленных орд нежити. Вы смогли собрать вместе достаточно сил чтобы обнаружить и спасти Иллидана с поля боя, и теперь его войска отступают обратно в Запределье. Будете ли вы следовать за теми, кто пришел нам на помощь в беде? Или время отправиться домой в Кель'Талас и выковать свою собственную судьбу?;;;;;;;;;;;;;x
+ITS_TIME_TO_GET_HOME;Время возвращаться домой...;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_400_follow_illidan;Мы последуем за Иллиданом!;;;;;;;;;;;;;x
+EVTTITLE_WCTFT_500;Окончание Талассийского регенства;;;;;;;;;;;;;x
+EVTDESC_WCTFT_500;Принц Кель'Тас Солнечный Скиталец вернулся домой после долгих странствий. В попытках найти способ остановить магическую зависимость, он добился немногого. Когда Кель'Тас ступил в Луносвет, его встретила ликующая толпа. [target_regent_lord.GetTitledFirstName] приветствовал его лично и провел в Дворец Ярости Солнца, где они смогли все обсудить. Спустя несколько часов ворота Дворца отворились, и [target_regent_lord.GetFirstName] обратился к народу с речью, в которой сообщал об отречении с должности лорда-регента. Вскоре после этого выступил Кель'Тас, коротко объявив о своей коронации и светлом будущем для всего Кель'Таласа под его правлением.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_500_negative;Лучше бы [target_kaelthas.GetSheHe] не возвращался...;;;;;;;;;;;;;x
+EVTDESC_WCTFT_550;Вы не смогли добраться до Кель'Таласа. Никто в этих волшебных лесах не желает вашего возвращения, и вам ничего не остается, как повернуть назад.;;;;;;;;;;;;;x
+get_game_over_tooltip;Ты добрался до конца игры!;;;;;;;;;;;;;x
+ERA_CHAR_INFO_48081;Леди Джайна Праудмур, молодая правительница Терамора и героиня Третьей Войны, столкнулась с трудным выбором. Джайна была втянута в войну между ее отцом, лордом Даэлином Праудмуром из Кул Тираса, и ее бывшим союзником - Ордой, с которой она сражалась плечом к плечу против Пылающего Легиона. Будучи пацифистом в душе, конфликт лег на ее сердце тяжким грузом. Ситуацию еще сильнее осложняла ее дружба с Траллом, Вождем Орды. Ни одна из сторон не желает идти на уступки, и становится все более очевидно, что Джайне придется выбирать между ее семьей или ее новыми друзьями. Выбор не будет легким.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_60030;Грандмаршал Отмар Гаритос, предводитель остатков Альянса Лордерона, вырос в небольшом городе в Чернолесье. Отмар занял свое положение не благодаря своим навыкам или способностям к ведению боевых действий, но благодаря репутации его отца. Когда Лордерон пал под натиском Плети, он стал самым могущественным военачальником на территории бывшего королевства и был признан Альянсом как последний оплот государственности, представляющий Лордерон. Под его лидерством союз с эльфами Квель'Таласа был разрушен из за его фанатичных расистских убеждений. Жестокая гражданская война назревала в Чумных Землях, и Отмар должен обеспечить опорный пункт для остатков людей, захватив Столицу и объявив себя законным правителем.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_42003;Принц Кель'Тас Солнечный Скиталец потерял практически всё. Вторжение Плети принесло огромные разрушения Кель'Таласу. Его отец погиб, а Солнечный Колодец был осквернен. Принц вернулся в свое королевство после войны только для того, чтобы обнаружить его жителей страдающими от магического голда из за потери Колодца.  Кель'Тас покинул Кель'Талас чтобы найти исцеление для своего народа. Сначала он собирался обратиться в Альянс за помощью, но неприязнь лорда Гаритоса ко всем прочим народам привела его в темницу, где только леди Вайши протянула ему руку помощи. Позже она привела его к Иллидану Ярость Бури, который обещал Кель'Тасу средство для исцеления в обмен на его помощь. Теперь Кель сражается на стороне Иллидана в его отчаянной попытке уничтожить Короля Лича и наконец найти исцеление.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_42076;Леди Сильвана Ветрокрылая, бывший предводитель следопытов Луносвета, осталась таким же великолепным воином, как и была до своей смерти от рук принца Артеса Менетила. Ее стальная воля разбила оковы хватки Короля Лича. Когда значительная часть войск Плети покинула Лордерон чтобы расправиться с угрозой в Ледяной Короне, Сильвана выбрала момент, чтобы организовать восстание. Отрекшиеся в лесах Тирисфаля находились в скверном положении. Враги окружали их со всех сторон, и Отрекшиеся боролись за выживание, отчаянно нуждаясь в передышке и убежище. Так Сильвана обратила свой взор на Столицу, которая обладала неоспоримой стратегической ценностью, являясь ключевой точкой к Серебряному бору. Теперь судьба восставших зависит от успеха штурма Столицы.;;;;;;;;;;;;;x
+nick_the_betrayer;Предатель;;;;;;;;;;;;;x
+ERA_CHAR_INFO_340009;Иллидан находился в заточении на протяжении десяти тысяч лет, прежде чем был освобожден своей возлюбленной, Тирандой. Тиранда считала его неоценимым союзником в борьбе с Легионом, и он действительно внес значительный вклад, но ценой стало доверие его народа и его собственная душа. Когда он покинул свой народ, Кил'Джеден обратился к нему с предложением. Иллидан получил задание уничтожить Короля Лича. Он попробовал использовать Око Саргераса в Даларане чтобы сотворить разрушительное заклинание, но его план был сорван. Опасаясь гнева Кил'Джедена, он бежал в расколотые останки Дренора, но был найден и получил второй шанс. В своем последнем стремлении вместе со своими союзниками он отправился в ледяные долины смерти, куда не смеют ступать живые, чтобы сразиться с бесчисленными ордами порождений Плети.;;;;;;;;;;;;;x
+EVTOPTA_WCTFT_110_wish_to_be_calia;Иногда я хочу оказаться на [target_calia.GetHerHis] месте.;;;;;;;;;;;;;x
+remove_regent_lord_title;Сложить с себя обязанности лорда-регента;;;;;;;;;;;;;x
+remove_regent_lord_title_desc;Вы провели в ожидании достаточно времени. Принц Кель'Тас не вернется. Время двигаться дальше.;;;;;;;;;;;;;x
+EVTDESC_WCTFT_600;"Сегодня [From.GetTitledFirstNameWithNick] объявил, что пришли новости о смерти принца Кель'Таса. Теперь [From.GetFirstName] уходит в отставку с должности регента, но не покидает свой народ. ""Время двигаться дальше"", сказал [From.GetSheHe]. ""Теперь благородные лорды и леди должны будут выбрать нового короля Кель'Таласа!""";;;;;;;;;;;;;x
+bloodline_effect_scarlet_king;Может вассализировать Алый Орден.;;;;;;;;;;;;;x
+vassalize_d_scarlet_crusade;Вассализировать Алый Орден;;;;;;;;;;;;;x
+vassalize_d_scarlet_crusade_desc;Алый Орден — ваш давний союзник. Вы можете убедить их стать вассалами вашего государства.;;;;;;;;;;;;;x
+ERA_CHAR_NAME_60030;Отмар Гаритос;;;;;;;;;;;;;x
+ERA_CHAR_NAME_42076;Сильвана Ветрокрылая;;;;;;;;;;;;;x
+ERA_CHAR_NAME_340009;Иллидан Ярость Бури;;;;;;;;;;;;;x
+ERA_CHAR_NAME_42003;Кель'Тас Солнечный Скиталец;;;;;;;;;;;;;x
+ERA_CHAR_NAME_48081;Джайна Праудмур;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
