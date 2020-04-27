@@ -1,0 +1,96 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+# Other;;;;;;;;;;;;;;x
+FIRELORD_TITLE;Majordomo;;;;;;;;;;;;;x
+MASTER_TITLE;Master;;;;;;;;;;;;;x
+MASTER_FOA;Master;;;;;;;;;;;;;x
+ARCHBISHOP_TITLE;Archbishop;;;;;;;;;;;;;x
+YOUR_HOLINESS_FOA;Your Holiness;;;;;;;;;;;;;x
+GRAND_INQUISITOR_TITLE;Grand Inquisitor;;;;;;;;;;;;;x
+SIR_TITLE;Sir;;;;;;;;;;;;;x
+SIR_FOA;Honorable Sir;;;;;;;;;;;;;x
+XXX_CARTEL;[Root.GetOnlyDynastyName] Cartel;;;;;;;;;;;;;x
+title_guardian_of_tirisfal;Magus;;;;;;;;;;;;;x
+title_guardian_of_tirisfal_female;Magna;;;;;;;;;;;;;x
+title_trade_prince;Trade Prince;;;;;;;;;;;;;x
+title_trade_prince_female;Trade Princess;;;;;;;;;;;;;x
+LICH_KING_TITLE;Lich King;;;;;;;;;;;;;x
+LICH_QUEEN_TITLE;Lich Queen;;;;;;;;;;;;;x
+QUARTERMASTER_TITLE;Quartermaster;;;;;;;;;;;;;x
+QUARTERMASTER_FOA;Quartermaster;;;;;;;;;;;;;x
+LORD_TITLE;Lord;;;;;;;;;;;;;x
+LADY_TITLE;Lady;;;;;;;;;;;;;x
+TWILIGHT_VICEROY_TITLE;Twilight Viceroy;;;;;;;;;;;;;x
+TWILIGHT_VICEROY_FEM_TITLE;Twilight Viceroy;;;;;;;;;;;;;x
+GRAND_CRUSADER_TITLE;Grand Crusader;;;;;;;;;;;;;x
+WARCHIEF_TITLE;Warchief;;;;;;;;;;;;;x
+COMMANDER_TITLE;Commander;;;;;;;;;;;;;x
+LEADER_TITLE;Leader;;;;;;;;;;;;;x
+LEADER_FEM_TITLE;Leader;;;;;;;;;;;;;x
+FLEET_MASTER_TITLE;Fleet Master;;;;;;;;;;;;;x
+FLEET_MASTER_FEM_TITLE;Fleet Masteress;;;;;;;;;;;;;x
+CAPTAIN_TITLE;Captain;;;;;;;;;;;;;x
+CAPTAIN_FEM_TITLE;Captain;;;;;;;;;;;;;x
+CAPTAIN_FOA;Captain;;;;;;;;;;;;;x
+WARMASTER_TITLE;War Master;;;;;;;;;;;;;x
+WARMASTER_FEM_TITLE;War Masteress;;;;;;;;;;;;;x
+BOSS_TITLE;Boss;;;;;;;;;;;;;x
+BOSS_FEM_TITLE;Boss;;;;;;;;;;;;;x
+MASTER_HUNTER_TITLE;Master Hunter;;;;;;;;;;;;;x
+MASTER_HUNTER_FEM_TITLE;Master Huntress;;;;;;;;;;;;;x
+GRAND_MAGISTER_TITLE;Grand Magister;;;;;;;;;;;;;x
+GRAND_MAGISTER_FEM_TITLE;Grand Magistrix;;;;;;;;;;;;;x
+HIGH_THORNSPEAKER_TITLE;High Thornspeaker;;;;;;;;;;;;;x
+HIGH_THORNSPEAKER_FEM_TITLE;High Thornspeaker;;;;;;;;;;;;;x
+ALPHA_PRIME_TITLE;Alpha Prime;;;;;;;;;;;;;x
+ALPHA_PRIME_FEM_TITLE;Alpha Prime;;;;;;;;;;;;;x
+HIGH_URSA_TITLE;High Ursa;;;;;;;;;;;;;x
+HIGH_URSA_FEM_TITLE;High Ursa;;;;;;;;;;;;;x
+HIGH_PRIEST_TITLE;High Priest;;;;;;;;;;;;;x
+HIGH_PRIEST_FEM_TITLE;High Priestess;;;;;;;;;;;;;x
+HIGH_PROPHET_TITLE;High Prophet;;;;;;;;;;;;;x
+HIGH_PROPHET_FEM_TITLE;High Prophetess;;;;;;;;;;;;;x
+BLOOD_PROPHET_TITLE;Blood Prophet;;;;;;;;;;;;;x
+BLOOD_PROPHET_FEM_TITLE;Blood Prophetess;;;;;;;;;;;;;x
+GRAND_VIZIER_TITLE;Grand Vizier;;;;;;;;;;;;;x
+GRAND_VIZIER_FEM_TITLE;Grand Vizier;;;;;;;;;;;;;x
+HIGH_ORACLE_TITLE;High Oracle;;;;;;;;;;;;;x
+HIGH_ORACLE_FEM_TITLE;High Oracle;;;;;;;;;;;;;x
+GRAND_WAX_PRIEST_TITLE;Grand Wax Priest;;;;;;;;;;;;;x
+GRAND_WAX_PRIEST_FEM_TITLE;Grand Wax Priestess;;;;;;;;;;;;;x
+HIGH_THORNWARLOCK_TITLE;High Thornweaver;;;;;;;;;;;;;x
+HIGH_THORNWARLOCK_FEM_TITLE;High Thornweaver;;;;;;;;;;;;;x
+HIGH_EARTHCALLER_TITLE;High Earthcaller;;;;;;;;;;;;;x
+HIGH_EARTHCALLER_FEM_TITLE;High Earthcaller;;;;;;;;;;;;;x
+HIGH_SEER_TITLE;High Seer;;;;;;;;;;;;;x
+HIGH_SEER_FEM_TITLE;High Seeress;;;;;;;;;;;;;x
+HIGH_SMAMAN_TITLE;High Shaman;;;;;;;;;;;;;x
+HIGH_SMAMAN_FEM_TITLE;High Shamaness;;;;;;;;;;;;;x
+HIGH_SKYCHASER_TITLE;High Skychaser;;;;;;;;;;;;;x
+HIGH_SKYCHASER_FEM_TITLE;High Skychaser;;;;;;;;;;;;;x
+HIGH_SEA_PRIEST_TITLE;High Sea Priest;;;;;;;;;;;;;x
+HIGH_SEA_PRIEST_FEM_TITLE;High Sea Priestess;;;;;;;;;;;;;x
+DARK_ARCHBISHOP_TITLE;Dark Archbishop;;;;;;;;;;;;;x
+GRAND_VINDICATOR_TITLE;Grand Vindicator;;;;;;;;;;;;;x
+GRAND_VINDICATOR_FEM_TITLE;Grand Vindicator;;;;;;;;;;;;;x
+GRAND_EXARCH_TITLE;Grand Exarch;;;;;;;;;;;;;x
+CHIEFTAIN_TITLE;Chieftain;;;;;;;;;;;;;x
+CHIEFTAIN_FEM_TITLE;Chieftess;;;;;;;;;;;;;x
+MAGISTER_TITLE;Magister;;;;;;;;;;;;;x
+MAGISTER_FEM_TITLE;Magistrix;;;;;;;;;;;;;x
+OVERLORD_TITLE;Overlord;;;;;;;;;;;;;x
+OVERLORD_FEMALE_TITLE;Overlord;;;;;;;;;;;;;x
+HERALD_TITLE;Herald;;;;;;;;;;;;;x
+HERALD_FEM_TITLE;Herald;;;;;;;;;;;;;x
+HIGHFATHER_TITLE;Highfather;;;;;;;;;;;;;x
+HIGHFATHER_FEM_TITLE;Highmother;;;;;;;;;;;;;x
+KINGPIN_TITLE;Kingpin;;;;;;;;;;;;;x
+KINGPIN_FEM_TITLE;Queenpin;;;;;;;;;;;;;x
+REGENT_LORD_TITLE;Regent Lord;;;;;;;;;;;;;x
+REGENT_LORD_TITLE_FEM;Regent Lady;;;;;;;;;;;;;x
+OVERSEER_TITLE;Overseer;;;;;;;;;;;;;x
+OVERSEER_FEM_TITLE;Overseer;;;;;;;;;;;;;x
+HIGH_GENERAL_TITLE;High General;;;;;;;;;;;;;x
+HIGHLORD_TITLE;Highlord;;;;;;;;;;;;;x
+GRAND_MARSHAL_TITLE;Grand Marshal;;;;;;;;;;;;;x
+BANSHEE_QUEEN_TITLE;Banshee Queen;;;;;;;;;;;;;x
+BANSHEE_KING_TITLE;Banshee King;;;;;;;;;;;;;x

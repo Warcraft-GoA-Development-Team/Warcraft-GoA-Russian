@@ -1,0 +1,60 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+# Common;;;;;;;;;;;;;;x
+city_emperor;High Consul;;;;;;;;;;;;;x
+city_emperor_female;Great Consul;;;;;;;;;;;;;x
+city_empire_of;Great Republic of;;;;;;;;;;;;;x
+city_empire;Great Republic;;;;;;;;;;;;;x
+city_king;Consul;;;;;;;;;;;;;x
+city_king_female;Consul;;;;;;;;;;;;;x
+city_kingdom_of;Republic of;;;;;;;;;;;;;x
+city_kingdom;Republic of;;;;;;;;;;;;;x
+city_duke;Magistrate;;;;;;;;;;;;;x
+city_duke_female;Magistrate;;;;;;;;;;;;;x
+city_duchy_of;Magistracy of;;;;;;;;;;;;;x
+city_duchy;Magistracy;;;;;;;;;;;;;x
+city_count;Mayor;;;;;;;;;;;;;x
+city_count_female;Mayor;;;;;;;;;;;;;x
+city_county_of;City of;;;;;;;;;;;;;x
+city_county;City;;;;;;;;;;;;;x
+family_palace_baron;Trade Prince;;;;;;;;;;;;;x
+family_palace_baron_female;Trade Princess;;;;;;;;;;;;;x
+family_palace_barony_of;Residence of;;;;;;;;;;;;;x
+family_palace;Residence;;;;;;;;;;;;;x
+PALACE_NAME;Residence of $DYNASTY$;;;;;;;;;;;;;x
+# goblin_group;;;;;;;;;;;;;;x
+city_emperor_goblin_group;High King;;;;;;;;;;;;;x
+city_emperor_female_goblin_group;High Queen;;;;;;;;;;;;;x
+city_empire_of_goblin_group;High Kingdom of;;;;;;;;;;;;;x
+city_empire_goblin_group;High Kingdom;;;;;;;;;;;;;x
+city_king_goblin_group;King;;;;;;;;;;;;;x
+city_king_female_goblin_group;Queen;;;;;;;;;;;;;x
+city_kingdom_of_goblin_group;Kingdom of;;;;;;;;;;;;;x
+city_kingdom_goblin_group;Kingdom;;;;;;;;;;;;;x
+city_duke_goblin_group;Trade Lord;;;;;;;;;;;;;x
+city_duke_female_goblin_group;Trade Lady;;;;;;;;;;;;;x
+city_duchy_of_goblin_group;Highlordship of;;;;;;;;;;;;;x
+city_duchy_goblin_group;Highlordship;;;;;;;;;;;;;x
+city_count_goblin_group;Trade Baron;;;;;;;;;;;;;x
+city_count_female_goblin_group;Trade Baroness;;;;;;;;;;;;;x
+city_county_of_goblin_group;High Barony of;;;;;;;;;;;;;x
+city_county_goblin_group;High Barony;;;;;;;;;;;;;x
+# troll_group;;;;;;;;;;;;;;x
+city_emperor_troll_group;Emperor;;;;;;;;;;;;;x
+city_emperor_female_troll_group;Empress;;;;;;;;;;;;;x
+city_empire_of_troll_group;Empire of;;;;;;;;;;;;;x
+city_empire_troll_group;Empire;;;;;;;;;;;;;x
+city_king;High Elder;;;;;;;;;;;;;x
+city_king_female;High Elder;;;;;;;;;;;;;x
+city_kingdom_of;High Tribe of;;;;;;;;;;;;;x
+city_kingdom;High Tribe;;;;;;;;;;;;;x
+city_duke;Elder;;;;;;;;;;;;;x
+city_duke_female;Elder;;;;;;;;;;;;;x
+city_duchy_of;Tribe of;;;;;;;;;;;;;x
+city_duchy;Tribe;;;;;;;;;;;;;x
+city_count;Chief;;;;;;;;;;;;;x
+city_count_female;Chieftess;;;;;;;;;;;;;x
+city_county_of;Chiefdom of;;;;;;;;;;;;;x
+city_county;Chiefdom;;;;;;;;;;;;;x
+# dryad_group;;;;;;;;;;;;;;x
+city_barony_of_dryad_group;Druid Post of;;;;;;;;;;;;;x
+city_barony_dryad_group;Druid Post;;;;;;;;;;;;;x

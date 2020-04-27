@@ -1,0 +1,2272 @@
+PROV1;Stormwind;;;;;;;;;;;x
+PROV2;Seven Stars;;;;;;;;;;;x
+PROV3;Two Moons;;;;;;;;;;;x
+PROV4;Great Duker;;;;;;;;;;;x
+PROV5;Lul'kail;;;;;;;;;;;x
+PROV6;Goldshire;;;;;;;;;;;x
+PROV7;Northshire;;;;;;;;;;;x
+PROV8;Northfield;;;;;;;;;;;x
+PROV9;Westbrook;;;;;;;;;;;x
+PROV10;Southmead;;;;;;;;;;;x
+PROV11;Stonefield;;;;;;;;;;;x
+PROV12;Sunnyglade;;;;;;;;;;;x
+PROV13;Tower of Azora;;;;;;;;;;;x
+PROV14;Eastvale;;;;;;;;;;;x
+PROV15;Lonely Tower;;;;;;;;;;;x
+PROV16;Stonecairn;;;;;;;;;;;x
+PROV17;Moonbrook;;;;;;;;;;;x
+PROV18;Sandfoot;;;;;;;;;;;x
+PROV19;Fulbrow;;;;;;;;;;;x
+PROV20;Molsen;;;;;;;;;;;x
+PROV21;Lakeshire;;;;;;;;;;;x
+PROV22;Three Corners;;;;;;;;;;;x
+PROV23;Lakeridge;;;;;;;;;;;x
+PROV24;Alther;;;;;;;;;;;x
+PROV25;Blackrock Pass;;;;;;;;;;;x
+PROV26;Thux Tsex;;;;;;;;;;;x
+PROV27;Gold Coast;;;;;;;;;;;x
+PROV28;Longshore;;;;;;;;;;;x
+PROV29;Sentinel Hill;;;;;;;;;;;x
+PROV30;Demont;;;;;;;;;;;x
+PROV31;Dust Plains;;;;;;;;;;;x
+PROV32;Mortwake's Tower;;;;;;;;;;;x
+PROV33;Redridge Canyons;;;;;;;;;;;x
+PROV34;Shalewind;;;;;;;;;;;x
+PROV35;Galardell;;;;;;;;;;;x
+PROV36;Highland Path;;;;;;;;;;;x
+PROV37;Grand Hamlet;;;;;;;;;;;x
+PROV38;Brightwood Grove;;;;;;;;;;;x
+PROV39;Tranquil Gardens;;;;;;;;;;;x
+PROV40;Richgarden;;;;;;;;;;;x
+PROV41;Yorgen;;;;;;;;;;;x
+PROV42;Great Mound;;;;;;;;;;;x
+PROV43;Addle;;;;;;;;;;;x
+PROV44;Raven Hill;;;;;;;;;;;x
+PROV45;Twilight Grove;;;;;;;;;;;x
+PROV46;Karazhan;;;;;;;;;;;x
+PROV47;Deadman's Pass;;;;;;;;;;;x
+PROV48;Golden Stair;;;;;;;;;;;x
+PROV49;Vice;;;;;;;;;;;x
+PROV50;Zul'gurub;;;;;;;;;;;x
+PROV51;Ren'kunn;;;;;;;;;;;x
+PROV52;Gokuntea;;;;;;;;;;;x
+PROV53;Zul'marash;;;;;;;;;;;x
+PROV54;Bambala;;;;;;;;;;;x
+PROV55;Southreach;;;;;;;;;;;x
+PROV56;Olriar;;;;;;;;;;;x
+PROV57;Kulo'ke;;;;;;;;;;;x
+PROV58;Ziata'jai;;;;;;;;;;;x
+PROV59;Balia'mah;;;;;;;;;;;x
+PROV60;Zul'mamwe;;;;;;;;;;;x
+PROV61;Zul'kunda;;;;;;;;;;;x
+PROV62;Tkashi;;;;;;;;;;;x
+PROV63;Kal'ai;;;;;;;;;;;x
+PROV64;Bal'lal;;;;;;;;;;;x
+PROV65;Zuuldaia;;;;;;;;;;;x
+PROV66;Mizjah;;;;;;;;;;;x
+PROV67;Nether Hill;;;;;;;;;;;x
+PROV68;Rockard;;;;;;;;;;;x
+PROV69;Rosestone;;;;;;;;;;;x
+PROV70;Dreadmaul;;;;;;;;;;;x
+PROV71;Agneepath;;;;;;;;;;;x
+PROV72;Dul'zin;;;;;;;;;;;x
+PROV73;Dark Portal;;;;;;;;;;;x
+PROV74;Xawie;;;;;;;;;;;x
+PROV75;Deihsei;;;;;;;;;;;x
+PROV76;Shindun;;;;;;;;;;;x
+PROV77;Xoojith;;;;;;;;;;;x
+PROV78;Binanu;;;;;;;;;;;x
+PROV79;Surwich;;;;;;;;;;;x
+PROV80;Dead Ravine;;;;;;;;;;;x
+PROV81;Atal'hakkar;;;;;;;;;;;x
+PROV82;Splinter Junction;;;;;;;;;;;x
+PROV83;Misty Valley;;;;;;;;;;;x
+PROV84;Harborage;;;;;;;;;;;x
+PROV85;Stonard;;;;;;;;;;;x
+PROV86;South Slough;;;;;;;;;;;x
+PROV87;North Slough;;;;;;;;;;;x
+PROV88;Stagalbog;;;;;;;;;;;x
+PROV89;Rotten Beach;;;;;;;;;;;x
+PROV90;Marshtide;;;;;;;;;;;x
+PROV91;Wild Cape;;;;;;;;;;;x
+PROV92;Sorrowmurk;;;;;;;;;;;x
+PROV93;Bogpaddle;;;;;;;;;;;x
+PROV94;South Islands;;;;;;;;;;;x
+PROV95;Surohi;;;;;;;;;;;x
+PROV96;Lu'dei;;;;;;;;;;;x
+PROV97;Hardwrench;;;;;;;;;;;x
+PROV98;Nek'mani;;;;;;;;;;;x
+PROV99;Kihmu;;;;;;;;;;;x
+PROV100;Vekrishe;;;;;;;;;;;x
+PROV101;Fikinnun;;;;;;;;;;;x
+PROV102;Ironforge;;;;;;;;;;;x
+PROV103;Blackrock Depths;;;;;;;;;;;x
+PROV104;Blackrock Spire;;;;;;;;;;;x
+PROV105;Redhelm;;;;;;;;;;;x
+PROV106;Redpath;;;;;;;;;;;x
+PROV107;Cavefall;;;;;;;;;;;x
+PROV108;Chiselgrip;;;;;;;;;;;x
+PROV109;Thaurissan;;;;;;;;;;;x
+PROV110;Hugdiuhr;;;;;;;;;;;x
+PROV111;Khalfok;;;;;;;;;;;x
+PROV112;Joumindan;;;;;;;;;;;x
+PROV113;Borual;;;;;;;;;;;x
+PROV114;Ogderm;;;;;;;;;;;x
+PROV115;Bhurdak;;;;;;;;;;;x
+PROV116;Blackchar;;;;;;;;;;;x
+PROV117;Rondagg;;;;;;;;;;;x
+PROV118;Darrarhor;;;;;;;;;;;x
+PROV119;Domdith;;;;;;;;;;;x
+PROV120;Brudarn;;;;;;;;;;;x
+PROV121;Drognur;;;;;;;;;;;x
+PROV122;Bhudann;;;;;;;;;;;x
+PROV123;Brugodun;;;;;;;;;;;x
+PROV124;Ohuldum;;;;;;;;;;;x
+PROV125;Tyhmoger;;;;;;;;;;;x
+PROV126;Egudarm;;;;;;;;;;;x
+PROV127;Red Desert;;;;;;;;;;;x
+PROV128;Dustwind;;;;;;;;;;;x
+PROV129;Lethlor;;;;;;;;;;;x
+PROV130;Gundorm;;;;;;;;;;;x
+PROV131;Ermurn;;;;;;;;;;;x
+PROV132;Helm's Bed;;;;;;;;;;;x
+PROV133;Northgate;;;;;;;;;;;x
+PROV134;Gol'bolar;;;;;;;;;;;x
+PROV135;Amberroad;;;;;;;;;;;x
+PROV136;Tundrid Hills;;;;;;;;;;;x
+PROV137;Ice Pass;;;;;;;;;;;x
+PROV138;Kharanos;;;;;;;;;;;x
+PROV139;Irongate;;;;;;;;;;;x
+PROV140;Shimmer Ridge;;;;;;;;;;;x
+PROV141;Coldridge Pass;;;;;;;;;;;x
+PROV142;Anvilmar;;;;;;;;;;;x
+PROV143;Coldridge Valley;;;;;;;;;;;x
+PROV144;Hiding Valley;;;;;;;;;;;x
+PROV145;Storm Ravine;;;;;;;;;;;x
+PROV146;Gnomeregan;;;;;;;;;;;x
+PROV147;Icewind Pass;;;;;;;;;;;x
+PROV148;Icewind Valley;;;;;;;;;;;x
+PROV149;New Tinkertown;;;;;;;;;;;x
+PROV150;Frostmane;;;;;;;;;;;x
+PROV151;Frozen Pass;;;;;;;;;;;x
+PROV152;South Coldwater;;;;;;;;;;;x
+PROV153;North Coldwater;;;;;;;;;;;x
+PROV154;Thelsamar;;;;;;;;;;;x
+PROV155;Stonyglade;;;;;;;;;;;x
+PROV156;Narrowhill;;;;;;;;;;;x
+PROV157;Stonesplinter Valley;;;;;;;;;;;x
+PROV158;Hidden Ravine;;;;;;;;;;;x
+PROV159;Greenhills;;;;;;;;;;;x
+PROV160;Stonewrought Dam;;;;;;;;;;;x
+PROV161;Valley of Kings;;;;;;;;;;;x
+PROV162;Silverstream;;;;;;;;;;;x
+PROV163;North Crossroads;;;;;;;;;;;x
+PROV164;Loch Islands;;;;;;;;;;;x
+PROV165;Southgate;;;;;;;;;;;x
+PROV166;Grim Batol;;;;;;;;;;;x
+PROV167;Wyrm's Bend;;;;;;;;;;;x
+PROV168;Wildpass;;;;;;;;;;;x
+PROV169;Vermillion;;;;;;;;;;;x
+PROV170;Tiverfil;;;;;;;;;;;x
+PROV171;Alberlin;;;;;;;;;;;x
+PROV172;Thundermar;;;;;;;;;;;x
+PROV173;Virid Forest;;;;;;;;;;;x
+PROV174;Rugged Slopes;;;;;;;;;;;x
+PROV175;Iron Ridge;;;;;;;;;;;x
+PROV176;Thorvald Ravine;;;;;;;;;;;x
+PROV177;Storm Cost;;;;;;;;;;;x
+PROV178;Thunder Grove;;;;;;;;;;;x
+PROV179;Windward Hills;;;;;;;;;;;x
+PROV180;Stormclaw;;;;;;;;;;;x
+PROV181;Quiet Highlands;;;;;;;;;;;x
+PROV182;Dunwald;;;;;;;;;;;x
+PROV183;Crucible of Tin;;;;;;;;;;;x
+PROV184;Verrall Delta;;;;;;;;;;;x
+PROV185;Severe Coast;;;;;;;;;;;x
+PROV186;Cape of Fist;;;;;;;;;;;x
+PROV187;Wildgulch;;;;;;;;;;;x
+PROV188;Windward Slopes;;;;;;;;;;;x
+PROV189;Flat Shore;;;;;;;;;;;x
+PROV190;Verdant Forest;;;;;;;;;;;x
+PROV191;Loose Cliffs;;;;;;;;;;;x
+PROV192;Victor's Point;;;;;;;;;;;x
+PROV193;Obsidian Hills;;;;;;;;;;;x
+PROV194;Elementium Ravine;;;;;;;;;;;x
+PROV195;Dead Highlands;;;;;;;;;;;x
+PROV196;Low Islands;;;;;;;;;;;x
+PROV197;Silverslopes;;;;;;;;;;;x
+PROV198;Menethil Harbor;;;;;;;;;;;x
+PROV199;Dun Algaz;;;;;;;;;;;x
+PROV200;Mosshide Fen;;;;;;;;;;;x
+PROV201;Upland Forest;;;;;;;;;;;x
+PROV202;Slabchisel's Survey;;;;;;;;;;;x
+PROV203;Dun Modr;;;;;;;;;;;x
+PROV204;Bogplain;;;;;;;;;;;x
+PROV205;Direforge;;;;;;;;;;;x
+PROV206;Climbhill;;;;;;;;;;;x
+PROV207;East Floodplain;;;;;;;;;;;x
+PROV208;West Floodplain;;;;;;;;;;;x
+PROV209;Saltspray Glen;;;;;;;;;;;x
+PROV210;North Delta;;;;;;;;;;;x
+PROV211;Central Delta;;;;;;;;;;;x
+PROV212;South Delta;;;;;;;;;;;x
+PROV213;Rocky Gorge;;;;;;;;;;;x
+PROV214;Highgarde;;;;;;;;;;;x
+PROV215;Highpoint;;;;;;;;;;;x
+PROV216;Stromgarde;;;;;;;;;;;x
+PROV217;South Highlands;;;;;;;;;;;x
+PROV218;Old Gully;;;;;;;;;;;x
+PROV219;Zolnanji;;;;;;;;;;;x
+PROV220;Go'shek;;;;;;;;;;;x
+PROV221;Windy Glen;;;;;;;;;;;x
+PROV222;Dryhill;;;;;;;;;;;x
+PROV223;Dabyrie;;;;;;;;;;;x
+PROV224;Northighlands;;;;;;;;;;;x
+PROV225;Greenhill;;;;;;;;;;;x
+PROV226;Northreach;;;;;;;;;;;x
+PROV227;Northfold;;;;;;;;;;;x
+PROV228;Faldir's Cove;;;;;;;;;;;x
+PROV229;West Coast;;;;;;;;;;;x
+PROV230;Van'keiki;;;;;;;;;;;x
+PROV231;East Coast;;;;;;;;;;;x
+PROV232;Hillsbrad;;;;;;;;;;;x
+PROV233;Durnholde;;;;;;;;;;;x
+PROV234;Dun Garok;;;;;;;;;;;x
+PROV235;Nethander Stead;;;;;;;;;;;x
+PROV236;Eastpoint;;;;;;;;;;;x
+PROV237;Southshore;;;;;;;;;;;x
+PROV238;Darrow Hill;;;;;;;;;;;x
+PROV239;Western Strand;;;;;;;;;;;x
+PROV240;Southpoint;;;;;;;;;;;x
+PROV241;Purgation Isle;;;;;;;;;;;x
+PROV242;Tarren Mill;;;;;;;;;;;x
+PROV243;Alterac;;;;;;;;;;;x
+PROV244;Alterac Valley;;;;;;;;;;;x
+PROV245;Headland;;;;;;;;;;;x
+PROV246;Strahnbrad;;;;;;;;;;;x
+PROV247;Ravenholdt;;;;;;;;;;;x
+PROV248;Winfried;;;;;;;;;;;x
+PROV249;Chillwind Pass;;;;;;;;;;;x
+PROV250;Dalaran;;;;;;;;;;;x
+PROV251;Dalaran's Hills;;;;;;;;;;;x
+PROV252;Gilneas;;;;;;;;;;;x
+PROV253;Ambermill;;;;;;;;;;;x
+PROV254;Pele'ahjin;;;;;;;;;;;x
+PROV255;Aerie Peak;;;;;;;;;;;x
+PROV256;Hiri'watha;;;;;;;;;;;x
+PROV257;Quel'danil;;;;;;;;;;;x
+PROV258;Shadra'alor;;;;;;;;;;;x
+PROV259;Sweet Ravine;;;;;;;;;;;x
+PROV260;Jintha'alor;;;;;;;;;;;x
+PROV261;Altar of Zul;;;;;;;;;;;x
+PROV262;Agol'watha;;;;;;;;;;;x
+PROV263;Skulk Rock;;;;;;;;;;;x
+PROV264;Shaol'watha;;;;;;;;;;;x
+PROV265;Lower Jintha'alor;;;;;;;;;;;x
+PROV266;Revantusk;;;;;;;;;;;x
+PROV267;Overlook Cliffs;;;;;;;;;;;x
+PROV268;Seradane;;;;;;;;;;;x
+PROV269;Lordaeron;;;;;;;;;;;x
+PROV270;Lordamere;;;;;;;;;;;x
+PROV271;Ferry;;;;;;;;;;;x
+PROV272;South Tract;;;;;;;;;;;x
+PROV273;Shadowfang;;;;;;;;;;;x
+PROV274;Pyrewood;;;;;;;;;;;x
+PROV275;Hothills;;;;;;;;;;;x
+PROV276;Whitepetal;;;;;;;;;;;x
+PROV277;Deep Elem;;;;;;;;;;;x
+PROV278;Olsenfield;;;;;;;;;;;x
+PROV279;Undernelly;;;;;;;;;;;x
+PROV280;Dawning Isles;;;;;;;;;;;x
+PROV281;Valganfield;;;;;;;;;;;x
+PROV282;North Tide;;;;;;;;;;;x
+PROV283;Skittering Dark;;;;;;;;;;;x
+PROV284;Shining Strand;;;;;;;;;;;x
+PROV285;Crowley;;;;;;;;;;;x
+PROV286;Northwood;;;;;;;;;;;x
+PROV287;Headlands;;;;;;;;;;;x
+PROV288;Greybridge;;;;;;;;;;;x
+PROV289;Emberstone;;;;;;;;;;;x
+PROV290;Horseland;;;;;;;;;;;x
+PROV291;Aderic;;;;;;;;;;;x
+PROV292;Galewatch;;;;;;;;;;;x
+PROV293;Ashbury;;;;;;;;;;;x
+PROV294;Blackwald;;;;;;;;;;;x
+PROV295;Stormglen;;;;;;;;;;;x
+PROV296;Tempreach;;;;;;;;;;;x
+PROV297;Koroth;;;;;;;;;;;x
+PROV298;Hailwood;;;;;;;;;;;x
+PROV299;Greymane;;;;;;;;;;;x
+PROV300;Duskhaven;;;;;;;;;;;x
+PROV301;Allenfield;;;;;;;;;;;x
+PROV302;Hammondfield;;;;;;;;;;;x
+PROV303;Hayward;;;;;;;;;;;x
+PROV304;Brill;;;;;;;;;;;x
+PROV305;Nightmare Vale;;;;;;;;;;;x
+PROV306;Solliden;;;;;;;;;;;x
+PROV307;Agamand;;;;;;;;;;;x
+PROV308;Deathknell;;;;;;;;;;;x
+PROV309;Whispering Gardens;;;;;;;;;;;x
+PROV310;Venomweb;;;;;;;;;;;x
+PROV311;Balnir;;;;;;;;;;;x
+PROV312;Bastion;;;;;;;;;;;x
+PROV313;North Coast;;;;;;;;;;;x
+PROV314;Mistfall;;;;;;;;;;;x
+PROV315;Andorhal;;;;;;;;;;;x
+PROV316;Windswept;;;;;;;;;;;x
+PROV317;Cabinwood;;;;;;;;;;;x
+PROV318;Gahrron;;;;;;;;;;;x
+PROV319;Sorrow Hill;;;;;;;;;;;x
+PROV320;Caer Darrow;;;;;;;;;;;x
+PROV321;Hearthglen;;;;;;;;;;;x
+PROV322;Hearthglen Way;;;;;;;;;;;x
+PROV323;Northridge;;;;;;;;;;;x
+PROV324;Stratholme;;;;;;;;;;;x
+PROV325;Darrowshire;;;;;;;;;;;x
+PROV326;High Thondroril;;;;;;;;;;;x
+PROV327;Lower Thondroril;;;;;;;;;;;x
+PROV328;Marris;;;;;;;;;;;x
+PROV329;Crownvale;;;;;;;;;;;x
+PROV330;Fir Valley;;;;;;;;;;;x
+PROV331;Blackwood;;;;;;;;;;;x
+PROV332;Corin's Crossing;;;;;;;;;;;x
+PROV333;Northdale;;;;;;;;;;;x
+PROV334;Northpass;;;;;;;;;;;x
+PROV335;Jin Yang;;;;;;;;;;;x
+PROV336;Tyr's Hand;;;;;;;;;;;x
+PROV337;Light's Hope;;;;;;;;;;;x
+PROV338;Old Glade;;;;;;;;;;;x
+PROV339;New Avalon;;;;;;;;;;;x
+PROV340;Havenshire;;;;;;;;;;;x
+PROV341;Hasic;;;;;;;;;;;x
+PROV342;Northwood;;;;;;;;;;;x
+PROV343;Brightdale;;;;;;;;;;;x
+PROV344;Silvermoon;;;;;;;;;;;x
+PROV345;Tranquillien;;;;;;;;;;;x
+PROV346;Goldenmist;;;;;;;;;;;x
+PROV347;An'daroth;;;;;;;;;;;x
+PROV348;Elrendar Crossing;;;;;;;;;;;x
+PROV349;Windrunner;;;;;;;;;;;x
+PROV350;Silverfury;;;;;;;;;;;x
+PROV351;Underlight;;;;;;;;;;;x
+PROV352;Ghost Forest;;;;;;;;;;;x
+PROV353;Rest Hollow;;;;;;;;;;;x
+PROV354;Thalassian Pass;;;;;;;;;;;x
+PROV355;Quel'lithien;;;;;;;;;;;x
+PROV356;Andilien Estate;;;;;;;;;;;x
+PROV357;Sanctum of the Sun;;;;;;;;;;;x
+PROV358;Farstrider Enclave;;;;;;;;;;;x
+PROV359;Hatchet Hills;;;;;;;;;;;x
+PROV360;Amani Pass;;;;;;;;;;;x
+PROV361;Akil'zon;;;;;;;;;;;x
+PROV362;Nalorakk;;;;;;;;;;;x
+PROV363;Jan'alai;;;;;;;;;;;x
+PROV364;Halazzi;;;;;;;;;;;x
+PROV365;Tor'watha;;;;;;;;;;;x
+PROV366;Elrendar Coast;;;;;;;;;;;x
+PROV367;Zeb'watha;;;;;;;;;;;x
+PROV368;East Sanctum;;;;;;;;;;;x
+PROV369;Runestone's Valley;;;;;;;;;;;x
+PROV370;Fairbreeze;;;;;;;;;;;x
+PROV371;Sunsail Anchorage;;;;;;;;;;;x
+PROV372;Goldenbough Pass;;;;;;;;;;;x
+PROV373;Tranquil Shore;;;;;;;;;;;x
+PROV374;Golden Strand;;;;;;;;;;;x
+PROV375;Falconwing Square;;;;;;;;;;;x
+PROV376;North Sanctum;;;;;;;;;;;x
+PROV377;Stillwhisper Pond;;;;;;;;;;;x
+PROV378;Duskwither Ravine;;;;;;;;;;;x
+PROV379;Dawning Lane;;;;;;;;;;;x
+PROV380;Sunstrider Isle;;;;;;;;;;;x
+PROV381;Falthrien;;;;;;;;;;;x
+PROV382;Tu Shen;;;;;;;;;;;x
+PROV383;Guo-Lai;;;;;;;;;;;x
+PROV384;Ancestral Rise;;;;;;;;;;;x
+PROV385;Winterbough;;;;;;;;;;;x
+PROV386;Setting Sun;;;;;;;;;;;x
+PROV387;Sunblossom;;;;;;;;;;;x
+PROV388;Endless Spring;;;;;;;;;;;x
+PROV389;Hundred Steps;;;;;;;;;;;x
+PROV390;Spring Road;;;;;;;;;;;x
+PROV391;Leg-Zaol;;;;;;;;;;;x
+PROV392;Xuen;;;;;;;;;;;x
+PROV393;Tiger Way;;;;;;;;;;;x
+PROV394;Sunwell Plateau;;;;;;;;;;;x
+PROV395;Sun's Reach;;;;;;;;;;;x
+PROV396;Dawnstar;;;;;;;;;;;x
+PROV397;Magisters' Terrace;;;;;;;;;;;x
+PROV398;Greengill;;;;;;;;;;;x
+PROV399;Sat'theas;;;;;;;;;;;x
+PROV400;Loch Verrall;;;;;;;;;;;x
+PROV401;The Loch;;;;;;;;;;;x
+PROV402;Thondroril River;;;;;;;;;;;x
+PROV403;Thondroril River;;;;;;;;;;;x
+PROV404;Thondroril River;;;;;;;;;;;x
+PROV405;Thondroril River;;;;;;;;;;;x
+PROV406;Thondroril River;;;;;;;;;;;x
+PROV407;Thondroril River;;;;;;;;;;;x
+PROV408;Darrowmere Lake;;;;;;;;;;;x
+PROV409;Darrowmere Lake;;;;;;;;;;;x
+PROV410;Darrowmere Lake;;;;;;;;;;;x
+PROV411;Lordamere Lake;;;;;;;;;;;x
+PROV412;Lordamere Lake;;;;;;;;;;;x
+PROV413;Lordamere Lake;;;;;;;;;;;x
+PROV414;Northgate River;;;;;;;;;;;x
+PROV415;Northgate River;;;;;;;;;;;x
+PROV416;Northgate River;;;;;;;;;;;x
+PROV417;Lake Elrendar;;;;;;;;;;;x
+PROV418;Lake Elrendar;;;;;;;;;;;x
+PROV419;North Elrendar River;;;;;;;;;;;x
+PROV420;North Elrendar River;;;;;;;;;;;x
+PROV421;North Elrendar River;;;;;;;;;;;x
+PROV422;South Elrendar River;;;;;;;;;;;x
+PROV423;South Elrendar River;;;;;;;;;;;x
+PROV424;South Elrendar River;;;;;;;;;;;x
+PROV425;South Elrendar River;;;;;;;;;;;x
+PROV426;Stonecairn Lake;;;;;;;;;;;x
+PROV427;Pool of Tears;;;;;;;;;;;x
+PROV428;Lake;;;;;;;;;;;x
+PROV429;Longshore;;;;;;;;;;;x
+PROV430;Longshore;;;;;;;;;;;x
+PROV431;Longshore;;;;;;;;;;;x
+PROV432;Stormwind's Shore;;;;;;;;;;;x
+PROV433;Savage Coast;;;;;;;;;;;x
+PROV434;Vile Reef;;;;;;;;;;;x
+PROV435;Nazferiti Mouth;;;;;;;;;;;x
+PROV436;South Savage Coast;;;;;;;;;;;x
+PROV437;South Savage Coast;;;;;;;;;;;x
+PROV438;Yinying;;;;;;;;;;;x
+PROV439;Wild Shore;;;;;;;;;;;x
+PROV440;Crystal Shore;;;;;;;;;;;x
+PROV441;Red Reaches;;;;;;;;;;;x
+PROV442;Red Reaches;;;;;;;;;;;x
+PROV443;Shattershore;;;;;;;;;;;x
+PROV444;Misty Reed Strand;;;;;;;;;;;x
+PROV445;Misty Reed Strand;;;;;;;;;;;x
+PROV446;Forbidding Sea;;;;;;;;;;;x
+PROV447;Forbidding Sea;;;;;;;;;;;x
+PROV448;Forbidding Sea;;;;;;;;;;;x
+PROV449;Highbank;;;;;;;;;;;x
+PROV450;Highbank;;;;;;;;;;;x
+PROV451;Highbank;;;;;;;;;;;x
+PROV452;Slithering Cove;;;;;;;;;;;x
+PROV453;Highbank;;;;;;;;;;;x
+PROV454;Highbank;;;;;;;;;;;x
+PROV455;Highbank;;;;;;;;;;;x
+PROV456;Highbank;;;;;;;;;;;x
+PROV457;Thandol Span;;;;;;;;;;;x
+PROV458;Overlook Cliffs;;;;;;;;;;;x
+PROV459;Overlook Cliffs;;;;;;;;;;;x
+PROV460;Overlook Cliffs;;;;;;;;;;;x
+PROV461;Avalon's Coast;;;;;;;;;;;x
+PROV462;Avalon's Coast;;;;;;;;;;;x
+PROV463;Avalon's Coast;;;;;;;;;;;x
+PROV464;Yongqi;;;;;;;;;;;x
+PROV465;Amani Coast;;;;;;;;;;;x
+PROV466;Amani Coast;;;;;;;;;;;x
+PROV467;Amani Coast;;;;;;;;;;;x
+PROV468;Amani Coast;;;;;;;;;;;x
+PROV469;Azurebreeze Coast;;;;;;;;;;;x
+PROV470;Azurebreeze Coast;;;;;;;;;;;x
+PROV471;Tranquil Shore;;;;;;;;;;;x
+PROV472;Tranquil Shore;;;;;;;;;;;x
+PROV473;Shil-Qem;;;;;;;;;;;x
+PROV474;Tranquil Shore;;;;;;;;;;;x
+PROV475;Tranquil Shore;;;;;;;;;;;x
+PROV476;Greengill Coast;;;;;;;;;;;x
+PROV477;Greengill Coast;;;;;;;;;;;x
+PROV478;Binan;;;;;;;;;;;x
+PROV479;Greengill Coast;;;;;;;;;;;x
+PROV480;Jade Carp;;;;;;;;;;;x
+PROV481;Greengill Coast;;;;;;;;;;;x
+PROV482;Golden Strand;;;;;;;;;;;x
+PROV483;Shalandis Coast;;;;;;;;;;;x
+PROV484;Shalandis Coast;;;;;;;;;;;x
+PROV485;North Coast;;;;;;;;;;;x
+PROV486;North Coast;;;;;;;;;;;x
+PROV487;North Coast;;;;;;;;;;;x
+PROV488;North Coast;;;;;;;;;;;x
+PROV489;North Coast;;;;;;;;;;;x
+PROV490;North Tide;;;;;;;;;;;x
+PROV491;North Tide;;;;;;;;;;;x
+PROV492;North Tide;;;;;;;;;;;x
+PROV493;Galewatch Coast;;;;;;;;;;;x
+PROV494;Galewatch Coast;;;;;;;;;;;x
+PROV495;Galewatch Coast;;;;;;;;;;;x
+PROV496;Duskmist Shore;;;;;;;;;;;x
+PROV497;Duskmist Shore;;;;;;;;;;;x
+PROV498;Baradin Bay;;;;;;;;;;;x
+PROV499;Inkgill;;;;;;;;;;;x
+PROV500;Hillsbrad Strand;;;;;;;;;;;x
+PROV501;Hillsbrad Strand;;;;;;;;;;;x
+PROV502;Waterspeak;;;;;;;;;;;x
+PROV503;Drowned Reef;;;;;;;;;;;x
+PROV504;Lost Fleet;;;;;;;;;;;x
+PROV505;Menethil Bay;;;;;;;;;;;x
+PROV506;Muskpaw;;;;;;;;;;;x
+PROV507;Auburn Bluffs;;;;;;;;;;;x
+PROV508;Ruqin;;;;;;;;;;;x
+PROV509;Hak'shix;;;;;;;;;;;x
+PROV510;Baradin Bay;;;;;;;;;;;x
+PROV511;Crestfall's Coast;;;;;;;;;;;x
+PROV512;Chow;;;;;;;;;;;x
+PROV513;Great Sea;;;;;;;;;;;x
+PROV514;Tirassian Coast;;;;;;;;;;;x
+PROV515;Tirassian Coast;;;;;;;;;;;x
+PROV516;Tirassian Coast;;;;;;;;;;;x
+PROV517;Tirassian Coast;;;;;;;;;;;x
+PROV518;Tirassian Coast;;;;;;;;;;;x
+PROV519;Tirassian Coast;;;;;;;;;;;x
+PROV520;Great Sea;;;;;;;;;;;x
+PROV521;Great Sea;;;;;;;;;;;x
+PROV522;Great Sea;;;;;;;;;;;x
+PROV523;Balor's Coast;;;;;;;;;;;x
+PROV524;Balor's Coast;;;;;;;;;;;x
+PROV525;Balor's Coast;;;;;;;;;;;x
+PROV526;Firebough;;;;;;;;;;;x
+PROV527;Mogujia;;;;;;;;;;;x
+PROV528;Verrall River;;;;;;;;;;;x
+PROV529;Verrall River;;;;;;;;;;;x
+PROV530;Verrall River;;;;;;;;;;;x
+PROV531;Verrall River;;;;;;;;;;;x
+PROV532;Verrall River;;;;;;;;;;;x
+PROV533;Shalandis Coast;;;;;;;;;;;x
+PROV534;Ordo;;;;;;;;;;;x
+PROV535;August Gate;;;;;;;;;;;x
+PROV536;Kun;;;;;;;;;;;x
+PROV537;Bazaar;;;;;;;;;;;x
+PROV538;Burlap;;;;;;;;;;;x
+PROV539;One Keg;;;;;;;;;;;x
+PROV540;Rur Qug;;;;;;;;;;;x
+PROV541;Eastern Broketooth;;;;;;;;;;;x
+PROV542;Western Broketooth;;;;;;;;;;;x
+PROV543;Knucklethump;;;;;;;;;;;x
+PROV544;Dooker Dome;;;;;;;;;;;x
+PROV545;Kuker Hill;;;;;;;;;;;x
+PROV546;Howlingwind;;;;;;;;;;;x
+PROV547;Shado-Li;;;;;;;;;;;x
+PROV548;Kota Peak;;;;;;;;;;;x
+PROV549;Kota Hills;;;;;;;;;;;x
+PROV550;Winter's Blossom;;;;;;;;;;;x
+PROV551;Ox Gate;;;;;;;;;;;x
+PROV552;Lushat Lan;;;;;;;;;;;x
+PROV553;Ken-Thal;;;;;;;;;;;x
+PROV554;Seeker's Point;;;;;;;;;;;x
+PROV555;Seeker's Folly;;;;;;;;;;;x
+PROV556;Neverest;;;;;;;;;;;x
+PROV557;Cloudstrike;;;;;;;;;;;x
+PROV558;Snowdrift;;;;;;;;;;;x
+PROV559;Yojamba Isle;;;;;;;;;;;x
+PROV560;Mount Kajaro;;;;;;;;;;;x
+PROV561;Bilgewater;;;;;;;;;;;x
+PROV562;Gallywix;;;;;;;;;;;x
+PROV563;Kajamine;;;;;;;;;;;x
+PROV564;Loosefeet;;;;;;;;;;;x
+PROV565;Edj;;;;;;;;;;;x
+PROV566;Speedway;;;;;;;;;;;x
+PROV567;Voodress;;;;;;;;;;;x
+PROV568;Picktweak;;;;;;;;;;;x
+PROV569;Volcanoth's Isle;;;;;;;;;;;x
+PROV570;Wild Isle;;;;;;;;;;;x
+PROV571;Fizzspark;;;;;;;;;;;x
+PROV572;Mudboot;;;;;;;;;;;x
+PROV573;ќомск;;;;;;;;;;;x
+PROV574;Oorzz;;;;;;;;;;;x
+PROV575;Hozu-Mozu;;;;;;;;;;;x
+PROV576;Banana Forest;;;;;;;;;;;x
+PROV577;Vashj'ir;;;;;;;;;;;x
+PROV578;Vashj'ir;;;;;;;;;;;x
+PROV579;Vashj'ir;;;;;;;;;;;x
+PROV580;Vashj'ir;;;;;;;;;;;x
+PROV581;Vashj'ir;;;;;;;;;;;x
+PROV582;Zhaoh'tem;;;;;;;;;;;x
+PROV583;Vashj'ir;;;;;;;;;;;x
+PROV584;South Sea;;;;;;;;;;;x
+PROV585;South Sea;;;;;;;;;;;x
+PROV586;South Sea;;;;;;;;;;;x
+PROV587;South Sea;;;;;;;;;;;x
+PROV588;South Sea;;;;;;;;;;;x
+PROV589;South Sea;;;;;;;;;;;x
+PROV590;Crane Wing;;;;;;;;;;;x
+PROV591;South Sea;;;;;;;;;;;x
+PROV592;South Sea;;;;;;;;;;;x
+PROV593;South Sea;;;;;;;;;;;x
+PROV594;South Sea;;;;;;;;;;;x
+PROV595;South Sea;;;;;;;;;;;x
+PROV596;South Sea;;;;;;;;;;;x
+PROV597;South Sea;;;;;;;;;;;x
+PROV598;South Sea;;;;;;;;;;;x
+PROV599;South Sea;;;;;;;;;;;x
+PROV600;South Sea;;;;;;;;;;;x
+PROV601;South Sea;;;;;;;;;;;x
+PROV602;South Sea;;;;;;;;;;;x
+PROV603;South Sea;;;;;;;;;;;x
+PROV604;Falling Blossoms;;;;;;;;;;;x
+PROV605;South Sea;;;;;;;;;;;x
+PROV606;South Sea;;;;;;;;;;;x
+PROV607;South Sea;;;;;;;;;;;x
+PROV608;South Sea;;;;;;;;;;;x
+PROV609;South Sea;;;;;;;;;;;x
+PROV610;South Sea;;;;;;;;;;;x
+PROV611;South Sea;;;;;;;;;;;x
+PROV612;South Sea;;;;;;;;;;;x
+PROV613;South Sea;;;;;;;;;;;x
+PROV614;South Sea;;;;;;;;;;;x
+PROV615;Jeh'sed;;;;;;;;;;;x
+PROV616;South Sea;;;;;;;;;;;x
+PROV617;South Sea;;;;;;;;;;;x
+PROV618;South Sea;;;;;;;;;;;x
+PROV619;South Sea;;;;;;;;;;;x
+PROV620;South Sea;;;;;;;;;;;x
+PROV621;South Sea;;;;;;;;;;;x
+PROV622;South Sea;;;;;;;;;;;x
+PROV623;South Sea;;;;;;;;;;;x
+PROV624;South Sea;;;;;;;;;;;x
+PROV625;South Sea;;;;;;;;;;;x
+PROV626;South Sea;;;;;;;;;;;x
+PROV627;South Sea;;;;;;;;;;;x
+PROV628;South Sea;;;;;;;;;;;x
+PROV629;South Sea;;;;;;;;;;;x
+PROV630;South Sea;;;;;;;;;;;x
+PROV631;South Sea;;;;;;;;;;;x
+PROV632;South Sea;;;;;;;;;;;x
+PROV633;South Sea;;;;;;;;;;;x
+PROV634;South Sea;;;;;;;;;;;x
+PROV635;South Sea;;;;;;;;;;;x
+PROV636;South Sea;;;;;;;;;;;x
+PROV637;South Sea;;;;;;;;;;;x
+PROV638;South Sea;;;;;;;;;;;x
+PROV639;South Sea;;;;;;;;;;;x
+PROV640;South Sea;;;;;;;;;;;x
+PROV641;South Sea;;;;;;;;;;;x
+PROV642;South Sea;;;;;;;;;;;x
+PROV643;Vashj'ir;;;;;;;;;;;x
+PROV644;Crane Cave;;;;;;;;;;;x
+PROV645;Faerseton;;;;;;;;;;;x
+PROV646;Dandred;;;;;;;;;;;x
+PROV647;Whispering Forest;;;;;;;;;;;x
+PROV648;Glistening Shore;;;;;;;;;;;x
+PROV649;Ox'tigar;;;;;;;;;;;x
+PROV650;Kun-Lai Coast;;;;;;;;;;;x
+PROV651;Dragon Nest;;;;;;;;;;;x
+PROV652;Snowblossom;;;;;;;;;;;x
+PROV653;Crystal Lake;;;;;;;;;;;x
+PROV654;Mirror Lake;;;;;;;;;;;x
+PROV655;Zul'gurub Basin;;;;;;;;;;;x
+PROV656;Surwich Inlet;;;;;;;;;;;x
+PROV657;Lake Everstill;;;;;;;;;;;x
+PROV658;Lake;;;;;;;;;;;x
+PROV659;Lake;;;;;;;;;;;x
+PROV660;Mosshide Fen;;;;;;;;;;;x
+PROV661;Lake;;;;;;;;;;;x
+PROV662;Lake;;;;;;;;;;;x
+PROV663;Lake;;;;;;;;;;;x
+PROV664;Lake;;;;;;;;;;;x
+PROV665;Volorwind Lake;;;;;;;;;;;x
+PROV666;Lake;;;;;;;;;;;x
+PROV667;Lake;;;;;;;;;;;x
+PROV668;Lake;;;;;;;;;;;x
+PROV669;Lake;;;;;;;;;;;x
+PROV670;Zouchin;;;;;;;;;;;x
+PROV671;Lake;;;;;;;;;;;x
+PROV672;Stillwater Pond;;;;;;;;;;;x
+PROV673;Brightwater Lake;;;;;;;;;;;x
+PROV674;Lake;;;;;;;;;;;x
+PROV675;Blackwood Lake;;;;;;;;;;;x
+PROV676;Lake Mereldar;;;;;;;;;;;x
+PROV677;Healthy Lake;;;;;;;;;;;x
+PROV678;Lake;;;;;;;;;;;x
+PROV679;Lake;;;;;;;;;;;x
+PROV680;Lake;;;;;;;;;;;x
+PROV681;Lake;;;;;;;;;;;x
+PROV682;Lake;;;;;;;;;;;x
+PROV683;Lake;;;;;;;;;;;x
+PROV684;Lake;;;;;;;;;;;x
+PROV685;Lake;;;;;;;;;;;x
+PROV686;Chioji;;;;;;;;;;;x
+PROV687;Cradle of Chi-Ji;;;;;;;;;;;x
+PROV688;Kea Krak;;;;;;;;;;;x
+PROV689;Maisara Hills;;;;;;;;;;;x
+PROV690;Ula-Tek;;;;;;;;;;;x
+PROV691;Greenrush;;;;;;;;;;;x
+PROV692;Zul'mashar;;;;;;;;;;;x
+PROV693;Abassi Coast;;;;;;;;;;;x
+PROV694;Abassi Lake;;;;;;;;;;;x
+PROV695;Icecrown;;;;;;;;;;;x
+PROV696;Utgarde;;;;;;;;;;;x
+PROV697;Halgrind;;;;;;;;;;;x
+PROV698;Ember Clutch;;;;;;;;;;;x
+PROV699;New Agamand;;;;;;;;;;;x
+PROV700;Shield Hill;;;;;;;;;;;x
+PROV701;Grarland;;;;;;;;;;;x
+PROV702;Wyrmskull Coast;;;;;;;;;;;x
+PROV703;Kamagua;;;;;;;;;;;x
+PROV704;Iskaal;;;;;;;;;;;x
+PROV705;Scalawag Point;;;;;;;;;;;x
+PROV706;Sorlof's Strand;;;;;;;;;;;x
+PROV707;Nifflevar;;;;;;;;;;;x
+PROV708;Bealgun;;;;;;;;;;;x
+PROV709;Eastern Cape;;;;;;;;;;;x
+PROV710;Ivald;;;;;;;;;;;x
+PROV711;Baleheim;;;;;;;;;;;x
+PROV712;Bleeding Vale;;;;;;;;;;;x
+PROV713;Giants Run;;;;;;;;;;;x
+PROV714;Cauldros Isle;;;;;;;;;;;x
+PROV715;Glade Forest;;;;;;;;;;;x
+PROV716;Winterhoof;;;;;;;;;;;x
+PROV717;Broken Bluffs;;;;;;;;;;;x
+PROV718;Gjalerbron;;;;;;;;;;;x
+PROV719;Rivenwood;;;;;;;;;;;x
+PROV720;Steelgate;;;;;;;;;;;x
+PROV721;Skorn;;;;;;;;;;;x
+PROV722;Chillmere;;;;;;;;;;;x
+PROV723;Cauldros Lake;;;;;;;;;;;x
+PROV724;Winter's Breath Lake;;;;;;;;;;;x
+PROV725;Coldmere Lake;;;;;;;;;;;x
+PROV726;Creek River;;;;;;;;;;;x
+PROV727;Creek River;;;;;;;;;;;x
+PROV728;Lake;;;;;;;;;;;x
+PROV729;Venture Bay;;;;;;;;;;;x
+PROV730;Blackriver;;;;;;;;;;;x
+PROV731;Drak'zin;;;;;;;;;;;x
+PROV732;Zeb'halak;;;;;;;;;;;x
+PROV733;Silverbrook;;;;;;;;;;;x
+PROV734;Bluedome;;;;;;;;;;;x
+PROV735;Amberpine;;;;;;;;;;;x
+PROV736;Voldrune;;;;;;;;;;;x
+PROV737;Grizzlemaw;;;;;;;;;;;x
+PROV738;Rage Fang;;;;;;;;;;;x
+PROV739;Heartblood;;;;;;;;;;;x
+PROV740;Oneqwah;;;;;;;;;;;x
+PROV741;Solstice;;;;;;;;;;;x
+PROV742;Hollowstone;;;;;;;;;;;x
+PROV743;Drak'atal;;;;;;;;;;;x
+PROV744;Ursden;;;;;;;;;;;x
+PROV745;Drakil'jin;;;;;;;;;;;x
+PROV746;Tethys;;;;;;;;;;;x
+PROV747;Bloodmoon Isle;;;;;;;;;;;x
+PROV748;Thor Modan;;;;;;;;;;;x
+PROV749;Boulder Hills;;;;;;;;;;;x
+PROV750;Dun Argol;;;;;;;;;;;x
+PROV751;Lake;;;;;;;;;;;x
+PROV752;Lake;;;;;;;;;;;x
+PROV753;Lake;;;;;;;;;;;x
+PROV754;Gundrak;;;;;;;;;;;x
+PROV755;Zol'heb;;;;;;;;;;;x
+PROV756;Dubra'jin;;;;;;;;;;;x
+PROV757;Zol'maz;;;;;;;;;;;x
+PROV758;Mam'toth;;;;;;;;;;;x
+PROV759;Rhunok;;;;;;;;;;;x
+PROV760;Drak'mabwa;;;;;;;;;;;x
+PROV761;Zim'rhuk;;;;;;;;;;;x
+PROV762;Harkoa;;;;;;;;;;;x
+PROV763;Quetz'lun;;;;;;;;;;;x
+PROV764;Zim'torga;;;;;;;;;;;x
+PROV765;Heb'drakkar;;;;;;;;;;;x
+PROV766;Drak'tharon;;;;;;;;;;;x
+PROV767;Drakuru;;;;;;;;;;;x
+PROV768;Rageclaw;;;;;;;;;;;x
+PROV769;Low Fields;;;;;;;;;;;x
+PROV770;Chaga'jin;;;;;;;;;;;x
+PROV771;Drak'sotra;;;;;;;;;;;x
+PROV772;Zim'abwa;;;;;;;;;;;x
+PROV773;Drakkari Arena;;;;;;;;;;;x
+PROV774;Heb'valok;;;;;;;;;;;x
+PROV775;Sseratus;;;;;;;;;;;x
+PROV776;Rageclaw Lake;;;;;;;;;;;x
+PROV777;Wyrmrest;;;;;;;;;;;x
+PROV778;Magnadoth;;;;;;;;;;;x
+PROV779;Galakrond;;;;;;;;;;;x
+PROV780;Magnadon;;;;;;;;;;;x
+PROV781;Crystal Vice;;;;;;;;;;;x
+PROV782;Maguta;;;;;;;;;;;x
+PROV783;Dragon's Fall;;;;;;;;;;;x
+PROV784;Coldwind;;;;;;;;;;;x
+PROV785;Icemist;;;;;;;;;;;x
+PROV786;Icejail;;;;;;;;;;;x
+PROV787;Tautau;;;;;;;;;;;x
+PROV788;Hamon;;;;;;;;;;;x
+PROV789;Moa'ki;;;;;;;;;;;x
+PROV790;Indu'le;;;;;;;;;;;x
+PROV791;Snowfall;;;;;;;;;;;x
+PROV792;Oghit;;;;;;;;;;;x
+PROV793;Ruby;;;;;;;;;;;x
+PROV794;Azure;;;;;;;;;;;x
+PROV795;Emerald;;;;;;;;;;;x
+PROV796;Bronze;;;;;;;;;;;x
+PROV797;Obsidian;;;;;;;;;;;x
+PROV798;Wintergarde;;;;;;;;;;;x
+PROV799;Carrion;;;;;;;;;;;x
+PROV800;Budur;;;;;;;;;;;x
+PROV801;Ton'croa;;;;;;;;;;;x
+PROV802;Noke'roa;;;;;;;;;;;x
+PROV803;Eldritch;;;;;;;;;;;x
+PROV804;Jintha'kalar;;;;;;;;;;;x
+PROV805;Cladurk;;;;;;;;;;;x
+PROV806;Frostfate;;;;;;;;;;;x
+PROV807;Lake Indu'le;;;;;;;;;;;x
+PROV808;Drak'mar Lake;;;;;;;;;;;x
+PROV809;Dragonspine Tributary;;;;;;;;;;;x
+PROV810;Dragonspine Tributary;;;;;;;;;;;x
+PROV811;Dragonspine Tributary;;;;;;;;;;;x
+PROV812;Lumberjack River;;;;;;;;;;;x
+PROV813;Lumberjack River;;;;;;;;;;;x
+PROV814;Lumberjack Lake;;;;;;;;;;;x
+PROV815;Daggercap Bay;;;;;;;;;;;x
+PROV816;Daggercap Bay;;;;;;;;;;;x
+PROV817;Strand of Ancients;;;;;;;;;;;x
+PROV818;Mightstone;;;;;;;;;;;x
+PROV819;Bloodspore;;;;;;;;;;;x
+PROV820;Nasam;;;;;;;;;;;x
+PROV821;Beryl;;;;;;;;;;;x
+PROV822;Ech'nus;;;;;;;;;;;x
+PROV823;Farshire;;;;;;;;;;;x
+PROV824;Nasamsand;;;;;;;;;;;x
+PROV825;Randlish;;;;;;;;;;;x
+PROV826;Riplash;;;;;;;;;;;x
+PROV827;Amber Ledge;;;;;;;;;;;x
+PROV828;Kum'uya;;;;;;;;;;;x
+PROV829;Lake Kum'uya;;;;;;;;;;;x
+PROV830;Coldrock;;;;;;;;;;;x
+PROV831;Lake;;;;;;;;;;;x
+PROV832;Njord;;;;;;;;;;;x
+PROV833;Abanreach;;;;;;;;;;;x
+PROV834;Unu'pe;;;;;;;;;;;x
+PROV835;Lele;;;;;;;;;;;x
+PROV836;Barun;;;;;;;;;;;x
+PROV837;Hotfield;;;;;;;;;;;x
+PROV838;Scalpool;;;;;;;;;;;x
+PROV839;Springsteam;;;;;;;;;;;x
+PROV840;Magmoth;;;;;;;;;;;x
+PROV841;Steeljaw;;;;;;;;;;;x
+PROV842;Eldra'nath;;;;;;;;;;;x
+PROV843;Winret;;;;;;;;;;;x
+PROV844;Winterfin;;;;;;;;;;;x
+PROV845;En'kilah;;;;;;;;;;;x
+PROV846;Taunka'le;;;;;;;;;;;x
+PROV847;Frozen Reach;;;;;;;;;;;x
+PROV848;Coldwall;;;;;;;;;;;x
+PROV849;Coldarra;;;;;;;;;;;x
+PROV850;Steam Springs;;;;;;;;;;;x
+PROV851;Steam Springs;;;;;;;;;;;x
+PROV852;Wintergrasp River;;;;;;;;;;;x
+PROV853;Frenzyheart River;;;;;;;;;;;x
+PROV854;Rainspeaker Rapids;;;;;;;;;;;x
+PROV855;Bittertide Lake;;;;;;;;;;;x
+PROV856;Seabreach Flow;;;;;;;;;;;x
+PROV857;River's Heart;;;;;;;;;;;x
+PROV858;Ulduar;;;;;;;;;;;x
+PROV859;Marista;;;;;;;;;;;x
+PROV860;Unga Ingoo;;;;;;;;;;;x
+PROV861;Southern Isles;;;;;;;;;;;x
+PROV862;Frog Island;;;;;;;;;;;x
+PROV863;Dojan;;;;;;;;;;;x
+PROV864;Iahienal;;;;;;;;;;;x
+PROV865;Turtle Beach;;;;;;;;;;;x
+PROV866;Zabana;;;;;;;;;;;x
+PROV867;Kwegsqoa;;;;;;;;;;;x
+PROV868;Tunka'lo;;;;;;;;;;;x
+PROV869;Nidavelir;;;;;;;;;;;x
+PROV870;Snowdrift;;;;;;;;;;;x
+PROV871;Bouldercrag;;;;;;;;;;;x
+PROV872;Valkyrion;;;;;;;;;;;x
+PROV873;Rohemdal;;;;;;;;;;;x
+PROV874;Bor's Breath;;;;;;;;;;;x
+PROV875;Frosthold;;;;;;;;;;;x
+PROV876;Foot Steppes;;;;;;;;;;;x
+PROV877;Arra;;;;;;;;;;;x
+PROV878;Snowblind;;;;;;;;;;;x
+PROV879;Ricket;;;;;;;;;;;x
+PROV880;Garm;;;;;;;;;;;x
+PROV881;Brunnhildar;;;;;;;;;;;x
+PROV882;Sifreldar;;;;;;;;;;;x
+PROV883;Winter Valley;;;;;;;;;;;x
+PROV884;Dun Niffelem;;;;;;;;;;;x
+PROV885;Frostfield;;;;;;;;;;;x
+PROV886;Thunderfall;;;;;;;;;;;x
+PROV887;Fjorn;;;;;;;;;;;x
+PROV888;Rainspeaker;;;;;;;;;;;x
+PROV889;Wildgrowth;;;;;;;;;;;x
+PROV890;Wintergrowth;;;;;;;;;;;x
+PROV891;Frenzyheart;;;;;;;;;;;x
+PROV892;Sapphire Hive;;;;;;;;;;;x
+PROV893;Nozronn;;;;;;;;;;;x
+PROV894;Kartak;;;;;;;;;;;x
+PROV895;Waygate;;;;;;;;;;;x
+PROV896;Krondol;;;;;;;;;;;x
+PROV897;Nesingwary;;;;;;;;;;;x
+PROV898;Gorl'ro;;;;;;;;;;;x
+PROV899;Splursh;;;;;;;;;;;x
+PROV900;Spearborn;;;;;;;;;;;x
+PROV901;Bonefields;;;;;;;;;;;x
+PROV902;Raincoast;;;;;;;;;;;x
+PROV903;Glumr;;;;;;;;;;;x
+PROV904;Stormwright;;;;;;;;;;;x
+PROV905;Splurmurslr;;;;;;;;;;;x
+PROV906;Gurgrl;;;;;;;;;;;x
+PROV907;Angrathar;;;;;;;;;;;x
+PROV908;Vilehold;;;;;;;;;;;x
+PROV909;Selfors;;;;;;;;;;;x
+PROV910;Berufell;;;;;;;;;;;x
+PROV911;Hoskuldsar;;;;;;;;;;;x
+PROV912;Husnar;;;;;;;;;;;x
+PROV913;An'markus;;;;;;;;;;;x
+PROV914;Guodalir;;;;;;;;;;;x
+PROV915;Skalmarnes;;;;;;;;;;;x
+PROV916;Silentreach;;;;;;;;;;;x
+PROV917;Aldur'thar;;;;;;;;;;;x
+PROV918;Narfeyri;;;;;;;;;;;x
+PROV919;Kori;;;;;;;;;;;x
+PROV920;Ice Valley;;;;;;;;;;;x
+PROV921;Balargarde;;;;;;;;;;;x
+PROV922;Njorndar;;;;;;;;;;;x
+PROV923;Helgafjall;;;;;;;;;;;x
+PROV924;Ferstikla;;;;;;;;;;;x
+PROV925;Ymirheim;;;;;;;;;;;x
+PROV926;Holmslatr;;;;;;;;;;;x
+PROV927;Jahaqua;;;;;;;;;;;x
+PROV928;Myehona;;;;;;;;;;;x
+PROV929;Forlorn;;;;;;;;;;;x
+PROV930;Assmel;;;;;;;;;;;x
+PROV931;Decrepit Flow;;;;;;;;;;;x
+PROV932;Mirror of Twilight;;;;;;;;;;;x
+PROV933;Narsong Spires;;;;;;;;;;;x
+PROV934;Anglers Coast;;;;;;;;;;;x
+PROV935;Sandy Shallows;;;;;;;;;;;x
+PROV936;Thunder Cleft;;;;;;;;;;;x
+PROV937;Krasari;;;;;;;;;;;x
+PROV938;Baymouth;;;;;;;;;;;x
+PROV939;Highcalere;;;;;;;;;;;x
+PROV940;Coblin;;;;;;;;;;;x
+PROV941;Garhill;;;;;;;;;;;x
+PROV942;Northcape;;;;;;;;;;;x
+PROV943;Oil Lakes;;;;;;;;;;;x
+PROV944;Ji'kalak;;;;;;;;;;;x
+PROV945;Hil'dor;;;;;;;;;;;x
+PROV946;Battok'alor;;;;;;;;;;;x
+PROV947;Aiszul'do;;;;;;;;;;;x
+PROV948;Tinkerboom;;;;;;;;;;;x
+PROV949;Dragon Isles;;;;;;;;;;;x
+PROV950;Wrenchport;;;;;;;;;;;x
+PROV951;Khagrihm;;;;;;;;;;;x
+PROV952;Crowgate;;;;;;;;;;;x
+PROV953;Black Coast;;;;;;;;;;;x
+PROV954;Glaive Isle;;;;;;;;;;;x
+PROV955;Mouth of Dragon;;;;;;;;;;;x
+PROV956;Great Sea;;;;;;;;;;;x
+PROV957;Great Sea;;;;;;;;;;;x
+PROV958;Great Sea;;;;;;;;;;;x
+PROV959;Great Sea;;;;;;;;;;;x
+PROV960;Great Sea;;;;;;;;;;;x
+PROV961;Great Sea;;;;;;;;;;;x
+PROV962;Great Sea;;;;;;;;;;;x
+PROV963;Great Sea;;;;;;;;;;;x
+PROV964;Great Sea;;;;;;;;;;;x
+PROV965;Great Sea;;;;;;;;;;;x
+PROV966;Great Sea;;;;;;;;;;;x
+PROV967;Great Sea;;;;;;;;;;;x
+PROV968;Great Sea;;;;;;;;;;;x
+PROV969;Great Sea;;;;;;;;;;;x
+PROV970;Great Sea;;;;;;;;;;;x
+PROV971;Great Sea;;;;;;;;;;;x
+PROV972;Great Sea;;;;;;;;;;;x
+PROV973;Great Sea;;;;;;;;;;;x
+PROV974;Great Sea;;;;;;;;;;;x
+PROV975;Great Sea;;;;;;;;;;;x
+PROV976;Great Sea;;;;;;;;;;;x
+PROV977;Great Sea;;;;;;;;;;;x
+PROV978;Great Sea;;;;;;;;;;;x
+PROV979;Great Sea;;;;;;;;;;;x
+PROV980;Great Sea;;;;;;;;;;;x
+PROV981;Great Sea;;;;;;;;;;;x
+PROV982;Great Sea;;;;;;;;;;;x
+PROV983;Great Sea;;;;;;;;;;;x
+PROV984;Great Sea;;;;;;;;;;;x
+PROV985;Great Sea;;;;;;;;;;;x
+PROV986;Great Sea;;;;;;;;;;;x
+PROV987;Great Sea;;;;;;;;;;;x
+PROV988;Great Sea;;;;;;;;;;;x
+PROV989;Great Sea;;;;;;;;;;;x
+PROV990;Great Sea;;;;;;;;;;;x
+PROV991;Great Sea;;;;;;;;;;;x
+PROV992;Great Sea;;;;;;;;;;;x
+PROV993;Great Sea;;;;;;;;;;;x
+PROV994;Great Sea;;;;;;;;;;;x
+PROV995;Great Sea;;;;;;;;;;;x
+PROV996;Great Sea;;;;;;;;;;;x
+PROV997;South Sea;;;;;;;;;;;x
+PROV998;South Sea;;;;;;;;;;;x
+PROV999;South Sea;;;;;;;;;;;x
+PROV1000;South Sea;;;;;;;;;;;x
+PROV1001;South Sea;;;;;;;;;;;x
+PROV1002;South Sea;;;;;;;;;;;x
+PROV1003;South Sea;;;;;;;;;;;x
+PROV1004;Great Sea;;;;;;;;;;;x
+PROV1005;Great Sea;;;;;;;;;;;x
+PROV1006;Great Sea;;;;;;;;;;;x
+PROV1007;Great Sea;;;;;;;;;;;x
+PROV1008;Ahn'kahet;;;;;;;;;;;x
+PROV1009;Cisha'zus;;;;;;;;;;;x
+PROV1010;En'rekan;;;;;;;;;;;x
+PROV1011;Cralmar;;;;;;;;;;;x
+PROV1012;Cha'drakh;;;;;;;;;;;x
+PROV1013;Hadronox'zin;;;;;;;;;;;x
+PROV1014;Nurjak;;;;;;;;;;;x
+PROV1015;Brood Pit;;;;;;;;;;;x
+PROV1016;Kral'rox;;;;;;;;;;;x
+PROV1017;Serjeshaik;;;;;;;;;;;x
+PROV1018;Sut'rashin;;;;;;;;;;;x
+PROV1019;En'nerub;;;;;;;;;;;x
+PROV1020;Khuljil;;;;;;;;;;;x
+PROV1021;Gaerzos;;;;;;;;;;;x
+PROV1022;Krat'ren;;;;;;;;;;;x
+PROV1023;Mushvar;;;;;;;;;;;x
+PROV1024;Grais'tolis;;;;;;;;;;;x
+PROV1025;Haid'rix;;;;;;;;;;;x
+PROV1026;Yimok'air;;;;;;;;;;;x
+PROV1027;En'kerah;;;;;;;;;;;x
+PROV1028;Sizol'rar;;;;;;;;;;;x
+PROV1029;Gak'usil;;;;;;;;;;;x
+PROV1030;Anub'dahak;;;;;;;;;;;x
+PROV1031;Stone Pit;;;;;;;;;;;x
+PROV1032;Hise'zir;;;;;;;;;;;x
+PROV1033;Lost City;;;;;;;;;;;x
+PROV1034;Bloodground;;;;;;;;;;;x
+PROV1035;Krak'thol;;;;;;;;;;;x
+PROV1036;Yulanul;;;;;;;;;;;x
+PROV1037;Nisnat;;;;;;;;;;;x
+PROV1038;Abysshard;;;;;;;;;;;x
+PROV1039;Kreshalan;;;;;;;;;;;x
+PROV1040;Kil'tal;;;;;;;;;;;x
+PROV1041;Hotway;;;;;;;;;;;x
+PROV1042;Candle Pass;;;;;;;;;;;x
+PROV1043;Disease Coast;;;;;;;;;;;x
+PROV1044;Trogg Burrows;;;;;;;;;;;x
+PROV1045;Crying Shore;;;;;;;;;;;x
+PROV1046;Khainis;;;;;;;;;;;x
+PROV1047;Crimson City;;;;;;;;;;;x
+PROV1048;Baravar;;;;;;;;;;;x
+PROV1049;Dun Glade;;;;;;;;;;;x
+PROV1050;Giant Table;;;;;;;;;;;x
+PROV1051;Quiet Plateau;;;;;;;;;;;x
+PROV1052;Waxmine;;;;;;;;;;;x
+PROV1053;Doorward;;;;;;;;;;;x
+PROV1054;Amberstand;;;;;;;;;;;x
+PROV1055;Lowgarden;;;;;;;;;;;x
+PROV1056;Dun Baran;;;;;;;;;;;x
+PROV1057;Grivin;;;;;;;;;;;x
+PROV1058;Goldabar;;;;;;;;;;;x
+PROV1059;Aurum Halls;;;;;;;;;;;x
+PROV1060;Golgobar;;;;;;;;;;;x
+PROV1061;Diana's Tears;;;;;;;;;;;x
+PROV1062;Bok'knock;;;;;;;;;;;x
+PROV1063;Krijen;;;;;;;;;;;x
+PROV1064;Dust Walley;;;;;;;;;;;x
+PROV1065;Gorlogor;;;;;;;;;;;x
+PROV1066;Asjavollr;;;;;;;;;;;x
+PROV1067;Earthquaker;;;;;;;;;;;x
+PROV1068;Grave River;;;;;;;;;;;x
+PROV1069;Dryearth;;;;;;;;;;;x
+PROV1070;Vordrassil'arin;;;;;;;;;;;x
+PROV1071;Ursolak;;;;;;;;;;;x
+PROV1072;Diamond Coast;;;;;;;;;;;x
+PROV1073;Mossy Forest;;;;;;;;;;;x
+PROV1074;Emerald Grove;;;;;;;;;;;x
+PROV1075;Green Cape;;;;;;;;;;;x
+PROV1076;Bald Cape;;;;;;;;;;;x
+PROV1077;Sharp Ledges;;;;;;;;;;;x
+PROV1078;Dry Shore;;;;;;;;;;;x
+PROV1079;Strongkeep;;;;;;;;;;;x
+PROV1080;Stonefall;;;;;;;;;;;x
+PROV1081;Stonegate;;;;;;;;;;;x
+PROV1082;Yogg'khalia;;;;;;;;;;;x
+PROV1083;Ghur'knock;;;;;;;;;;;x
+PROV1084;Far'rum;;;;;;;;;;;x
+PROV1085;Surs'nox;;;;;;;;;;;x
+PROV1086;Naz'anak;;;;;;;;;;;x
+PROV1087;Ebon Depths;;;;;;;;;;;x
+PROV1088;Saronite Way;;;;;;;;;;;x
+PROV1089;Zeb'redar;;;;;;;;;;;x
+PROV1090;Web'anar;;;;;;;;;;;x
+PROV1091;Gri'kilah;;;;;;;;;;;x
+PROV1092;Aikor'rekan;;;;;;;;;;;x
+PROV1093;Dusty Island;;;;;;;;;;;x
+PROV1094;Numesnil;;;;;;;;;;;x
+PROV1095;Whisp Rift;;;;;;;;;;;x
+PROV1096;Yul'tomas;;;;;;;;;;;x
+PROV1097;Crystal Peaks;;;;;;;;;;;x
+PROV1098;Spider Way;;;;;;;;;;;x
+PROV1099;Haven'veril;;;;;;;;;;;x
+PROV1100;Rocky Cape;;;;;;;;;;;x
+PROV1101;Hollow Earth;;;;;;;;;;;x
+PROV1102;Candle Plains;;;;;;;;;;;x
+PROV1103;Madness Pass;;;;;;;;;;;x
+PROV1104;Ratling Peninsula;;;;;;;;;;;x
+PROV1105;Khusrur;;;;;;;;;;;x
+PROV1106;Dun Ankor;;;;;;;;;;;x
+PROV1107;Spider Bridge;;;;;;;;;;;x
+PROV1108;Kazra'drak;;;;;;;;;;;x
+PROV1109;Demoneye;;;;;;;;;;;x
+PROV1110;An'lakon;;;;;;;;;;;x
+PROV1111;Trarit'zix;;;;;;;;;;;x
+PROV1112;Angathar;;;;;;;;;;;x
+PROV1113;Maeldar;;;;;;;;;;;x
+PROV1114;Mushgurd;;;;;;;;;;;x
+PROV1115;Nor'kilogg;;;;;;;;;;;x
+PROV1116;Niarduk;;;;;;;;;;;x
+PROV1117;Zarjasux;;;;;;;;;;;x
+PROV1118;Umbabu;;;;;;;;;;;x
+PROV1119;Crimson Lake;;;;;;;;;;;x
+PROV1120;Bloodtears Lake;;;;;;;;;;;x
+PROV1121;Trogg Lake;;;;;;;;;;;x
+PROV1122;Swamp;;;;;;;;;;;x
+PROV1123;Swamp;;;;;;;;;;;x
+PROV1124;Swamp;;;;;;;;;;;x
+PROV1125;Swamp;;;;;;;;;;;x
+PROV1126;Diamond Lake;;;;;;;;;;;x
+PROV1127;Emerald Lake;;;;;;;;;;;x
+PROV1128;Boundless Reach;;;;;;;;;;;x
+PROV1129;Dark Abyss;;;;;;;;;;;x
+PROV1130;Thin Abyss;;;;;;;;;;;x
+PROV1131;Shadow Abyss;;;;;;;;;;;x
+PROV1132;Great Abyss;;;;;;;;;;;x
+PROV1133;Serpentine Abyss;;;;;;;;;;;x
+PROV1134;Shattered Abyss;;;;;;;;;;;x
+PROV1135;Forgotten Abyss;;;;;;;;;;;x
+PROV1136;Devouring Abyss;;;;;;;;;;;x
+PROV1137;Forbidden Abyss;;;;;;;;;;;x
+PROV1138;Zhu;;;;;;;;;;;x
+PROV1139;Ogudei;;;;;;;;;;;x
+PROV1140;Zhu's Descent;;;;;;;;;;;x
+PROV1141;Ice Ridge;;;;;;;;;;;x
+PROV1142;Krasarang Cove;;;;;;;;;;;x
+PROV1143;World's Precipice;;;;;;;;;;;x
+PROV1144;Eanorah;;;;;;;;;;;x
+PROV1145;Korja;;;;;;;;;;;x
+PROV1146;Blacksand Spillway;;;;;;;;;;;x
+PROV1147;Fallsong;;;;;;;;;;;x
+PROV1148;Dawnchaser Forest;;;;;;;;;;;x
+PROV1149;Field of Korja;;;;;;;;;;;x
+PROV1150;Forbidden Jungle;;;;;;;;;;;x
+PROV1151;Absorbing Scar;;;;;;;;;;;x
+PROV1152;Distorting Scars;;;;;;;;;;;x
+PROV1153;Deep Scar;;;;;;;;;;;x
+PROV1154;Ulgrak;;;;;;;;;;;x
+PROV1155;Junkwatt;;;;;;;;;;;x
+PROV1156;Mogu'shan;;;;;;;;;;;x
+PROV1157;Rustbolt;;;;;;;;;;;x
+PROV1158;Scrapbone;;;;;;;;;;;x
+PROV1159;Grum;;;;;;;;;;;x
+PROV1160;Shipwreck;;;;;;;;;;;x
+PROV1161;Wintergrasp;;;;;;;;;;;x
+PROV1162;Sunken Ring;;;;;;;;;;;x
+PROV1163;Eastspark;;;;;;;;;;;x
+PROV1164;Broken Temple;;;;;;;;;;;x
+PROV1165;Chilled Quagmire;;;;;;;;;;;x
+PROV1166;Zouchin Strand;;;;;;;;;;;x
+PROV1167;Chich-Ral'tan;;;;;;;;;;;x
+PROV1168;Brek'shaim;;;;;;;;;;;x
+PROV1169;Isle of Reckoning;;;;;;;;;;;x
+PROV1170;Whispercloud;;;;;;;;;;;x
+PROV1171;Maker's Perch;;;;;;;;;;;x
+PROV1172;Emperor's Reach;;;;;;;;;;;x
+PROV1173;Korune;;;;;;;;;;;x
+PROV1174;Kardak'ahar;;;;;;;;;;;x
+PROV1175;Mogu'gar;;;;;;;;;;;x
+PROV1176;Thar-Dar;;;;;;;;;;;x
+PROV1177;Westernfog;;;;;;;;;;;x
+PROV1178;Manti'vess;;;;;;;;;;;x
+PROV1179;Ka'dixxat;;;;;;;;;;;x
+PROV1180;Stinging Trail;;;;;;;;;;;x
+PROV1181;Song-Hun;;;;;;;;;;;x
+PROV1182;Shek'zeer;;;;;;;;;;;x
+PROV1183;Panic Clutch;;;;;;;;;;;x
+PROV1184;Fear Clutch;;;;;;;;;;;x
+PROV1185;Kor'vess;;;;;;;;;;;x
+PROV1186;Rikkilea;;;;;;;;;;;x
+PROV1187;Sunset Brewgarden;;;;;;;;;;;x
+PROV1188;Zan'vess;;;;;;;;;;;x
+PROV1189;Hukkir'lam;;;;;;;;;;;x
+PROV1190;Ve'kam;;;;;;;;;;;x
+PROV1191;Kypari Zar;;;;;;;;;;;x
+PROV1192;Kypari Ik;;;;;;;;;;;x
+PROV1193;Mazu;;;;;;;;;;;x
+PROV1194;Soggy;;;;;;;;;;;x
+PROV1195;Kza'vexxi;;;;;;;;;;;x
+PROV1196;Stars Plains;;;;;;;;;;;x
+PROV1197;Klaxxi'vess;;;;;;;;;;;x
+PROV1198;Writhingwood;;;;;;;;;;;x
+PROV1199;Kain-Qud;;;;;;;;;;;x
+PROV1200;Gurthan;;;;;;;;;;;x
+PROV1201;Kypari Vor;;;;;;;;;;;x
+PROV1202;Niuzao;;;;;;;;;;;x
+PROV1203;Sra'thik;;;;;;;;;;;x
+PROV1204;Zhal'mar;;;;;;;;;;;x
+PROV1205;Vithurak;;;;;;;;;;;x
+PROV1206;Ju'man;;;;;;;;;;;x
+PROV1207;Sra'vess;;;;;;;;;;;x
+PROV1208;Kzzok;;;;;;;;;;;x
+PROV1209;Ikz'ka;;;;;;;;;;;x
+PROV1210;Shan'ze Dao;;;;;;;;;;;x
+PROV1211;Dao'shan;;;;;;;;;;;x
+PROV1212;Go'lao;;;;;;;;;;;x
+PROV1213;Sik'vess;;;;;;;;;;;x
+PROV1214;Rensai;;;;;;;;;;;x
+PROV1215;Underbough;;;;;;;;;;;x
+PROV1216;Hatred's Vice;;;;;;;;;;;x
+PROV1217;Gao-Ran;;;;;;;;;;;x
+PROV1218;Dampsoil;;;;;;;;;;;x
+PROV1219;Dusklight;;;;;;;;;;;x
+PROV1220;Upper Sumprushes;;;;;;;;;;;x
+PROV1221;Lower Sumprushes;;;;;;;;;;;x
+PROV1222;Longying;;;;;;;;;;;x
+PROV1223;Osul;;;;;;;;;;;x
+PROV1224;Gai-Cho;;;;;;;;;;;x
+PROV1225;Kri'vess;;;;;;;;;;;x
+PROV1226;Deadtalker;;;;;;;;;;;x
+PROV1227;Ambermarsh;;;;;;;;;;;x
+PROV1228;Xom Juch;;;;;;;;;;;x
+PROV1229;Lei Shen;;;;;;;;;;;x
+PROV1230;Van Zhu'nod;;;;;;;;;;;x
+PROV1231;Draom Taesh;;;;;;;;;;;x
+PROV1232;Soslig Ren;;;;;;;;;;;x
+PROV1233;Diremoor;;;;;;;;;;;x
+PROV1234;Bleak Hollow;;;;;;;;;;;x
+PROV1235;Fauk'shed Bod;;;;;;;;;;;x
+PROV1236;Wildvine;;;;;;;;;;;x
+PROV1237;Shadewood;;;;;;;;;;;x
+PROV1238;Za'Tual;;;;;;;;;;;x
+PROV1239;Ihgaluk;;;;;;;;;;;x
+PROV1240;Yu'lon;;;;;;;;;;;x
+PROV1241;Serpent's Hearth;;;;;;;;;;;x
+PROV1242;Shadybranch;;;;;;;;;;;x
+PROV1243;Fox Grove;;;;;;;;;;;x
+PROV1244;Orchid Hollow;;;;;;;;;;;x
+PROV1245;Shang's Valley;;;;;;;;;;;x
+PROV1246;Dawn's Blossom;;;;;;;;;;;x
+PROV1247;Silkwood;;;;;;;;;;;x
+PROV1248;Serpent Hill;;;;;;;;;;;x
+PROV1249;Arboretum;;;;;;;;;;;x
+PROV1250;Greenstone;;;;;;;;;;;x
+PROV1251;Greenstone;;;;;;;;;;;x
+PROV1252;Young-Soo;;;;;;;;;;;x
+PROV1253;Emperor's Omen;;;;;;;;;;;x
+PROV1254;Sri-La;;;;;;;;;;;x
+PROV1255;Pearlfin;;;;;;;;;;;x
+PROV1256;Amberfly;;;;;;;;;;;x
+PROV1257;Moonwater;;;;;;;;;;;x
+PROV1258;Slingtail;;;;;;;;;;;x
+PROV1259;Bamboo Wilds;;;;;;;;;;;x
+PROV1260;Sakurai;;;;;;;;;;;x
+PROV1261;Paw'don;;;;;;;;;;;x
+PROV1262;Veridian;;;;;;;;;;;x
+PROV1263;Wayward;;;;;;;;;;;x
+PROV1264;Twinspire;;;;;;;;;;;x
+PROV1265;Gormal;;;;;;;;;;;x
+PROV1266;Nectarbreeze;;;;;;;;;;;x
+PROV1267;Serpent's Overlook;;;;;;;;;;;x
+PROV1268;Thunderwood;;;;;;;;;;;x
+PROV1269;Chun Tian;;;;;;;;;;;x
+PROV1270;Thunderpaw;;;;;;;;;;;x
+PROV1271;Mei Li-Sa;;;;;;;;;;;x
+PROV1272;Waxwood;;;;;;;;;;;x
+PROV1273;Honeydew;;;;;;;;;;;x
+PROV1274;Spiritsong;;;;;;;;;;;x
+PROV1275;Thunder Hold;;;;;;;;;;;x
+PROV1276;Fertile Copse;;;;;;;;;;;x
+PROV1277;Swirling Winds;;;;;;;;;;;x
+PROV1278;Enlightenment;;;;;;;;;;;x
+PROV1279;Tigers' Wood;;;;;;;;;;;x
+PROV1280;Exclamation Point;;;;;;;;;;;x
+PROV1281;Grookin Hill;;;;;;;;;;;x
+PROV1282;Dookin' Grounds;;;;;;;;;;;x
+PROV1283;Jade Jungle;;;;;;;;;;;x
+PROV1284;Scenic Overlook;;;;;;;;;;;x
+PROV1285;Secret Aerie;;;;;;;;;;;x
+PROV1286;Forest Heart;;;;;;;;;;;x
+PROV1287;Gong of Hope;;;;;;;;;;;x
+PROV1288;Chi Hu'andi;;;;;;;;;;;x
+PROV1289;Windward;;;;;;;;;;;x
+PROV1290;Slitherscale;;;;;;;;;;;x
+PROV1291;Cloud Serpent;;;;;;;;;;;x
+PROV1292;Windspire;;;;;;;;;;;x
+PROV1293;Ten Thunders;;;;;;;;;;;x
+PROV1294;Tideview Thicket;;;;;;;;;;;x
+PROV1295;Gan Shi;;;;;;;;;;;x
+PROV1296;Woods of the Lost;;;;;;;;;;;x
+PROV1297;Halfhill;;;;;;;;;;;x
+PROV1298;Verdant Belt;;;;;;;;;;;x
+PROV1299;Heartland;;;;;;;;;;;x
+PROV1300;Gai Lan;;;;;;;;;;;x
+PROV1301;Plain of Thieves;;;;;;;;;;;x
+PROV1302;Stormstout;;;;;;;;;;;x
+PROV1303;Stoneplow;;;;;;;;;;;x
+PROV1304;Torjari;;;;;;;;;;;x
+PROV1305;Dustback Gorge;;;;;;;;;;;x
+PROV1306;Paoquan Hollow;;;;;;;;;;;x
+PROV1307;Singing Marshes;;;;;;;;;;;x
+PROV1308;Skyrange;;;;;;;;;;;x
+PROV1309;Kunzen;;;;;;;;;;;x
+PROV1310;New Cifera;;;;;;;;;;;x
+PROV1311;Pools of Purity;;;;;;;;;;;x
+PROV1312;Springtail;;;;;;;;;;;x
+PROV1313;Endless Echoes;;;;;;;;;;;x
+PROV1314;Thunderfoot;;;;;;;;;;;x
+PROV1315;Sheep Fields;;;;;;;;;;;x
+PROV1316;Shang;;;;;;;;;;;x
+PROV1317;Grassy Cline;;;;;;;;;;;x
+PROV1318;Sunsoaked Meadow;;;;;;;;;;;x
+PROV1319;Silken Fields;;;;;;;;;;;x
+PROV1320;Rumbling Terrace;;;;;;;;;;;x
+PROV1321;Virmen Nest;;;;;;;;;;;x
+PROV1322;Winds' Edge;;;;;;;;;;;x
+PROV1323;Dark Hollow;;;;;;;;;;;x
+PROV1324;Chi-Ji Temple;;;;;;;;;;;x
+PROV1325;Deepwild;;;;;;;;;;;x
+PROV1351;South Seas;;;;;;;;;;;x
+PROV1352;South Seas;;;;;;;;;;;x
+PROV1353;South Seas;;;;;;;;;;;x
+PROV1354;South Seas;;;;;;;;;;;x
+PROV1355;South Seas;;;;;;;;;;;x
+PROV1356;South Seas;;;;;;;;;;;x
+PROV1357;South Seas;;;;;;;;;;;x
+PROV1358;South Seas;;;;;;;;;;;x
+PROV1359;South Seas;;;;;;;;;;;x
+PROV1360;South Seas;;;;;;;;;;;x
+PROV1361;South Seas;;;;;;;;;;;x
+PROV1362;South Seas;;;;;;;;;;;x
+PROV1363;South Seas;;;;;;;;;;;x
+PROV1364;South Seas;;;;;;;;;;;x
+PROV1365;South Seas;;;;;;;;;;;x
+PROV1366;South Seas;;;;;;;;;;;x
+PROV1367;South Seas;;;;;;;;;;;x
+PROV1368;South Seas;;;;;;;;;;;x
+PROV1369;South Seas;;;;;;;;;;;x
+PROV1370;South Seas;;;;;;;;;;;x
+PROV1371;South Seas;;;;;;;;;;;x
+PROV1372;South Seas;;;;;;;;;;;x
+PROV1373;South Seas;;;;;;;;;;;x
+PROV1374;South Seas;;;;;;;;;;;x
+PROV1375;South Seas;;;;;;;;;;;x
+PROV1376;South Seas;;;;;;;;;;;x
+PROV1377;South Seas;;;;;;;;;;;x
+PROV1378;South Seas;;;;;;;;;;;x
+PROV1379;South Seas;;;;;;;;;;;x
+PROV1380;South Seas;;;;;;;;;;;x
+PROV1381;South Seas;;;;;;;;;;;x
+PROV1382;South Seas;;;;;;;;;;;x
+PROV1383;South Seas;;;;;;;;;;;x
+PROV1384;South Seas;;;;;;;;;;;x
+PROV1385;Mistveil Sea;;;;;;;;;;;x
+PROV1386;Mistveil Sea;;;;;;;;;;;x
+PROV1387;Mistveil Sea;;;;;;;;;;;x
+PROV1388;Mistveil Sea;;;;;;;;;;;x
+PROV1389;Mistveil Sea;;;;;;;;;;;x
+PROV1390;Mistveil Sea;;;;;;;;;;;x
+PROV1391;Mistveil Sea;;;;;;;;;;;x
+PROV1392;Mistveil Sea;;;;;;;;;;;x
+PROV1393;Mistveil Sea;;;;;;;;;;;x
+PROV1394;Slicky Stream;;;;;;;;;;;x
+PROV1395;Slicky Stream;;;;;;;;;;;x
+PROV1396;Slicky Stream;;;;;;;;;;;x
+PROV1397;Slicky Stream;;;;;;;;;;;x
+PROV1398;Slicky Stream;;;;;;;;;;;x
+PROV1399;Slicky Stream;;;;;;;;;;;x
+PROV1400;Pearl Lake;;;;;;;;;;;x
+PROV1401;Spiritsong Lake;;;;;;;;;;;x
+PROV1402;Lake Kittitata;;;;;;;;;;;x
+PROV1403;Lake;;;;;;;;;;;x
+PROV1404;Lake;;;;;;;;;;;x
+PROV1405;Lake;;;;;;;;;;;x
+PROV1406;Lake;;;;;;;;;;;x
+PROV1407;Lake;;;;;;;;;;;x
+PROV1408;Uncharted Sea;;;;;;;;;;;x
+PROV1409;Uncharted Sea;;;;;;;;;;;x
+PROV1410;Uncharted Sea;;;;;;;;;;;x
+PROV1411;Uncharted Sea;;;;;;;;;;;x
+PROV1412;Uncharted Sea;;;;;;;;;;;x
+PROV1413;Uncharted Sea;;;;;;;;;;;x
+PROV1414;Narsong Trench;;;;;;;;;;;x
+PROV1415;Narsong Trench;;;;;;;;;;;x
+PROV1416;Sarjun Depths;;;;;;;;;;;x
+PROV1417;Nayeli Lagoon;;;;;;;;;;;x
+PROV1418;Nayeli Lagoon;;;;;;;;;;;x
+PROV1419;Nayeli Lagoon;;;;;;;;;;;x
+PROV1420;Nayeli Lagoon;;;;;;;;;;;x
+PROV1421;Nayeli Lagoon;;;;;;;;;;;x
+PROV1422;Nayeli Lagoon;;;;;;;;;;;x
+PROV1423;Nayeli Lagoon;;;;;;;;;;;x
+PROV1424;Dojani River;;;;;;;;;;;x
+PROV1425;Krasarang River;;;;;;;;;;;x
+PROV1426;Krasarang River;;;;;;;;;;;x
+PROV1427;Krasarang River;;;;;;;;;;;x
+PROV1428;Yan-Zhe River;;;;;;;;;;;x
+PROV1429;Yan-Zhe River;;;;;;;;;;;x
+PROV1430;Yan-Zhe River;;;;;;;;;;;x
+PROV1431;Yan-Zhe River;;;;;;;;;;;x
+PROV1432;Yan-Zhe River;;;;;;;;;;;x
+PROV1433;Yan-Zhe River;;;;;;;;;;;x
+PROV1434;Gilding Stream;;;;;;;;;;;x
+PROV1435;Gilded Fan;;;;;;;;;;;x
+PROV1436;Cattail Lake;;;;;;;;;;;x
+PROV1437;Pools;;;;;;;;;;;x
+PROV1438;Inkgill Mere;;;;;;;;;;;x
+PROV1439;Lake;;;;;;;;;;;x
+PROV1440;Lake;;;;;;;;;;;x
+PROV1441;Lake;;;;;;;;;;;x
+PROV1442;Lake;;;;;;;;;;;x
+PROV1443;Whitepetal Lake;;;;;;;;;;;x
+PROV1444;Pools of Power;;;;;;;;;;;x
+PROV1445;Lei Shi;;;;;;;;;;;x
+PROV1446;Lake;;;;;;;;;;;x
+PROV1447;Lake;;;;;;;;;;;x
+PROV1448;Lake;;;;;;;;;;;x
+PROV1449;Lake;;;;;;;;;;;x
+PROV1450;Lake;;;;;;;;;;;x
+PROV1451;Lake;;;;;;;;;;;x
+PROV1452;Lake of Stars;;;;;;;;;;;x
+PROV1453;Marsh;;;;;;;;;;;x
+PROV1454;Gokk'lok Shallows;;;;;;;;;;;x
+PROV1455;Gokk'lok Shallows;;;;;;;;;;;x
+PROV1456;Shelf of Mazu;;;;;;;;;;;x
+PROV1457;Shelf of Mazu;;;;;;;;;;;x
+PROV1458;Shelf of Mazu;;;;;;;;;;;x
+PROV1459;Shelf of Mazu;;;;;;;;;;;x
+PROV1460;Muckscale Shallows;;;;;;;;;;;x
+PROV1461;Muckscale Shallows;;;;;;;;;;;x
+PROV1462;Muckscale Shallows;;;;;;;;;;;x
+PROV1463;Gokk'lok Shallows;;;;;;;;;;;x
+PROV1464;Westersea;;;;;;;;;;;x
+PROV1465;Westersea;;;;;;;;;;;x
+PROV1466;Westersea;;;;;;;;;;;x
+PROV1467;Westersea;;;;;;;;;;;x
+PROV1468;Westersea;;;;;;;;;;;x
+PROV1469;Westersea;;;;;;;;;;;x
+PROV1470;Westersea;;;;;;;;;;;x
+PROV1471;Westersea;;;;;;;;;;;x
+PROV1472;Westersea;;;;;;;;;;;x
+PROV1473;Westersea;;;;;;;;;;;x
+PROV1474;Westersea;;;;;;;;;;;x
+PROV1475;Westersea;;;;;;;;;;;x
+PROV1476;Westersea;;;;;;;;;;;x
+PROV1477;Westersea;;;;;;;;;;;x
+PROV1478;Westersea;;;;;;;;;;;x
+PROV1479;Westersea;;;;;;;;;;;x
+PROV1480;Westersea;;;;;;;;;;;x
+PROV1481;Westersea;;;;;;;;;;;x
+PROV1482;Westersea;;;;;;;;;;;x
+PROV2801;Nazferiti River;;;;;;;;;;;x
+PROV2802;Nazferiti River;;;;;;;;;;;x
+PROV2803;Nazferiti River;;;;;;;;;;;x
+PROV2804;Nazferiti River;;;;;;;;;;;x
+PROV2805;Nazferiti River;;;;;;;;;;;x
+PROV2806;Nazferiti River;;;;;;;;;;;x
+PROV2807;Nazferiti River;;;;;;;;;;;x
+PROV2808;Nazferiti River;;;;;;;;;;;x
+PROV2809;Nazferiti River;;;;;;;;;;;x
+PROV2810;Nazferiti River;;;;;;;;;;;x
+PROV2811;Lake Nazferiti;;;;;;;;;;;x
+PROV2812;Nazferiti River;;;;;;;;;;;x
+PROV2813;North Sea;;;;;;;;;;;x
+PROV2814;North Sea;;;;;;;;;;;x
+PROV2816;North Sea;;;;;;;;;;;x
+PROV2817;North Sea;;;;;;;;;;;x
+PROV2818;North Sea;;;;;;;;;;;x
+PROV2820;North Sea;;;;;;;;;;;x
+PROV2821;North Sea;;;;;;;;;;;x
+PROV2822;North Sea;;;;;;;;;;;x
+PROV2823;North Sea;;;;;;;;;;;x
+PROV2824;North Sea;;;;;;;;;;;x
+PROV2825;North Sea;;;;;;;;;;;x
+PROV2826;North Sea;;;;;;;;;;;x
+PROV2827;North Sea;;;;;;;;;;;x
+PROV2828;North Sea;;;;;;;;;;;x
+PROV2829;North Sea;;;;;;;;;;;x
+PROV2830;North Sea;;;;;;;;;;;x
+PROV2831;Frozen Sea;;;;;;;;;;;x
+PROV2832;Frozen Sea;;;;;;;;;;;x
+PROV2833;Frozen Sea;;;;;;;;;;;x
+PROV2834;Frozen Sea;;;;;;;;;;;x
+PROV2835;Frozen Sea;;;;;;;;;;;x
+PROV2836;Frozen Sea;;;;;;;;;;;x
+PROV2837;Frozen Sea;;;;;;;;;;;x
+PROV2838;Frozen Sea;;;;;;;;;;;x
+PROV2839;Frozen Sea;;;;;;;;;;;x
+PROV2840;Frozen Sea;;;;;;;;;;;x
+PROV2841;Frozen Sea;;;;;;;;;;;x
+PROV2842;Frozen Sea;;;;;;;;;;;x
+PROV2843;Frozen Sea;;;;;;;;;;;x
+PROV2844;Frozen Sea;;;;;;;;;;;x
+PROV2845;Frozen Sea;;;;;;;;;;;x
+PROV2846;Frozen Sea;;;;;;;;;;;x
+PROV2847;Frozen Sea;;;;;;;;;;;x
+PROV2848;Frozen Sea;;;;;;;;;;;x
+PROV2849;Frozen Sea;;;;;;;;;;;x
+PROV2850;Frozen Sea;;;;;;;;;;;x
+PROV2851;Frozen Sea;;;;;;;;;;;x
+PROV2852;Frozen Sea;;;;;;;;;;;x
+PROV2853;Frozen Sea;;;;;;;;;;;x
+PROV2854;Frozen Sea;;;;;;;;;;;x
+PROV2855;FrozenSea;;;;;;;;;;;x
+PROV2856;Moa'ki Harbor;;;;;;;;;;;x
+PROV2857;Kili'ua's Atoll;;;;;;;;;;;x
+PROV2858;Coldwind Bay;;;;;;;;;;;x
+PROV2859;Frozen Sea;;;;;;;;;;;x
+PROV2860;Frozen Sea;;;;;;;;;;;x
+PROV2861;Frozen Sea;;;;;;;;;;;x
+PROV2862;Frozen Sea;;;;;;;;;;;x
+PROV2863;Strait of Coldarra;;;;;;;;;;;x
+PROV2864;Glimmer Bay;;;;;;;;;;;x
+PROV2865;Frozen Sea;;;;;;;;;;;x
+PROV2866;Frozen Sea;;;;;;;;;;;x
+PROV2867;Seabreach Coast;;;;;;;;;;;x
+PROV2869;Seabreach Coast;;;;;;;;;;;x
+PROV2870;Coast of Conquests;;;;;;;;;;;x
+PROV2872;Coast of Conquests;;;;;;;;;;;x
+PROV2873;Coast of Conquests;;;;;;;;;;;x
+PROV2874;Coast of Conquests;;;;;;;;;;;x
+PROV2876;Onslaught Bay;;;;;;;;;;;x
+PROV2877;North Sea;;;;;;;;;;;x
+PROV2878;North Sea;;;;;;;;;;;x
+PROV2879;North Sea;;;;;;;;;;;x
+PROV2880;Hrothgar Pass;;;;;;;;;;;x
+PROV2883;Hrothgar Pass;;;;;;;;;;;x
+PROV2885;North Sea;;;;;;;;;;;x
+PROV2887;North Sea;;;;;;;;;;;x
+PROV2888;North Sea;;;;;;;;;;;x
+PROV2889;North Sea;;;;;;;;;;;x
+PROV2890;North Sea;;;;;;;;;;;x
+PROV2891;North Sea;;;;;;;;;;;x
+PROV2892;North Sea;;;;;;;;;;;x
+PROV2893;North Sea;;;;;;;;;;;x
+PROV2894;North Sea;;;;;;;;;;;x
+PROV2895;North Sea;;;;;;;;;;;x
+PROV2896;North Sea;;;;;;;;;;;x
+PROV2897;North Sea;;;;;;;;;;;x
+PROV2898;North Sea;;;;;;;;;;;x
+PROV2899;North Sea;;;;;;;;;;;x
+PROV2902;Tol'nariv;;;;;;;;;;;x
+PROV2903;Dulized;;;;;;;;;;;x
+PROV2904;Sunstone;;;;;;;;;;;x
+PROV2905;Nahom;;;;;;;;;;;x
+PROV2906;Khartut;;;;;;;;;;;x
+PROV2907;Tammano;;;;;;;;;;;x
+PROV2908;Ramkahen;;;;;;;;;;;x
+PROV2909;Mar'at;;;;;;;;;;;x
+PROV2911;Tahret;;;;;;;;;;;x
+PROV2912;Akhenet;;;;;;;;;;;x
+PROV2913;Phedathi;;;;;;;;;;;x
+PROV2914;Sahket;;;;;;;;;;;x
+PROV2915;Helhuvip;;;;;;;;;;;x
+PROV2916;Orsis;;;;;;;;;;;x
+PROV2917;Ammon;;;;;;;;;;;x
+PROV2918;Ta-Kemet;;;;;;;;;;;x
+PROV2919;An'barhan;;;;;;;;;;;x
+PROV2920;Vir'sar;;;;;;;;;;;x
+PROV2921;Khintaset;;;;;;;;;;;x
+PROV2922;Moonsuph;;;;;;;;;;;x
+PROV2923;Aamsk;;;;;;;;;;;x
+PROV2924;Neferset;;;;;;;;;;;x
+PROV2925;South Wind;;;;;;;;;;;x
+PROV2926;Kubitis;;;;;;;;;;;x
+PROV2927;Sunwatcher;;;;;;;;;;;x
+PROV2928;Sunsuph;;;;;;;;;;;x
+PROV2929;Hamatep;;;;;;;;;;;x
+PROV2930;Asova;;;;;;;;;;;x
+PROV2931;Oorf;;;;;;;;;;;x
+PROV2934;Zul'farrak;;;;;;;;;;;x
+PROV2935;Gadgetzan;;;;;;;;;;;x
+PROV2936;Waterspring;;;;;;;;;;;x
+PROV2937;Sandsnipe;;;;;;;;;;;x
+PROV2938;Wavestrider;;;;;;;;;;;x
+PROV2939;Noonshade;;;;;;;;;;;x
+PROV2940;Sandsorrow;;;;;;;;;;;x
+PROV2941;Wag'tan;;;;;;;;;;;x
+PROV2942;Noxious;;;;;;;;;;;x
+PROV2943;Dunemaul;;;;;;;;;;;x
+PROV2944;Caverns of Time;;;;;;;;;;;x
+PROV2945;Volund;;;;;;;;;;;x
+PROV2946;Rniasass;;;;;;;;;;;x
+PROV2947;Jag'tar;;;;;;;;;;;x
+PROV2948;Nviamas;;;;;;;;;;;x
+PROV2949;Southbreak;;;;;;;;;;;x
+PROV2950;Allaeis;;;;;;;;;;;x
+PROV2951;Thistleshrub;;;;;;;;;;;x
+PROV2952;Uldum;;;;;;;;;;;x
+PROV2953;Southmoon;;;;;;;;;;;x
+PROV2954;Eastmoon;;;;;;;;;;;x
+PROV2955;Southpoint;;;;;;;;;;;x
+PROV2956;Ahn'qiraj;;;;;;;;;;;x
+PROV2957;Murcevin;;;;;;;;;;;x
+PROV2958;Staghelm;;;;;;;;;;;x
+PROV2959;Valor;;;;;;;;;;;x
+PROV2960;Hive'ashi;;;;;;;;;;;x
+PROV2961;Crystalvale;;;;;;;;;;;x
+PROV2962;Ishrak;;;;;;;;;;;x
+PROV2963;Hive'zora;;;;;;;;;;;x
+PROV2964;Waterscar;;;;;;;;;;;x
+PROV2965;Scarab Wall;;;;;;;;;;;x
+PROV2966;Haasra;;;;;;;;;;;x
+PROV2967;Ashakx;;;;;;;;;;;x
+PROV2968;Hive'regal;;;;;;;;;;;x
+PROV2969;Xernannoss;;;;;;;;;;;x
+PROV2970;Southwind;;;;;;;;;;;x
+PROV2971;Skerezziz;;;;;;;;;;;x
+PROV2972;Tug'rann;;;;;;;;;;;x
+PROV2973;Kag'ram;;;;;;;;;;;x
+PROV2974;Eldre'thalas;;;;;;;;;;;x
+PROV2975;Avalune;;;;;;;;;;;x
+PROV2976;Warpwood;;;;;;;;;;;x
+PROV2977;Dumont;;;;;;;;;;;x
+PROV2978;Estulan;;;;;;;;;;;x
+PROV2979;Ishelean;;;;;;;;;;;x
+PROV2980;Frayfeather;;;;;;;;;;;x
+PROV2981;Isildien;;;;;;;;;;;x
+PROV2982;Elunar;;;;;;;;;;;x
+PROV2983;Sardor;;;;;;;;;;;x
+PROV2984;Wyhelly;;;;;;;;;;;x
+PROV2985;Ravenwind;;;;;;;;;;;x
+PROV2986;Ataya;;;;;;;;;;;x
+PROV2987;Oneiros;;;;;;;;;;;x
+PROV2988;Fehis;;;;;;;;;;;x
+PROV2989;Esossa;;;;;;;;;;;x
+PROV2990;El'dratir;;;;;;;;;;;x
+PROV2991;Mojache;;;;;;;;;;;x
+PROV2992;Phe'llu;;;;;;;;;;;x
+PROV2993;Lariss;;;;;;;;;;;x
+PROV2994;Cifonill;;;;;;;;;;;x
+PROV2995;Woodpaw;;;;;;;;;;;x
+PROV2996;Shadebough;;;;;;;;;;;x
+PROV2997;Darkmist;;;;;;;;;;;x
+PROV2998;Emyilond;;;;;;;;;;;x
+PROV2999;Asannaes;;;;;;;;;;;x
+PROV3000;Arnluma;;;;;;;;;;;x
+PROV3001;Skypeak;;;;;;;;;;;x
+PROV3002;E'thok;;;;;;;;;;;x
+PROV3003;Whitereach;;;;;;;;;;;x
+PROV3004;Wahkan;;;;;;;;;;;x
+PROV3005;Highperch;;;;;;;;;;;x
+PROV3006;Darkcloud;;;;;;;;;;;x
+PROV3007;Segenam;;;;;;;;;;;x
+PROV3008;Splithoof;;;;;;;;;;;x
+PROV3009;Freewind;;;;;;;;;;;x
+PROV3010;Windbreak;;;;;;;;;;;x
+PROV3011;Ironstone;;;;;;;;;;;x
+PROV3012;Mirage;;;;;;;;;;;x
+PROV3013;Weazel;;;;;;;;;;;x
+PROV3014;Rustmaul;;;;;;;;;;;x
+PROV3015;Tahonda;;;;;;;;;;;x
+PROV3016;Saltysand;;;;;;;;;;;x
+PROV3017;Shobassa;;;;;;;;;;;x
+PROV3018;Kragrak;;;;;;;;;;;x
+PROV3019;Candlegor;;;;;;;;;;;x
+PROV3020;Sun Aerie;;;;;;;;;;;x
+PROV3021;Bulwark;;;;;;;;;;;x
+PROV3022;Jamba'rrak;;;;;;;;;;;x
+PROV3023;Maraudon;;;;;;;;;;;x
+PROV3024;Dhezgih;;;;;;;;;;;x
+PROV3025;Gelkis;;;;;;;;;;;x
+PROV3026;Sar'theris;;;;;;;;;;;x
+PROV3027;Shadowprey;;;;;;;;;;;x
+PROV3028;Mannoroc;;;;;;;;;;;x
+PROV3029;Dhurrah;;;;;;;;;;;x
+PROV3030;Kormek;;;;;;;;;;;x
+PROV3031;Khelnin;;;;;;;;;;;x
+PROV3032;Magram;;;;;;;;;;;x
+PROV3033;Shadowbreak;;;;;;;;;;;x
+PROV3034;Shirres;;;;;;;;;;;x
+PROV3035;Kolkar;;;;;;;;;;;x
+PROV3036;Sargeron;;;;;;;;;;;x
+PROV3037;Nijel;;;;;;;;;;;x
+PROV3038;Tethris Aran;;;;;;;;;;;x
+PROV3039;Thunder Axe;;;;;;;;;;;x
+PROV3040;Rhuhnas;;;;;;;;;;;x
+PROV3041;Ethel Rethor;;;;;;;;;;;x
+PROV3042;Ranazjar;;;;;;;;;;;x
+PROV3043;Orgrimmar;;;;;;;;;;;x
+PROV3044;Spiritvale;;;;;;;;;;;x
+PROV3045;Rocktusk;;;;;;;;;;;x
+PROV3046;Bladefist;;;;;;;;;;;x
+PROV3047;Razor Hill;;;;;;;;;;;x
+PROV3048;Drygulch;;;;;;;;;;;x
+PROV3049;Thunderwish;;;;;;;;;;;x
+PROV3050;Blackblood;;;;;;;;;;;x
+PROV3051;Razormane;;;;;;;;;;;x
+PROV3052;Sarkoth;;;;;;;;;;;x
+PROV3053;Bladescar;;;;;;;;;;;x
+PROV3054;Sen'jin;;;;;;;;;;;x
+PROV3055;Southwatch;;;;;;;;;;;x
+PROV3056;Geruzh;;;;;;;;;;;x
+PROV3057;Echo Isle;;;;;;;;;;;x
+PROV3058;Spitescale;;;;;;;;;;;x
+PROV3059;Bloodtalon;;;;;;;;;;;x
+PROV3060;Crossroads;;;;;;;;;;;x
+PROV3061;Gold Road;;;;;;;;;;;x
+PROV3062;Thorn Hill;;;;;;;;;;;x
+PROV3063;Shehras;;;;;;;;;;;x
+PROV3064;Lushwater;;;;;;;;;;;x
+PROV3065;Ratchet;;;;;;;;;;;x
+PROV3066;Wailing;;;;;;;;;;;x
+PROV3067;Dreadmist;;;;;;;;;;;x
+PROV3068;Dry Hills;;;;;;;;;;;x
+PROV3069;Dazgok;;;;;;;;;;;x
+PROV3070;Deadlock;;;;;;;;;;;x
+PROV3071;Mor'shan;;;;;;;;;;;x
+PROV3072;Grol'dom;;;;;;;;;;;x
+PROV3073;Chanlelle;;;;;;;;;;;x
+PROV3074;Tulgam;;;;;;;;;;;x
+PROV3075;Southfury;;;;;;;;;;;x
+PROV3076;Stone Hill;;;;;;;;;;;x
+PROV3077;Taurajo;;;;;;;;;;;x
+PROV3078;Agama'gor;;;;;;;;;;;x
+PROV3079;Bramblescar;;;;;;;;;;;x
+PROV3080;Wudotta;;;;;;;;;;;x
+PROV3081;Battlescar;;;;;;;;;;;x
+PROV3082;Quildown;;;;;;;;;;;x
+PROV3083;Razorfen;;;;;;;;;;;x
+PROV3084;Downs;;;;;;;;;;;x
+PROV3085;Blackthorn;;;;;;;;;;;x
+PROV3086;Bael'dun;;;;;;;;;;;x
+PROV3087;Spearhead;;;;;;;;;;;x
+PROV3088;Agamagar;;;;;;;;;;;x
+PROV3089;Brambleblade;;;;;;;;;;;x
+PROV3090;Nittawosew;;;;;;;;;;;x
+PROV3091;Northwatch;;;;;;;;;;;x
+PROV3092;Hungozh;;;;;;;;;;;x
+PROV3093;Fray;;;;;;;;;;;x
+PROV3094;Thunder Bluff;;;;;;;;;;;x
+PROV3095;Sequoia;;;;;;;;;;;x
+PROV3096;Soyala;;;;;;;;;;;x
+PROV3097;Shuman;;;;;;;;;;;x
+PROV3098;Narache;;;;;;;;;;;x
+PROV3099;Fargaze;;;;;;;;;;;x
+PROV3100;Battleboar;;;;;;;;;;;x
+PROV3101;Palemane;;;;;;;;;;;x
+PROV3102;Thunderhorn;;;;;;;;;;;x
+PROV3103;Dalsh-Beran;;;;;;;;;;;x
+PROV3104;Bloodhoof;;;;;;;;;;;x
+PROV3105;Waterhoof;;;;;;;;;;;x
+PROV3106;Shaibi;;;;;;;;;;;x
+PROV3107;Cocheta;;;;;;;;;;;x
+PROV3108;Orenda;;;;;;;;;;;x
+PROV3109;Windfury;;;;;;;;;;;x
+PROV3110;Sungraze;;;;;;;;;;;x
+PROV3111;Grassmount;;;;;;;;;;;x
+PROV3112;Hot Springs;;;;;;;;;;;x
+PROV3113;Redrock;;;;;;;;;;;x
+PROV3114;Greatwood;;;;;;;;;;;x
+PROV3115;Malaka'jin;;;;;;;;;;;x
+PROV3116;Aparaje;;;;;;;;;;;x
+PROV3117;Ruggok;;;;;;;;;;;x
+PROV3118;Boulderslide;;;;;;;;;;;x
+PROV3119;Farview;;;;;;;;;;;x
+PROV3120;Webwinder;;;;;;;;;;;x
+PROV3121;Sishir;;;;;;;;;;;x
+PROV3122;Sun Rock;;;;;;;;;;;x
+PROV3123;Nokomis;;;;;;;;;;;x
+PROV3124;Eldre'thar;;;;;;;;;;;x
+PROV3125;Fallowmere;;;;;;;;;;;x
+PROV3126;Windshear;;;;;;;;;;;x
+PROV3127;Talondeep;;;;;;;;;;;x
+PROV3128;Windshear;;;;;;;;;;;x
+PROV3129;Cragpool;;;;;;;;;;;x
+PROV3130;Stonetalon;;;;;;;;;;;x
+PROV3131;Talon Den;;;;;;;;;;;x
+PROV3132;Arculla;;;;;;;;;;;x
+PROV3133;Mirkfallon;;;;;;;;;;;x
+PROV3134;Cliffwalker;;;;;;;;;;;x
+PROV3135;Thal'darah;;;;;;;;;;;x
+PROV3136;Thal Grove;;;;;;;;;;;x
+PROV3137;Farwatch;;;;;;;;;;;x
+PROV3138;Ponisuk;;;;;;;;;;;x
+PROV3139;Lesturrom;;;;;;;;;;;x
+PROV3140;Theramore;;;;;;;;;;;x
+PROV3141;Alcaz;;;;;;;;;;;x
+PROV3142;Dreadmurk;;;;;;;;;;;x
+PROV3143;Sentry Point;;;;;;;;;;;x
+PROV3144;Swamplight;;;;;;;;;;;x
+PROV3145;Witch Hill;;;;;;;;;;;x
+PROV3146;Blackhoof;;;;;;;;;;;x
+PROV3147;Bluefen;;;;;;;;;;;x
+PROV3148;Darkmist;;;;;;;;;;;x
+PROV3149;Brackenwall;;;;;;;;;;;x
+PROV3150;Shadowhoof;;;;;;;;;;;x
+PROV3151;Quagmire;;;;;;;;;;;x
+PROV3152;Direhorn;;;;;;;;;;;x
+PROV3153;Shady Rest;;;;;;;;;;;x
+PROV3154;Lost Point;;;;;;;;;;;x
+PROV3155;Beezil;;;;;;;;;;;x
+PROV3157;Fersodra;;;;;;;;;;;x
+PROV3158;Wyrmbog;;;;;;;;;;;x
+PROV3159;Mudsprocket;;;;;;;;;;;x
+PROV3160;Zertixia;;;;;;;;;;;x
+PROV3161;Dragonmurk;;;;;;;;;;;x
+PROV3162;Astranaar;;;;;;;;;;;x
+PROV3163;Maestra;;;;;;;;;;;x
+PROV3164;Thistlefur;;;;;;;;;;;x
+PROV3165;Iris Valley;;;;;;;;;;;x
+PROV3166;Nighttalon;;;;;;;;;;;x
+PROV3167;Fire Scar;;;;;;;;;;;x
+PROV3168;Aessina;;;;;;;;;;;x
+PROV3169;Stardust;;;;;;;;;;;x
+PROV3170;Silverwind;;;;;;;;;;;x
+PROV3171;Greenpaw;;;;;;;;;;;x
+PROV3172;Ealnow;;;;;;;;;;;x
+PROV3173;Bloodtooth;;;;;;;;;;;x
+PROV3174;Raynewood;;;;;;;;;;;x
+PROV3175;Moonvalley;;;;;;;;;;;x
+PROV3176;Howling Vale;;;;;;;;;;;x
+PROV3177;Highroad;;;;;;;;;;;x
+PROV3178;Bloodfen;;;;;;;;;;;x
+PROV3179;Shady Nook;;;;;;;;;;;x
+PROV3180;Xavian;;;;;;;;;;;x
+PROV3181;Night Run;;;;;;;;;;;x
+PROV3182;Satyrnaar;;;;;;;;;;;x
+PROV3183;Silverwing;;;;;;;;;;;x
+PROV3184;Falfarren;;;;;;;;;;;x
+PROV3185;Dor'danil;;;;;;;;;;;x
+PROV3186;Splintertree;;;;;;;;;;;x
+PROV3187;Green Hill;;;;;;;;;;;x
+PROV3188;Nightsong;;;;;;;;;;;x
+PROV3189;Night Canyon;;;;;;;;;;;x
+PROV3190;Ashengard;;;;;;;;;;;x
+PROV3191;Forest Song;;;;;;;;;;;x
+PROV3192;Bough Shadow;;;;;;;;;;;x
+PROV3193;Ordil'aran;;;;;;;;;;;x
+PROV3194;Falathim;;;;;;;;;;;x
+PROV3195;Bathran;;;;;;;;;;;x
+PROV3196;Zoram;;;;;;;;;;;x
+PROV3197;Blackfathom;;;;;;;;;;;x
+PROV3198;Shadowsong;;;;;;;;;;;x
+PROV3199;Haldarr;;;;;;;;;;;x
+PROV3200;Forlorn;;;;;;;;;;;x
+PROV3201;Xonul'zis;;;;;;;;;;;x
+PROV3202;Atel'anor;;;;;;;;;;;x
+PROV3203;Woodscream;;;;;;;;;;;x
+PROV3204;Zin-Malor;;;;;;;;;;;x
+PROV3205;Eldarath;;;;;;;;;;;x
+PROV3206;Southridge;;;;;;;;;;;x
+PROV3207;Bjorrmr;;;;;;;;;;;x
+PROV3208;Storm Isles;;;;;;;;;;;x
+PROV3209;Hetaera;;;;;;;;;;;x
+PROV3210;Blackmaw;;;;;;;;;;;x
+PROV3211;Gorokie;;;;;;;;;;;x
+PROV3212;Valormok;;;;;;;;;;;x
+PROV3213;Ursolan;;;;;;;;;;;x
+PROV3214;Nendis;;;;;;;;;;;x
+PROV3215;Legash;;;;;;;;;;;x
+PROV3216;Nordressa;;;;;;;;;;;x
+PROV3217;Sable Ridge;;;;;;;;;;;x
+PROV3218;Arkkoran;;;;;;;;;;;x
+PROV3219;Eldara;;;;;;;;;;;x
+PROV3220;Jagged Reef;;;;;;;;;;;x
+PROV3221;Ravencrest;;;;;;;;;;;x
+PROV3222;Jozaes;;;;;;;;;;;x
+PROV3223;Xem'rir;;;;;;;;;;;x
+PROV3224;Grim Ulang;;;;;;;;;;;x
+PROV3225;Bilgetrade;;;;;;;;;;;x
+PROV3226;Auberdine;;;;;;;;;;;x
+PROV3227;Long Wash;;;;;;;;;;;x
+PROV3228;Darkshore;;;;;;;;;;;x
+PROV3229;Bashal'aran;;;;;;;;;;;x
+PROV3230;Mist's Edge;;;;;;;;;;;x
+PROV3231;Mathystra;;;;;;;;;;;x
+PROV3232;Cliffspring;;;;;;;;;;;x
+PROV3233;Lor'danel;;;;;;;;;;;x
+PROV3234;Fathom Bay;;;;;;;;;;;x
+PROV3235;Shatterspear;;;;;;;;;;;x
+PROV3236;Mugjamba;;;;;;;;;;;x
+PROV3237;Ameth'aran;;;;;;;;;;;x
+PROV3238;Phullila;;;;;;;;;;;x
+PROV3239;Thethiru;;;;;;;;;;;x
+PROV3240;Blackwood;;;;;;;;;;;x
+PROV3241;Nevedre;;;;;;;;;;;x
+PROV3242;Tassik;;;;;;;;;;;x
+PROV3243;Morlos'aran;;;;;;;;;;;x
+PROV3244;Deadwood;;;;;;;;;;;x
+PROV3245;Enle;;;;;;;;;;;x
+PROV3246;Emer'aran;;;;;;;;;;;x
+PROV3247;Constellas;;;;;;;;;;;x
+PROV3248;Jaedenar;;;;;;;;;;;x
+PROV3249;Bloodpost;;;;;;;;;;;x
+PROV3250;Kevaen;;;;;;;;;;;x
+PROV3251;Irontree;;;;;;;;;;;x
+PROV3252;Jadefire;;;;;;;;;;;x
+PROV3253;Whisperwind;;;;;;;;;;;x
+PROV3254;Green Vale;;;;;;;;;;;x
+PROV3255;Timbermaw;;;;;;;;;;;x
+PROV3256;Talonbranch;;;;;;;;;;;x
+PROV3257;Moonpaw;;;;;;;;;;;x
+PROV3258;Ursamaw;;;;;;;;;;;x
+PROV3259;Nighthaven;;;;;;;;;;;x
+PROV3260;Remulos;;;;;;;;;;;x
+PROV3261;Dulvarinn;;;;;;;;;;;x
+PROV3262;Stormrage;;;;;;;;;;;x
+PROV3263;Cenarius;;;;;;;;;;;x
+PROV3264;Nordrassil;;;;;;;;;;;x
+PROV3265;Janystaea;;;;;;;;;;;x
+PROV3266;Nord'lazar;;;;;;;;;;;x
+PROV3267;Lar'donir;;;;;;;;;;;x
+PROV3268;Sehyaeth;;;;;;;;;;;x
+PROV3269;Sithenn;;;;;;;;;;;x
+PROV3270;Sildinas;;;;;;;;;;;x
+PROV3271;Thendyvis;;;;;;;;;;;x
+PROV3272;Jillaei;;;;;;;;;;;x
+PROV3273;Aviana;;;;;;;;;;;x
+PROV3274;Aessina;;;;;;;;;;;x
+PROV3275;Wumaei;;;;;;;;;;;x
+PROV3276;Citil;;;;;;;;;;;x
+PROV3277;Malorne;;;;;;;;;;;x
+PROV3278;Regrowth;;;;;;;;;;;x
+PROV3279;Nordune;;;;;;;;;;;x
+PROV3280;Ketedin;;;;;;;;;;;x
+PROV3281;Ashenplain;;;;;;;;;;;x
+PROV3282;Jamba;;;;;;;;;;;x
+PROV3283;Kaldoran;;;;;;;;;;;x
+PROV3284;Thimil;;;;;;;;;;;x
+PROV3285;Elunar;;;;;;;;;;;x
+PROV3286;Stonevalley;;;;;;;;;;;x
+PROV3287;Ungava;;;;;;;;;;;x
+PROV3288;Halliim;;;;;;;;;;;x
+PROV3289;Sothann;;;;;;;;;;;x
+PROV3290;Timberpoof;;;;;;;;;;;x
+PROV3291;Hot Springs;;;;;;;;;;;x
+PROV3292;Timberlair;;;;;;;;;;;x
+PROV3293;Kel'theril;;;;;;;;;;;x
+PROV3294;Snow'daril;;;;;;;;;;;x
+PROV3295;Starfall;;;;;;;;;;;x
+PROV3296;Nae'danar;;;;;;;;;;;x
+PROV3297;Snowfang;;;;;;;;;;;x
+PROV3298;Huthenra;;;;;;;;;;;x
+PROV3299;Winterfall;;;;;;;;;;;x
+PROV3300;Cadrellaen;;;;;;;;;;;x
+PROV3301;Frostsaber;;;;;;;;;;;x
+PROV3302;Frosthold;;;;;;;;;;;x
+PROV3303;Dunbur;;;;;;;;;;;x
+PROV3304;Mazthoril;;;;;;;;;;;x
+PROV3305;Everlook;;;;;;;;;;;x
+PROV3306;Isitann;;;;;;;;;;;x
+PROV3307;Dun Mandarr;;;;;;;;;;;x
+PROV3308;Owlwing;;;;;;;;;;;x
+PROV3309;Frostwhisper;;;;;;;;;;;x
+PROV3310;Bwon'alor;;;;;;;;;;;x
+PROV3311;Shadra'dar;;;;;;;;;;;x
+PROV3312;Uganga;;;;;;;;;;;x
+PROV3313;Shadow Rock;;;;;;;;;;;x
+PROV3314;Ik'nal;;;;;;;;;;;x
+PROV3315;Lenalli;;;;;;;;;;;x
+PROV3316;Darnassus;;;;;;;;;;;x
+PROV3317;Dolanaar;;;;;;;;;;;x
+PROV3318;Starbreeze;;;;;;;;;;;x
+PROV3319;Shadowglen;;;;;;;;;;;x
+PROV3320;Valaar;;;;;;;;;;;x
+PROV3321;Bristlelimb;;;;;;;;;;;x
+PROV3322;Moongraze;;;;;;;;;;;x
+PROV3323;Emberglade;;;;;;;;;;;x
+PROV3324;Ammen Vale;;;;;;;;;;;x
+PROV3325;Silvermyst;;;;;;;;;;;x
+PROV3326;Wrathscale;;;;;;;;;;;x
+PROV3327;Ragefeather;;;;;;;;;;;x
+PROV3328;Mystwood;;;;;;;;;;;x
+PROV3329;Axxarien;;;;;;;;;;;x
+PROV3330;Bladewood;;;;;;;;;;;x
+PROV3331;Amberweb;;;;;;;;;;;x
+PROV3332;Wyrmscar;;;;;;;;;;;x
+PROV3333;Bloodcurse;;;;;;;;;;;x
+PROV3336;Sand Peak;;;;;;;;;;;x
+PROV3339;Maraudon Hills;;;;;;;;;;;x
+PROV3340;Stonetalon Mountains;;;;;;;;;;;x
+PROV3344;Hyjal;;;;;;;;;;;x
+PROV3345;Hyjal;;;;;;;;;;;x
+PROV3346;Hyjal;;;;;;;;;;;x
+PROV3347;Hyjal;;;;;;;;;;;x
+PROV3348;Hyjal;;;;;;;;;;;x
+PROV3349;Hyjal;;;;;;;;;;;x
+PROV3350;Hyjal;;;;;;;;;;;x
+PROV3351;Hyjal;;;;;;;;;;;x
+PROV3352;Hyjal;;;;;;;;;;;x
+PROV3353;Vir'naal River;;;;;;;;;;;x
+PROV3354;Vir'naal Lake;;;;;;;;;;;x
+PROV3355;Vir'naal Delta;;;;;;;;;;;x
+PROV3356;Vir'sar Lake;;;;;;;;;;;x
+PROV3357;Lake;;;;;;;;;;;x
+PROV3358;Lake;;;;;;;;;;;x
+PROV3359;Lake;;;;;;;;;;;x
+PROV3360;Lake;;;;;;;;;;;x
+PROV3361;Marsh;;;;;;;;;;;x
+PROV3362;Oil Lakes;;;;;;;;;;;x
+PROV3363;Lake;;;;;;;;;;;x
+PROV3364;Lake;;;;;;;;;;;x
+PROV3365;Lake Dumont;;;;;;;;;;;x
+PROV3366;Jademir Lake;;;;;;;;;;;x
+PROV3367;Stonebull Lake;;;;;;;;;;;x
+PROV3368;Lake;;;;;;;;;;;x
+PROV3369;Lake;;;;;;;;;;;x
+PROV3370;Lake;;;;;;;;;;;x
+PROV3371;Lake;;;;;;;;;;;x
+PROV3372;Lake;;;;;;;;;;;x
+PROV3373;Lake;;;;;;;;;;;x
+PROV3374;Lake;;;;;;;;;;;x
+PROV3375;Lake;;;;;;;;;;;x
+PROV3376;Lake;;;;;;;;;;;x
+PROV3377;Mirkfallon Lake;;;;;;;;;;;x
+PROV3378;Cragpool Lake;;;;;;;;;;;x
+PROV3379;Astranaar Lake;;;;;;;;;;;x
+PROV3380;Stardust Lake;;;;;;;;;;;x
+PROV3381;Mystral Lake;;;;;;;;;;;x
+PROV3382;Falfarren Lake;;;;;;;;;;;x
+PROV3383;Fallen Sky Lake;;;;;;;;;;;x
+PROV3384;Lake;;;;;;;;;;;x
+PROV3385;Lake;;;;;;;;;;;x
+PROV3386;Lake;;;;;;;;;;;x
+PROV3387;Lake Mennar;;;;;;;;;;;x
+PROV3388;Lake;;;;;;;;;;;x
+PROV3389;Wildbend Lake;;;;;;;;;;;x
+PROV3390;Wildbend Lake;;;;;;;;;;;x
+PROV3391;Lake;;;;;;;;;;;x
+PROV3392;Lake;;;;;;;;;;;x
+PROV3393;Lake;;;;;;;;;;;x
+PROV3394;Lake Elune'ara;;;;;;;;;;;x
+PROV3395;Well of Eternity;;;;;;;;;;;x
+PROV3396;Lake Edunel;;;;;;;;;;;x
+PROV3397;Ashen Lake;;;;;;;;;;;x
+PROV3398;Lake;;;;;;;;;;;x
+PROV3399;Dark'sotra Lake;;;;;;;;;;;x
+PROV3400;Lake;;;;;;;;;;;x
+PROV3401;Lake;;;;;;;;;;;x
+PROV3402;Lake;;;;;;;;;;;x
+PROV3403;Lake;;;;;;;;;;;x
+PROV3404;Lake;;;;;;;;;;;x
+PROV3405;Marsh;;;;;;;;;;;x
+PROV3406;Lake;;;;;;;;;;;x
+PROV3407;Marsh;;;;;;;;;;;x
+PROV3408;Marsh;;;;;;;;;;;x
+PROV3409;Marsh;;;;;;;;;;;x
+PROV3410;Marsh;;;;;;;;;;;x
+PROV3411;Marsh;;;;;;;;;;;x
+PROV3412;Merchant Bay;;;;;;;;;;;x
+PROV3413;Southfury River;;;;;;;;;;;x
+PROV3414;Southfury River;;;;;;;;;;;x
+PROV3415;Southfury River;;;;;;;;;;;x
+PROV3416;Southfury River;;;;;;;;;;;x
+PROV3417;Southfury River;;;;;;;;;;;x
+PROV3418;Southfury River;;;;;;;;;;;x
+PROV3419;Southfury River;;;;;;;;;;;x
+PROV3420;Un'goro;;;;;;;;;;;x
+PROV3421;North Sea;;;;;;;;;;;x
+PROV3422;North Sea;;;;;;;;;;;x
+PROV3423;North Sea;;;;;;;;;;;x
+PROV3424;North Sea;;;;;;;;;;;x
+PROV3425;North Sea;;;;;;;;;;;x
+PROV3426;Ancients Bay;;;;;;;;;;;x
+PROV3427;Ancients Bay;;;;;;;;;;;x
+PROV3428;Ancients Bay;;;;;;;;;;;x
+PROV3429;Frozen Sea;;;;;;;;;;;x
+PROV3430;Frozen Sea;;;;;;;;;;;x
+PROV3431;Frozen Sea;;;;;;;;;;;x
+PROV3432;Frozen Sea;;;;;;;;;;;x
+PROV3433;Frozen Sea;;;;;;;;;;;x
+PROV3434;Frozen Sea;;;;;;;;;;;x
+PROV3435;Frozen Sea;;;;;;;;;;;x
+PROV3436;Frozen Sea;;;;;;;;;;;x
+PROV3437;Frozen Sea;;;;;;;;;;;x
+PROV3438;Frozen Sea;;;;;;;;;;;x
+PROV3439;Frozen Sea;;;;;;;;;;;x
+PROV3440;Frozen Sea;;;;;;;;;;;x
+PROV3441;North Sea;;;;;;;;;;;x
+PROV3442;North Sea;;;;;;;;;;;x
+PROV3443;North Sea;;;;;;;;;;;x
+PROV3444;North Sea;;;;;;;;;;;x
+PROV3445;North Sea;;;;;;;;;;;x
+PROV3446;North Sea;;;;;;;;;;;x
+PROV3447;Great Sea;;;;;;;;;;;x
+PROV3448;Great Sea;;;;;;;;;;;x
+PROV3449;Great Sea;;;;;;;;;;;x
+PROV3450;Great Sea;;;;;;;;;;;x
+PROV3451;Great Sea;;;;;;;;;;;x
+PROV3452;Great Sea;;;;;;;;;;;x
+PROV3453;Great Sea;;;;;;;;;;;x
+PROV3454;Great Sea;;;;;;;;;;;x
+PROV3455;Great Sea;;;;;;;;;;;x
+PROV3456;Great Sea;;;;;;;;;;;x
+PROV3457;Great Sea;;;;;;;;;;;x
+PROV3458;Great Sea;;;;;;;;;;;x
+PROV3459;Great Sea;;;;;;;;;;;x
+PROV3460;Great Sea;;;;;;;;;;;x
+PROV3461;Great Sea;;;;;;;;;;;x
+PROV3462;Great Sea;;;;;;;;;;;x
+PROV3463;Great Sea;;;;;;;;;;;x
+PROV3464;Great Sea;;;;;;;;;;;x
+PROV3465;Bay of Storms;;;;;;;;;;;x
+PROV3466;Coral Sea;;;;;;;;;;;x
+PROV3467;Coral Sea;;;;;;;;;;;x
+PROV3468;Coral Sea;;;;;;;;;;;x
+PROV3469;Great Sea;;;;;;;;;;;x
+PROV3470;Great Sea;;;;;;;;;;;x
+PROV3471;Great Sea;;;;;;;;;;;x
+PROV3472;Great Sea;;;;;;;;;;;x
+PROV3473;Great Sea;;;;;;;;;;;x
+PROV3474;Great Sea;;;;;;;;;;;x
+PROV3475;Deadeye Shore;;;;;;;;;;;x
+PROV3476;Bladefist;;;;;;;;;;;x
+PROV3477;Geruzh;;;;;;;;;;;x
+PROV3478;Merchant Sea;;;;;;;;;;;x
+PROV3479;Dreadmurk Sea;;;;;;;;;;;x
+PROV3480;Dreadmurk Sea;;;;;;;;;;;x
+PROV3481;Dreadmurk Sea;;;;;;;;;;;x
+PROV3484;South Sea;;;;;;;;;;;x
+PROV3485;South Sea;;;;;;;;;;;x
+PROV3486;South Sea;;;;;;;;;;;x
+PROV3487;South Sea;;;;;;;;;;;x
+PROV3488;South Sea;;;;;;;;;;;x
+PROV3489;South Sea;;;;;;;;;;;x
+PROV3490;South Sea;;;;;;;;;;;x
+PROV3491;South Sea;;;;;;;;;;;x
+PROV3492;South Sea;;;;;;;;;;;x
+PROV3494;Veiled Sea;;;;;;;;;;;x
+PROV3495;Veiled Sea;;;;;;;;;;;x
+PROV3496;Veiled Sea;;;;;;;;;;;x
+PROV3497;Veiled Sea;;;;;;;;;;;x
+PROV3498;Veiled Sea;;;;;;;;;;;x
+PROV3499;Veiled Sea;;;;;;;;;;;x
+PROV3500;Veiled Sea;;;;;;;;;;;x
+PROV3501;Veiled Sea;;;;;;;;;;;x
+PROV3502;Veiled Sea;;;;;;;;;;;x
+PROV3503;Veiled Sea;;;;;;;;;;;x
+PROV3504;Veiled Sea;;;;;;;;;;;x
+PROV3505;Long Wash;;;;;;;;;;;x
+PROV3506;Long Wash;;;;;;;;;;;x
+PROV3507;Long Wash;;;;;;;;;;;x
+PROV3508;Long Wash;;;;;;;;;;;x
+PROV3509;Long Wash;;;;;;;;;;;x
+PROV3510;Long Wash;;;;;;;;;;;x
+PROV3511;North Sea;;;;;;;;;;;x
+PROV3512;North Sea;;;;;;;;;;;x
+PROV3513;Veiled Sea;;;;;;;;;;;x
+PROV3514;Veiled Sea;;;;;;;;;;;x
+PROV3515;Veiled Sea;;;;;;;;;;;x
+PROV3517;Veiled Sea;;;;;;;;;;;x
+PROV3518;Veiled Sea;;;;;;;;;;;x
+PROV3519;Veiled Sea;;;;;;;;;;;x
+PROV3520;Veiled Sea;;;;;;;;;;;x
+PROV3521;Veiled Sea;;;;;;;;;;;x
+PROV3523;Veiled Sea;;;;;;;;;;;x
+PROV3524;Veiled Sea;;;;;;;;;;;x
+PROV3525;Veiled Sea;;;;;;;;;;;x
+PROV3526;Boralus;;;;;;;;;;;x
+PROV3527;Hatherford;;;;;;;;;;;x
+PROV3528;Norwington;;;;;;;;;;;x
+PROV3529;Anglepoint;;;;;;;;;;;x
+PROV3530;Bridgeport;;;;;;;;;;;x
+PROV3531;Kennings Hills;;;;;;;;;;;x
+PROV3532;Vigil Isle;;;;;;;;;;;x
+PROV3533;Freehold;;;;;;;;;;;x
+PROV3534;Fizzsprings;;;;;;;;;;;x
+PROV3535;Corlain;;;;;;;;;;;x
+PROV3536;Crimson Forest;;;;;;;;;;;x
+PROV3537;Arom;;;;;;;;;;;x
+PROV3538;Gol Osigr;;;;;;;;;;;x
+PROV3539;Gol Koval;;;;;;;;;;;x
+PROV3540;Fallhaven;;;;;;;;;;;x
+PROV3541;Barbthorn;;;;;;;;;;;x
+PROV3542;Fletcher;;;;;;;;;;;x
+PROV3543;Brennadam;;;;;;;;;;;x
+PROV3544;Mariner;;;;;;;;;;;x
+PROV3545;Sagehold;;;;;;;;;;;x
+PROV3546;Storm Isle;;;;;;;;;;;x
+PROV3547;Mildenhall;;;;;;;;;;;x
+PROV3548;Briaback;;;;;;;;;;;x
+PROV3549;Tidebreak;;;;;;;;;;;x
+PROV3550;Drowned Lands;;;;;;;;;;;x
+PROV3551;Seabreeze;;;;;;;;;;;x
+PROV3552;Zul'dare;;;;;;;;;;;x
+PROV3553;Fate's End;;;;;;;;;;;x
+PROV3554;Tol Barad;;;;;;;;;;;x
+PROV3555;Tol Barad Peninsula;;;;;;;;;;;x
+PROV3556;Crestfall;;;;;;;;;;;x
+PROV3557;Tol Ronal;;;;;;;;;;;x
+PROV3558;Tol Dagor;;;;;;;;;;;x
+PROV3559;Frostsabre;;;;;;;;;;;x
+PROV3560;Havenswood;;;;;;;;;;;x
+PROV3561;Balor;;;;;;;;;;;x
+PROV3562;Darkmoon Island;;;;;;;;;;;x
+PROV3563;Starfall;;;;;;;;;;;x
+PROV3564;Forlorn;;;;;;;;;;;x
+PROV3565;Northpoint;;;;;;;;;;;x
+PROV3566;Swale;;;;;;;;;;;x
+PROV3567;Roaring Wilds;;;;;;;;;;;x
+PROV3568;Jin'kalak;;;;;;;;;;;x
+PROV3569;Polder Crag;;;;;;;;;;;x
+PROV3570;Basilisk Islands;;;;;;;;;;;x
+PROV3571;Lapidis Island;;;;;;;;;;;x
+PROV3572;Gillijim;;;;;;;;;;;x
+PROV3573;Un'gol;;;;;;;;;;;x
+PROV3574;Kunza-Kunza;;;;;;;;;;;x
+PROV3575;Whispering Reef;;;;;;;;;;;x
+PROV3576;Dazar'alor;;;;;;;;;;;x
+PROV3577;Zanchul;;;;;;;;;;;x
+PROV3578;Tal'gurub;;;;;;;;;;;x
+PROV3579;Rezan;;;;;;;;;;;x
+PROV3580;Kraal;;;;;;;;;;;x
+PROV3581;Pin'ukue;;;;;;;;;;;x
+PROV3582;Zeb'ahari;;;;;;;;;;;x
+PROV3583;Atal'gral;;;;;;;;;;;x
+PROV3584;Dreadpearl;;;;;;;;;;;x
+PROV3585;Tusk Isle;;;;;;;;;;;x
+PROV3586;Fang Isle;;;;;;;;;;;x
+PROV3587;Atal'dazar;;;;;;;;;;;x
+PROV3588;Sisgone;;;;;;;;;;;x
+PROV3589;Rastari;;;;;;;;;;;x
+PROV3590;Xibala;;;;;;;;;;;x
+PROV3591;Bonanza;;;;;;;;;;;x
+PROV3592;Trahumut;;;;;;;;;;;x
+PROV3593;Mugamba;;;;;;;;;;;x
+PROV3594;Zul'nazman;;;;;;;;;;;x
+PROV3595;Natha'vor;;;;;;;;;;;x
+PROV3596;Frogmarsh;;;;;;;;;;;x
+PROV3597;Nazwatha;;;;;;;;;;;x
+PROV3598;Torga;;;;;;;;;;;x
+PROV3599;Necropolis;;;;;;;;;;;x
+PROV3600;Zul'jan;;;;;;;;;;;x
+PROV3601;Kel'vax;;;;;;;;;;;x
+PROV3602;Shoaljai;;;;;;;;;;;x
+PROV3603;Tojek;;;;;;;;;;;x
+PROV3604;Sethraliss;;;;;;;;;;;x
+PROV3605;Vuzale;;;;;;;;;;;x
+PROV3606;Bone Pit;;;;;;;;;;;x
+PROV3607;Darkwood;;;;;;;;;;;x
+PROV3608;Voldunai;;;;;;;;;;;x
+PROV3609;Shatterstone;;;;;;;;;;;x
+PROV3610;Atul'aman;;;;;;;;;;;x
+PROV3611;Whistlebloom;;;;;;;;;;;x
+PROV3612;Zem'lan;;;;;;;;;;;x
+PROV3613;Zul'ahjin;;;;;;;;;;;x
+PROV3614;Susgu;;;;;;;;;;;x
+PROV3615;Redrock;;;;;;;;;;;x
+PROV3616;Slisetriss;;;;;;;;;;;x
+PROV3617;Scalefang;;;;;;;;;;;x
+PROV3618;Bonetrail;;;;;;;;;;;x
+PROV3619;Thok;;;;;;;;;;;x
+PROV3620;Rorkaen;;;;;;;;;;;x
+PROV3621;Geltozan;;;;;;;;;;;x
+PROV3622;Turtle Rock;;;;;;;;;;;x
+PROV3623;Ominous Island;;;;;;;;;;;x
+PROV3624;Verdant Wilds;;;;;;;;;;;x
+PROV3625;Darkspear;;;;;;;;;;;x
+PROV3626;Shen'do;;;;;;;;;;;x
+PROV3627;Paradise Islands;;;;;;;;;;;x
+PROV3628;Rotting Mire;;;;;;;;;;;x
+PROV3629;Bay of Kings;;;;;;;;;;;x
+PROV3630;South Sea;;;;;;;;;;;x
+PROV3631;South Sea;;;;;;;;;;;x
+PROV3632;South Sea;;;;;;;;;;;x
+PROV3633;South Sea;;;;;;;;;;;x
+PROV3634;Blood Coast;;;;;;;;;;;x
+PROV3635;Kingsmouth River;;;;;;;;;;;x
+PROV3636;Shattered River;;;;;;;;;;;x
+PROV3637;Shattered River;;;;;;;;;;;x
+PROV3638;Shattered River;;;;;;;;;;;x
+PROV3639;Lake;;;;;;;;;;;x
+PROV3640;Lake;;;;;;;;;;;x
+PROV3641;Lake;;;;;;;;;;;x
+PROV3642;Molten Cay;;;;;;;;;;;x

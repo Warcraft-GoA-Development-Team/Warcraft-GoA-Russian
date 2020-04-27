@@ -1,0 +1,178 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+# Common;;;;;;;;;;;;;;x
+emperor;High King;;;;;;;;;;;;;x
+emperor_female;High Queen;;;;;;;;;;;;;x
+empire_of;High Kingdom of;;;;;;;;;;;;;x
+empire;Empire;;;;;;;;;;;;;x
+king;King;;;;;;;;;;;;;x
+king_female;Queen;;;;;;;;;;;;;x
+kingdom_of;Kingdom of;;;;;;;;;;;;;x
+kingdom;Kingdom;;;;;;;;;;;;;x
+duke;Highlord;;;;;;;;;;;;;x
+duke_female;Highlord;;;;;;;;;;;;;x
+duchy_of;Highlordship of;;;;;;;;;;;;;x
+duchy;Highlordship;;;;;;;;;;;;;x
+count;Lord;;;;;;;;;;;;;x
+count_female;Lady;;;;;;;;;;;;;x
+county_of;Lordship of;;;;;;;;;;;;;x
+county;Lordship;;;;;;;;;;;;;x
+baron;Baron;;;;;;;;;;;;;x
+baron_female;Baroness;;;;;;;;;;;;;x
+barony_of;Barony of;;;;;;;;;;;;;x
+Barony;Barony;;;;;;;;;;;;;x
+# dwarf_group;;;;;;;;;;;;;;x
+duke_dwarf_group;Thane;;;;;;;;;;;;;x
+duke_female_dwarf_group;Thane;;;;;;;;;;;;;x
+duchy_of_dwarf_group;Tribe of;;;;;;;;;;;;;x
+duchy_dwarf_group;Clan;;;;;;;;;;;;;x
+count_dwarf_group;Chief;;;;;;;;;;;;;x
+count_female_dwarf_group;Chieftess;;;;;;;;;;;;;x
+county_of_dwarf_group;Chiefdom of;;;;;;;;;;;;;x
+county_dwarf_group;Chiefdom;;;;;;;;;;;;;x
+# goblin_group;;;;;;;;;;;;;;x
+count_goblin_group;High Baron;;;;;;;;;;;;;x
+count_female_goblin_group;High Baroness;;;;;;;;;;;;;x
+county_of_goblin_group;High Barony of;;;;;;;;;;;;;x
+county_goblin_group;High Barony;;;;;;;;;;;;;x
+# shathyar_group;;;;;;;;;;;;;;x
+emperor_shathyar_group;Emperor;;;;;;;;;;;;;x
+emperor_female_shathyar_group;Empress;;;;;;;;;;;;;x
+empire_of_shathyar_group;Empire of;;;;;;;;;;;;;x
+empire_shathyar_group;Empire;;;;;;;;;;;;;x
+king_shathyar_group;High General;;;;;;;;;;;;;x
+king_female_shathyar_group;High General;;;;;;;;;;;;;x
+duke_shathyar_group;General;;;;;;;;;;;;;x
+duke_female_shathyar_group;General;;;;;;;;;;;;;x
+# naga_group;;;;;;;;;;;;;;x
+emperor_naga_group;Emperor;;;;;;;;;;;;;x
+emperor_female_naga_group;Empress;;;;;;;;;;;;;x
+empire_of_naga_group;Empire of;;;;;;;;;;;;;x
+empire_naga_group;Empire;;;;;;;;;;;;;x
+king_naga_group;Warlord;;;;;;;;;;;;;x
+king_female_naga_group;Sea Witch;;;;;;;;;;;;;x
+kingdom_of_naga_group;High Tribe of;;;;;;;;;;;;;x
+kingdom_naga_group;High Clan;;;;;;;;;;;;;x
+duchy_naga_group;Clan;;;;;;;;;;;;;x
+duchy_of_naga_group;Tribe of;;;;;;;;;;;;;x
+county_of_naga_group;Chiefdom of;;;;;;;;;;;;;x
+county_naga_group;Chiefdom;;;;;;;;;;;;;x
+# aqir_group;;;;;;;;;;;;;;x
+emperor_aqir_group;Emperor;;;;;;;;;;;;;x
+emperor_female_aqir_group;Empress;;;;;;;;;;;;;x
+empire_of_aqir_group;Empire of;;;;;;;;;;;;;x
+empire_aqir_group;Empire;;;;;;;;;;;;;x
+# tirassian;;;;;;;;;;;;;;x
+emperor_tirassian;Grand Lord Admiral;;;;;;;;;;;;;x
+emperor_female_tirassian;Grand Lord Admiral;;;;;;;;;;;;;x
+king_tirassian;Lord Admiral;;;;;;;;;;;;;x
+king_female_tirassian;Lord Admiral;;;;;;;;;;;;;x
+# dragon_group;;;;;;;;;;;;;;x
+emperor_dragon_group;High Dragonking;;;;;;;;;;;;;x
+emperor_female_dragon_group;High Dragonqueen;;;;;;;;;;;;;x
+empire_of_dragon_group;High Dragonflight of;;;;;;;;;;;;;x
+empire_dragon_group;High Dragonflight;;;;;;;;;;;;;x
+king_dragon_group;Dragonking;;;;;;;;;;;;;x
+king_female_dragon_group;Dragonqueen;;;;;;;;;;;;;x
+kingdom_of_dragon_group;Dragonflight of;;;;;;;;;;;;;x
+kingdom_dragon_group;Dragonflight;;;;;;;;;;;;;x
+# troll_group;;;;;;;;;;;;;;x
+emperor_troll_group;God King;;;;;;;;;;;;;x
+emperor_female_troll_group;God Queen;;;;;;;;;;;;;x
+empire_of_troll_group;Empire of;;;;;;;;;;;;;x
+empire_troll_group;Empire;;;;;;;;;;;;;x
+# draenei_group;;;;;;;;;;;;;;x
+emperor_draenei_group;High Exarch;;;;;;;;;;;;;x
+emperor_female_draenei_group;High Exarchess;;;;;;;;;;;;;x
+empire_of_draenei_group;High Exarchate of;;;;;;;;;;;;;x
+empire_draenei_group;High Exarchate;;;;;;;;;;;;;x
+king_draenei_group;Exarch;;;;;;;;;;;;;x
+king_female_draenei_group;Exarchess;;;;;;;;;;;;;x
+kingdom_of_draenei_group;Exarchate of;;;;;;;;;;;;;x
+kingdom_draenei_group;Exarchate;;;;;;;;;;;;;x
+# demonic_group;;;;;;;;;;;;;;x
+emperor_demonic_group;Supreme Lord;;;;;;;;;;;;;x
+emperor_female_demonic_group;Supreme Lady;;;;;;;;;;;;;x
+empire_of_demonic_group;Supreme Lordship of;;;;;;;;;;;;;x
+empire_demonic_group;Supreme Lordship;;;;;;;;;;;;;x
+king_demonic_group;Demon Lord;;;;;;;;;;;;;x
+king_female_demonic_group;Demon Lady;;;;;;;;;;;;;x
+kingdom_of_demonic_group;Demon Lordship of;;;;;;;;;;;;;x
+kingdom_demonic_group;Demon Lordship;;;;;;;;;;;;;x
+# dryad_group;;;;;;;;;;;;;;x
+emperor_dryad_group;Ancient;;;;;;;;;;;;;x
+emperor_female_dryad_group;Ancient;;;;;;;;;;;;;x
+king_dryad_group;Forest Lord;;;;;;;;;;;;;x
+king_female_dryad_group;Forest Lady;;;;;;;;;;;;;x
+kingdom_of_dryad_group;Forest of;;;;;;;;;;;;;x
+kingdom_dryad_group;Forest;;;;;;;;;;;;;x
+duke_dryad_group;Wildlord;;;;;;;;;;;;;x
+duke_female_dryad_group;Wildlady;;;;;;;;;;;;;x
+duchy_of_dryad_group;Grand Grove of;;;;;;;;;;;;;x
+duchy_dryad_group;Grand Grove;;;;;;;;;;;;;x
+count_dryad_group;Guardian;;;;;;;;;;;;;x
+count_female_dryad_group;Guardian;;;;;;;;;;;;;x
+county_of_dryad_group;Grove of;;;;;;;;;;;;;x
+county_dryad_group;Grove;;;;;;;;;;;;;x
+baron_dryad_group;Tender;;;;;;;;;;;;;x
+baron_female_dryad_group;Tender;;;;;;;;;;;;;x
+barony_of_dryad_group;Refuge of;;;;;;;;;;;;;x
+barony_dryad_group;Refuge;;;;;;;;;;;;;x
+title_prince_dryad_group;Forest Prince;;;;;;;;;;;;;x
+title_prince_female_dryad_group;Forest Princess;;;;;;;;;;;;;x
+# frostnymph;;;;;;;;;;;;;;x
+title_prince_frostnymph;Taiga Prince;;;;;;;;;;;;;x
+title_prince_female_frostnymph;Taiga Princess;;;;;;;;;;;;;x
+# vrykul_group;;;;;;;;;;;;;;x
+duke_vrykul_group;Jarl;;;;;;;;;;;;;x
+duke_female_vrykul_group;Frue;;;;;;;;;;;;;x
+duchy_of_vrykul_group;Jarldom of;;;;;;;;;;;;;x
+duchy_vrykul_group;Clan;;;;;;;;;;;;;x
+# orc_group;;;;;;;;;;;;;;x
+king_orc_group;High Chieftain;;;;;;;;;;;;;x
+king_female_orc_group;High Chieftess;;;;;;;;;;;;;x
+kingdom_of_orc_group;High Tribe of;;;;;;;;;;;;;x
+kingdom_orc_group;High Clan;;;;;;;;;;;;;x
+duke_orc_group;Chieftain;;;;;;;;;;;;;x
+duke_female_orc_group;Chieftess;;;;;;;;;;;;;x
+duchy_orc_group;Clan;;;;;;;;;;;;;x
+duchy_of_orc_group;Tribe of;;;;;;;;;;;;;x
+count_orc_group;Chief;;;;;;;;;;;;;x
+count_female_orc_group;Chieftess;;;;;;;;;;;;;x
+county_of_orc_group;Chiefdom of;;;;;;;;;;;;;x
+county_orc_group;Chiefdom;;;;;;;;;;;;;x
+# tauren_group;;;;;;;;;;;;;;x
+king_tauren_group;High Chieftain;;;;;;;;;;;;;x
+king_female_tauren_group;High Chieftess;;;;;;;;;;;;;x
+kingdom_of_tauren_group;High Tribe of;;;;;;;;;;;;;x
+kingdom_tauren_group;High Clan;;;;;;;;;;;;;x
+duke_tauren_group;Chieftain;;;;;;;;;;;;;x
+duke_female_tauren_group;Chieftess;;;;;;;;;;;;;x
+duchy_tauren_group;Clan;;;;;;;;;;;;;x
+duchy_of_tauren_group;Tribe of;;;;;;;;;;;;;x
+count_tauren_group;Chief;;;;;;;;;;;;;x
+count_female_tauren_group;Chieftess;;;;;;;;;;;;;x
+county_of_tauren_group;Chiefdom of;;;;;;;;;;;;;x
+county_tauren_group;Chiefdom;;;;;;;;;;;;;x
+# satyr_group;;;;;;;;;;;;;;x
+emperor_satyr_group;Emperor;;;;;;;;;;;;;x
+emperor_female_satyr_group;Empress;;;;;;;;;;;;;x
+empire_of_satyr_group;Empire of;;;;;;;;;;;;;x
+empire_satyr_group;Empire;;;;;;;;;;;;;x
+kingdom_of_satyr_group;High Tribe of;;;;;;;;;;;;;x
+kingdom_satyr_group;High Clan;;;;;;;;;;;;;x
+duchy_satyr_group;Clan;;;;;;;;;;;;;x
+duchy_of_satyr_group;Tribe of;;;;;;;;;;;;;x
+county_of_satyr_group;Chiefdom of;;;;;;;;;;;;;x
+county_satyr_group;Chiefdom;;;;;;;;;;;;;x
+# forsaken;;;;;;;;;;;;;;x
+duke_forsaken;Dark Lord;;;;;;;;;;;;;x
+duke_female_forsaken;Dark Lady;;;;;;;;;;;;;
+# wastewander;;;;;;;;;;;;;;x
+emperor_wastewander;Caliph;;;;;;;;;;;;;x
+emperor_female_wastewander;Calipha;;;;;;;;;;;;;x
+empire_of_wastewander;Caliphate of;;;;;;;;;;;;;x
+empire_wastewander;Caliphate;;;;;;;;;;;;;x
+king_wastewander;Warlord;;;;;;;;;;;;;x
+king_female_wastewander;Warlord;;;;;;;;;;;;;x
+kingdom_of_wastewander;Warlordship of;;;;;;;;;;;;;x
+kingdom_wastewander;Warlordship;;;;;;;;;;;;;x
