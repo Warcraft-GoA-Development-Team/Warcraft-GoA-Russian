@@ -1,60 +1,60 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 # Common;;;;;;;;;;;;;;x
-city_emperor;Р’РµСЂС…РѕРІРЅС‹Р№ РєРѕРЅСЃСѓР»;Grand Consul;Hoher Konsul;;;;;;;;;;;x
-city_emperor_female;Р’РµСЂС…РѕРІРЅС‹Р№ РєРѕРЅСЃСѓР»;Grande Consule;Hoher Konsul;;;;;;;;;;;x
-city_empire_of;Р’РµР»РёРєР°СЏ СЂРµСЃРїСѓР±Р»РёРєР°;Grande RР№publique de;GroРЇe Republik von;;;;;;;;;;;x
-city_empire;Р’РµР»РёРєР°СЏ СЂРµСЃРїСѓР±Р»РёРєР°;Grande RР№publique;GroРЇe Republik;;;;;;;;;;;x
-city_king;РљРѕРЅСЃСѓР»;Consul;Konsul;;;;;;;;;;;x
-city_king_female;РљРѕРЅСЃСѓР»;Consule;Konsul;;;;;;;;;;;x
-city_kingdom_of;Р РµСЃРїСѓР±Р»РёРєР°;RР№publique de;Republik von;;;;;;;;;;;x
-city_kingdom;Р РµСЃРїСѓР±Р»РёРєР°;RР№publique;Republik von;;;;;;;;;;;x
-city_duke;РњР°РіРёСЃС‚СЂ;Magistrat;Magistrat;;;;;;;;;;;x
-city_duke_female;РњР°РіРёСЃС‚СЂ;Magistrate;Magistratin;;;;;;;;;;;x
-city_duchy_of;РњР°РіРёСЃС‚СЂР°С‚СѓСЂР°;Magistrature de;Magistrat von;;;;;;;;;;;x
-city_duchy;РњР°РіРёСЃС‚СЂР°С‚СѓСЂР°;Magistrature;Magistrat;;;;;;;;;;;x
-city_count;РњСЌСЂ;Maire;BСЊrgermeister;;;;;;;;;;;x
-city_count_female;РњСЌСЂ;Maire;BСЊrgermeisterin;;;;;;;;;;;x
-city_county_of;Р“РѕСЂРѕРґ;CitР№ de;Stadt von;;;;;;;;;;;x
-city_county;Р“РѕСЂРѕРґ;CitР№;Stadt;;;;;;;;;;;x
-family_palace_baron;РўРѕСЂРіРѕРІС‹Р№ РїСЂРёРЅС†;Prince marchand;Oberhaupt;;;;;;;;;;;x
-family_palace_baron_female;РўРѕСЂРіРѕРІР°СЏ РїСЂРёРЅС†РµСЃСЃР°;Princesse marchande;Oberhaupt;;;;;;;;;;;x
-family_palace_barony_of;Р РµР·РёРґРµРЅС†РёСЏ;RР№sidence de;Residenz von;;;;;;;;;;;x
-family_palace;Р РµР·РёРґРµРЅС†РёСЏ;RР№sidence;Residenz;;;;;;;;;;;x
-PALACE_NAME;Р РµР·РёРґРµРЅС†РёСЏ $DYNASTY$;RР№sidence des $DYNASTY$;Residenz von $DYNASTY$;;;;;;;;;;;x
+city_emperor;Верховный консул;Grand Consul;Hoher Konsul;;;;;;;;;;;x
+city_emperor_female;Верховный консул;Grande Consule;Hoher Konsul;;;;;;;;;;;x
+city_empire_of;Великая республика;Grande Rйpublique de;GroЯe Republik von;;;;;;;;;;;x
+city_empire;Великая республика;Grande Rйpublique;GroЯe Republik;;;;;;;;;;;x
+city_king;Консул;Consul;Konsul;;;;;;;;;;;x
+city_king_female;Консул;Consule;Konsul;;;;;;;;;;;x
+city_kingdom_of;Республика;Rйpublique de;Republik von;;;;;;;;;;;x
+city_kingdom;Республика;Rйpublique;Republik von;;;;;;;;;;;x
+city_duke;Магистр;Magistrat;Magistrat;;;;;;;;;;;x
+city_duke_female;Магистр;Magistrate;Magistratin;;;;;;;;;;;x
+city_duchy_of;Магистратура;Magistrature de;Magistrat von;;;;;;;;;;;x
+city_duchy;Магистратура;Magistrature;Magistrat;;;;;;;;;;;x
+city_count;Мэр;Maire;Bьrgermeister;;;;;;;;;;;x
+city_count_female;Мэр;Maire;Bьrgermeisterin;;;;;;;;;;;x
+city_county_of;Город;Citй de;Stadt von;;;;;;;;;;;x
+city_county;Город;Citй;Stadt;;;;;;;;;;;x
+family_palace_baron;Торговый принц;Prince marchand;Oberhaupt;;;;;;;;;;;x
+family_palace_baron_female;Торговая принцесса;Princesse marchande;Oberhaupt;;;;;;;;;;;x
+family_palace_barony_of;Резиденция;Rйsidence de;Residenz von;;;;;;;;;;;x
+family_palace;Резиденция;Rйsidence;Residenz;;;;;;;;;;;x
+PALACE_NAME;Резиденция $DYNASTY$;Rйsidence des $DYNASTY$;Residenz von $DYNASTY$;;;;;;;;;;;x
 # goblin_group;;;;;;;;;;;;;;x
-city_emperor_goblin_group;Р’РµСЂС…РѕРІРЅС‹Р№ РєРѕСЂРѕР»СЊ;Haut roi;HochkС†nig;;;;;;;;;;;x
-city_emperor_female_goblin_group;Р’РµСЂС…РѕРІРЅР°СЏ РєРѕСЂРѕР»РµРІР°;Haute reine;HochkС†nigin;;;;;;;;;;;x
-city_empire_of_goblin_group;Р’РµСЂС…РѕРІРЅРѕРµ РєРѕСЂРѕР»РµРІСЃС‚РІРѕ;Haut Royaume de;HochkС†nigreich von;;;;;;;;;;;x
-city_empire_goblin_group;Р’РµСЂС…РѕРІРЅРѕРµ РєРѕСЂРѕР»РµРІСЃС‚РІРѕ;Haut Royaume;HochkС†nigreich;;;;;;;;;;;x
-city_king_goblin_group;РљРѕСЂРѕР»СЊ;Roi;KС†nig;;;;;;;;;;;x
-city_king_female_goblin_group;РљРѕСЂРѕР»РµРІР°;Reine;KС†nigin;;;;;;;;;;;x
-city_kingdom_of_goblin_group;РљРѕСЂРѕР»РµРІСЃС‚РІРѕ;Royaume de;KС†nigreich von;;;;;;;;;;;x
-city_kingdom_goblin_group;РљРѕСЂРѕР»РµРІСЃС‚РІРѕ;Royaume;KС†nigreich;;;;;;;;;;;x
-city_duke_goblin_group;РўРѕСЂРіРѕРІС‹Р№ Р»РѕСЂРґ;Seigneur marchand;Handelsherr;;;;;;;;;;;x
-city_duke_female_goblin_group;РўРѕСЂРіРѕРІР°СЏ Р»РµРґРё;Dame marchande;Handelsherrin;;;;;;;;;;;x
-city_duchy_of_goblin_group;Р’РµСЂС…РѕРІРЅРѕРµ Р»РѕСЂРґСЃС‚РІРѕ;SouverainetР№ de;Hochherrschaft von;;;;;;;;;;;x
-city_duchy_goblin_group;Р’РµСЂС…РѕРІРЅРѕРµ Р»РѕСЂРґСЃС‚РІРѕ;SouverainetР№;Hochherrschaft;;;;;;;;;;;x
-city_count_goblin_group;РўРѕСЂРіРѕРІС‹Р№ Р±Р°СЂРѕРЅ;Baron marchand;Handelsbaron;;;;;;;;;;;x
-city_count_female_goblin_group;РўРѕСЂРіРѕРІР°СЏ Р±Р°СЂРѕРЅРµСЃСЃР°;Baronne marchande;Handelsbaronin;;;;;;;;;;;x
-city_county_of_goblin_group;Р’РµСЂС…РѕРІРЅРѕРµ Р±Р°СЂРѕРЅСЃС‚РІРѕ;Haute Baronnerie de;Baronie von;;;;;;;;;;;x
-city_county_goblin_group;Р’РµСЂС…РѕРІРЅРѕРµ Р±Р°СЂРѕРЅСЃС‚РІРѕ;Haute Baronnerie;Baronie;;;;;;;;;;;x
+city_emperor_goblin_group;Верховный король;Haut roi;Hochkцnig;;;;;;;;;;;x
+city_emperor_female_goblin_group;Верховная королева;Haute reine;Hochkцnigin;;;;;;;;;;;x
+city_empire_of_goblin_group;Верховное королевство;Haut Royaume de;Hochkцnigreich von;;;;;;;;;;;x
+city_empire_goblin_group;Верховное королевство;Haut Royaume;Hochkцnigreich;;;;;;;;;;;x
+city_king_goblin_group;Король;Roi;Kцnig;;;;;;;;;;;x
+city_king_female_goblin_group;Королева;Reine;Kцnigin;;;;;;;;;;;x
+city_kingdom_of_goblin_group;Королевство;Royaume de;Kцnigreich von;;;;;;;;;;;x
+city_kingdom_goblin_group;Королевство;Royaume;Kцnigreich;;;;;;;;;;;x
+city_duke_goblin_group;Торговый лорд;Seigneur marchand;Handelsherr;;;;;;;;;;;x
+city_duke_female_goblin_group;Торговая леди;Dame marchande;Handelsherrin;;;;;;;;;;;x
+city_duchy_of_goblin_group;Верховное лордство;Souverainetй de;Hochherrschaft von;;;;;;;;;;;x
+city_duchy_goblin_group;Верховное лордство;Souverainetй;Hochherrschaft;;;;;;;;;;;x
+city_count_goblin_group;Торговый барон;Baron marchand;Handelsbaron;;;;;;;;;;;x
+city_count_female_goblin_group;Торговая баронесса;Baronne marchande;Handelsbaronin;;;;;;;;;;;x
+city_county_of_goblin_group;Верховное баронство;Haute Baronnerie de;Baronie von;;;;;;;;;;;x
+city_county_goblin_group;Верховное баронство;Haute Baronnerie;Baronie;;;;;;;;;;;x
 # troll_group;;;;;;;;;;;;;;x
-city_emperor_troll_group;РРјРїРµСЂР°С‚РѕСЂ;Empereur;Imperator;;;;;;;;;;;x
-city_emperor_female_troll_group;РРјРїРµСЂР°С‚СЂРёС†Р°;ImpР№ratrice;Imperatorin;;;;;;;;;;;x
-city_empire_of_troll_group;РРјРїРµСЂРёСЏ;Empire de;Imperium von;;;;;;;;;;;x
-city_empire_troll_group;РРјРїРµСЂРёСЏ;Empire;Imperium;;;;;;;;;;;x
-city_king;Р’РµСЂС…РѕРІРЅС‹Р№ СЃС‚Р°СЂРµР№С€РёРЅР°;Grand ancien;HochРґltester;;;;;;;;;;;x
-city_king_female;Р’РµСЂС…РѕРІРЅС‹Р№ СЃС‚Р°СЂРµР№С€РёРЅР°;Grande ancienne;HochРґlteste;;;;;;;;;;;x
-city_kingdom_of;Р’РµСЂС…РѕРІРЅРѕРµ РїР»РµРјСЏ;Haute Tribu de;Hoher Stamm von;;;;;;;;;;;x
-city_kingdom;Р’РµСЂС…РѕРІРЅРѕРµ РїР»РµРјСЏ;Haute Tribu;Hoher Stamm;;;;;;;;;;;x
-city_duke;РЎС‚Р°СЂРµР№С€РёРЅР°;Ancien;Р”ltester;;;;;;;;;;;x
-city_duke_female;РЎС‚Р°СЂРµР№С€РёРЅР°;Ancienne;Р”lteste;;;;;;;;;;;x
-city_duchy_of;РџР»РµРјСЏ;Tribu de;Stamm von;;;;;;;;;;;x
-city_duchy;РџР»РµРјСЏ;Tribu;Stamm;;;;;;;;;;;x
-city_count;Р’РѕР¶РґСЊ;Chef;HРґuptling;;;;;;;;;;;x
-city_count_female;РџСЂРµРґРІРѕРґРёС‚РµР»СЊРЅРёС†Р°;Cheffe;HРґuptlingsdame;;;;;;;;;;;x
-city_county_of;Р’РѕР¶РґРµСЃС‚РІРѕ;Chefferie de;Stamm von ;;;;;;;;;;;x
-city_county;Р’РѕР¶РґРµСЃС‚РІРѕ;Chefferie;Stamm;;;;;;;;;;;x
+city_emperor_troll_group;Император;Empereur;Imperator;;;;;;;;;;;x
+city_emperor_female_troll_group;Императрица;Impйratrice;Imperatorin;;;;;;;;;;;x
+city_empire_of_troll_group;Империя;Empire de;Imperium von;;;;;;;;;;;x
+city_empire_troll_group;Империя;Empire;Imperium;;;;;;;;;;;x
+city_king;Верховный старейшина;Grand ancien;Hochдltester;;;;;;;;;;;x
+city_king_female;Верховный старейшина;Grande ancienne;Hochдlteste;;;;;;;;;;;x
+city_kingdom_of;Верховное племя;Haute Tribu de;Hoher Stamm von;;;;;;;;;;;x
+city_kingdom;Верховное племя;Haute Tribu;Hoher Stamm;;;;;;;;;;;x
+city_duke;Старейшина;Ancien;Дltester;;;;;;;;;;;x
+city_duke_female;Старейшина;Ancienne;Дlteste;;;;;;;;;;;x
+city_duchy_of;Племя;Tribu de;Stamm von;;;;;;;;;;;x
+city_duchy;Племя;Tribu;Stamm;;;;;;;;;;;x
+city_count;Вождь;Chef;Hдuptling;;;;;;;;;;;x
+city_count_female;Предводительница;Cheffe;Hдuptlingsdame;;;;;;;;;;;x
+city_county_of;Вождество;Chefferie de;Stamm von ;;;;;;;;;;;x
+city_county;Вождество;Chefferie;Stamm;;;;;;;;;;;x
 # dryad_group;;;;;;;;;;;;;;x
-city_barony_of_dryad_group;РџСЂРёСЃС‚Р°РЅРёС‰Рµ РґСЂСѓРёРґРѕРІ;Poste-druide de;Druidenposten von;;;;;;;;;;;x
-city_barony_dryad_group;РџСЂРёСЃС‚Р°РЅРёС‰Рµ РґСЂСѓРёРґРѕРІ;Poste-druide;Druidenposten;;;;;;;;;;;x
+city_barony_of_dryad_group;Пристанище друидов;Poste-druide de;Druidenposten von;;;;;;;;;;;x
+city_barony_dryad_group;Пристанище друидов;Poste-druide;Druidenposten;;;;;;;;;;;x
