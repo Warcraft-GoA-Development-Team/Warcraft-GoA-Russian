@@ -1,22 +1,22 @@
-#CODE;RUSSIAN;;;;;;;;;;;;;x
+#CODE;RUSSIAN;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 # Common;;;;;;;;;;;;;;x
-vice_royalty_emperor;Magistrate;;;;;;;;;;;;;x
-vice_royalty_emperor_female;Magistrate;;;;;;;;;;;;;x
-vice_royalty_empire_of;Magistracy of;;;;;;;;;;;;;x
-vice_royalty_empire;Magistracy;;;;;;;;;;;;;x
-vice_royalty_king;Viceroy;;;;;;;;;;;;;x
-vice_royalty_king_female;Vicereine;;;;;;;;;;;;;x
-vice_royalty_kingdom_of;Viceroyalty of;;;;;;;;;;;;;x
-vice_royalty_kingdom;Viceroyalty;;;;;;;;;;;;;x
-vice_royalty_duke;Magistrate;;;;;;;;;;;;;x
-vice_royalty_duke_female;Magistrate;;;;;;;;;;;;;x
-vice_royalty_duchy_of;Magistracy of;;;;;;;;;;;;;x
-vice_royalty_duchy;Magistracy;;;;;;;;;;;;;x
-vice_royalty_count;Judge;;;;;;;;;;;;;x
-vice_royalty_count_female;Judge;;;;;;;;;;;;;x
-vice_royalty_county_of;Viceroyal County of;;;;;;;;;;;;;x
-vice_royalty_county;Viceroyal County;;;;;;;;;;;;;x
-vice_royalty_baron;Official;;;;;;;;;;;;;x
-vice_royalty_baron_female;Official;;;;;;;;;;;;;x
-vice_royalty_barony_of;Viceroyal Barony of;;;;;;;;;;;;;x
-vice_royalty_barony;Viceroyal Barony;;;;;;;;;;;;;x
+vice_royalty_emperor;Магистрат;Magistrat;Magistrat;;;;;;;;;;;x
+vice_royalty_emperor_female;Магистрат;Magistrate;Magistratin;;;;;;;;;;;x
+vice_royalty_empire_of;Магистратура;Magistrature de;Magistrat von;;;;;;;;;;;x
+vice_royalty_empire;Магистратура;Magistrature de;Magistrat;;;;;;;;;;;x
+vice_royalty_king;Вице-король;Vice-roi;Vizekцnig;;;;;;;;;;;x
+vice_royalty_king_female;Вице-королева;Vice-reine;Vizekцnigin;;;;;;;;;;;x
+vice_royalty_kingdom_of;Вице-королевство;Vice-royautй de;Vizekцnigreich von;;;;;;;;;;;x
+vice_royalty_kingdom;Вице-королевство;Vice-royautй;Vizekцnigreich;;;;;;;;;;;x
+vice_royalty_duke;Магистрат;Magistrat;Magistrat;;;;;;;;;;;x
+vice_royalty_duke_female;Магистрат;Magistrate;Magistratin;;;;;;;;;;;x
+vice_royalty_duchy_of;Магистратура;Magistrature de;Magistrat von;;;;;;;;;;;x
+vice_royalty_duchy;Магистратура;Magistrature;Magistrat;;;;;;;;;;;x
+vice_royalty_count;Судья;Juge;Richter;;;;;;;;;;;x
+vice_royalty_count_female;Судья;Juge;Richterin;;;;;;;;;;;x
+vice_royalty_county_of;Вице-графство;Comtй vice-royal de;Vizegrafschaft von;;;;;;;;;;;x
+vice_royalty_county;Вице-графство;Comtй vice-royal;Vizegrafschaft;;;;;;;;;;;x
+vice_royalty_baron;Представитель;Officiel;Amtstrдger;;;;;;;;;;;x
+vice_royalty_baron_female;Представитель;Officiel;Amtstrдgerin;;;;;;;;;;;x
+vice_royalty_barony_of;Вице-баронство;Baronnerie vice-royale de;Vizebaronie von;;;;;;;;;;;x
+vice_royalty_barony;Вице-баронство;Baronnerie vice-royale;Vizebaronie;;;;;;;;;;;x
