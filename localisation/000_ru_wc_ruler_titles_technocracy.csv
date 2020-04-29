@@ -1,22 +1,22 @@
-#CODE;RUSSIAN;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 # Common;;;;;;;;;;;;;;x
-technocracy_emperor;Grand Technocrat;;;;;;;;;;;;;x
-technocracy_emperor_female;Grand Technocrat;;;;;;;;;;;;;x
-technocracy_empire_of;Techno-empire of;;;;;;;;;;;;;x
-technocracy_empire;Techno-empire;;;;;;;;;;;;;x
-technocracy_king;High Tinker;;;;;;;;;;;;;x
-technocracy_king_female;High Tinker;;;;;;;;;;;;;x
-technocracy_kingdom_of;High Technocracy of;;;;;;;;;;;;;x
-technocracy_kingdom;High Technocracy;;;;;;;;;;;;;x
-technocracy_duke;Chief Engineer;;;;;;;;;;;;;x
-technocracy_duke_female;Chief Engineer;;;;;;;;;;;;;x
-technocracy_duchy_of;Technocracy of;;;;;;;;;;;;;x
-technocracy_duchy;Technocracy;;;;;;;;;;;;;x
-technocracy_count;Engineer;;;;;;;;;;;;;x
-technocracy_count_female;Engineer;;;;;;;;;;;;;x
-technocracy_county_of;Zone of;;;;;;;;;;;;;x
-technocracy_county;Zone;;;;;;;;;;;;;x
-technocracy_baron;Tinker;;;;;;;;;;;;;x
-technocracy_baron_female;Tinker;;;;;;;;;;;;;x
-technocracy_barony_of;Workshop of;;;;;;;;;;;;;x
-technocracy_barony;Workshop;;;;;;;;;;;;;x
+technocracy_emperor;Великий технократ;Grand Technocrate ;GroЯer Technokrat;;;;;;;;;;;x
+technocracy_emperor_female;Великий технократ;Grande Technocrate;GroЯe Technokratin;;;;;;;;;;;x
+technocracy_empire_of;Техноимперия;Techno-empire de;Techno-Kaiserreich von;;;;;;;;;;;x
+technocracy_empire;Техноимперия;Techno-empire;Techno-Kaiserreich;;;;;;;;;;;x
+technocracy_king;Главный механик;Grand Bricoleur;Hochbastler;;;;;;;;;;;x
+technocracy_king_female;Главный механик;Grande Bricoleuse;Hochbastlerin;;;;;;;;;;;x
+technocracy_kingdom_of;Верховная технократия;Grande Technocratie de;Hohe Technokratie von;;;;;;;;;;;x
+technocracy_kingdom;Верховная технократия;Grande Technocratie;Hohe Technokratie;;;;;;;;;;;x
+technocracy_duke;Главный инженер;Grand Ingйnieur;Chefingenieur;;;;;;;;;;;x
+technocracy_duke_female;Главный инженер;Grande Ingйnieure;Chefingenieurin;;;;;;;;;;;x
+technocracy_duchy_of;Технократия;Technocratie de;Technokratie von;;;;;;;;;;;x
+technocracy_duchy;Технократия;Technocratie;Technokratie;;;;;;;;;;;x
+technocracy_count;Инженер;Ingйnieur;Ingenieur;;;;;;;;;;;x
+technocracy_count_female;Инженер;Ingйnieure;Ingenieurin;;;;;;;;;;;x
+technocracy_county_of;Зона;Zone de;Bereich von;;;;;;;;;;;x
+technocracy_county;Зона;Zone;Bereich;;;;;;;;;;;x
+technocracy_baron;Механик;Bricoleur;Tьftler;;;;;;;;;;;x
+technocracy_baron_female;Механик;Bricoleuse;Tьftlerin;;;;;;;;;;;x
+technocracy_barony_of;Мастерская;Atelier de;Werkstatt von;;;;;;;;;;;x
+technocracy_barony;Мастерская;Atelier;Werkstatt;;;;;;;;;;;x
