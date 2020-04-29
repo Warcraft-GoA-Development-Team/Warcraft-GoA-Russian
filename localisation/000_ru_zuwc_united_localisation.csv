@@ -2022,8 +2022,8 @@ EVTDESC_WCDRU_5501;После падения Нордрассила, ночные эльфы потеряли бессмертие. 
 EVTOPTA_WCDRU_5501_elf;Это огромная потеря.;;;;;;;;;;;;;x
 EVTOPTA_WCDRU_5501_nonelf;Это огромная потеря для эльфов.;;;;;;;;;;;;;x
 night_elves_lost_immortality_tooltip;Ночные эльфы теряют §YБессмертие§!\n;;;;;;;;;;;;;x
-nick_the_divine;the Divine;;;;;;;;;;;;;x
-EVTTITLE_WCDRN_100;Crash Landing of the Exodar;;;;;;;;;;;;;x
+nick_the_divine;Божественный;;;;;;;;;;;;;x
+EVTTITLE_WCDRN_100;Крушение Экзодара.;;;;;;;;;;;;;x
 EVTDESC_WCDRN_100;In the far reaches of the west, a falling star has crashed upon the relatively peaceful island of Azuremyst. Several pieces and chunks of crystal from the celestial body have scattered across the island chain, contaminating the local ecosystem. We have learned that this crashed object is no simple meteoric rock, but rather a dimensional ship carrying a host of humanoids departed from the shattered world of Draenor, the birthplace of the Horde. These people call themselves the Draenei, a race of Light-wielding priests, mages, and artificers descended from the same race of Eredar that threatened Azeroth not so long ago. They have crash landed here on Azeroth in an attempt to escape the Legion's onslaught with the help of a being seemingly made of pure Light, O'ros. Even now, the Draenei work to craft a new home for themselves here on Azeroth, centered around the crashed dimensional ship, to which they refer to as the Exodar.;;;;;;;;;;;;;x
 EVTOPTA_WCDRN_100;May the Light guide them!;;;;;;;;;;;;;x
 EVTOPTB_WCDRN_100;They can run, but they can not hide!;;;;;;;;;;;;;x
@@ -2068,116 +2068,116 @@ RULE_HOLY_WARS_ON;Включены;;;;;;;;;;;;;x
 RULE_HOLY_WARS_ON_DESC;Священная Война доступна для всех.;;;;;;;;;;;;;x
 RULE_HOLY_WARS_OFF;Отключены;;;;;;;;;;;;;x
 RULE_HOLY_WARS_OFF_DESC;Священная Война отключена.;;;;;;;;;;;;;x
-kolk;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-kolk_desc;Kolk was one of the first centaur, directly descended from the union of Therazane and Zaetar. He was the First Khan as well as progenitor of the Kolkar.;;;;;;;;;;;;;x
-theradras_worship_opinion;[theradras_worship.GetName] Opinion;;;;;;;;;;;;;x
-bloodline_effect_shaman_training;Lowered Learning requirement for §GShaman Training§!;;;;;;;;;;;;;x
-waylon;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-waylon_desc;Waylon was an admiral of Kul Tiras, who led the Stormsong tidesages into the northern valley and drove away the quilboar, as well as established the Shrine of the Storm.;;;;;;;;;;;;;x
-tirassian_opinion;[tirassian.GetName] Opinion;;;;;;;;;;;;;x
-tidemother_opinion;[tidemother.GetName] Opinion;;;;;;;;;;;;;x
-maraudos;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-maraudos_desc;Maraudos was the fourth Khan of the centaur, as well as the founder of the Maraudine clan, the protectors of the centaur holy ground of Maraudon.;;;;;;;;;;;;;x
-madoran;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-madoran_desc;Madoran was the first Bronzebeard king, victor of the Ironforge civil war and later leader of the coalition against the Dark Iron clan in the War of the Three Hammers.;;;;;;;;;;;;;x
-bronzebeard_opinion;[bronzebeard.GetName] Opinion;;;;;;;;;;;;;x
-wildhammer_opinion;[wildhammer.GetName] Opinion;;;;;;;;;;;;;x
-dark_iron_opinion;[dark_iron.GetName] Opinion;;;;;;;;;;;;;x
-khardros;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-khardros_desc;Khardros was the High Thane of the Wildhammer dwarves, who led them in the War of the Three Hammers. Founder of Grim Batol and Aerie Peak.;;;;;;;;;;;;;x
-thaurissan;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-thaurissan_desc;Sorcerer-Thane Thaurissan was the leader of the Dark Iron dwarves during the War of the Three Hammers. Summoner of Ragnaros, the Firelord.;;;;;;;;;;;;;x
-fire_cult_opinion;[fire_cult.GetName] Opinion;;;;;;;;;;;;;x
-barathen;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-barathen_desc;Barathen had managed to win a significant victory for the humans during the Gnoll War, cementing Stormwind's position as a regional power for decades.;;;;;;;;;;;;;x
-rastakhan;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-rastakhan_desc;The God-King of the Zandalari, responsible for reviving an ancient idea of Troll unity dating back to the times of the Empire of Zul in the form of conclaves in Zuldazar.;;;;;;;;;;;;;x
-azerothian_opinion;[azerothian.GetName] Opinion;;;;;;;;;;;;;x
-troll_group_opinion;[troll_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-bloodline_effect_loa_priest_training;Lowered Learning requirement for §GLoa Priest Training§!;;;;;;;;;;;;;x
-terenas;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-terenas_desc;A founding father of the Alliance of Lordaeron, King Terenas was responsible for uniting the feuding human kingdoms against a common threat, the Orcish Horde.;;;;;;;;;;;;;x
-zuljin;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-zuljin_desc;A legendary warlord and a sworn enemy of the high elves, Zul'jin had led the Amani trolls in a brutal campaign against Quel'Thalas during the Second War.;;;;;;;;;;;;;x
-bloodline_effect_warrior_training;Lowered Martial requirement for §GWarrior Training§!;;;;;;;;;;;;;x
-bloodline_effect_priest_training;Lowered Learning requirement for §GPriest Training§!;;;;;;;;;;;;;x
-bloodline_effect_druid_training;Lowered Learning requirement for §GDruid Training§!;;;;;;;;;;;;;x
-tyrande;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-tyrande_desc;A powerful Priestess of the Moon, Tyrande was one of the leaders of the Kaldorei resistance forces against the Legion during the War of the Ancients.;;;;;;;;;;;;;x
-malfurion;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-malfurion_desc;A prodigy in the art of Druidism, Malfurion was one of the leaders of the Kaldorei resistance forces against the Legion during the War of the Ancients.;;;;;;;;;;;;;x
-night_elf_opinion;[night_elf.GetName] Opinion;;;;;;;;;;;;;x
-tauren_opinion;[tauren.GetName] Opinion;;;;;;;;;;;;;x
-blackhand;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-blackhand_desc;Known as the Destroyer, Blackhand led the Orcish Horde to Azeroth through the Dark Portal in pursuit of new lands to conquer.;;;;;;;;;;;;;x
-durotan;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-durotan_desc;One of the few orcs who refused the Blood Pact, Durotan left the Horde after crossing the Dark Portal to uphold ancestral traditions and settled in remote lands with his clan.;;;;;;;;;;;;;x
-grommash;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-grommash_desc;The redeemer of the orcs, Grommash earned the title by slaying Mannoroth the Pit Lord, bringing an end to the Blood Pact between the annihilan and the orcish race.;;;;;;;;;;;;;x
-orcish_shamanism_opinion;[orcish_shamanism.GetName] Opinion;;;;;;;;;;;;;x
-vashj;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-vashj_desc;Once chief among Queen Azshara's handmaidens before the Sundering, later a powerful sea witch matron of the Coilfang tribe held in high regard by various Naga.;;;;;;;;;;;;;x
-naga_opinion;[naga.GetName] Opinion;;;;;;;;;;;;;x
-uther;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-uther_desc;Uther the Lightbringer was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by Alonsus Faol himself.;;;;;;;;;;;;;x
-tirion;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-tirion_desc;Tirion Fordring was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by Alonsus Faol himself.;;;;;;;;;;;;;x
-saidan;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-saidan_desc;Saidan Dathrohan was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by Alonsus Faol himself.;;;;;;;;;;;;;x
-gavinrad;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-gavinrad_desc;Gavinrad the Dire was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by Sir Anduin Lothar.;;;;;;;;;;;;;x
-turalyon;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-turalyon_desc;Turalyon was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by Alonsus Faol himself.;;;;;;;;;;;;;x
-bloodline_effect_paladin_training;Lowered Martial requirement for §GPaladin Training§!;;;;;;;;;;;;;x
-dathremar;Blood of Dath'Remar;;;;;;;;;;;;;x
-dathremar_desc;Dath'Remar Sunstrider was the founder of Quel'Thalas, who led the Highborne exiles from Kalimdor into their new homeland, becoming one of the first high elves.;;;;;;;;;;;;;x
-lireesa;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-lireesa_desc;Lireesa Windrunner was the Ranger-General of Silvermoon and a staunch protector of Quel'Thalas against the aggression of the Amani and the Horde.;;;;;;;;;;;;;x
-bloodline_effect_mage_training;Lowered Learning requirement for §GMage Training§!;;;;;;;;;;;;;x
-bloodline_effect_hunter_training;Lowered Martial requirement for §GHunter Training§!;;;;;;;;;;;;;x
-twilight_viceroy;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-twilight_viceroy_desc;The chosen champion of the Old Gods, [This.GetFirstNameWithNick] had restored the eldritch Black Empire and became the herald of the Hour of Twilight.;;;;;;;;;;;;;x
-reborn_black_empire_tt;The §YBlack Empire§! is activated.;;;;;;;;;;;;;x
-gain_twilight_viceroy_bloodline_tt;You will gain an unique §YBloodline§!.;;;;;;;;;;;;;x
-monthly_insanity;Monthly Insanity;;;;;;;;;;;;;x
-bloodline_effect_insanity_gain;Increased §GInsanity§! gain from sieges and sacrifices;;;;;;;;;;;;;x
-nick_the_godslayer;the Godslayer;;;;;;;;;;;;;x
-godslayer_cthun;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-godslayer_cthun_desc;[This.GetFirstNameWithNick] was the commander who led the Siege of Ahn'qiraj and personally vanquished the Old God, C'Thun in the depths of the Qiraji temple city.;;;;;;;;;;;;;x
-silver_hand_justice;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-silver_hand_justice_desc;[This.GetFirstNameWithNick] was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by the Archbishop himself.;;;;;;;;;;;;;x
-silver_hand_retribution;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-silver_hand_retribution_desc;[This.GetFirstNameWithNick] was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by the Archbishop himself.;;;;;;;;;;;;;x
-silver_hand_protection;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-silver_hand_protection_desc;[This.GetFirstNameWithNick] was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by the Archbishop himself.;;;;;;;;;;;;;x
-silver_hand_holiness;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-silver_hand_holiness_desc;[This.GetFirstNameWithNick] was one of the founding members of the Order of the Silver Hand, a knightly order of paladins, appointed by the Archbishop himself.;;;;;;;;;;;;;x
-silver_hand_compassion;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-silver_hand_compassion_desc;[This.GetFirstNameWithNick] was one of the founding members of the Order of the Silver Hand, a knightly order of paladins.;;;;;;;;;;;;;x
-ignaeus;Blood of Ignaeus;;;;;;;;;;;;;x
-ignaeus_desc;Ignaeus was a general of Strom, whose legendary prowess in battle against the Amani trolls earned him fearsome reputation as the Trollbane.;;;;;;;;;;;;;x
-ymiron;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-ymiron_desc;A fearsome warlord, King Ymiron had led the Dragonflayer to victory against the Jalgar, securing his position as an undisputed sovereign of the northern Vrykul.;;;;;;;;;;;;;x
-vrykul_opinion;[vrykul.GetName] Opinion;;;;;;;;;;;;;x
-old_ways_opinion;[old_ways.GetName] Opinion;;;;;;;;;;;;;x
-alliance_of_lordaeron_founder;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-alliance_of_lordaeron_founder_desc;As founder of the Alliance of Lordaeron, [This.GetFirstNameWithNick] was responsible for uniting the feuding human kingdoms against a common threat, the Orcish Horde.;;;;;;;;;;;;;x
-ashbringer_bloodline;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-ashbringer_bloodline_desc;Having accomplished the purification of the dark crystal, [This.GetFirstNameWithNick] became the first wielder of the eponymous weapon.;;;;;;;;;;;;;x
-EVTDESC_WCUND_1300;Recently, the harmful influence of death magic has changed something in you. You feel its presence in every vein, at every fingertip. It changes you irrevocably, perverting your mind and revealing its darkest corners.;;;;;;;;;;;;;x
-EVTDESC_WCUND_1301;Your past gods turned their back on you after you were stricken by the curse of undeath. By numbing your ability to feel joy of existence and amplifying your negative emotions, it slowly takes its toll on your very being.;;;;;;;;;;;;;x
-EVTOPTA_WCUND_1301;I shall bear this burden, but I will not forsake my freedom.;;;;;;;;;;;;;x
-EVTOPTB_WCUND_1301;It is a price I am willing to pay to bask in the power of the Lich King.;;;;;;;;;;;;;x
-EVTOPTC_WCUND_1301;I shall bind my soul to the Blighted Lands, so I can draw my power from there.;;;;;;;;;;;;;x
-I_WILL_NOT_BETRAY_RELIGION;I will not betray [Root.TrueReligion.GetHighGodName]!;;;;;;;;;;;;;x
-emperor_of_zul;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-emperor_of_zul_desc;The restorer of an ancient legacy, [This.GetFirstNameWithNick] gained recognition among the Trolls as one of their greatest champions and supreme ruler.;;;;;;;;;;;;;x
-bloodline_effect_necromancer_training;Lowered Learning requirement for §GNecromancer Training§!;;;;;;;;;;;;;x
-bloodline_insanity_gain_tooltip;Increased §YInsanity§! gain;;;;;;;;;;;;;x
-String_Death_God;Ner'zhul;;;;;;;;;;;;;x
-GetRelAdjective_Wise;Wise;;;;;;;;;;;;;x
+kolk;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+kolk_desc;Колк был одним из первых кентавров, появившимся от союза Теразан и Заетара. Он был первым Ханом и прародителем Колкар.;;;;;;;;;;;;;x
+theradras_worship_opinion;мнение [theradras_worship.GetName];;;;;;;;;;;;;x
+bloodline_effect_shaman_training;Понижены требования к образованию для §GShaman Training§!;;;;;;;;;;;;;x
+waylon;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+waylon_desc;Вэйлон был адмиралом Кул'Тираса, который выбил свинобразов из Долины Штормов и создал Святилище Штормов.;;;;;;;;;;;;;x
+tirassian_opinion;мнение [tirassian.GetName];;;;;;;;;;;;;x
+tidemother_opinion;мнение [tidemother.GetName];;;;;;;;;;;;;x
+maraudos;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+maraudos_desc;Марадос был четвертым Ханом кентавров и основателем клана Марадин, защитников священной земли Марадона.;;;;;;;;;;;;;x
+madoran;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+madoran_desc;Мадоран был первым королем из Бронзобородов, победитель Стальгорнской гражданской войны и глава коалиации против клана Черного Железа в войне Трех Молотов.;;;;;;;;;;;;;x
+bronzebeard_opinion;мнение [bronzebeard.GetName] ;;;;;;;;;;;;;x
+wildhammer_opinion;[wildhammer.GetName] мнение;;;;;;;;;;;;;x
+dark_iron_opinion;мнение [dark_iron.GetName];;;;;;;;;;;;;x
+khardros;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+khardros_desc;Кхардрос был верховным таном дворфов Дикого Молота во время войны Трех Молотов. Основатель Грим Батола и Заоблачного Пика.;;;;;;;;;;;;;x
+thaurissan;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+thaurissan_desc;Тан-Колдун Тауриссан возглавлял клан Черного Железа во время войны Трех Молотов. Призвал Рагнароса, Повелителя Огня.;;;;;;;;;;;;;x
+fire_cult_opinion;мнение [fire_cult.GetName] ;;;;;;;;;;;;;x
+barathen;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+barathen_desc;Баратен одержал решающую победу в войне Гноллов, укрепив позиции Штормгарда на века.;;;;;;;;;;;;;x
+rastakhan;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+rastakhan_desc;Король-Бог Зандалари вернул к жизни древнюю идею единой империи троллей, принявшись воссоздавать ее в форме единого своета в Зулдазаре.;;;;;;;;;;;;;x
+azerothian_opinion;мнение [azerothian.GetName];;;;;;;;;;;;;x
+troll_group_opinion;мнение [troll_group.GetGroupName];;;;;;;;;;;;;x
+bloodline_effect_loa_priest_training;Понижены требования к образованию для §GLoa Priest Training§!;;;;;;;;;;;;;x
+terenas;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+terenas_desc;Основатель Альянса Лордерона, король Теренас объединил феодальные королевства людей против единой угрозы — Орды.;;;;;;;;;;;;;x
+zuljin;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+zuljin_desc;Легендарный военачальник и заклятый враг высших эльфов, Зул'Джин возглавлял троллей Амани в жестоких битвах против Квель'Таласа во время Второй Войны.;;;;;;;;;;;;;x
+bloodline_effect_warrior_training;Понижены требования к военному навыку для §GWarrior Training§!;;;;;;;;;;;;;x
+bloodline_effect_priest_training;Понижены требования к образованию для §GPriest Training§!;;;;;;;;;;;;;x
+bloodline_effect_druid_training;Понижены требования к образованию для §GDruid Training§!;;;;;;;;;;;;;x
+tyrande;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+tyrande_desc;Могущественная жрица Луны, Тиранда была одним из лидеров сопротивления Калдорай во время вторжения Легиона в Войну Древних.;;;;;;;;;;;;;x
+malfurion;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+malfurion_desc;Необычайно одаренный друид, Малфурион был одним из лидеров сопротивления Калдорай во время вторжения Легиона в Войну Древних.;;;;;;;;;;;;;x
+night_elf_opinion;мнение [night_elf.GetName];;;;;;;;;;;;;x
+tauren_opinion;мнение [tauren.GetName] ;;;;;;;;;;;;;x
+blackhand;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+blackhand_desc;Известный как Резрушитель, Чернорук возглавил Орду во время вторжения в Азерот через Темный Портал.;;;;;;;;;;;;;x
+durotan;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+durotan_desc;Один из немногих орков, отказавшихся от Кровавого Союза, Дуротан покинул Орду после перехода через Темный Портал чтобы возродить традиции предков в далеких землях вместе со своим кланом.;;;;;;;;;;;;;x
+grommash;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+grommash_desc;Спаситель орков, Громмаш заслужил свое место в истории убив Маннороха и разбив кровавый союз между демонами и орками.;;;;;;;;;;;;;x
+orcish_shamanism_opinion;мнение [orcish_shamanism.GetName] ;;;;;;;;;;;;;x
+vashj;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+vashj_desc;В давние времена бывшая фрейлина при дворе королевы Азшары, затем — могущественная морская повелительница племени Змеиных Колец, она пользовалась уважением среди всех наг.;;;;;;;;;;;;;x
+naga_opinion;мнение [naga.GetName];;;;;;;;;;;;;x
+uther;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+uther_desc;Утер Светоносный был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного Алонсием Фаолом.;;;;;;;;;;;;;x
+tirion;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+tirion_desc;Тирион Фордринг был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного Алонсием Фаолом.;;;;;;;;;;;;;x
+saidan;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+saidan_desc;Сайден Датрохан был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного Алонсием Фаолом.;;;;;;;;;;;;;x
+gavinrad;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+gavinrad_desc;Гавинард Свирепый был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного Алонсием Фаолом.;;;;;;;;;;;;;x
+turalyon;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+turalyon_desc;Туралион был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного Алонсием Фаолом.;;;;;;;;;;;;;x
+bloodline_effect_paladin_training;Понижены требования к военному навыку для §GPaladin Training§!;;;;;;;;;;;;;x
+dathremar;Кровь Дат'Ремара;;;;;;;;;;;;;x
+dathremar_desc;Дат'Ремар Солнечный Скиталец стал основателем Квель'Таласа, отправившись с изгнанными высокорожденными из Калимдора на поиски новых земель, и стал одним из первых высших эльфов.;;;;;;;;;;;;;x
+lireesa;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+lireesa_desc;Лирисса Ветрокрылая была предводителем следопытов Луносвета и защитником Квель'Таласа против агрессии троллей Амани и Орды.;;;;;;;;;;;;;x
+bloodline_effect_mage_training;Понижены требования образования для §GMage Training§!;;;;;;;;;;;;;x
+bloodline_effect_hunter_training;Понижены требования к военному навыку для §GHunter Training§!;;;;;;;;;;;;;x
+twilight_viceroy;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+twilight_viceroy_desc;Избранный чемпион Древних Богов, [This.GetFirstNameWithNick] восстановил древнюю Черную Империю и стал провозвестником Часа Сумерек;;;;;;;;;;;;;x
+reborn_black_empire_tt;§YBlack Empire§! включена.;;;;;;;;;;;;;x
+gain_twilight_viceroy_bloodline_tt;Вы получите уникальную династию §YBloodline§!.;;;;;;;;;;;;;x
+monthly_insanity;Месячная нечистивость;;;;;;;;;;;;;x
+bloodline_effect_insanity_gain;Повышенная §GInsanity§! от осад и жертвоприношений;;;;;;;;;;;;;x
+nick_the_godslayer;Убийца Богов;;;;;;;;;;;;;x
+godslayer_cthun;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+godslayer_cthun_desc;[This.GetFirstNameWithNick] возглавлял осаду Ан'Киража и лично изгнал Древнего Бога К'Туна в глубины храмового города киражей.;;;;;;;;;;;;;x
+silver_hand_justice;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+silver_hand_justice_desc;[This.GetFirstNameWithNick] был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного самим архиепископом.;;;;;;;;;;;;;x
+silver_hand_retribution;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+silver_hand_retribution_desc;[This.GetFirstNameWithNick] был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного самим архиепископом.;;;;;;;;;;;;;x
+silver_hand_protection;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+silver_hand_protection_desc;[This.GetFirstNameWithNick] был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного самим архиепископом.;;;;;;;;;;;;;x
+silver_hand_holiness;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+silver_hand_holiness_desc;[This.GetFirstNameWithNick] был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного самим архиепископом.;;;;;;;;;;;;;x
+silver_hand_compassion;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+silver_hand_compassion_desc;[This.GetFirstNameWithNick] был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного самим архиепископом.;;;;;;;;;;;;;x
+ignaeus;Кровь Игнеуса;;;;;;;;;;;;;x
+ignaeus_desc;Игнеус был генералом Строма, чья легендарная отвага в бою с троллями Амани обеспечила ему грозную репутацию и прозвище Троллебой.;;;;;;;;;;;;;x
+ymiron;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+ymiron_desc;Бесстрашный военачальник, король Имирон привел врайкул к победе с фурболгами, укрепив их позиции в Ревущем Фьорде и объединив под свои мправлением северных врайкул.;;;;;;;;;;;;;x
+vrykul_opinion; мнение [vrykul.GetName];;;;;;;;;;;;;x
+old_ways_opinion; мнение [old_ways.GetName];;;;;;;;;;;;;x
+alliance_of_lordaeron_founder;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+alliance_of_lordaeron_founder_desc;Как основатель Альянса Лордерона, [This.GetFirstNameWithNick] объединил феодальные человеческие королевства против общей угрозы — Орды.;;;;;;;;;;;;;x
+ashbringer_bloodline;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+ashbringer_bloodline_desc;Закончив очищение темного кристалла, [This.GetFirstNameWithNick] стал первым хранителем одноименного оружия.;;;;;;;;;;;;;x
+EVTDESC_WCUND_1300;Вредоносное влияние магии смерти что-то изменило в вас. Вы чувствуете присутствие этого в каждой клетке своего тела. Оно меняет вас, искажая ваш разум и открывая его самые темные уголки.;;;;;;;;;;;;;x
+EVTDESC_WCUND_1301;Ваши боги отвернулись от вас после того как вы попали под проклятие нежизни. Ваша способность получать удовольствие от жизни была окончательно забыта, и множество негативных эмоций заставляют вас терять даже свою личность.;;;;;;;;;;;;;x
+EVTOPTA_WCUND_1301;Я буду нести это бремя, но не отрину свою свободу.;;;;;;;;;;;;;x
+EVTOPTB_WCUND_1301;Эта цена которую я готов заплатить чтобы окунуться в могущество Короля Лича.;;;;;;;;;;;;;x
+EVTOPTC_WCUND_1301;Я свяжу свою душу с Бесплотным Миром и стану черпать силу оттуда.;;;;;;;;;;;;;x
+I_WILL_NOT_BETRAY_RELIGION;Я не отрину [Root.TrueReligion.GetHighGodName]!;;;;;;;;;;;;;x
+emperor_of_zul;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+emperor_of_zul_desc;Восстановивший древнее наследие, [This.GetFirstNameWithNick] получил признание среди троллей как один из величайших воителей и верховный правитель.;;;;;;;;;;;;;x
+bloodline_effect_necromancer_training;Пониженные требования к обучению для §GNecromancer Training§!;;;;;;;;;;;;;x
+bloodline_insanity_gain_tooltip;Повышен рост §YInsanity§!;;;;;;;;;;;;;x
+String_Death_God;Нер'Зул;;;;;;;;;;;;;x
+GetRelAdjective_Wise;Мудрый;;;;;;;;;;;;;x
 EVTOPTA_WCCLS_2102;Это хорошая цена.;;;;;;;;;;;;;x
-nick_the_mystery_seeker;the Mystery Seeker;;;;;;;;;;;;;x
+nick_the_mystery_seeker;Искатель;;;;;;;;;;;;;x
 is_shadow_council_member_tooltip;Является §YТеневым советником§!;;;;;;;;;;;;;x
 inhabitants_sacrificed;Обитатели Принесены в Жертву;;;;;;;;;;;;;x
 world_kalimdor_kalimdor_isles;Kalimdor Isles;;;;;;;;;;;;;x
@@ -2187,50 +2187,50 @@ EVTOPTC_WCTHW_2036;Довольно! Мы возвращаемся домой.;;;;;;;;;;;;;x
 nick_the_outcast;Отверженный;;;;;;;;;;;;;x
 faction_government;Политическая Фракция;;;;;;;;;;;;;x
 faction_government_desc;Объединение многих королевств и племен. Власть верховного лидера сильно ограничена чтобы обеспечить гарантию самоуправления правителям в составе политической фракции.;;;;;;;;;;;;;x
-gov_electorial_aristocratic_horde;Elective Aristocratic Horde;;;;;;;;;;;;;x
-gov_hereditary_aristocratic_horde;Hereditary Aristocratic Horde;;;;;;;;;;;;;x
-gov_electorial_despotic_horde;Elective Despotic Horde;;;;;;;;;;;;;x
-gov_hereditary_despotic_horde;Hereditary Despotic Horde;;;;;;;;;;;;;x
-gov_electorial_absolute_horde;Elective Absolute Horde;;;;;;;;;;;;;x
-gov_hereditary_absolute_horde;Hereditary Absolute Horde;;;;;;;;;;;;;x
-gov_electorial_aristocratic_alliance;Elective Aristocratic Alliance;;;;;;;;;;;;;x
-gov_hereditary_aristocratic_alliance;Hereditary Aristocratic Alliance;;;;;;;;;;;;;x
-gov_electorial_despotic_alliance;Elective Despotic Alliance;;;;;;;;;;;;;x
-gov_hereditary_despotic_alliance;Hereditary Despotic Alliance;;;;;;;;;;;;;x
-gov_electorial_absolute_alliance;Elective Absolute Alliance;;;;;;;;;;;;;x
-gov_hereditary_absolute_alliance;Hereditary Absolute Alliance;;;;;;;;;;;;;x
+gov_electorial_aristocratic_horde;Выборно-аристократическая Орда;;;;;;;;;;;;;x
+gov_hereditary_aristocratic_horde;Наследственно-аристократическая Орда;;;;;;;;;;;;;x
+gov_electorial_despotic_horde;Выборно-деспотическая Орда;;;;;;;;;;;;;x
+gov_hereditary_despotic_horde;Наследственно-деспотическая Орда;;;;;;;;;;;;;x
+gov_electorial_absolute_horde;Выборно-самодержавная Орда;;;;;;;;;;;;;x
+gov_hereditary_absolute_horde;Наследственно-самодержавная Орда;;;;;;;;;;;;;x
+gov_electorial_aristocratic_alliance;Выборно-аристократический Альянс;;;;;;;;;;;;;x
+gov_hereditary_aristocratic_alliance;Наследственно-аристократический Альянс;;;;;;;;;;;;;x
+gov_electorial_despotic_alliance;Выборно-деспотический Альянс;;;;;;;;;;;;;x
+gov_hereditary_despotic_alliance;Наследственно-деспотический Альянс;;;;;;;;;;;;;x
+gov_electorial_absolute_alliance;Выборно-самодержавный Альянс;;;;;;;;;;;;;x
+gov_hereditary_absolute_alliance;Наследственно-самодержавный Альянс;;;;;;;;;;;;;x
 FOR_THE_FACTION;За [This.GetFactionName]!;;;;;;;;;;;;;x
 GetFactionName_Horde;Орду;;;;;;;;;;;;;x
 GetFactionName_Alliance;Альянс;;;;;;;;;;;;;x
 GetFactionName_Azeroth;Азерот;;;;;;;;;;;;;x
 EVTDESC_WCPLF_280;Relations within [Root.PrimaryTitle.GetName] are stronger than ever. In the wake of newfound internal peace, [Root.GetTitledFirstName] spoke to highranking members and nobles of [Root.PrimaryTitle.GetName]. During the private meeting, [Root.GetSheHe] proposed combining the military and political power of all subordinate kingdoms and clans in order to protect their common borders. To ensure an uncontested and unified power structure, [Root.GetTitledFirstName] has pledged not to get involved in the internal dynastic politics of [Root.PrimaryTitle.GetName] for the succeeding [Root.GetTitle] will be selected by the nobles and chieftans of the realm from hence forward. After the meeting chamber doors opened, [Root.GetTitledFirstName] announced that [Root.PrimaryTitle.GetName] was now truly united under one [Root.GetTitle]!;;;;;;;;;;;;;x
 EVTTITLE_WCPLF_280;[Root.PrimaryTitle.GetName] United;;;;;;;;;;;;;x
-creature_human_opinion;Human Opinion;;;;;;;;;;;;;x
-opinion_of_creature_human;Opinion of Humans;;;;;;;;;;;;;x
-creature_orc_opinion;Orc Opinion;;;;;;;;;;;;;x
-opinion_of_creature_orc;Opinion of Orcs;;;;;;;;;;;;;x
-creature_ogre_opinion;Ogre Opinion;;;;;;;;;;;;;x
-opinion_of_creature_ogre;Opinion of Ogres;;;;;;;;;;;;;x
-creature_high_elf_opinion;High Elf Opinion;;;;;;;;;;;;;x
-opinion_of_creature_high_elf;Opinion of High Elves;;;;;;;;;;;;;x
-creature_blood_elf_opinion;Blood Elf Opinion;;;;;;;;;;;;;x
-opinion_of_creature_blood_elf;Opinion of Blood Elves;;;;;;;;;;;;;x
-creature_magnataur_opinion;Magnataur Opinion;;;;;;;;;;;;;x
-opinion_of_creature_magnataur;Opinion of Magnataurs;;;;;;;;;;;;;x
-creature_taunka_opinion;Taunka Opinion;;;;;;;;;;;;;x
-opinion_of_creature_taunka;Opinion of Taunka;;;;;;;;;;;;;x
-creature_night_elf_opinion;Night Elf Opinion;;;;;;;;;;;;;x
-opinion_of_creature_night_elf;Opinion of Night Elves;;;;;;;;;;;;;x
-creature_tauren_opinion;Tauren Opinion;;;;;;;;;;;;;x
-opinion_of_creature_tauren;Opinion of Tauren;;;;;;;;;;;;;x
-creature_centaur_opinion;Centaur Opinion;;;;;;;;;;;;;x
-opinion_of_creature_centaur;Opinion of Centaurs;;;;;;;;;;;;;x
-creature_dryad_opinion;Dryad Opinion;;;;;;;;;;;;;x
-opinion_of_creature_dryad;Opinion of Dryads;;;;;;;;;;;;;x
-creature_frostnymph_opinion;Frost Nymph Opinion;;;;;;;;;;;;;x
-opinion_of_creature_frostnymph;Opinion of Frost Nymphs;;;;;;;;;;;;;x
-creature_highborne_opinion;Highborne Opinion;;;;;;;;;;;;;x
-opinion_of_creature_highborne;Opinion of Highborne;;;;;;;;;;;;;x
+creature_human_opinion;мнение людей;;;;;;;;;;;;;x
+opinion_of_creature_human;мнение о людях;;;;;;;;;;;;;x
+creature_orc_opinion;мнение орков;;;;;;;;;;;;;x
+opinion_of_creature_orc;мнение об орках;;;;;;;;;;;;;x
+creature_ogre_opinion;мнение огров;;;;;;;;;;;;;x
+opinion_of_creature_ogre;мнение об ограх;;;;;;;;;;;;;x
+creature_high_elf_opinion;мнение высших эльфов;;;;;;;;;;;;;x
+opinion_of_creature_high_elf;мнение о высших эльфах;;;;;;;;;;;;;x
+creature_blood_elf_opinion;мнение кровавых эльфов;;;;;;;;;;;;;x
+opinion_of_creature_blood_elf;мнение о кровавых эльфах;;;;;;;;;;;;;x
+creature_magnataur_opinion;мнение магнотавров;;;;;;;;;;;;;x
+opinion_of_creature_magnataur;мнение о магнотаврах;;;;;;;;;;;;;x
+creature_taunka_opinion;мнение таунка;;;;;;;;;;;;;x
+opinion_of_creature_taunka;мнение о таунка;;;;;;;;;;;;;x
+creature_night_elf_opinion;мнение ночных эльфов;;;;;;;;;;;;;x
+opinion_of_creature_night_elf;мнение о ночных эльфах;;;;;;;;;;;;;x
+creature_tauren_opinion;мнение тауренов;;;;;;;;;;;;;x
+opinion_of_creature_tauren;мнение о тауренах;;;;;;;;;;;;;x
+creature_centaur_opinion;мнение кентавров;;;;;;;;;;;;;x
+opinion_of_creature_centaur;мнение о кентаврах;;;;;;;;;;;;;x
+creature_dryad_opinion;мнение дриад;;;;;;;;;;;;;x
+opinion_of_creature_dryad;мнение о дриадах;;;;;;;;;;;;;x
+creature_frostnymph_opinion;мнение ледяных нимф;;;;;;;;;;;;;x
+opinion_of_creature_frostnymph;мнение о ледяных нимфах;;;;;;;;;;;;;x
+creature_highborne_opinion;мнение высокорожденных;;;;;;;;;;;;;x
+opinion_of_creature_highborne;мнение о высокорожденных;;;;;;;;;;;;;x
 RULE_INTERRACIAL_MARRIAGES;§RWarcraft§!: Межрасовые Браки;;;;;;;;;;;;;x
 RULE_INTERRACIAL_MARRIAGES_RESTRICTED;Ограничены;;;;;;;;;;;;;x
 RULE_INTERRACIAL_MARRIAGES_RESTRICTED_DESC;Межрасовые браки доступны только между конкретными расами.;;;;;;;;;;;;;x
@@ -2247,51 +2247,51 @@ RULE_HALFBREED_RACE_MOTHER;Материнская;;;;;;;;;;;;;x
 RULE_HALFBREED_RACE_MOTHER_DESC;Полукровки всегда получают династию матери.;;;;;;;;;;;;;x
 RULE_HALFBREED_RACE_RANDOM;Случайная;;;;;;;;;;;;;x
 RULE_HALFBREED_RACE_RANDOM_DESC;Полукровки случайно получают расу либо отца либо матери.;;;;;;;;;;;;;x
-creature_draenei_opinion;Draenei Opinion;;;;;;;;;;;;;x
-opinion_of_creature_draenei;Opinion of Draenei;;;;;;;;;;;;;x
+creature_draenei_opinion;мнение дренеев;;;;;;;;;;;;;x
+opinion_of_creature_draenei;мнение о дренеях;;;;;;;;;;;;;x
 nick_the_redeemer;Искупитель;;;;;;;;;;;;;x
-creature_vrykul_opinion;Vrykul Opinion;;;;;;;;;;;;;x
-opinion_of_creature_vrykul;Opinion of Vrykul;;;;;;;;;;;;;x
+creature_vrykul_opinion;мнение врайкулов;;;;;;;;;;;;;x
+opinion_of_creature_vrykul;мнение о врайкулах;;;;;;;;;;;;;x
 GetHideShow_Hide;Скрыть;;;;;;;;;;;;;x
 GetHideShow_Show;Показать;;;;;;;;;;;;;x
 hide_show_class_training_decisions;[Root.GetHideShow] Решения Обучения Классам;;;;;;;;;;;;;x
 hide_show_class_training_decisions_desc;[Root.GetHideShow] решения обучения классам во Меню Интриг.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_60003;Crown Prince Arthas Menethil of Lordaeron, is the son of King Terenas Menethil II. The young prince grew up as the First and Second Wars ravaged the continent, during this time he befriended King Varian Wrynn of Stormwind. Trained by Muradin Bronzebeard in combat, while his adopted uncle Uther the Lightbringer taught him the ways of the Light, becoming a revered paladin in the Order of the Silver Hand. The romantic relationship with Lady Jaina Proudmoore caused a rivalry with Prince Kael'thas Sunstrider of Quel'thalas by the elven prince's own interest in the young sorceress. However, the young prince is beloved by his people and would do anything to protect them. Even with his promising upbringing, a threat in the very heart of his kingdom will shake the foundations of his world.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_10014;Ner'zhul of the Shadowmoon clan, once it's chieftain and elder shaman was one of the most respectable leaders among all of the orcish clans on Draenor, an advisor to all shamans regardless of their affiliation. Gul'dan, a powerful warlock had severed the connection to the elements on Draenor, thus not giving Ner'zhul the comfort of communicating with his deceased wife. His deep grief was soon preyed upon by Kil'jaeden who began visiting his dreams as his departed wife, and was told to form the Orcish Horde. Ner'zhul was turned into the Legion's pawn from the day he formed the Horde, and deceived into Kil'jaeden's realm where he was torn apart and transformed into the Lich King.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_48080;Lord Admiral Daelin Proudmoore is the ruler of the island nation of Kul'tiras, which was founded after the Troll Wars. Kul'tiras have the largest navy of the human kingdoms, with daring sailors and bold captains traveling across the seas, exploring the coasts of the Eastern Kingdoms. Just like his people, Daelin is a proud explorer and seafarer. And he will have a role to play in Azeroth's future.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_10021;Warchief Go'el, son of Durutan. Was found by Aedelas Blackmoore who raised and trained him into a gladiator. After escaping Blackmoore's grasp, he fled into the wilderness of Lordaeron to find the remaining free orcs. When he found his people, he heard about the undefeated Grom Hellscream of the Warsong clan, a bond grew between the two orcs after they first met. Go'el then saught out the chieftain the Frostwolf Clan, Dek'thar. Go'el was the first shaman accepted by the spirits since Drek'Thar's generation. Go'el became Warchief Doomhammer's second-in-command and after his death during the liberation of their people from the internment camps became the warchief. Their people sailed across the seas, finding new allies and foes on their journey to Kalimdor where they established a new home for the Horde.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_60001;King Terenas Menethil II of Lordaeron, was born in the court of Loradaeron as a member of the royal family, which had ruled the kingdom for generations. He grew up to become a wise and just ruler, beloved by his people for bringing prosperity and peace for most of his long reign. He is an old friend of Thoras Trollbane, the king of Stromgarde and that could play a crucial role in the future. However, now with rumours of a new threat coming from beyond Azeroth, as the ruler of the largest human kingdom Terenas must prepare his banners for war as the very fate of this world could very well be in his hands.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_60003;Кронпринц Артес Менетил — сын короля Теренаса. Юный принц вырос во времена, когда Первая и Вторая война бушевали на континенте. В то время он подружился с королем Варианом Ринном. Мастерству боя его обучал сам Мурадин Бронзобород, а Утер Светоносный наставлял его в путях Света и произвел в паладины ордена Серебрянной Длани. Романтические отношения с Джайной Праудмур вызывали вражду с принцем Кель'Тасом Солнечным Скитальцем. Южный принц любим своим народом, а его друзья готовы на все, чтобы защитить его. ;;;;;;;;;;;;;x
+ERA_CHAR_INFO_10014;Нер'Зул из клана Призрачной Луны некогда был вождем и старшем шаманом, одним из самых уважаемых лидеров среди всех орочьих кланов в Дреноре, и к его советам прислушивались все шаманы, независимо от их опыта и навыков. Гул'Дан — могущественный чернокнижник, исказил связь со стихиями на Дреноре, лишив Нер'Зула возможности общаться со своей покойной супругой. Его корысть и жажда власти привела к тому, что Кил'Джеден начал являться к нему во снах под видом его жены и указал сформировать Орду. Нер'Зул превратился в пешку Легиона, впоследствие его тело было уничтожено, а сам он был превращен к Короля Лича.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_48080;Лорд-Адмирал Даэлин Праудмур является правителем островного государства Куль'Тирас, основанного после тролльих войн. Кул'Тирас обладает самым крупным флотом среди всех королевств, с отважными моряками и опытными капитанами, путешествующими за моря и исследующими берега. Как и его народ, Даэлин сам гордый исследователь и мореплаватель. И ему доведется сыграть свою роль в будущем Азерота.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_10021;Вождь Го'эль, сын Дуротана, был выращен Блэкмуром как гладиатор. После побега от своего хозяина он путешествовал по диким местам Лордерона чтобы найти оставшихся свободных орков. Среди них он услышал о непобедимом Громе Адском Крике из клана Песни Войны. Между двумя орками зародилась дружба с их первой встречи. Затем Го'эль познакомился к вождем клана Северных Волков, Дрек'Таром. Го'эль стал первым шаманом, с которым стали говорить духи со времен поколения Дрек'Тара. Го'эль стал заместителем вождя Молота Рока, а после его гибели в бою за освобождение своего народа — сам стал вождем. Отправившись с освобожденными орками в Калимдор, он нашел там много союзников и создал новый дом для Орды.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_60001;Король Теренас Менетил II является частью королевской семьи, правящей Лордероном многие поколения. Он стал мудрым и справедливым правителем, которого любил народ и который обеспечил мир и процветание в большей части своего правления. Он — старинный друг Тораса Троллебоя, короля Стромгарда. Теперь, когда раздались слухи о новой угрозе Азероту, как правитель самого крупного королевства людей, Теренас должен подготовиться к войне, ведь судьба мира может зависеть от него.;;;;;;;;;;;;;x
 text_effect_powerful_magical_source;Эта провинция — §GPowerful Magical Source§!;;;;;;;;;;;;;x
 ley_line;Лей-линия;;;;;;;;;;;;;x
 has_access_to_this_source_tooltip;Контролирует §Y[This.GetFullBaseName]§!;;;;;;;;;;;;;x
 text_effect_powerful_magical_artifact;§GМогущественный Магический Артефакт§! позволяет использовать специальные заклинания;;;;;;;;;;;;;x
 legion_cooldown_tooltip;Вторжение Легиона закончилось 25 или более лет назад;;;;;;;;;;;;;x
-DEATH_PURGED_NO_KILLER;vanished in distant lands;;;;;;;;;;;;;x
+DEATH_PURGED_NO_KILLER;исчез в далеких странах;;;;;;;;;;;;;x
 is_small_humanoid_tooltip;Мелкий гуманоид;;;;;;;;;;;;;x
-desc_job_explorer;§YExplorer§! collects knowledge about Azeroth and opens up new horizons for you;;;;;;;;;;;;;x
+desc_job_explorer;§YExplorer§! собирают знания про Азерот и открывает для вас новые горизонты;;;;;;;;;;;;;x
 sacrifice_all_prisoners_tooltip;§Y[This.GetTitledFirstName]§! приносит всех пленников в жертву в обмен на §GПрестиж§!, §G[This.Religion.GetPietyName]§! или даже §GМоральный Авторитет§!;;;;;;;;;;;;;x
 String_Musha;Му'ша;;;;;;;;;;;;;x
 String_Anshe;Ан'ше;;;;;;;;;;;;;x
 String_Belore;Белоре;;;;;;;;;;;;;x
 String_the_White_Lady;Белая Дама;;;;;;;;;;;;;x
 String_the_Blue_Child;Синее Дитя;;;;;;;;;;;;;x
-tooltip_vote_strength_dark_will;[Root.GetFirstName] is the current ruler;;;;;;;;;;;;;x
-tooltip_vote_strength_martial;[Root.GetFirstName] is a skilled general with high §YMartial§!;;;;;;;;;;;;;x
-tooltip_vote_strength_combat_rating;[Root.GetFirstName] is a skillful fighter with high §YPersonal Combat Skill§!;;;;;;;;;;;;;x
-tooltip_vote_strength_real_size;[Root.GetFirstName] is a ambitious landowner with big §YRealm Sizel§!;;;;;;;;;;;;;x
-tooltip_vote_strength_powerful_vassal;[Root.GetFirstName] is §YPowerful Vassal§!;;;;;;;;;;;;;x
-tooltip_elector_vote_frostmourne;[From.GetSheHeCap] holds Frostmourne;;;;;;;;;;;;;x
+tooltip_vote_strength_dark_will;[Root.GetFirstName] является пр авителем;;;;;;;;;;;;;x
+tooltip_vote_strength_martial;[Root.GetFirstName] является опытным полководцем с высоким §YMartial§!;;;;;;;;;;;;;x
+tooltip_vote_strength_combat_rating;[Root.GetFirstName] является умелым бойцом с высоким §YPersonal Combat Skill§!;;;;;;;;;;;;;x
+tooltip_vote_strength_real_size;[Root.GetFirstName] является амбициозным землевладельцем с большим §YRealm Sizel§!;;;;;;;;;;;;;x
+tooltip_vote_strength_powerful_vassal;[Root.GetFirstName] является §YPowerful Vassal§!;;;;;;;;;;;;;x
+tooltip_elector_vote_frostmourne;[From.GetSheHeCap] владеет Ледяной Скорбью;;;;;;;;;;;;;x
 EVTDESC_WCORD_9036;[Root.PrimaryTitle.GetFOA], мы не мождем раздавать наши земли как горячие приожки. Я отказываюсь передавать земли [target_desired_title.GetName] другому правителю.\n\nПодписано, [From.GetTitledName];;;;;;;;;;;;;x
-ERA_CHAR_NAME_60009;Lord Barov;;;;;;;;;;;;;x
-ERA_CHAR_NAME_10014;Ner'zhul;;;;;;;;;;;;;x
-ERA_CHAR_NAME_60003;Prince Arthas;;;;;;;;;;;;;x
-ERA_CHAR_NAME_48080;Lord Admiral Daelin;;;;;;;;;;;;;x
-ERA_CHAR_NAME_10021;Warchief Go'el;;;;;;;;;;;;;x
-ERA_CHAR_NAME_2;King Llane;;;;;;;;;;;;;x
-ERA_CHAR_NAME_10000;Warchief Blackhand;;;;;;;;;;;;;x
-ERA_CHAR_NAME_38001;King Thoras;;;;;;;;;;;;;x
-ERA_CHAR_NAME_10019;Chieftain Durotan;;;;;;;;;;;;;x
-ERA_CHAR_NAME_60001;High King Terenas II;;;;;;;;;;;;;x
+ERA_CHAR_NAME_60009;Лорд Баров;;;;;;;;;;;;;x
+ERA_CHAR_NAME_10014;Нер'Зул;;;;;;;;;;;;;x
+ERA_CHAR_NAME_60003;Принц Артес;;;;;;;;;;;;;x
+ERA_CHAR_NAME_48080;Лорд-адмирал Даэлин;;;;;;;;;;;;;x
+ERA_CHAR_NAME_10021;Вождь Го'эль;;;;;;;;;;;;;x
+ERA_CHAR_NAME_2;Король Ллейн;;;;;;;;;;;;;x
+ERA_CHAR_NAME_10000;Вождь Чернорук;;;;;;;;;;;;;x
+ERA_CHAR_NAME_38001;Король Торас;;;;;;;;;;;;;x
+ERA_CHAR_NAME_10019;Вождь Дуротан;;;;;;;;;;;;;x
+ERA_CHAR_NAME_60001;Король Теренас II;;;;;;;;;;;;;x
 EVTDESC_WCRAC_400;Вы уже не чувствуете той былой силы. Когда вы были моложе вы никогда не жаловались на свою выносливость в ночное время, но теперь вас одолевает лишь забота о потомстве. ;;;;;;;;;;;;;x
 EVTDESC_WCDIP_10;Дворфы и гномы Дун Морога уже долгое время находятся в дружественных отношениях. Наши советники строго рекомендуют подержать эти связи и послать советников в их соседнее королевство.;;;;;;;;;;;;;x
 EVTOPTA_WCDIP_10;Мы желаем заключить альянс.;;;;;;;;;;;;;x
@@ -2299,46 +2299,46 @@ EVTOPTB_WCDIP_10;У меня есть другие более важные планы.;;;;;;;;;;;;;x
 EVTDESC_WCDIP_15;[Root.PrimaryTitle.GetFOA], наши народы являются хорошими друзьями уже не первое столетие. В честь этого, я хотел бы продолжить наши теплые отношения и закрепить их союзом.\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
 EVTDESC_WCDIP_25;[Root.PrimaryTitle.GetFOA], несмотря на то, что наши народы были близки, мы бы предпочли не иметь ваших дипломатов в нашем дворе и заключать союз между нами.\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
 EVTDESC_WCWAR_708_murloc;Они появились из-под морских волн. За считанные часы, сотни жабаподобных существ наводнили берега провинции [target_province.GetName]. Все, кто волей случая оказался на их пути, были убиты или съедены. Как только они заняли побережья, их войска начали продвигаться вглубь суши.;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_southern_lordaeron_hillsbrad_foothills;Hillsbrad Foothills;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_eastern_lordaeron_hearthglen;Hearthglen;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_eastern_lordaeron_tyrs_hand;Tyr's Hand;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION;§RWarcraft§!: Scourge Invasion;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_DEFAULT;Default;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_DEFAULT_DESC;The creation of the Scourge is allowed. \nDefault number of spawned troops.;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_STRENGTH_X1_5_DESC;Allowed. All spawned troops of the Scourge are modified by §G1.5§!.;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_STRENGTH_X2_DESC;Allowed. All spawned troops of the Scourge are modified by §G2§!.;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_STRENGTH_X0_5_DESC;Allowed. All spawned troops of the Scourge are modified by §R0.5§!.;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_STRENGTH_X0_25_DESC;Allowed. All spawned troops of the Scourge are modified by §R0.25§!.;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_OFF;Disabled;;;;;;;;;;;;;x
-RULE_SCOURGE_INVASION_OFF_DESC;The creation of the Scourge is prohibited. §RPre-existing instances of the Scourge are unaffected.§!;;;;;;;;;;;;;x
-RULE_LEGION_INVASION;§RWarcraft§!: Legion Invasion;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_DEFAULT;Default;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_DEFAULT_DESC;The summoning of the Legion is allowed. \nDefault number of spawned troops.;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_STRENGTH_X1_5_DESC;Allowed. All spawned troops of the Legion are modified by §G1.5§!.;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_STRENGTH_X2_DESC;Allowed. All spawned troops of the Legion are modified by §G2§!.;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_STRENGTH_X0_5_DESC;Allowed. All spawned troops of the Legion are modified by §R0.5§!.;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_STRENGTH_X0_25_DESC;Allowed. All spawned troops of the Legion are modified by §R0.25§!.;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_OFF;Disabled;;;;;;;;;;;;;x
-RULE_LEGION_INVASION_OFF_DESC;The summoning of the Legion is prohibited. §RPre-existing instances of the Legion are unaffected.§!;;;;;;;;;;;;;x
-RULE_BLACK_EMPIRE_INVASION;§RWarcraft§!: Black Empire Invasion;;;;;;;;;;;;;x
-RULE_BLACK_EMPIRE_INVASION_ON;Allowed;;;;;;;;;;;;;x
-RULE_BLACK_EMPIRE_INVASION_ON_DESC;The revival of the Black Empire is allowed.;;;;;;;;;;;;;x
-RULE_BLACK_EMPIRE_INVASION_OFF;Disabled;;;;;;;;;;;;;x
-RULE_BLACK_EMPIRE_INVASION_OFF_DESC;The revival of the Black Empire is prohibited. §RPre-existing instances of the Black Empire are unaffected.§!;;;;;;;;;;;;;x
-RULE_HORDE_INVASION_STRENGTH;§RWarcraft§!: Horde Invasion Strength;;;;;;;;;;;;;x
-RULE_HORDE_INVASION_STRENGTH_DEFAULT;Default;;;;;;;;;;;;;x
-RULE_HORDE_INVASION_STRENGTH_DEFAULT_DESC;Default number of spawned troops.;;;;;;;;;;;;;x
-RULE_HORDE_INVASION_STRENGTH_X1_5_DESC;All spawned troops of the Horde are modified by §G1.5§!.;;;;;;;;;;;;;x
-RULE_HORDE_INVASION_STRENGTH_X2_DESC;All spawned troops of the Horde are modified by §G2§!.;;;;;;;;;;;;;x
-RULE_HORDE_INVASION_STRENGTH_X0_5_DESC;All spawned troops of the Horde are modified by §R0.5§!.;;;;;;;;;;;;;x
-RULE_HORDE_INVASION_STRENGTH_X0_25_DESC;All spawned troops of the Horde are modified by §R0.25§!.;;;;;;;;;;;;;x
-RULE_QIRAJI_INVASION_STRENGTH;§RWarcraft§!: Qiraji Invasion Strength;;;;;;;;;;;;;x
-RULE_QIRAJI_INVASION_STRENGTH_DEFAULT;Default;;;;;;;;;;;;;x
-RULE_QIRAJI_INVASION_STRENGTH_DEFAULT_DESC;Default number of spawned troops.;;;;;;;;;;;;;x
-RULE_QIRAJI_INVASION_STRENGTH_X1_5_DESC;All spawned troops of the Qiraji are modified by §G1.5§!.;;;;;;;;;;;;;x
-RULE_QIRAJI_INVASION_STRENGTH_X2_DESC;All spawned troops of the Qiraji are modified by §G2§!.;;;;;;;;;;;;;x
-RULE_QIRAJI_INVASION_STRENGTH_X0_5_DESC;All spawned troops of the Qiraji are modified by §R0.5§!.;;;;;;;;;;;;;x
-RULE_QIRAJI_INVASION_STRENGTH_X0_25_DESC;All spawned troops of the Qiraji are modified by §R0.25§!.;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_southern_lordaeron_hillsbrad_foothills;Предгорья Хилсбрада;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_eastern_lordaeron_hearthglen;Дольный Очаг;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_eastern_lordaeron_tyrs_hand;Длань Тира;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION;§RWarcraft§!: Сила вторжения Плети;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_DEFAULT;По умолчанию;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_DEFAULT_DESC;Вторжение Плети разрешено. \nСтандартное количество войск.;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_STRENGTH_X1_5_DESC;Разрешено. Сила вторжения: §G1.5§!.;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_STRENGTH_X2_DESC;Разрешено. Сила вторжения: §G2§!.;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_STRENGTH_X0_5_DESC;Разрешено. Сила вторжения: §R0.5§!.;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_STRENGTH_X0_25_DESC;Разрешено. Сила вторжения: §R0.25§!.;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_OFF;Отключено;;;;;;;;;;;;;x
+RULE_SCOURGE_INVASION_OFF_DESC;Вторжение Плети отключено. §Rуже существующие войска Плети остаются§!;;;;;;;;;;;;;x
+RULE_LEGION_INVASION;§RWarcraft§!: Сила вторжения Легиона;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_DEFAULT;По умолчанию;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_DEFAULT_DESC;Вторжение Легиона разрешено. \nСтандартное количество войск.;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_STRENGTH_X1_5_DESC;Разрешено. Сила вторжения: §G1.5§!.;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_STRENGTH_X2_DESC;Разрешено. Сила вторжения: §G1.5§!. §G2§!.;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_STRENGTH_X0_5_DESC;Разрешено. Сила вторжения: §G1.5§!. §R0.5§!.;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_STRENGTH_X0_25_DESC;Разрешено. Сила вторжения: §G1.5§!. §R0.25§!.;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_OFF;Отключено;;;;;;;;;;;;;x
+RULE_LEGION_INVASION_OFF_DESC;Вторжение Легиона отключено. §Rуже существующие войска Легиона остаются..§!;;;;;;;;;;;;;x
+RULE_BLACK_EMPIRE_INVASION;§RWarcraft§!: Вторжение Черной Империи;;;;;;;;;;;;;x
+RULE_BLACK_EMPIRE_INVASION_ON;Разрешено;;;;;;;;;;;;;x
+RULE_BLACK_EMPIRE_INVASION_ON_DESC;Возрождение Черной Империи разрешено;;;;;;;;;;;;;x
+RULE_BLACK_EMPIRE_INVASION_OFF;Запрещено;;;;;;;;;;;;;x
+RULE_BLACK_EMPIRE_INVASION_OFF_DESC;Возрождение Черной Империи запрещено §Rуже существующая Черная Империя не будет затронута§!;;;;;;;;;;;;;x
+RULE_HORDE_INVASION_STRENGTH;§RWarcraft§!: Сила вторжения Орды;;;;;;;;;;;;;x
+RULE_HORDE_INVASION_STRENGTH_DEFAULT;По умолчанию;;;;;;;;;;;;;x
+RULE_HORDE_INVASION_STRENGTH_DEFAULT_DESC;Количество войск по умолчанию;;;;;;;;;;;;;x
+RULE_HORDE_INVASION_STRENGTH_X1_5_DESC;Количество войск Орды изменено в §G1.5§! раз.;;;;;;;;;;;;;x
+RULE_HORDE_INVASION_STRENGTH_X2_DESC;Количество войск Орды изменено в §G2§! раза.;;;;;;;;;;;;;x
+RULE_HORDE_INVASION_STRENGTH_X0_5_DESC;Количество войск Орды изменено в §R0.5§! раз.;;;;;;;;;;;;;x
+RULE_HORDE_INVASION_STRENGTH_X0_25_DESC;Количество войск Орды изменено в §R0.25§! раз.;;;;;;;;;;;;;x
+RULE_QIRAJI_INVASION_STRENGTH;§RWarcraft§!: Сила вторжения киражей;;;;;;;;;;;;;x
+RULE_QIRAJI_INVASION_STRENGTH_DEFAULT;По умолчанию;;;;;;;;;;;;;x
+RULE_QIRAJI_INVASION_STRENGTH_DEFAULT_DESC;Количество войск по умолчанию;;;;;;;;;;;;;x
+RULE_QIRAJI_INVASION_STRENGTH_X1_5_DESC;Количество войск киражей изменено в §G1.5§! раз.;;;;;;;;;;;;;x
+RULE_QIRAJI_INVASION_STRENGTH_X2_DESC;Количество войск киражей изменено в §G2§! раз.;;;;;;;;;;;;;x
+RULE_QIRAJI_INVASION_STRENGTH_X0_5_DESC;Количество войск киражей изменено в §R0.5§! раз.;;;;;;;;;;;;;x
+RULE_QIRAJI_INVASION_STRENGTH_X0_25_DESC;Количество войск киражей изменено в §R0.25§! раз.;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_X0_25;x0.25;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_X0_5;x0.5;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_X1_5;x1.5;;;;;;;;;;;;;x
@@ -2348,10 +2348,10 @@ relic;Реликвия;;;;;;;;;;;;;x
 LIGHT;Свет;;;;;;;;;;;;;x
 GetLightType_the_Moonlight;Свет Луны;;;;;;;;;;;;;x
 AIREASON_IS_DEMIGOD;[FromFrom.GetTitledFirstName] — §YПолубог§!;;;;;;;;;;;;;x
-spawn_small_qiraji_troops_tooltip;§YQiraji§! regiment arrives in §Y[target_province.GetName]§!;;;;;;;;;;;;;x
-spawn_small_legion_troops_tooltip;§YLegion§! regiment arrives in §Y[target_summoning_location.GetName]§!;;;;;;;;;;;;;x
-spawn_small_horde_troops_tooltip;§YHorde§! regiment arrives from §YDraenor§!;;;;;;;;;;;;;x
-spawn_small_scourge_troops_tooltip;§YScourge§! regiment arrives in §Y[target_province.GetName]§!;;;;;;;;;;;;;x
+spawn_small_qiraji_troops_tooltip;Полк §YQiraji§! прибыл в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
+spawn_small_legion_troops_tooltip;Полк §YLegion§! прибыл в §Y[target_summoning_location.GetName]§!;;;;;;;;;;;;;x
+spawn_small_horde_troops_tooltip;Полк §YHorde§! прибыл в §YDraenor§!;;;;;;;;;;;;;x
+spawn_small_scourge_troops_tooltip;Полк §YScourge§! прибыл в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
 EVTTITLE_WCORD_406;Кор'крон;;;;;;;;;;;;;x
 EVTDESC_WCORD_406;[target_warchief.GetBestName] объявил о начале вербовки лучших воинов Орды в ряды новой элитной гвардии под командованием вождя: Кор’крон. Эта группа бравых солдат должны оберегать Орду и её интересы на Азероте и не только. Тем не менее, они подчиняются напрямую действующему вождю, которые лично отбирает новобранцев почти исключительно среди своих собратьев-орков. Такое не могло остаться незамеченным для остальных членов Орды. Они уже называют Кор’крон «преторианцами вождя» или «личными телохранителями» и сомневаются в том, что они будут отстаивать общие интересы и убеждения других членов Орды.;;;;;;;;;;;;;x
 EVTOPTB_WCORD_406;Это ни к чему хорошему не приведет.;;;;;;;;;;;;;x
@@ -2359,126 +2359,126 @@ form_korkron;Сформировать Кор'крон;;;;;;;;;;;;;x
 form_korkron_desc;Сформировать Кор'крон, элитную стражу, преданную Вождю, в основном состоящую из орков. Это может создать волнение среди других членов Орды.;;;;;;;;;;;;;x
 arathorian_opinion;Отношение [arathorian.GetName];;;;;;;;;;;;;x
 amani_opinion;Отношение [amani.GetName];;;;;;;;;;;;;x
-GetHorses_saber_cats;saber cats;;;;;;;;;;;;;x
-GetHorses_wolves;wolves;;;;;;;;;;;;;x
-GetHorses_kodo;kodo;;;;;;;;;;;;;x
-GetHorses_raptors;raptors;;;;;;;;;;;;;x
-GetHorses_horses;horses;;;;;;;;;;;;;x
-GetEluneTheLightCap_The_Light;The Light;;;;;;;;;;;;;x
-GetPronoun_Her;Her;;;;;;;;;;;;;x
-GetPronoun_Its;Its;;;;;;;;;;;;;x
-GetSocietyGreeting_cenarion_circle;Nature stands with you;;;;;;;;;;;;;x
-GetSocietyGreeting_sisterhood_of_elune;Elune bless you;;;;;;;;;;;;;x
-GetSocietyGoal_cenarion_circle;Together we shall strive to maintain the balance and spread the teachings of Cenarius;;;;;;;;;;;;;x
-GetSocietyGoal_sisterhood_of_elune;Together we shall strive to strive to protect our people as the Goddess commands;;;;;;;;;;;;;x
-GetSocietyFarewell_cenarion_circle;May the winds be at your back;;;;;;;;;;;;;x
-GetSocietyFarewell_sisterhood_of_elune;May Elune light your path;;;;;;;;;;;;;x
-String_Death_is_coming;Death is coming;;;;;;;;;;;;;x
-GetDinnerAndDrinks_dinner_and_drinks;dinner and plenty of drinks;;;;;;;;;;;;;x
-GetDinnerAndDrinks_meeting;a meeting;;;;;;;;;;;;;x
+GetHorses_saber_cats;саблекоты;;;;;;;;;;;;;x
+GetHorses_wolves;волки;;;;;;;;;;;;;x
+GetHorses_kodo;кодои;;;;;;;;;;;;;x
+GetHorses_raptors;рапторы;;;;;;;;;;;;;x
+GetHorses_horses;кони;;;;;;;;;;;;;x
+GetEluneTheLightCap_The_Light;Свет;;;;;;;;;;;;;x
+GetPronoun_Her;Ее;;;;;;;;;;;;;x
+GetPronoun_Its;Его;;;;;;;;;;;;;x
+GetSocietyGreeting_cenarion_circle;Природа с тобой;;;;;;;;;;;;;x
+GetSocietyGreeting_sisterhood_of_elune;Да благославит тебя Элуна;;;;;;;;;;;;;x
+GetSocietyGoal_cenarion_circle;Вместе мы будем пытаться сохранить равновесие и распространим учение Кенария;;;;;;;;;;;;;x
+GetSocietyGoal_sisterhood_of_elune;Вместе мы будем пытаться защитить наш народ с благословлением Богини;;;;;;;;;;;;;x
+GetSocietyFarewell_cenarion_circle;Попутного ветра;;;;;;;;;;;;;x
+GetSocietyFarewell_sisterhood_of_elune;Да озарит Элуна твой путь;;;;;;;;;;;;;x
+String_Death_is_coming;Смерть идёт.;;;;;;;;;;;;;x
+GetDinnerAndDrinks_dinner_and_drinks;ужин и множество напитков;;;;;;;;;;;;;x
+GetDinnerAndDrinks_meeting;встреча;;;;;;;;;;;;;x
 average_lifespan;Средняя Продолжительность Жизни;;;;;;;;;;;;;x
 average_lifespan_percent;Средняя Продолжительность Жизни;;;;;;;;;;;;;x
 text_effect_average_lifespan_immortality;Средняя Продолжительность Жизни близка к §GБессмертию§!;;;;;;;;;;;;;x
 EVTDESC_WCDAC_9993_evil;Ваш торговый пост в [From.GetName] был уничтожен местными миротворцами и стражей в течении последнего очищения. Известные культисты провинции были казнены.;;;;;;;;;;;;;x
 EVTDESC_WCDAC_9993_normal;Ваш торговый пост в [From.GetName] был уничтожен нечистивыми фанатиками. Местные торговцы были либо порабощены, либо убиты на месте.;;;;;;;;;;;;;x
-EVTTITLE_WCBAT_100;Leader of Men and Mages;;;;;;;;;;;;;x
-EVTDESC_WCBAT_100;The powers of the arcane are starting to become more and more natural to you, and the other spell casters you fight alongside have started to benefit from your powers and leadership ability.;;;;;;;;;;;;;x
-EVTOPT_WCBAT_100;May Azeroth rise to meet our arcane might!;;;;;;;;;;;;;x
-EVTTITLE_WCBAT_110;Focus Your Magical Power;;;;;;;;;;;;;x
-EVTDESC_WCBAT_110;The more and more you find yourself using the magical arts to attack and defend in battle, the more you realize how greatly you would benefit from specializing in specific magics. The intense study required limits you to only one specialization.;;;;;;;;;;;;;x
-EVTOPT1_WCBAT_110;My foes will feel wrath hereto undreamed of!;;;;;;;;;;;;;x
-EVTOPT2_WCBAT_110;My magics shall protect the wounded and defenseless!;;;;;;;;;;;;;x
-EVTOPT3_WCBAT_110;The souls of my enemies will feel anguish!;;;;;;;;;;;;;x
-EVTOPT4_WCBAT_110;The divine shall bring fury to my foes and warmth to my friends!;;;;;;;;;;;;;x
-EVTOPTA_ZE_23101WC;Send equipment and training for casters.;;;;;;;;;;;;;x
-EVTOPTB_ZE_23101WC;Send equipment and mounts for aerial units.;;;;;;;;;;;;;x
-EVTOPTC_ZE_23101WC;Send equipment for ranged units.;;;;;;;;;;;;;x
-EVTOPT_WOL_11332_AR;Teach them the way of the skies.;;;;;;;;;;;;;x
-EVTOPT_WOL_11333_MC;Teach them to lead our skirmishers.;;;;;;;;;;;;;x
-EVTOPT_WOL_11334_AE;Have them in charge of the army's heavy ordinance.;;;;;;;;;;;;;x
-EVTOPT_WOL_11335_TM;Teach them how to discipline.;;;;;;;;;;;;;x
-EVTDESC_WOL_11332;My mentor has offered to teach me how to more effectively lead our aerial infantry into battle.;;;;;;;;;;;;;x
-EVTDESC_WOL_11333;My mentor has offered to teach me how to more effectively lead our battalions of skirmishers.;;;;;;;;;;;;;x
-EVTDESC_WOL_11334;My mentor has offered to teach me how to more effectively command our siege weapons.;;;;;;;;;;;;;x
-EVTDESC_WOL_11335;My mentor has offered to teach me how to more effectively discipline and lead my flanks.;;;;;;;;;;;;;x
-EVTOPTA_WOL_11332;The enemy shall cower beneath our wings!;;;;;;;;;;;;;x
-EVTOPTA_WOL_11333;Our foes will be unable to close ranks with us.;;;;;;;;;;;;;x
-EVTOPTA_WOL_11334;Our thunder shall be heard for miles around.;;;;;;;;;;;;;x
-EVTOPTA_WOL_11335;Any army requires hard discipline to function properly.;;;;;;;;;;;;;x
-EVTOPTB_WOL_11332;I would rather pursue other disciplines...;;;;;;;;;;;;;x
-EVTOPTB_WOL_11333;I would rather pursue other disciplines...;;;;;;;;;;;;;x
-EVTOPTB_WOL_11334;I would rather pursue other disciplines...;;;;;;;;;;;;;x
-EVTOPTB_WOL_11335;I would rather pursue other disciplines...;;;;;;;;;;;;;x
-GetInfantryCommanderType_Evil;This character is experienced at leading [Root.GetHerHis] foot soldiers en masse on the battlefield. The soldiers under this character's command fight with greater strength and savagery, fueled by the example of destructive capabilities that their commander provides.;;;;;;;;;;;;;x
-GetInfantryCommanderType_Normal;This character is experienced at leading [Root.GetHerHis] foot soldiers en masse on the battlefield. The men and women fighting under [Root.GetHerHis] command find themselves enchanted with the strength and morale to fight harder.;;;;;;;;;;;;;x
-GetTaskmasterType_Evil;This character is experienced in leading their more unwilling and unenthused soldiers into war. This commander's painful persuasiveness convinces even the most unwilling thrall to fight with savagery and determination for their overlord's mission.;;;;;;;;;;;;;x
-GetTaskmasterType_Normal;This character is experienced in leading the more unenthusiastic soldiers of the army into combat. This commander's “persuasiveness” helps his men and women fight the enemy with “unwavering” loyalty for the betterment and glory of their lords.;;;;;;;;;;;;;x
-CAVALRY_PHRASE;My maneuver troops will break the enemy.;;;;;;;;;;;;;x
-LIGHT_FOOT_PHRASE;Keeping our frontlines supported is absolutely key.;;;;;;;;;;;;;x
-ARTILLERY_PHRASE;Our artillery batteries and machines shall turn their lines to dust.;;;;;;;;;;;;;x
-AERIAL_PHRASE;The fury of our air divisions will rain down upon them.;;;;;;;;;;;;;x
-MARKSMAN_PHRASE;My men shall blot out the sun.;;;;;;;;;;;;;x
-HEAVY_INFANTRY_PHRASE;Footmen are the backbone of any army.;;;;;;;;;;;;;x
-GetMineralCap_Saronite;Saronite;;;;;;;;;;;;;x
-GetMineralCap_Black;Black;;;;;;;;;;;;;x
-GetMineralCap_Elementium;Elementium;;;;;;;;;;;;;x
-GetMineralCap_Stone;Stone;;;;;;;;;;;;;x
-GetMineral_saronite;saronite;;;;;;;;;;;;;x
-GetMineral_black;black;;;;;;;;;;;;;x
-GetMineral_elementium;elementium;;;;;;;;;;;;;x
-GetMineral_stone;stone;;;;;;;;;;;;;x
-GetAdjectiveCap_Undead;Undead;;;;;;;;;;;;;x
-GetAdjectiveCap_Demonic;Demonic;;;;;;;;;;;;;x
-GetAdjectiveCap_Zealot;Zealot;;;;;;;;;;;;;x
-GetAdjectiveCap_Castle;Castle;;;;;;;;;;;;;x
-GetAdjectiveCap_Dark;Dark;;;;;;;;;;;;;x
-GetAdjective_undead;undead;;;;;;;;;;;;;x
-GetAdjective_demonic;demonic;;;;;;;;;;;;;x
-GetAdjective_zealot;zealot;;;;;;;;;;;;;x
-GetAdjective_castle;castle;;;;;;;;;;;;;x
-GetAdjective_dark;dark;;;;;;;;;;;;;x
-GetPeasantsType_acolytes;acolytes;;;;;;;;;;;;;x
-GetPeasantsType_peasants;peasants;;;;;;;;;;;;;x
-GetAdjective_Acolyte;Acolyte;;;;;;;;;;;;;x
-GetAdjective_Militia;Militia;;;;;;;;;;;;;x
-GetAdjective_Peon;Peon;;;;;;;;;;;;;x
-GetPeasantsType_peons;peons;;;;;;;;;;;;;x
-GetAdjectiveCap_Wolf;Wolf;;;;;;;;;;;;;x
-GetAdjectiveCap_Raptor;Raptor;;;;;;;;;;;;;x
-GetAdjectiveCap_Panther;Panther;;;;;;;;;;;;;x
-GetAdjectiveCap_Horse;Horse;;;;;;;;;;;;;x
-GetAdjective_wolf;wolf;;;;;;;;;;;;;x
-GetAdjective_raptor;raptor;;;;;;;;;;;;;x
-GetAdjective_panther;panther;;;;;;;;;;;;;x
-GetAdjective_horse;horse;;;;;;;;;;;;;x
-GetAdjectiveCap_City;City;;;;;;;;;;;;;x
-GetAdjective_city;city;;;;;;;;;;;;;x
-GetGuardPurpose_Law;, constantly on watch for those who would break the law or upset the peace.;;;;;;;;;;;;;x
-GetGuardPurpose_Deviant;, constantly on watch for intruders or deviant acolytes.;;;;;;;;;;;;;x
-GetMarketplaceCap_Dark_Quarter;Dark Quarter;;;;;;;;;;;;;x
-GetMarketplaceCap_Trade_District;Trade District;;;;;;;;;;;;;x
-GetMarketplacePurpose_Rituals; where cultists perform most of rituals and sacrifices.;;;;;;;;;;;;;x
-GetMarketplacePurpose_Trade; where all city life is concentrated, whether it be commercial activities or festivities.;;;;;;;;;;;;;x
-GetUniversityCap_Laboratory;Laboratory;;;;;;;;;;;;;x
-GetUniversityCap_University;University;;;;;;;;;;;;;x
-GetUniversityPurpose_Experiments; for those who are not afraid of blood and screams.;;;;;;;;;;;;;x
-GetUniversityPurpose_Admission; for those with influence enough to gain admission.;;;;;;;;;;;;;x
-GetSpiritual_cultural;cultural;;;;;;;;;;;;;x
-GetSpiritual_spiritual;spiritual;;;;;;;;;;;;;x
-GetSpiritual_important;important;;;;;;;;;;;;;x
-GetCommunity_cult;cult;;;;;;;;;;;;;x
-GetCommunity_community;community;;;;;;;;;;;;;x
-can_not_change_culture_evil_true_religion_trigger_negative_tooltip;§Y[From.Religion.GetName] [From.Culture.GetName]§! characters can NOT change culture;;;;;;;;;;;;;x
+EVTTITLE_WCBAT_100;Лидер людей и магов.;;;;;;;;;;;;;x
+EVTDESC_WCBAT_100;Использование магии становится для вас все более естественным, и другие заклинатели под вашим командованием начинают брать с вас пример, улучшая свое мастерство.;;;;;;;;;;;;;x
+EVTOPT_WCBAT_100;Весь Азерот узрит мощь нашей магии!;;;;;;;;;;;;;x
+EVTTITLE_WCBAT_110;Сфокусировать вашу магическую силу.;;;;;;;;;;;;;x
+EVTDESC_WCBAT_110;Чем больше вы используете магическое искусство для сражений, тем больше вы понимаете важность специализации. Тяжелый процесс обучения ограничивает вас в выборе только одной.;;;;;;;;;;;;;x
+EVTOPT1_WCBAT_110;Мои враги познают такой гнев, который не могут даже вообразить!;;;;;;;;;;;;;x
+EVTOPT2_WCBAT_110;Мои чары будут защищать слабых и раненых!;;;;;;;;;;;;;x
+EVTOPT3_WCBAT_110;Души моих врагов познают страдание!;;;;;;;;;;;;;x
+EVTOPT4_WCBAT_110;Божество обрушит гнев на моих врагов и окутает теплом моих друзей!;;;;;;;;;;;;;x
+EVTOPTA_ZE_23101WC;Выслать снаряжение и обучить заклинателей.;;;;;;;;;;;;;x
+EVTOPTB_ZE_23101WC;Выслать снаряжение для воздушных сил.;;;;;;;;;;;;;x
+EVTOPTC_ZE_23101WC;Выслать снаряжение для стрелков.;;;;;;;;;;;;;x
+EVTOPT_WOL_11332_AR;Научить его командованию воздушными силами.;;;;;;;;;;;;;x
+EVTOPT_WOL_11333_MC;Научить его командованию застрельщиками.;;;;;;;;;;;;;x
+EVTOPT_WOL_11334_AE;Назначить ответственным за выполнение приказов.;;;;;;;;;;;;;x
+EVTOPT_WOL_11335_TM;Научить его укреплению дисциплины.;;;;;;;;;;;;;x
+EVTDESC_WOL_11332;Мой наставник предложил обучить меня, как наиболее эффективно использовать воздушные войска в бою.;;;;;;;;;;;;;x
+EVTDESC_WOL_11333;Мой наставник предложил обучить меня, как наиболее эффективно командовать застрельщиками.;;;;;;;;;;;;;x
+EVTDESC_WOL_11334;Мой наставник предложил обучить меня, как наиболее эффективно командовать осадной артиллерией.;;;;;;;;;;;;;x
+EVTDESC_WOL_11335;Мой наставник предложил обучить меня, как создать в войске более эффективную дисциплину.;;;;;;;;;;;;;x
+EVTOPTA_WOL_11332;Противник не сможет спрятаться от наших крыльев.;;;;;;;;;;;;;x
+EVTOPTA_WOL_11333;Наши враги не смогут даже подойти к нам.;;;;;;;;;;;;;x
+EVTOPTA_WOL_11334;Наш гром будет слышен за многие мили.;;;;;;;;;;;;;x
+EVTOPTA_WOL_11335;Любая армия нуждается в суровой дисциплине.;;;;;;;;;;;;;x
+EVTOPTB_WOL_11332;Лучше займусь чем-нибудь другим...;;;;;;;;;;;;;x
+EVTOPTB_WOL_11333;Лучше займусь чем-нибудь другим...;;;;;;;;;;;;;x
+EVTOPTB_WOL_11334;Лучше займусь чем-нибудь другим...;;;;;;;;;;;;;x
+EVTOPTB_WOL_11335;Лучше займусь чем-нибудь другим...;;;;;;;;;;;;;x
+GetInfantryCommanderType_Evil;Этот персонаж обладает опытом командования пехотой на поле боя. Все солдаты под его началом сражаются с дикостью и жестокостью в страхе перед суровым нравом и показательными казнями, проводимыми этим командиром.;;;;;;;;;;;;;x
+GetInfantryCommanderType_Normal;Этот персонаж обладает опытом командования пехотой на поле боя. Все бойцы под его командованием чувствуют себя воодушевленными и сражаются еще сильнее.;;;;;;;;;;;;;x
+GetTaskmasterType_Evil;Этот персонаж обладает опытом принуждения к битвам даже самых непокорных солдат. Болезненное убеждение этого командира заставляет рабов сражаться со всей свирепостью и желанием добиться цели.;;;;;;;;;;;;;x
+GetTaskmasterType_Normal;Этот персонаж обладает опытом вдохновления даже самых невосторженных солдат. Дар убежение этого командира помогает бойцам под его началам сражаться с непоколебимой верностью.;;;;;;;;;;;;;x
+CAVALRY_PHRASE;Мои маневры разобьют врага;;;;;;;;;;;;;x
+LIGHT_FOOT_PHRASE;Поддержка нашего фронта — ключ к победе.;;;;;;;;;;;;;x
+ARTILLERY_PHRASE;Наши артиллерийские батареи не оставят от них и пепла.;;;;;;;;;;;;;x
+AERIAL_PHRASE;Ливень гнева обрушится на них с высоты полета наших дивизий.;;;;;;;;;;;;;x
+MARKSMAN_PHRASE;Противник не увидет неба за нашими стрелами.;;;;;;;;;;;;;x
+HEAVY_INFANTRY_PHRASE;Пехотинцы — костяк армии.;;;;;;;;;;;;;x
+GetMineralCap_Saronite;саронит;;;;;;;;;;;;;x
+GetMineralCap_Black;черный;;;;;;;;;;;;;x
+GetMineralCap_Elementium;элементиум;;;;;;;;;;;;;x
+GetMineralCap_Stone;камеь;;;;;;;;;;;;;x
+GetMineral_saronite;саронит;;;;;;;;;;;;;x
+GetMineral_black;черный;;;;;;;;;;;;;x
+GetMineral_elementium;элементиум;;;;;;;;;;;;;x
+GetMineral_stone;камень;;;;;;;;;;;;;x
+GetAdjectiveCap_Undead;нежить;;;;;;;;;;;;;x
+GetAdjectiveCap_Demonic;демонический;;;;;;;;;;;;;x
+GetAdjectiveCap_Zealot;фанатик;;;;;;;;;;;;;x
+GetAdjectiveCap_Castle;замок;;;;;;;;;;;;;x
+GetAdjectiveCap_Dark;Темный;;;;;;;;;;;;;x
+GetAdjective_undead;нежить;;;;;;;;;;;;;x
+GetAdjective_demonic;демонический;;;;;;;;;;;;;x
+GetAdjective_zealot;фанатик;;;;;;;;;;;;;x
+GetAdjective_castle;замок;;;;;;;;;;;;;x
+GetAdjective_dark;Темный;;;;;;;;;;;;;x
+GetPeasantsType_acolytes;послушник;;;;;;;;;;;;;x
+GetPeasantsType_peasants;крестьяне;;;;;;;;;;;;;x
+GetAdjective_Acolyte;послушник;;;;;;;;;;;;;x
+GetAdjective_Militia;ополчение;;;;;;;;;;;;;x
+GetAdjective_Peon;батрак;;;;;;;;;;;;;x
+GetPeasantsType_peons;батраки;;;;;;;;;;;;;x
+GetAdjectiveCap_Wolf;волк;;;;;;;;;;;;;x
+GetAdjectiveCap_Raptor;раптор;;;;;;;;;;;;;x
+GetAdjectiveCap_Panther;пантера;;;;;;;;;;;;;x
+GetAdjectiveCap_Horse;лошадь;;;;;;;;;;;;;x
+GetAdjective_wolf;волк;;;;;;;;;;;;;x
+GetAdjective_raptor;раптор;;;;;;;;;;;;;x
+GetAdjective_panther;пантера;;;;;;;;;;;;;x
+GetAdjective_horse;лошадь;;;;;;;;;;;;;x
+GetAdjectiveCap_City;город;;;;;;;;;;;;;x
+GetAdjective_city;город;;;;;;;;;;;;;x
+GetGuardPurpose_Law;, постоянно на защите от преступников и бунтарей.;;;;;;;;;;;;;x
+GetGuardPurpose_Deviant;, постоянно на защите от захватчиков и отступников.;;;;;;;;;;;;;x
+GetMarketplaceCap_Dark_Quarter;Темный квартал;;;;;;;;;;;;;x
+GetMarketplaceCap_Trade_District;Торговый квартал;;;;;;;;;;;;;x
+GetMarketplacePurpose_Rituals; где культисты исполняют ритуалы и приносят жертвы;;;;;;;;;;;;;x
+GetMarketplacePurpose_Trade; где сконцентрирована вся городская жизнь, проходит вся коммерческая деятельность и устраиваются фестивали.;;;;;;;;;;;;;x
+GetUniversityCap_Laboratory;Лаборатория;;;;;;;;;;;;;x
+GetUniversityCap_University;Университет;;;;;;;;;;;;;x
+GetUniversityPurpose_Experiments; для тех, кто не боится крови и криков.;;;;;;;;;;;;;x
+GetUniversityPurpose_Admission; для тех, кто обладает достаточным влиянием.;;;;;;;;;;;;;x
+GetSpiritual_cultural;культурный;;;;;;;;;;;;;x
+GetSpiritual_spiritual;духовный;;;;;;;;;;;;;x
+GetSpiritual_important;важный;;;;;;;;;;;;;x
+GetCommunity_cult;культ;;;;;;;;;;;;;x
+GetCommunity_community;общество;;;;;;;;;;;;;x
+can_not_change_culture_evil_true_religion_trigger_negative_tooltip;§Y[From.Religion.GetName] [From.Culture.GetName]§! НЕ могут сменить культуру;;;;;;;;;;;;;x
 not_importrant_place_tooltip;НЕ важное место для цепочек событий;;;;;;;;;;;;;x
 legion_is_destroyed_tooltip;Пылающий Легион НЕ пал;;;;;;;;;;;;;x
 RULE_OPTION_INFERTILE;Бесплодный;;;;;;;;;;;;;x
 RULE_GENERATE_FAMILIES_INFERTILE_DESC;Большинство бесплодных исторических персонажей и без существующей семьи будут иметь супруга и до четырех детей сгенерированных для них в начале игры. Это понижает риск раннего конца игры.;;;;;;;;;;;;;x
-raising_undead_flag_trigger_tooltip;Is NOT currently raising or creating an undead being;;;;;;;;;;;;;x
-control_mind_ongoing_tooltip;Is NOT currently using mind control;;;;;;;;;;;;;x
-accessoire;Accessory;;;;;;;;;;;;;x
-leader;General's Equipment;;;;;;;;;;;;;x
-dryad_group_opinion;Dryad Group Opinion;;;;;;;;;;;;;x
-night_elf_group_opinion;Night Elf Group Opinion;;;;;;;;;;;;;x
+raising_undead_flag_trigger_tooltip;НЕ занимается поднятием или конструкцией нежити;;;;;;;;;;;;;x
+control_mind_ongoing_tooltip;НЕ находится под контролем разума;;;;;;;;;;;;;x
+accessoire;Аксессуар;;;;;;;;;;;;;x
+leader;Общее снаряжение;;;;;;;;;;;;;x
+dryad_group_opinion;мнение дриад;;;;;;;;;;;;;x
+night_elf_group_opinion;мнение ночных эльфов;;;;;;;;;;;;;x
 quest_control_mind_smart;Взять под Контроль Умную Особь;;;;;;;;;;;;;x
 quest_control_mind_strong;Взять под Контроль Крепкую Особь;;;;;;;;;;;;;x
 quest_control_mind_fair;Взять под Контроль Красивую Особь;;;;;;;;;;;;;x
@@ -2502,101 +2502,101 @@ quest_turn_into_undead_smart_tooltip;Чтобы выполнить это задание плените персона
 quest_turn_into_undead_strong_tooltip;Чтобы выполнить это задание плените персонажа имеющего черту §YСильный§!, используя §Gправый клик§! на портрете, выберите §Y'Превратить в Нежить'§!.;;;;;;;;;;;;;x
 quest_turn_into_undead_fair_tooltip;Чтобы выполнить это задание плените персонажа имеющего черту §YПривлекательный§!, используя §Gправый клик§! на портрете, выберите §Y'Превратить в Нежить'§!.;;;;;;;;;;;;;x
 EVTDESC_WCDAC_7051;[Root.GetDWDevil] благоволит, [Root.GetSocietyRank] [Root.GetFirstName]\n\nКульт требует новых верных слуг. Превратите [Root.GetTargetGenetic] в одного из мертвецов и заставьте его стать вашим верным слугой по желанию или без. Займитесь этим вопросом немедленно.\n\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-RULE_ADOPTION;§RWarCraft§!: Adoption Event;;;;;;;;;;;;;x
-RULE_ADOPTION_ALL;Enabled;;;;;;;;;;;;;x
-RULE_ADOPTION_ALL_DESC;Both eligible AI and player can adopt newly-spawned characters by adoption event.;;;;;;;;;;;;;x
-RULE_ADOPTION_NO_PLAYER_DYNASTY;Restricted;;;;;;;;;;;;;x
-RULE_ADOPTION_NO_PLAYER_DYNASTY_DESC;Only players can adopt newly-spawned characters by adoption event into the player's dynasty.;;;;;;;;;;;;;x
-RULE_ADOPTION_DISABLED;Disabled;;;;;;;;;;;;;x
-RULE_ADOPTION_DISABLED_DESC;Adoption event is disabled.;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS;§RWarCraft§!: Political Factions;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_MEDIUM;Medium;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_MEDIUM_DESC;The AI doesn't join factions that have reached the limit of 200 Realm Size and 10 Faction Tributaries.;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_LARGE;Large;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_LARGE_DESC;The AI doesn't join factions that have reached the limit of 300 Realm Size and 15 Faction Tributaries.;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_DISABLED;Off;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_DISABLED_DESC;Political factions like the Alliance and the Horde cannot be created. The AI doesn't join the historical factions that have reached the limit of 100 Realm Size and 5 Faction Tributaries.;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_SMALL;Small;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_SMALL_DESC;The AI doesn't join factions that have reached the limit of 100 Realm Size and 5 Faction Tributaries.;;;;;;;;;;;;;x
-faction_action_cooldown;Faction Action Cooldown;;;;;;;;;;;;;x
-EVTDESC_WCPLF_106;[Root.GetTitledFirstNameWithNick], the current leader of the [e_horde.GetFullBaseName], is no longer interested in and can no longer afford supporting the other members of the [e_horde.GetFullBaseName].\n\n[Root.GetSheHeCap] has announced the disbandment of the entirety of the faction. All emissaries have been recalled, and former allies have been left devoid of the [e_horde.GetFullBaseName]'s military support.;;;;;;;;;;;;;x
-GetLeaveDisbandCap_Disband;Disband;;;;;;;;;;;;;x
-GetLeaveDisbandCap_Leave;Leave;;;;;;;;;;;;;x
-GetLeaveDisband_disband;disband;;;;;;;;;;;;;x
-GetLeaveDisband_leave;leave;;;;;;;;;;;;;x
-found_horde_political_faction;Create the Horde Faction;;;;;;;;;;;;;x
-found_alliance_political_faction;Create the Alliance Faction;;;;;;;;;;;;;x
-found_horde_political_faction_desc;You found the Horde faction so that independent rulers can join your side as an ally or even as a vassal.;;;;;;;;;;;;;x
-found_alliance_political_faction_desc;You found the Alliance faction so that independent rulers can join your side as an ally or even as a vassal.;;;;;;;;;;;;;x
-join_in_horde_political_faction;Join the Horde Faction;;;;;;;;;;;;;x
-join_in_alliance_political_faction;Join the Alliance Faction;;;;;;;;;;;;;x
-join_in_horde_political_faction_desc;You send a letter with the desire to join the Horde faction.;;;;;;;;;;;;;x
-join_in_alliance_political_faction_desc;You send a letter with the desire to join the Alliance faction.;;;;;;;;;;;;;x
-leave_horde_political_faction;[Root.GetLeaveDisbandCap] the Horde Faction;;;;;;;;;;;;;x
-leave_alliance_political_faction;[Root.GetLeaveDisbandCap] the Alliance Faction;;;;;;;;;;;;;x
-leave_horde_political_faction_desc;You [Root.GetLeaveDisband] the Horde faction, removing the protection and assistance of your allies. If you're the leader of the Horde, you do NOT lose the Horde title.;;;;;;;;;;;;;x
-leave_alliance_political_faction_desc;You [Root.GetLeaveDisband] the Alliance faction, losing the protection and assistance of your allies. If you're the leader of the Alliance, you do NOT lose the Alliance title.;;;;;;;;;;;;;x
-invite_in_horde_political_faction;Invite to the Horde;;;;;;;;;;;;;x
-invite_in_alliance_political_faction;Invite to the Alliance;;;;;;;;;;;;;x
-invite_in_horde_political_faction_desc;You invite §Y[Root.GetTitledName]§! to the Horde faction.;;;;;;;;;;;;;x
-invite_in_alliance_political_faction_desc;You invite §Y[Root.GetTitledName]§! to the Alliance faction.;;;;;;;;;;;;;x
-mind_control_1;Strong Mind Control;;;;;;;;;;;;;x
-mind_control_2;Steady Mind Control;;;;;;;;;;;;;x
-mind_control_3;Weak Mind Control;;;;;;;;;;;;;x
-mind_control_4;Lost Mind Control;;;;;;;;;;;;;x
-summon_void_creature;Subdue Void Creature;;;;;;;;;;;;;x
-summon_void_creature_desc;Subdue one of the terrifying creatures from the Void to get a powerful character or a useful intrigue modifier.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1213;Outside of the borders of our reality, there are creatures who are hardly loyal to any master. Anyone who manages to subdue them will receive powers undreamt of by mortal minds.;;;;;;;;;;;;;x
-pet_merciless_one;Zoatroid Minion;;;;;;;;;;;;;x
-pet_merciless_one_desc;This character has a zoatroid minion. Zoatroids, also known as merciless ones, are octopus-like cyclopean parasitic aberrations. They are capable of attaching themselves to the heads of sapient beings in order to enslave them. Their psionic abilities appear to come from an psychic organ they are born with.;;;;;;;;;;;;;x
-pet_imp;Imp Minion;;;;;;;;;;;;;x
-pet_imp_desc;This character has an imp minion. Imps are small, cackling, mischievous demons. Despite their lack of physical strength, imps possess powers and a cleverness that serve warlocks well, and the simplest of the summoning spells a would-be warlock can learn is that of the imp.;;;;;;;;;;;;;x
-pet_felhunter;Felhound Minion;;;;;;;;;;;;;x
-pet_felhunter_desc;This character has a felhound minion. Felhounds are ugly, red, spined creatures from the depths of the Twisting Nether. Felhounds are demon hounds used by the pit lords to sniff out sources of magic wherever they be found. Felhounds, who feed upon magic itself, are fond of draining the energies of hapless wizards and then ripping their bodies to shreds.;;;;;;;;;;;;;x
-pet_felguard;Felguard Minion;;;;;;;;;;;;;x
-pet_felguard_desc;This character has a felguard minion. Felguard are demons of the mo'arg race that serve as the Legion's rank and file demonic soldiers and front-line troops. They are fearless and unwaveringly loyal to their master's godlike will. They are almost always seen with heavy, two-handed weaponry. They are slow to strike, but hit quite hard, and are more agile than they look.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1215_success;When the rift into the Twisting Nether was opened, you spotted the silhouette of an enormous creature on the other side. Its thoughts were only darkness, but you managed to successfully subdue the beast. Following its domination, the horrifying slimy mass of flesh steps through the portal and bows its head to you.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1215_fail;When the rift into the Twisting Nether was opened, you spotted the silhouette of an enormous creature on the other side. Almost immediately, its tentacles reached through towards you. With a grand sweeping motion, your limbs are shattered, and your body is yanked through the portal you created. The portal closes, and you find yourself alone with the Eldritch creature in total darkness.;;;;;;;;;;;;;x
-EVTOPTA_WCCLS_1213;Summon a C'Thrax!;;;;;;;;;;;;;x
-EVTOPTB_WCCLS_1213;Summon a n'raqi!;;;;;;;;;;;;;x
-EVTOPTC_WCCLS_1213;Summon a zoatroid!;;;;;;;;;;;;;x
-power_all_types_of_undead_tooltip;Power: §YCult Master§!\nYou can resurrect all types of undead regardless of your class level.;;;;;;;;;;;;;x
-is_aggressive_trigger_tooltip;Belongs to an aggressive culture or religion;;;;;;;;;;;;;x
-is_aggressive_trigger_negative_tooltip;Does NOT belong to an aggressive culture or religion;;;;;;;;;;;;;x
-EVTDESC_WCPLF_60;[From.GetBestName] has become incapable of leading [From.GetHerHis] faction sufficiently. In these dark days of war and conflict, there must be someone to take control over the [Root.GetFactionName] if it is to survive. In this case, the most powerful member, [Root.PrimaryTitle.GetFullBaseName] under the leadership of [Root.GetTitledFirstName], has taken up the reigns and the burden of leading the [Root.GetFactionName] to glory.\n\nMay [From.GetHerHis] new leadership and guidance renew the faction's strength and turn around fortunes for the betterment of all her members.;;;;;;;;;;;;;x
-EVTTITLE_WCPLF_60;New Leader of the [Root.GetFactionName];;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS;§RWarCraft§!: Stereotypes;;;;;;;;;;;;;x
-STEREOTYPICAL_TRAITS_ON;Enabled;;;;;;;;;;;;;x
-STEREOTYPICAL_TRAITS_ON_DESC;Newly-spawned characters have a chance to change their personality traits according to racial, cultural and religious stereotypes.;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_25;More Frequent;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_25_DESC;Chance that newly-spawned characters change their personality traits according to racial, cultural and religious stereotypes is increased by §G1.25x§!.;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_50;Significantly More Frequent;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_50_DESC;Chance that newly-spawned characters change their personality traits according to racial, cultural and religious stereotypes is increased by §G1.5x§!.;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_100;A Lot More Frequent;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_100_DESC;Chance that newly-spawned characters change their personality traits according to racial, cultural and religious stereotypes is increased by §G2x§!.;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_100;A Lot Less Frequent;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_100_DESC;Chance that newly-spawned characters change their personality traits according to racial, cultural and religious stereotypes is reduced by §R2x§!.;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_50;Significantly Less Frequent;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_50_DESC;Chance that newly-spawned characters change their personality traits according to racial, cultural and religious stereotypes is reduced by §R1.5x§!.;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_25;Less Frequent;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_25_DESC;Chance that newly-spawned characters change their personality traits according to racial, cultural and religious stereotypes is reduced by §R1.25x§!.;;;;;;;;;;;;;x
-STEREOTYPICAL_TRAITS_OFF;Disabled;;;;;;;;;;;;;x
-STEREOTYPICAL_TRAITS_OFF_DESC;Newly-spawned character's race, culture and religion don't affect their personality traits.;;;;;;;;;;;;;x
-EVTTITLE_WCRLM_800;The Return of the King;;;;;;;;;;;;;x
-EVTDESC_WCRLM_800;A long time ago, the land now known as the Howling Fjord was ruled by the Dragonflayers, a vrykul clan under the leadership of King Ymiron, a true legend among the vrykul. He and his champions attacked and drove the jalgar, the vrykul's mortal enemy, into Kalimdor's lush forests. Yet on the heels of this victory, tragedy struck. The Curse of Flesh struck the vrykul, with devastating effects.\nThe Dragonflayers attempted and struggled to purge themselves of the Curse of Flesh in several ways. Eventually, these vrykul would place themselves in hibernation in the hopes of staving off the Curse of Flesh.\nNow a thousand years later, King Ymiron and his warriors has been awakened by [Root.GetTitledFirstName] with a burning desire to retake what was rightfully his: the Howling Fjord.;;;;;;;;;;;;;x
-WHO_CARES;Who cares?;;;;;;;;;;;;;x
-KING_RETURNED;The King has returned!;;;;;;;;;;;;;x
-EVTOPTB_WCRLM_800;Ymiron? Many legends of him have been told...;;;;;;;;;;;;;x
-awaken_ymiron;Awaken King Ymiron;;;;;;;;;;;;;x
-awaken_ymiron_desc;Awaken King Ymiron, the legendary leader of the Dragonflayers who ruled the land known as the Howling Fjord a long time ago. If you click this decision, you will start playing him.;;;;;;;;;;;;;x
-RULE_PATRONS;§RWarCraft§!: Patron Trait;;;;;;;;;;;;;x
-RULE_PATRONS_PATRON_TRAIT;On;;;;;;;;;;;;;x
-RULE_PATRONS_PATRON_TRAIT_DESC;Patron characters will recieve a special patron trait.;;;;;;;;;;;;;x
-RULE_PATRONS_EXIST;Off;;;;;;;;;;;;;x
-RULE_PATRONS_EXIST_DESC;Patron characters will not recieve a special patron trait.;;;;;;;;;;;;;x
-nick_the_defiler;the Defiler;;;;;;;;;;;;;x
-helya_opinion;[helya.GetName] Opinion;;;;;;;;;;;;;x
-nick_the_decrepit;the Decrepit;;;;;;;;;;;;;x
+RULE_ADOPTION;§RWarCraft§!: Усыновление;;;;;;;;;;;;;x
+RULE_ADOPTION_ALL;Включено;;;;;;;;;;;;;x
+RULE_ADOPTION_ALL_DESC;И ИИ, и игрок могут усыновлять сгенерированных персонажей по событию усыновления.;;;;;;;;;;;;;x
+RULE_ADOPTION_NO_PLAYER_DYNASTY;Запрещено для ИИ;;;;;;;;;;;;;x
+RULE_ADOPTION_NO_PLAYER_DYNASTY_DESC;Только игрок может усыновлять сгенерированных персонажей по событию усыновления.;;;;;;;;;;;;;x
+RULE_ADOPTION_DISABLED;Отклюено;;;;;;;;;;;;;x
+RULE_ADOPTION_DISABLED_DESC;Событии усыновления отключены.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS;§RWarCraft§!: Политические фракции;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_MEDIUM;Средние;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_MEDIUM_DESC;ИИ не присоединяется к фракциям, размер которых больше 200 и которые имеют больше 10 данников.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_LARGE;Большие;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_LARGE_DESC;ИИ не присоединяется к фракциям, размер которых больше 300 и которые имеют больше 15 данников.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_DISABLED;Отключено;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_DISABLED_DESC;Политические фракции (Альянс и Орда) не могут быть созданы. ИИ не присоединяется к историческим фракциям, размер которых больше 100 и которые имеют больше 5 данников.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_SMALL;Маленькие;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_SMALL_DESC;ИИ не присоединяется к фракциям, размер которых больше 100 и которые имеют больше 5 данников.;;;;;;;;;;;;;x
+faction_action_cooldown;Пока нельзя предпринять это действие;;;;;;;;;;;;;x
+EVTDESC_WCPLF_106;[Root.GetTitledFirstNameWithNick], нынешний лидер [e_horde.GetFullBaseName], больше не заинтересован в том, чтобы поддерживать остальных членов [e_horde.GetFullBaseName].\n\n[Root.GetSheHeCap] объявил о роспуске всей фракции. Все послы были отозваны, и бывшие союзники остались без военной поддержки [e_horde.GetFullBaseName].;;;;;;;;;;;;;x
+GetLeaveDisbandCap_Disband;распустить;;;;;;;;;;;;;x
+GetLeaveDisbandCap_Leave;покинуть;;;;;;;;;;;;;x
+GetLeaveDisband_disband;распустить;;;;;;;;;;;;;x
+GetLeaveDisband_leave;покинуть;;;;;;;;;;;;;x
+found_horde_political_faction;Создать Орду;;;;;;;;;;;;;x
+found_alliance_political_faction;Создать Альянс;;;;;;;;;;;;;x
+found_horde_political_faction_desc;Основать Орду, чтобы независимые правители смогли присоединиться к вам как союзники или как вассалы.;;;;;;;;;;;;;x
+found_alliance_political_faction_desc;Основать Альянс, чтобы независимые правители смогли присоединиться к вам как союзники или как вассалы.;;;;;;;;;;;;;x
+join_in_horde_political_faction;Вступить в Орду;;;;;;;;;;;;;x
+join_in_alliance_political_faction;Вступить в Альянс;;;;;;;;;;;;;x
+join_in_horde_political_faction_desc;Вы отправили письмо с просьбой о вступлении в Орду.;;;;;;;;;;;;;x
+join_in_alliance_political_faction_desc;Вы отправили письмо с просьбой о вступлении в Альянс.;;;;;;;;;;;;;x
+leave_horde_political_faction;[Root.GetLeaveDisbandCap] Орду;;;;;;;;;;;;;x
+leave_alliance_political_faction;[Root.GetLeaveDisbandCap] Альянс;;;;;;;;;;;;;x
+leave_horde_political_faction_desc;Вы [Root.GetLeaveDisband] Орду, отказаваясь от защиты и помощи ваших союзников. Если вы лидер Орды — вы НЕ потеряете этот титул.;;;;;;;;;;;;;x
+leave_alliance_political_faction_desc;Вы [Root.GetLeaveDisband] Альянс, отказываясь от защиты и помощи ваших союзников. Если вы лидер Альянса — вы НЕ потеряете этот титул.;;;;;;;;;;;;;x
+invite_in_horde_political_faction;Пригласить в Орду;;;;;;;;;;;;;x
+invite_in_alliance_political_faction;Пригласить в Альянс;;;;;;;;;;;;;x
+invite_in_horde_political_faction_desc;Вы пригласили §Y[Root.GetTitledName]§! присоединиться к Орде.;;;;;;;;;;;;;x
+invite_in_alliance_political_faction_desc;Вы пригласили §Y[Root.GetTitledName]§! присоединиться к Альянсу.;;;;;;;;;;;;;x
+mind_control_1;Сильный контроль над разумами;;;;;;;;;;;;;x
+mind_control_2;Стойкий контроль над разумами;;;;;;;;;;;;;x
+mind_control_3;Слабый контроль над разумами;;;;;;;;;;;;;x
+mind_control_4;Потерял контроль над разумами;;;;;;;;;;;;;x
+summon_void_creature;Подчинить создание бездны;;;;;;;;;;;;;x
+summon_void_creature_desc;Подчинить одно из ужасных созданий из Пустоты чтобы призвать могущественного персонажа или получить полезный бонус к интриге;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1213;За пределами нашей реальности есть создания, не служащие никому. Каждый, кто сможет подчинить их, получит больше могущества, чем осмеливается мечтать.;;;;;;;;;;;;;x
+pet_merciless_one;Затроид;;;;;;;;;;;;;x
+pet_merciless_one_desc;У этого персонажа есть зоатроид. Зоатроиды, также известные как Беспощадные, паразитические абберации, похожие на осьминогов. Они способны прилепляться к головам разумных существ, подчиняя их своей воле. Их псионические способности заключается в их особом органе, с которым они рождаются.;;;;;;;;;;;;;x
+pet_imp;Бес;;;;;;;;;;;;;x
+pet_imp_desc;У этого персонажа есть бес. Бесы — маленькие, озорные демонята. Не обладая физической силой, они служат своим призывателям хитростью и умом. Призывание беса — простейшее из заклинаний чернокнижников.;;;;;;;;;;;;;x
+pet_felhunter;Гончая скверны;;;;;;;;;;;;;x
+pet_felhunter_desc;У этого персонажа есть гончая скверны. Гончие скверны — уродливые, красные, шипастые создания, призванные из глубин Круговерти Пустоты. Это демонические гончие, которых используют властители преисподней, чтобы выслеживать своих врагов по следу, оставляемую их магией. Рацион питания этих гончих состоит из самой магии, которую они вытягивают из  наивных волшебников.;;;;;;;;;;;;;x
+pet_felguard;Страж Скверны;;;;;;;;;;;;;x
+pet_felguard_desc;У этого персонажа есть Страж Скверны. Стражи Скверны — демоны из расы мо'аргов, которые служат Легиону как солдаты на передовой линии. Они бесстрашны и невероятно верны воле их хозяина. Практически всегда они предпочитают тяжелое двуручное оружие, но при этом они более ловкие, чем кажется на первый взгляд.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1215_success;Когда разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Вы смогли побороть и подчинить создание, и теперь ужасающая масса плоти выходит из портала и склоняется перед вами.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1215_fail;Когда разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Практически сразу его щупальца добрались до вас, разрывая ваши конечности и завлекая тело в созданный вами портал. Разлом закрывается, и вы оказываетесь во тьме, наедине с жутким созданием.;;;;;;;;;;;;;x
+EVTOPTA_WCCLS_1213;Призвать К'Тракси!;;;;;;;;;;;;;x
+EVTOPTB_WCCLS_1213;Призвать н'рака!;;;;;;;;;;;;;x
+EVTOPTC_WCCLS_1213;Призвать зоатроида!;;;;;;;;;;;;;x
+power_all_types_of_undead_tooltip;Power: §YCult Master§!\nВы можете поднимать любые виды нежити, независимо от уровня вашего класса.;;;;;;;;;;;;;x
+is_aggressive_trigger_tooltip;Принадлежать к агрессивной культуре или религии.;;;;;;;;;;;;;x
+is_aggressive_trigger_negative_tooltip;НЕ принадлежит к агрессивной культуре или религии.;;;;;;;;;;;;;x
+EVTDESC_WCPLF_60;[From.GetBestName] уже не может возглавлять [From.GetHerHis] фракцию. В эти темные дни войн и конфликтов, кто-то должен взять контроль над [Root.GetFactionName]. Только сильнейший, [Root.PrimaryTitle.GetFullBaseName], смог взять бразды правления в свои руки. \n\nПусть [From.GetHerHis] правление укрепит силу фракции и принесет ей процветание.;;;;;;;;;;;;;x
+EVTTITLE_WCPLF_60;Новый лидер [Root.GetFactionName];;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS;§RWarCraft§!: Предубеждения;;;;;;;;;;;;;x
+STEREOTYPICAL_TRAITS_ON;Включено;;;;;;;;;;;;;x
+STEREOTYPICAL_TRAITS_ON_DESC;Новые персонажи имеют шанс получить персональные черты в зависимости от их расы, культуры и религии.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_25;Чаще;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_25_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G1.25x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_50;Заметно чаще;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_50_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G1.5x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_100;Регулярно;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_100_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G2x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_100;Реже;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_100_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R2x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_50;Заметно реже;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_50_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R1.5x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_25;Крайне редко;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_25_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R1.25x§!.;;;;;;;;;;;;;x
+STEREOTYPICAL_TRAITS_OFF;Отключено;;;;;;;;;;;;;x
+STEREOTYPICAL_TRAITS_OFF_DESC;Раса, культура и религия новых персонажей не влияет на их персональные черты.;;;;;;;;;;;;;x
+EVTTITLE_WCRLM_800;Возвращение Короля;;;;;;;;;;;;;x
+EVTDESC_WCRLM_800;Давным давно земли, ныне известные как  Ревущий Фьорд, находились под властью клана Укротителей драконов, возглавляемых королем Имироном — настоящей легендой среди врайкулов. Он со своей армией разбил фурболгов, смертельных в рагов своего народа, и заставил их бежать в леса Калимдора. Но победа была омрачена новой бедой — Проклятье Плоти поразило врайкул. Укротители драконов перебробовали много способов найти исцеление, но не преуспели, и отправились в спячку в надежде переждать эту болезнь. Спустя тысячу лет, король Имирон и его воины были пробуждены [Root.GetTitledFirstName], и теперь горят желанием вернуть то, что по праву принадлежит им: Ревущий Фьорд.;;;;;;;;;;;;;x
+WHO_CARES;Кому какое дело?;;;;;;;;;;;;;x
+KING_RETURNED;Король вернулся!;;;;;;;;;;;;;x
+EVTOPTB_WCRLM_800;Имирон? О нем сложено много легенд...;;;;;;;;;;;;;x
+awaken_ymiron;Пробудившийся король Имирон;;;;;;;;;;;;;x
+awaken_ymiron_desc;Король Имирон, легендарный правитель Укротителей драконов, правивший в Ревущим Фьорде многие века назад, пробудился ото сна. Если вы выберете это решение, вы начнете играть за него.;;;;;;;;;;;;;x
+RULE_PATRONS;§RWarCraft§!: Черты донатеров;;;;;;;;;;;;;x
+RULE_PATRONS_PATRON_TRAIT;Включено;;;;;;;;;;;;;x
+RULE_PATRONS_PATRON_TRAIT_DESC;Донатеры будут отмечены специальной чертой в окне персонажа.;;;;;;;;;;;;;x
+RULE_PATRONS_EXIST;Отключено;;;;;;;;;;;;;x
+RULE_PATRONS_EXIST_DESC;Донатеры не будут отмечены специальной чертой в окне персонажа.;;;;;;;;;;;;;x
+nick_the_defiler;Осквернитель;;;;;;;;;;;;;x
+helya_opinion;Мнение [helya.GetName];;;;;;;;;;;;;x
+nick_the_decrepit;Дряхлый;;;;;;;;;;;;;x
 EVTDESC_WCDAC_7041;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nЭти смертные считают что имеют право осуждать нас, но им неведома даже половина потенциала нашей темной магии! Однако, некромантия требует жертв, и сейчас нам нужен смертный для наших опытов.\n\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
 EVTDESC_WCDAC_7024;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nНастало время ударить по глупым еретикам. Жители провинции с высокомерием относится к величию Короля Лича. Покажи им лик смерти и накажи за высокомерие, во имя короля!!\n\n[Root.GetDWExpression]\nПодписано [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
 EVTDESC_WCDAC_8001;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\nСкверна дала нам так много, и сейчас наступило время предложить ей подарок взамен. Магия Скверны питается от жизненной силы смертных существ, так что Совет просит Вас принести в жертву душу смернтого. Root.GetSocietyRank]!\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
@@ -2730,7 +2730,7 @@ ongoing_raising;Поднятие нежити;;;;;;;;;;;;;x
 ongoing_raising_desc;Население этой провинции проходит процедуру жестокой казни и поднимается в виде безвольной нежити;;;;;;;;;;;;;x
 genocide_province_cooldown;Недавно была попытка истребления;;;;;;;;;;;;;x
 BM_ASCENSION_OF_THE_LICH_KING;Восхождение Короля Лича;;;;;;;;;;;;;x
-BM_ASCENSION_OF_THE_LICH_KING_DESC;Азерот все еще лихорадит от разрушений, вызванных ужасами Третьей Войны. Королевства на севере лежат в руинах, поглощеные бесчисленной нежитью Плети. В лесах Калимдора осталась гнойная рана демонического вторжения, несмотря на их поражение в Хиджальских горах. Вместе с этим, орки начинают обживать красные пески Дуротара, и серьезно по страдавший Альянс вынужден сражаться с угрозами на каждом фронте, включая внутреннюю смуту. Нежить Плети отхлынула в Нордскол, поскольку Иллидан вернулся в Азерот чтобы закончить то, что начал в Даларане, и силы нежити в Лордероне находятся на грани гражданской войны.;;;;;;;;;;;;;x
+BM_ASCENSION_OF_THE_LICH_KING_DESC;Азерот все еще сотрясает от разрушений, вызванных ужасами Третьей Войны. Королевства на севере лежат в руинах, поглощеные бесчисленной нежитью Плети. В лесах Калимдора осталась гнойная рана демонического вторжения, несмотря на поражение Легиона в Хиджальских горах. Орки начинают обживать красные пески Дуротара, а серьезно пострадавший Альянс вынужден сражаться с угрозами на каждом фронте, включая внутреннюю смуту, вызыванную Братством Справедливости. Иллидан вернулся в Азерот с целью закончить начатое и уничтожить Короля Лича, поэтому нежить Плети отхлынула в Нордскол для защиты своего господина, а оставшаяся нежить в Лордероне находятся на грани гражданской войны.;;;;;;;;;;;;;x
 EVTTITLE_WCTFT_100;Гражданская война Чумных Земель;;;;;;;;;;;;;x
 EVTDESC_WCTFT_100;На протяжении последних месяцев Плеть пребывала в смятении, поскольку Иллидан Ярость Бури воспользовался Оком Саргераса, чтобы ворваться в ледяную тюрьму Короля Лича. Это привело к тому, что нежить в лесах Тирисфаля раскололась на два лагеря. Верные Плети были оттеснены обратно на восток, а их чемпион был вынужден отправиться в Нордскол, чтобы отразить натиск войск Иллидари, разбивших лагеря в Ледяной Короне. Увидев в этом хаосе прекрасную возможность вернуть свои земли, остатки людей в Сребролесье готовятся к последней конфронтации с нежитью, но среди них нет единого мнения по поводу будущего королевства в случае их победы, ведь судьба последнего живого наследника королевства до сих пор неясна. Кому достанетася корона Лордерона — неизвестно.;;;;;;;;;;;;;x
 EVTOPTA_WCTFT_100;Сильнейшему!;;;;;;;;;;;;;x
