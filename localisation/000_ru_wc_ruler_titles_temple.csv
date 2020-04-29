@@ -1,130 +1,130 @@
-#CODE;RUSSIAN;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 # Common;;;;;;;;;;;;;;x
-temple_emperor;Emperor;;;;;;;;;;;;;x
-temple_emperor_female;Empress;;;;;;;;;;;;;x
-temple_empire_of;Empire of;;;;;;;;;;;;;x
-temple_empire;Empire;;;;;;;;;;;;;x
-temple_king;Grand Priest;;;;;;;;;;;;;x
-temple_king_female;Grand Priestess;;;;;;;;;;;;;x
-temple_kingdom_of;Grand Theocracy of;;;;;;;;;;;;;x
-temple_kingdom;Grand Theocracy;;;;;;;;;;;;;x
-temple_duke;Archpriest;;;;;;;;;;;;;x
-temple_duke_female;Archpriestess;;;;;;;;;;;;;x
-temple_duchy_of;High Theocracy of;;;;;;;;;;;;;x
-temple_duchy;High Theocracy;;;;;;;;;;;;;x
-temple_count;High Priest;;;;;;;;;;;;;x
-temple_count_female;High Priestess;;;;;;;;;;;;;x
-temple_county_of;Theocracy of;;;;;;;;;;;;;x
-temple_county;Theocracy;;;;;;;;;;;;;x
-temple_baron;Priest;;;;;;;;;;;;;x
-temple_baron_female;Priestess;;;;;;;;;;;;;x
-temple_barony_of;Temple of;;;;;;;;;;;;;x
-temple_barony;Temple;;;;;;;;;;;;;x
+temple_emperor;Император;Empereur;Kaiser;;;;;;;;;;;x
+temple_emperor_female;Императрица;Impйratrice;Kaiserin;;;;;;;;;;;x
+temple_empire_of;Империя;Empire de;Kaiserreich von;;;;;;;;;;;x
+temple_empire;Империя;Empire;Kaiserreich;;;;;;;;;;;x
+temple_king;Великий жрец;Grand prкtre;GroЯer Priester;;;;;;;;;;;x
+temple_king_female;Великая жрица;Grande prкtresse;GroЯe Priesterin;;;;;;;;;;;x
+temple_kingdom_of;Великая теократия;Grande  Thйocratie de;GroЯtheokratie von;;;;;;;;;;;x
+temple_kingdom;Великая теократия;Grande Thйocratie;GroЯtheokratie;;;;;;;;;;;x
+temple_duke;Верховный жрец;Archiprкtre;Erzpriester;;;;;;;;;;;x
+temple_duke_female;Верховная жрица;Archiprкtresse;Erzpriesterin;;;;;;;;;;;x
+temple_duchy_of;Верховная теократия;Haute Thйocratie de;Hohe Theokratie von;;;;;;;;;;;x
+temple_duchy;Верховная теократия;Haute Thйocratie;Hohe Theokratie;;;;;;;;;;;x
+temple_count;Старший жрец;Haut prкtre;Hohepriester;;;;;;;;;;;x
+temple_count_female;Старшая жрица;Haute prкtresse;Hohepriesterin;;;;;;;;;;;x
+temple_county_of;Теократия;Thйocratie de;Theokratie von;;;;;;;;;;;x
+temple_county;Теократия;Thйocratie;Theokratie;;;;;;;;;;;x
+temple_baron;Жрец;Prкtre;Priester;;;;;;;;;;;x
+temple_baron_female;Жрица;Prкtresse;Priesterin;;;;;;;;;;;x
+temple_barony_of;Храм;Temple de;Tempel von;;;;;;;;;;;x
+temple_barony;Храм;Temple;Tempel;;;;;;;;;;;x
 # light_group;;;;;;;;;;;;;;x
-temple_king_light_group;Bishop-King;;;;;;;;;;;;;x
-temple_king_female_light_group;Bishop-Queen;;;;;;;;;;;;;x
-temple_duke_holy_light;Archbishop;;;;;;;;;;;;;x
-temple_duke_female_light_group;Archbishop;;;;;;;;;;;;;x
-temple_duchy_of_light_group;Prince-Archbishopric of;;;;;;;;;;;;;x
-temple_duchy_light_group;Prince-Archbishopric;;;;;;;;;;;;;x
-temple_count_light_group;Prince-Bishop;;;;;;;;;;;;;x
-temple_count_female_light_group;Prince-Bishop;;;;;;;;;;;;;x
-temple_county_of_light_group;Prince-Bishopric of;;;;;;;;;;;;;x
-temple_county_light_group;Prince-Bishopric;;;;;;;;;;;;;x
-temple_baron_light_group;Bishop;;;;;;;;;;;;;x
-temple_baron_female_light_group;Bishop;;;;;;;;;;;;;x
-temple_barony_of_light_group;Bishopric of;;;;;;;;;;;;;x
-temple_barony_light_group;Bishopric;;;;;;;;;;;;;x
+temple_king_light_group;Король-епископ;Йvкque-roi;Erzbischof;;;;;;;;;;;x
+temple_king_female_light_group;Королева-епископ;Йvкque-reine;Erzbischцfin;;;;;;;;;;;x
+temple_duke_holy_light;Архиепископ;Archevкque;Erzbischof;;;;;;;;;;;x
+temple_duke_female_light_group;Архиепископ;Archevкque;Erzbischцfin;;;;;;;;;;;x
+temple_duchy_of_light_group;Княжество-архиепископство;Archevкchй princier de;Erzbistum von;;;;;;;;;;;x
+temple_duchy_light_group;Княжество-архиепископство;Archevкchй princier;Erzbistum;;;;;;;;;;;x
+temple_count_light_group;Князь-епископ;Prince-йvкque;Bischof;;;;;;;;;;;x
+temple_count_female_light_group;Князь-епископ;Princesse-йvкque;Bischцfin;;;;;;;;;;;x
+temple_county_of_light_group;Княжество-епископство;Йvкchй princier de;Bistum von;;;;;;;;;;;x
+temple_county_light_group;Княжество-епископство;Йvкchй princier de;Bistum;;;;;;;;;;;x
+temple_baron_light_group;Епископ;Йvкque;Bischof;;;;;;;;;;;x
+temple_baron_female_light_group;Епископ;Йvкque;Bischцfin;;;;;;;;;;;x
+temple_barony_of_light_group;Епископство;Йvкchй de;Abtei von;;;;;;;;;;;x
+temple_barony_light_group;Епископство;Йvкchй;Abtei;;;;;;;;;;;x
 # fel_group;;;;;;;;;;;;;;x
-temple_king_fel_group;Archwarlock;;;;;;;;;;;;;x
-temple_king_female_fel_group;Archwarlock;;;;;;;;;;;;;x
-temple_duke_fel_group;Grand Warlock;;;;;;;;;;;;;x
-temple_duke_female_fel_group;Grand Warlock;;;;;;;;;;;;;x
-temple_count_fel_group;High Warlock;;;;;;;;;;;;;x
-temple_count_female_fel_group;High Warlock;;;;;;;;;;;;;x
-temple_baron_orcish_fel;Warlock;;;;;;;;;;;;;x
-temple_baron_female_fel_group;Warlock;;;;;;;;;;;;;x
-temple_barony_of_fel_group;Altar of;;;;;;;;;;;;;x
-temple_barony_fel_group;Altar;;;;;;;;;;;;;x
+temple_king_fel_group;Архичернокнижник;Archidйmoniste;Erzhexenmeister;;;;;;;;;;;x
+temple_king_female_fel_group;Архичернокнижник;Archidйmoniste;Erzhexenmeisterin;;;;;;;;;;;x
+temple_duke_fel_group;Великий чернокнижник;Grand dйmoniste;GroЯer Hexenmeister;;;;;;;;;;;x
+temple_duke_female_fel_group;Великая чернокнижница;Grande dйmoniste;GroЯe Hexenmeisterin;;;;;;;;;;;x
+temple_count_fel_group;Верховный чернокнижник;Haut dйmoniste;Hoher Hexenmeister;;;;;;;;;;;x
+temple_count_female_fel_group;Верховная чернокнижница;Haute dйmoniste;Hohe Hexenmeisterin;;;;;;;;;;;x
+temple_baron_orcish_fel;Чернокнижник;Dйmoniste;Hexenmeister;;;;;;;;;;;x
+temple_baron_female_fel_group;Чернокнижница;Dйmoniste;Hexenmeisterin;;;;;;;;;;;x
+temple_barony_of_fel_group;Алтарь;Autel de;Altar von;;;;;;;;;;;x
+temple_barony_fel_group;Алтарь;Autel;Altar;;;;;;;;;;;x
 # arcane_religion;;;;;;;;;;;;;;x
-temple_barony_of_arcane_religion;Citadel of;;;;;;;;;;;;;x
-temple_barony_arcane_religion;Citadel;;;;;;;;;;;;;x
+temple_barony_of_arcane_religion;Цитадель;Citadelle de;Zitadelle von;;;;;;;;;;;x
+temple_barony_arcane_religion;Цитадель;;Zitadelle;;;;;;;;;;;x
 # secular_group;;;;;;;;;;;;;;x
-temple_barony_of_secular_group;Workshop of;;;;;;;;;;;;;x
-temple_barony_secular_group;Workshop;;;;;;;;;;;;;x
+temple_barony_of_secular_group;Мастерская;Sйminaire de;Werkstatt von;;;;;;;;;;;x
+temple_barony_secular_group;Мастерская;;Werkstatt von;;;;;;;;;;;x
 # naaru;;;;;;;;;;;;;;x
-temple_emperor_naaru;Grand Prelate;;;;;;;;;;;;;x
-temple_emperor_female_naaru;Grand Prelate;;;;;;;;;;;;;x
-temple_empire_of_naaru;Grand Theocracy of;;;;;;;;;;;;;x
-temple_empire_naaru;Grand Theocracy;;;;;;;;;;;;;x
-temple_king_naaru;High Prelate;;;;;;;;;;;;;x
-temple_king_female_naaru;High Prelate;;;;;;;;;;;;;x
-temple_kingdom_of_naaru;High Theocracy of;;;;;;;;;;;;;x
-temple_kingdom_naaru;High Theocracy;;;;;;;;;;;;;x
-temple_duke_naaru;Prelate;;;;;;;;;;;;;x
-temple_duke_female_naaru;Prelate;;;;;;;;;;;;;x
-temple_duchy_of_naaru;Theocracy of;;;;;;;;;;;;;x
-temple_duchy_naaru;Theocracy of;;;;;;;;;;;;;x
-temple_count_naaru;Priest;;;;;;;;;;;;;x
-temple_count_female_naaru;Priestess;;;;;;;;;;;;;x
-temple_county_of_naaru;Lesser Theocracy of;;;;;;;;;;;;;x
-temple_county_naaru;Lesser Theocracy of;;;;;;;;;;;;;x
-temple_baron_naaru;Priest;;;;;;;;;;;;;x
-temple_baron_female_naaru;Priestess;;;;;;;;;;;;;x
-temple_barony_of_naaru;Temple of;;;;;;;;;;;;;x
-temple_barony_naaru;Temple;;;;;;;;;;;;;x
+temple_emperor_naaru;Великий прелат;Grand prйlat;GroЯprдlat;;;;;;;;;;;x
+temple_emperor_female_naaru;Великий прелат;Grand prйlat;GroЯprдlatin;;;;;;;;;;;x
+temple_empire_of_naaru;Великая теократия;Grande Thйocratie de;GroЯtheokratie von;;;;;;;;;;;x
+temple_empire_naaru;Великая теократия;Grande Thйocratie;GroЯtheokratie;;;;;;;;;;;x
+temple_king_naaru;Верховный прелат;Haut prйlat;Hoher Prдlat;;;;;;;;;;;x
+temple_king_female_naaru;Верховный прелат;Haut prйlat;Hohe Prдlatin;;;;;;;;;;;x
+temple_kingdom_of_naaru;Верховная теократия;Haute Thйocratie de;Hohe Theokratie von;;;;;;;;;;;x
+temple_kingdom_naaru;Верховная теократия;Haute Thйocratie;Hohe Theokratie;;;;;;;;;;;x
+temple_duke_naaru;Прелат;Prйlat;Prдlat;;;;;;;;;;;x
+temple_duke_female_naaru;Прелат;Prйlat;Prдlatin;;;;;;;;;;;x
+temple_duchy_of_naaru;Теократия;Thйocratie de;Theokratie von;;;;;;;;;;;x
+temple_duchy_naaru;Теократия;Thйocratie;Theokratie von;;;;;;;;;;;x
+temple_count_naaru;Жрец;Prкtre;Priester;;;;;;;;;;;x
+temple_count_female_naaru;Жрица;Prкtresse;Priesterin;;;;;;;;;;;x
+temple_county_of_naaru;Малая теократия;Thйocratie mineure de;Geringe Theokratie von;;;;;;;;;;;x
+temple_county_naaru;Малая теократия;Thйocratie mineure;Geringe Theokratie von;;;;;;;;;;;x
+temple_baron_naaru;Жрец;Prкtre;Ordensbruder;;;;;;;;;;;x
+temple_baron_female_naaru;Жрица;Prкtresse;Ordensschwester;;;;;;;;;;;x
+temple_barony_of_naaru;Храм;Temple de;Tempel von;;;;;;;;;;;x
+temple_barony_naaru;Храм;Temple;Tempel;;;;;;;;;;;x
 # lightbound;;;;;;;;;;;;;;x
-temple_emperor_lightbound;Grand Prelate;;;;;;;;;;;;;x
-temple_emperor_female_lightbound;Grand Prelate;;;;;;;;;;;;;x
-temple_empire_of_lightbound;Grand Theocracy of;;;;;;;;;;;;;x
-temple_empire_lightbound;Grand Theocracy;;;;;;;;;;;;;x
-temple_king_lightbound;High Prelate;;;;;;;;;;;;;x
-temple_king_female_lightbound;High Prelate;;;;;;;;;;;;;x
-temple_kingdom_of_lightbound;High Theocracy of;;;;;;;;;;;;;x
-temple_kingdom_lightbound;High Theocracy;;;;;;;;;;;;;x
-temple_duke_lightbound;Prelate;;;;;;;;;;;;;x
-temple_duke_female_lightbound;Prelate;;;;;;;;;;;;;x
-temple_duchy_of_lightbound;Theocracy of;;;;;;;;;;;;;x
-temple_duchy_lightbound;Theocracy of;;;;;;;;;;;;;x
-temple_count_lightbound;Priest;;;;;;;;;;;;;x
-temple_count_female_lightbound;Priestess;;;;;;;;;;;;;x
-temple_county_of_lightbound;Lesser Theocracy of;;;;;;;;;;;;;x
-temple_county_lightbound;Lesser Theocracy of;;;;;;;;;;;;;x
-temple_baron_lightbound;Priest;;;;;;;;;;;;;x
-temple_baron_female_lightbound;Priestess;;;;;;;;;;;;;x
-temple_barony_of_lightbound;Temple of;;;;;;;;;;;;;x
-temple_barony_lightbound;Temple;;;;;;;;;;;;;x
+temple_emperor_lightbound;Великий прелат;Grand prйlat;GroЯprдlat;;;;;;;;;;;x
+temple_emperor_female_lightbound;Великий прелат;Grand prйlat;GroЯprдlatin;;;;;;;;;;;x
+temple_empire_of_lightbound;Великая теократия;Grande Thйocratie de;GroЯtheokratie von;;;;;;;;;;;x
+temple_empire_lightbound;Великая теократия;Grande Thйocratie;GroЯtheokratie;;;;;;;;;;;x
+temple_king_lightbound;Верховный прелат;Haut prйlat;Hoher Prдlat;;;;;;;;;;;x
+temple_king_female_lightbound;Верховный прелат;Haut prйlat;Hohe Prдlatin;;;;;;;;;;;x
+temple_kingdom_of_lightbound;Верховная теократия;Haute Thйocratie de;Hohe Theokratie von;;;;;;;;;;;x
+temple_kingdom_lightbound;Верховная теократия;Haute Thйocratie;Hohe Theokratie;;;;;;;;;;;x
+temple_duke_lightbound;Прелат;Prйlat;Prдlat;;;;;;;;;;;x
+temple_duke_female_lightbound;Прелат;Prйlat;Prдlatin;;;;;;;;;;;x
+temple_duchy_of_lightbound;Теократия;Thйocratie de;Theokratie von;;;;;;;;;;;x
+temple_duchy_lightbound;Теократия;Thйocratie;Theokratie von;;;;;;;;;;;x
+temple_count_lightbound;Жрец;Prкtre;Priester;;;;;;;;;;;x
+temple_count_female_lightbound;Жрица;Prкtresse;Priesterin;;;;;;;;;;;x
+temple_county_of_lightbound;Малая теократия;Thйocratie mineure de;Geringe Theokratie von;;;;;;;;;;;x
+temple_county_lightbound;Малая теократия;Thйocratie mineure;Geringe Theokratie von;;;;;;;;;;;x
+temple_baron_lightbound;Жриц;Prкtre;Ordensbruder;;;;;;;;;;;x
+temple_baron_female_lightbound;Жрица;Prкtresse;Ordensschwester;;;;;;;;;;;x
+temple_barony_of_lightbound;Храм;Temple de;Tempel von;;;;;;;;;;;x
+temple_barony_lightbound;Храм;Temple;Tempel;;;;;;;;;;;x
 # druidism_group;;;;;;;;;;;;;;x
-temple_baron_druidism_group;Druid;;;;;;;;;;;;;x
-temple_baron_female_druidism_group;Druidess;;;;;;;;;;;;;x
-temple_barony_of_druidism_group;Shrine of;;;;;;;;;;;;;x
-temple_barony_druidism_group;Shrine;;;;;;;;;;;;;x
+temple_baron_druidism_group;Друид;Druide;Druide;;;;;;;;;;;x
+temple_baron_female_druidism_group;Друид;Druidesse;Druidin;;;;;;;;;;;x
+temple_barony_of_druidism_group;Обитель;Sanctuaire de;Schrein von;;;;;;;;;;;x
+temple_barony_druidism_group;Обитель;Sanctuaire;Schrein;;;;;;;;;;;x
 # kaldorei_religion;;;;;;;;;;;;;;
-temple_baron_kaldorei_religion;Priest;;;;;;;;;;;;;x
-temple_baron_female_kaldorei_religion;Priestess;;;;;;;;;;;;;x
-temple_barony_of_kaldorei_religion;Temple of;;;;;;;;;;;;;x
-temple_barony_kaldorei_religion;Temple;;;;;;;;;;;;;x
+temple_baron_kaldorei_religion;Жрец;Prкtre;Priester;;;;;;;;;;;x
+temple_baron_female_kaldorei_religion;Жрица;Prкtresse;Priesterin;;;;;;;;;;;x
+temple_barony_of_kaldorei_religion;Храм;Temple de;Tempel von;;;;;;;;;;;x
+temple_barony_kaldorei_religion;Храм;Temple;Tempel;;;;;;;;;;;x
 # elemental_lords_group;;;;;;;;;;;;;;
-temple_baron_elemental_lords_group;Shaman;;;;;;;;;;;;;x
-temple_baron_female_elemental_lords_group;Shaman;;;;;;;;;;;;;x
+temple_baron_elemental_lords_group;Шаман;Chaman;Schamane;;;;;;;;;;;x
+temple_baron_female_elemental_lords_group;Шаманка;Chamane;Schamanin;;;;;;;;;;;x
 # necromancy_group;;;;;;;;;;;;;;
-temple_baron_necromancy_group;Deathspeaker;;;;;;;;;;;;;x
-temple_baron_female_necromancy_group;Deathspeaker;;;;;;;;;;;;;x
+temple_baron_necromancy_group;Вестник смерти;Nйcrorateur;Prophet des Todes;;;;;;;;;;;x
+temple_baron_female_necromancy_group;Вестница смерти;Nйcroratrice;Prophetin des Todes;;;;;;;;;;;x
 # nerubian_religion_group;;;;;;;;;;;;;;
-temple_baron_nerubian_religion_group;Seer;;;;;;;;;;;;;x
-temple_baron_female_nerubian_religion_group;Seer;;;;;;;;;;;;;x
+temple_baron_nerubian_religion_group;Провидец;Voyant;Seher;;;;;;;;;;;x
+temple_baron_female_nerubian_religion_group;Провидица;Voyante;Seherin;;;;;;;;;;;x
 # pandaren_religion_group;;;;;;;;;;;;;;
-temple_baron_pandaren_religion_group;Elder;;;;;;;;;;;;;x
-temple_baron_female_pandaren_religion_group;Sister;;;;;;;;;;;;;x
+temple_baron_pandaren_religion_group;Старейшина;Ancien;Дltester;;;;;;;;;;;x
+temple_baron_female_pandaren_religion_group;Сестра;Sњur;Schwester;;;;;;;;;;;x
 # primitive_group;;;;;;;;;;;;;;
-temple_baron_primitive_group;Shaman;;;;;;;;;;;;;x
-temple_baron_female_primitive_group;Shaman;;;;;;;;;;;;;x
+temple_baron_primitive_group;Шаман;Chaman;Schamane;;;;;;;;;;;x
+temple_baron_female_primitive_group;Шаманка;Chamane;Schamanin;;;;;;;;;;;x
 # shamanism_group;;;;;;;;;;;;;;
-temple_baron_shamanism_group;Shaman;;;;;;;;;;;;;x
-temple_baron_female_shamanism_group;Shaman;;;;;;;;;;;;;x
+temple_baron_shamanism_group;Шаман;Chaman;Schamane;;;;;;;;;;;x
+temple_baron_female_shamanism_group;Шаманка;Chamane;Schamanin;;;;;;;;;;;x
 # void_group;;;;;;;;;;;;;;
-temple_baron_void_group;Dark Cleric;;;;;;;;;;;;;x
-temple_baron_female_void_group;Dark Cleric;;;;;;;;;;;;;x
+temple_baron_void_group;Темный клирик;Sombre clerc;Dunkler Kleriker;;;;;;;;;;;x
+temple_baron_female_void_group;Темный клирик;Sombre clerc;Dunkle Klerikerin;;;;;;;;;;;x
 # vrykul_religion_group;;;;;;;;;;;;;;
-temple_baron_vrykul_religion_group;Seer;;;;;;;;;;;;;x
-temple_baron_female_vrykul_religion_group;Seeress;;;;;;;;;;;;;x
+temple_baron_vrykul_religion_group;Провидец;Voyant;Seher;;;;;;;;;;;x
+temple_baron_female_vrykul_religion_group;Провидица;Voyante;Seherin;;;;;;;;;;;x
