@@ -1,96 +1,96 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
 # Other;;;;;;;;;;;;;;x
-FIRELORD_TITLE;РњР°СЃС‚РµСЂ;;;;;;;;;;;;;x
-MASTER_TITLE;РџРѕРІРµР»РёС‚РµР»СЊ;;;;;;;;;;;;;x
-MASTER_FOA;РџРѕРІРµР»РёС‚РµР»СЊ;;;;;;;;;;;;;x
-ARCHBISHOP_TITLE;РђСЂС…РёРµРїРёСЃРєРѕРї;;;;;;;;;;;;;x
-YOUR_HOLINESS_FOA;Р’Р°С€Рµ РЎРІСЏС‚РµР№С€РµСЃС‚РІРѕ;;;;;;;;;;;;;x
-GRAND_INQUISITOR_TITLE;Р’РµР»РёРєРёР№ РёРЅРєРІРёР·РёС‚РѕСЂ;;;;;;;;;;;;;x
-SIR_TITLE;РЎСЌСЂ;;;;;;;;;;;;;x
-SIR_FOA;Р”РѕСЃС‚РѕРїРѕС‡С‚РµРЅРЅС‹Р№ СЃСЌСЂ;;;;;;;;;;;;;x
-XXX_CARTEL;РљР°СЂС‚РµР»СЊ [Root.GetOnlyDynastyName];;;;;;;;;;;;;x
-title_guardian_of_tirisfal;РњР°РіСѓСЃ;;;;;;;;;;;;;x
-title_guardian_of_tirisfal_female;РњР°РіРЅР°;;;;;;;;;;;;;x
-title_trade_prince;РўРѕСЂРіРѕРІС‹Р№ РїСЂРёРЅС†;;;;;;;;;;;;;x
-title_trade_prince_female;РўРѕСЂРіРѕРІР°СЏ РїСЂРёРЅС†РµСЃСЃР°;;;;;;;;;;;;;x
-LICH_KING_TITLE;РљРѕСЂРѕР»СЊ-Р»РёС‡;;;;;;;;;;;;;x
-LICH_QUEEN_TITLE;РљРѕСЂРѕР»РµРІР°-Р»РёС‡;;;;;;;;;;;;;x
-QUARTERMASTER_TITLE;РљРІР°СЂС‚РёСЂРјРµР№СЃС‚РµСЂ;;;;;;;;;;;;;x
-QUARTERMASTER_FOA;РљРІР°СЂС‚РёСЂРјРµР№СЃС‚РµСЂ;;;;;;;;;;;;;x
-LORD_TITLE;Р›РѕСЂРґ;;;;;;;;;;;;;x
-LADY_TITLE;Р›РµРґРё;;;;;;;;;;;;;x
-TWILIGHT_VICEROY_TITLE;РЎСѓРјРµСЂРµС‡РЅС‹Р№ РЅР°РјРµСЃС‚РЅРёРє;;;;;;;;;;;;;x
-TWILIGHT_VICEROY_FEM_TITLE;РЎСѓРјРµСЂРµС‡РЅР°СЏ РЅР°РјРµСЃС‚РЅРёС†Р°;;;;;;;;;;;;;x
-GRAND_CRUSADER_TITLE;Р’РµР»РёРєРёР№ РєСЂРµСЃС‚РѕРЅРѕСЃРµС†;;;;;;;;;;;;;x
-WARCHIEF_TITLE;Р’РѕР¶РґСЊ;;;;;;;;;;;;;x
-COMMANDER_TITLE;РљРѕРјР°РЅРґСѓСЋС‰РёР№;;;;;;;;;;;;;x
-LEADER_TITLE;РџСЂРµРґРІРѕРґРёС‚РµР»СЊ;;;;;;;;;;;;;x
-LEADER_FEM_TITLE;РџСЂРµРґРІРѕРґРёС‚РµР»СЊРЅРёС†Р°;;;;;;;;;;;;;x
-FLEET_MASTER_TITLE;Р¤Р»РѕС‚РјРµР№СЃС‚РµСЂ;;;;;;;;;;;;;x
-FLEET_MASTER_FEM_TITLE;Р¤Р»РѕС‚РјРµР№СЃС‚РµСЂ;;;;;;;;;;;;;x
-CAPTAIN_TITLE;РљР°РїРёС‚Р°РЅ;;;;;;;;;;;;;x
-CAPTAIN_FEM_TITLE;РљР°РїРёС‚Р°РЅ;;;;;;;;;;;;;x
-CAPTAIN_FOA;РљР°РїРёС‚Р°РЅ;;;;;;;;;;;;;x
-WARMASTER_TITLE;Р’РѕРµРЅРЅС‹Р№ РјР°РіРёСЃС‚СЂ;;;;;;;;;;;;;x
-WARMASTER_FEM_TITLE;Р’РѕРµРЅРЅС‹Р№ РјР°РіРёСЃС‚СЂ;;;;;;;;;;;;;x
-BOSS_TITLE;Р‘РѕСЃСЃ;;;;;;;;;;;;;x
-BOSS_FEM_TITLE;Р‘РѕСЃСЃ;;;;;;;;;;;;;x
-MASTER_HUNTER_TITLE;Р•РіРµСЂСЊРјРµР№СЃС‚РµСЂ;;;;;;;;;;;;;x
-MASTER_HUNTER_FEM_TITLE;Р•РіРµСЂСЊРјРµР№СЃС‚РµСЂ;;;;;;;;;;;;;x
-GRAND_MAGISTER_TITLE;Р’РµР»РёРєРёР№ РјР°РіРёСЃС‚СЂ;;;;;;;;;;;;;x
-GRAND_MAGISTER_FEM_TITLE;Р’РµР»РёРєРёР№ РјР°РіРёСЃС‚СЂ;;;;;;;;;;;;;x
-HIGH_THORNSPEAKER_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ С‚РµСЂРЅРѕРјР°РЅС‚;;;;;;;;;;;;;x
-HIGH_THORNSPEAKER_FEM_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ С‚РµСЂРЅРѕРјР°РЅС‚;;;;;;;;;;;;;x
-ALPHA_PRIME_TITLE;РђР»СЊС„Р°-Р’РѕР¶Р°Рє;;;;;;;;;;;;;x
-ALPHA_PRIME_FEM_TITLE;РђР»СЊС„Р°-Р’РѕР¶Р°Рє;;;;;;;;;;;;;x
-HIGH_URSA_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РЈСЂСЃР°;;;;;;;;;;;;;x
-HIGH_URSA_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ РЈСЂСЃР°;;;;;;;;;;;;;x
-HIGH_PRIEST_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ Р¶СЂРµС†;;;;;;;;;;;;;x
-HIGH_PRIEST_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ Р¶СЂРёС†Р°;;;;;;;;;;;;;x
-HIGH_PROPHET_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РїСЂРѕСЂРѕРє;;;;;;;;;;;;;x
-HIGH_PROPHET_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ РїСЂРѕСЂРѕС‡РёС†Р°;;;;;;;;;;;;;x
-BLOOD_PROPHET_TITLE;РџСЂРѕСЂРѕРє РєСЂРѕРІРё;;;;;;;;;;;;;x
-BLOOD_PROPHET_FEM_TITLE;РџСЂРѕСЂРѕС‡РёС†Р° РєСЂРѕРІРё;;;;;;;;;;;;;x
-GRAND_VIZIER_TITLE;Р’РµР»РёРєРёР№ РІРёР·РёСЂСЊ;;;;;;;;;;;;;x
-GRAND_VIZIER_FEM_TITLE;Р’РµР»РёРєРёР№ РІРёР·РёСЂСЊ;;;;;;;;;;;;;x
-HIGH_ORACLE_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РѕСЂР°РєСѓР»;;;;;;;;;;;;;x
-HIGH_ORACLE_FEM_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РѕСЂР°РєСѓР»;;;;;;;;;;;;;x
-GRAND_WAX_PRIEST_TITLE;Р’РµР»РёРєРёР№ Р¶СЂРµС† РІРѕСЃРєР°;;;;;;;;;;;;;x
-GRAND_WAX_PRIEST_FEM_TITLE;Р’РµР»РёРєР°СЏ Р¶СЂРёС†Р° РІРѕСЃРєР°;;;;;;;;;;;;;x
-HIGH_THORNWARLOCK_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ С‚РµСЂРЅРѕРјР°РЅС‚;;;;;;;;;;;;;x
-HIGH_THORNWARLOCK_FEM_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ С‚РµСЂРЅРѕРјР°РЅС‚;;;;;;;;;;;;;x
-HIGH_EARTHCALLER_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ Р·Р°РєР»РёРЅР°С‚РµР»СЊ Р·РµРјР»Рё;;;;;;;;;;;;;x
-HIGH_EARTHCALLER_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ Р·Р°РєР»РёРЅР°С‚РµР»СЊРЅРёС†Р° Р·РµРјР»Рё;;;;;;;;;;;;;x
-HIGH_SEER_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РїСЂРѕРІРёРґРµС†;;;;;;;;;;;;;x
-HIGH_SEER_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ РїСЂРѕРІРёРґРёС†Р°;;;;;;;;;;;;;x
-HIGH_SMAMAN_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ С€Р°РјР°РЅ;;;;;;;;;;;;;x
-HIGH_SMAMAN_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ С€Р°РјР°РЅРєР°;;;;;;;;;;;;;x
-HIGH_SKYCHASER_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РЅРµР±РµСЃРЅС‹Р№ РѕС…РѕС‚РЅРёРє;;;;;;;;;;;;;x
-HIGH_SKYCHASER_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ РЅРµР±РµСЃРЅР°СЏ РѕС…РѕС‚РЅРёС†Р°;;;;;;;;;;;;;x
-HIGH_SEA_PRIEST_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ Р¶СЂРµС† РјРѕСЂСЏ;;;;;;;;;;;;;x
-HIGH_SEA_PRIEST_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ Р¶СЂРёС†Р° РјРѕСЂСЏ;;;;;;;;;;;;;x
-DARK_ARCHBISHOP_TITLE;РўРµРјРЅС‹Р№ Р°СЂС…РёРµРїРёСЃРєРѕРї;;;;;;;;;;;;;x
-GRAND_VINDICATOR_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РІРѕР·РґР°СЏС‚РµР»СЊ;;;;;;;;;;;;;x
-GRAND_VINDICATOR_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ РІРѕР·РґР°СЏС‚РµР»СЊРЅРёС†Р°;;;;;;;;;;;;;x
-GRAND_EXARCH_TITLE;Р’РµР»РёРєРёР№ СЌРєР·Р°СЂС…;;;;;;;;;;;;;x
-CHIEFTAIN_TITLE;Р’РѕР¶РґСЊ;;;;;;;;;;;;;x
-CHIEFTAIN_FEM_TITLE;РџСЂРµРґРІРѕРґРёС‚РµР»СЊРЅРёС†Р°;;;;;;;;;;;;;x
-MAGISTER_TITLE;РњР°РіРёСЃС‚СЂ;;;;;;;;;;;;;x
-MAGISTER_FEM_TITLE;РњР°РіРёСЃС‚СЂ;;;;;;;;;;;;;x
-OVERLORD_TITLE;Р’Р»Р°СЃС‚РёС‚РµР»СЊ;;;;;;;;;;;;;x
-OVERLORD_FEMALE_TITLE;Р’Р»Р°СЃС‚РёС‚РµР»СЊРЅРёС†Р°;;;;;;;;;;;;;x
-HERALD_TITLE;Р’РµСЃС‚РЅРёРє;;;;;;;;;;;;;x
-HERALD_FEM_TITLE;Р’РµСЃС‚РЅРёС†Р°;;;;;;;;;;;;;x
-HIGHFATHER_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РѕС‚РµС†;;;;;;;;;;;;;x
-HIGHFATHER_FEM_TITLE;Р’РµСЂС…РѕРІРЅР°СЏ РјР°С‚СЊ;;;;;;;;;;;;;x
-KINGPIN_TITLE;РљРѕСЂРѕР»СЊ РІРѕСЂРѕРІ;;;;;;;;;;;;;x
-KINGPIN_FEM_TITLE;РљРѕСЂРѕР»РµРІР° РІРѕСЂРѕРІ;;;;;;;;;;;;;x
-REGENT_LORD_TITLE;Р›РѕСЂРґ-СЂРµРіРµРЅС‚;;;;;;;;;;;;;x
-REGENT_LORD_TITLE_FEM;Р›РµРґРё-СЂРµРіРµРЅС‚;;;;;;;;;;;;;x
-OVERSEER_TITLE;РќР°РґР·РёСЂР°С‚РµР»СЊ;;;;;;;;;;;;;x
-OVERSEER_FEM_TITLE;РќР°РґР·РёСЂР°С‚РµР»СЊРЅРёС†Р°;;;;;;;;;;;;;x
-HIGH_GENERAL_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ РіРµРЅРµСЂР°Р»;;;;;;;;;;;;;x
-HIGHLORD_TITLE;Р’РµСЂС…РѕРІРЅС‹Р№ Р»РѕСЂРґ;;;;;;;;;;;;;x
-GRAND_MARSHAL_TITLE;Р’РµР»РёРєРёР№ РњР°СЂС€Р°Р»;;;;;;;;;;;;;x
-BANSHEE_QUEEN_TITLE;РљРѕСЂРѕР»РµРІР° Р±Р°РЅС€Рё;;;;;;;;;;;;;x
-BANSHEE_KING_TITLE;РљРѕСЂРѕР»СЊ Р±Р°РЅС€Рё;;;;;;;;;;;;;x
+FIRELORD_TITLE;Мастер;;;;;;;;;;;;;x
+MASTER_TITLE;Повелитель;;;;;;;;;;;;;x
+MASTER_FOA;Повелитель;;;;;;;;;;;;;x
+ARCHBISHOP_TITLE;Архиепископ;;;;;;;;;;;;;x
+YOUR_HOLINESS_FOA;Ваше Святейшество;;;;;;;;;;;;;x
+GRAND_INQUISITOR_TITLE;Великий инквизитор;;;;;;;;;;;;;x
+SIR_TITLE;Сэр;;;;;;;;;;;;;x
+SIR_FOA;Достопочтенный сэр;;;;;;;;;;;;;x
+XXX_CARTEL;Картель [Root.GetOnlyDynastyName];;;;;;;;;;;;;x
+title_guardian_of_tirisfal;Магус;;;;;;;;;;;;;x
+title_guardian_of_tirisfal_female;Магна;;;;;;;;;;;;;x
+title_trade_prince;Торговый принц;;;;;;;;;;;;;x
+title_trade_prince_female;Торговая принцесса;;;;;;;;;;;;;x
+LICH_KING_TITLE;Король-лич;;;;;;;;;;;;;x
+LICH_QUEEN_TITLE;Королева-лич;;;;;;;;;;;;;x
+QUARTERMASTER_TITLE;Квартирмейстер;;;;;;;;;;;;;x
+QUARTERMASTER_FOA;Квартирмейстер;;;;;;;;;;;;;x
+LORD_TITLE;Лорд;;;;;;;;;;;;;x
+LADY_TITLE;Леди;;;;;;;;;;;;;x
+TWILIGHT_VICEROY_TITLE;Сумеречный наместник;;;;;;;;;;;;;x
+TWILIGHT_VICEROY_FEM_TITLE;Сумеречная наместница;;;;;;;;;;;;;x
+GRAND_CRUSADER_TITLE;Великий крестоносец;;;;;;;;;;;;;x
+WARCHIEF_TITLE;Вождь;;;;;;;;;;;;;x
+COMMANDER_TITLE;Командующий;;;;;;;;;;;;;x
+LEADER_TITLE;Предводитель;;;;;;;;;;;;;x
+LEADER_FEM_TITLE;Предводительница;;;;;;;;;;;;;x
+FLEET_MASTER_TITLE;Флотмейстер;;;;;;;;;;;;;x
+FLEET_MASTER_FEM_TITLE;Флотмейстер;;;;;;;;;;;;;x
+CAPTAIN_TITLE;Капитан;;;;;;;;;;;;;x
+CAPTAIN_FEM_TITLE;Капитан;;;;;;;;;;;;;x
+CAPTAIN_FOA;Капитан;;;;;;;;;;;;;x
+WARMASTER_TITLE;Военный магистр;;;;;;;;;;;;;x
+WARMASTER_FEM_TITLE;Военный магистр;;;;;;;;;;;;;x
+BOSS_TITLE;Босс;;;;;;;;;;;;;x
+BOSS_FEM_TITLE;Босс;;;;;;;;;;;;;x
+MASTER_HUNTER_TITLE;Егерьмейстер;;;;;;;;;;;;;x
+MASTER_HUNTER_FEM_TITLE;Егерьмейстер;;;;;;;;;;;;;x
+GRAND_MAGISTER_TITLE;Великий магистр;;;;;;;;;;;;;x
+GRAND_MAGISTER_FEM_TITLE;Великий магистр;;;;;;;;;;;;;x
+HIGH_THORNSPEAKER_TITLE;Верховный терномант;;;;;;;;;;;;;x
+HIGH_THORNSPEAKER_FEM_TITLE;Верховный терномант;;;;;;;;;;;;;x
+ALPHA_PRIME_TITLE;Альфа-Вожак;;;;;;;;;;;;;x
+ALPHA_PRIME_FEM_TITLE;Альфа-Вожак;;;;;;;;;;;;;x
+HIGH_URSA_TITLE;Верховный Урса;;;;;;;;;;;;;x
+HIGH_URSA_FEM_TITLE;Верховная Урса;;;;;;;;;;;;;x
+HIGH_PRIEST_TITLE;Верховный жрец;;;;;;;;;;;;;x
+HIGH_PRIEST_FEM_TITLE;Верховная жрица;;;;;;;;;;;;;x
+HIGH_PROPHET_TITLE;Верховный пророк;;;;;;;;;;;;;x
+HIGH_PROPHET_FEM_TITLE;Верховная пророчица;;;;;;;;;;;;;x
+BLOOD_PROPHET_TITLE;Пророк крови;;;;;;;;;;;;;x
+BLOOD_PROPHET_FEM_TITLE;Пророчица крови;;;;;;;;;;;;;x
+GRAND_VIZIER_TITLE;Великий визирь;;;;;;;;;;;;;x
+GRAND_VIZIER_FEM_TITLE;Великий визирь;;;;;;;;;;;;;x
+HIGH_ORACLE_TITLE;Верховный оракул;;;;;;;;;;;;;x
+HIGH_ORACLE_FEM_TITLE;Верховный оракул;;;;;;;;;;;;;x
+GRAND_WAX_PRIEST_TITLE;Великий жрец воска;;;;;;;;;;;;;x
+GRAND_WAX_PRIEST_FEM_TITLE;Великая жрица воска;;;;;;;;;;;;;x
+HIGH_THORNWARLOCK_TITLE;Верховный терномант;;;;;;;;;;;;;x
+HIGH_THORNWARLOCK_FEM_TITLE;Верховный терномант;;;;;;;;;;;;;x
+HIGH_EARTHCALLER_TITLE;Верховный заклинатель земли;;;;;;;;;;;;;x
+HIGH_EARTHCALLER_FEM_TITLE;Верховная заклинательница земли;;;;;;;;;;;;;x
+HIGH_SEER_TITLE;Верховный провидец;;;;;;;;;;;;;x
+HIGH_SEER_FEM_TITLE;Верховная провидица;;;;;;;;;;;;;x
+HIGH_SMAMAN_TITLE;Верховный шаман;;;;;;;;;;;;;x
+HIGH_SMAMAN_FEM_TITLE;Верховная шаманка;;;;;;;;;;;;;x
+HIGH_SKYCHASER_TITLE;Верховный небесный охотник;;;;;;;;;;;;;x
+HIGH_SKYCHASER_FEM_TITLE;Верховная небесная охотница;;;;;;;;;;;;;x
+HIGH_SEA_PRIEST_TITLE;Верховный жрец моря;;;;;;;;;;;;;x
+HIGH_SEA_PRIEST_FEM_TITLE;Верховная жрица моря;;;;;;;;;;;;;x
+DARK_ARCHBISHOP_TITLE;Темный архиепископ;;;;;;;;;;;;;x
+GRAND_VINDICATOR_TITLE;Верховный воздаятель;;;;;;;;;;;;;x
+GRAND_VINDICATOR_FEM_TITLE;Верховная воздаятельница;;;;;;;;;;;;;x
+GRAND_EXARCH_TITLE;Великий экзарх;;;;;;;;;;;;;x
+CHIEFTAIN_TITLE;Вождь;;;;;;;;;;;;;x
+CHIEFTAIN_FEM_TITLE;Предводительница;;;;;;;;;;;;;x
+MAGISTER_TITLE;Магистр;;;;;;;;;;;;;x
+MAGISTER_FEM_TITLE;Магистр;;;;;;;;;;;;;x
+OVERLORD_TITLE;Властитель;;;;;;;;;;;;;x
+OVERLORD_FEMALE_TITLE;Властительница;;;;;;;;;;;;;x
+HERALD_TITLE;Вестник;;;;;;;;;;;;;x
+HERALD_FEM_TITLE;Вестница;;;;;;;;;;;;;x
+HIGHFATHER_TITLE;Верховный отец;;;;;;;;;;;;;x
+HIGHFATHER_FEM_TITLE;Верховная мать;;;;;;;;;;;;;x
+KINGPIN_TITLE;Король воров;;;;;;;;;;;;;x
+KINGPIN_FEM_TITLE;Королева воров;;;;;;;;;;;;;x
+REGENT_LORD_TITLE;Лорд-регент;;;;;;;;;;;;;x
+REGENT_LORD_TITLE_FEM;Леди-регент;;;;;;;;;;;;;x
+OVERSEER_TITLE;Надзиратель;;;;;;;;;;;;;x
+OVERSEER_FEM_TITLE;Надзирательница;;;;;;;;;;;;;x
+HIGH_GENERAL_TITLE;Верховный генерал;;;;;;;;;;;;;x
+HIGHLORD_TITLE;Верховный лорд;;;;;;;;;;;;;x
+GRAND_MARSHAL_TITLE;Великий Маршал;;;;;;;;;;;;;x
+BANSHEE_QUEEN_TITLE;Королева банши;;;;;;;;;;;;;x
+BANSHEE_KING_TITLE;Король банши;;;;;;;;;;;;;x
