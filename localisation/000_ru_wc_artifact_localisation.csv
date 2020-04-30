@@ -17,63 +17,63 @@ dark_crystal_desc;Из этого странного кристалла исходит магия Бездны, но где-то в
 doomhammer;Молот Рока;;;;;;;;;;;;;x
 doomhammer_desc;Молот Рока был выкован в лавовом источнике на Дреноре и передавался по наследству от отца к сыну вместе с именем. Несмотря на свой размер, этот молот пропитан силой стихий и способен сокрушить любого врага.;;;;;;;;;;;;;x
 eye_of_sargeras;Око Саргераса;;;;;;;;;;;;;x
-eye_of_sargeras_desc;The Eye of Sargeras is a powerful gem-like artifact previously used by the Avatar of Sargeras. This magical stone thrums with demonic energies.;;;;;;;;;;;;;x
-felomelorn;Felo'melorn;;;;;;;;;;;;;x
-felomelorn_desc;This runeblade, known also as Flamestrike, is a family relic of the Sunstrider dynasty. Anasterian Sunstrider wielded it against the Amani trolls after the founding of Quel'Thalas, having originally inherited it from Dath'Remar.;;;;;;;;;;;;;x
-frostmourne;Frostmourne;;;;;;;;;;;;;x
-frostmourne_desc;This sword, etched with dark runes, was forged by the nathrezim. The souls of living creatures killed by Frostmourne remain trapped within the blade forever, which is adept in cutting flesh, metal and soul alike.;;;;;;;;;;;;;x
-hammer_of_the_twilight;Hammer of Twilight;;;;;;;;;;;;;x
-hammer_of_the_twilight_desc;The Twilight's Hammer, also known as the Hammer of Twilight, is forged with elementium and the power of the Old Gods. It was created as a symbol of the Twilight Hammer cult's power.;;;;;;;;;;;;;x
-horn_of_cenarius;Horn of Cenarius;;;;;;;;;;;;;x
-horn_of_cenarius_desc;This ancient relic of the Night Elves is said to hold the power to call the spirits of all Night Elves.;;;;;;;;;;;;;x
-libram_of_compassion;Libram of Compassion;;;;;;;;;;;;;x
-libram_of_compassion_desc;This libram is among the church's most ancient relics. It was given to Gavinrad by Alonsus Faol, who challenged him to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_compassion_key;This libram is among the church's most ancient relics. It was given to [Prev.GetDynName] by [libram_giver.GetDynName], who challenged [Prev.GetHerHim] to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_holiness;Libram of Holiness;;;;;;;;;;;;;x
-libram_of_holiness_desc;This libram is among the church's most ancient relics. It was given to Saidan Dathrohan by Alonsus Faol, who challenged him to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_holiness_key;This libram is among the church's most ancient relics. It was given to [Prev.GetDynName] by [libram_giver.GetDynName], who challenged [Prev.GetHerHim] to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_justice;Libram of Justice;;;;;;;;;;;;;x
-libram_of_justice_desc;This libram is among the church's most ancient relics. It was given to Uther by Alonsus Faol, who challenged him to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_justice_key;This libram is among the church's most ancient relics. It was given to [Prev.GetDynName] by [libram_giver.GetDynName], who challenged [Prev.GetHerHim] to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_protection;Libram of Protection;;;;;;;;;;;;;x
-libram_of_protection_desc;This libram is among the church's most ancient relics. It was given to Turalyon by Alonsus Faol, who challenged him to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_protection_key;This libram is among the church's most ancient relics. It was given to [Prev.GetDynName] by [libram_giver.GetDynName], who challenged [Prev.GetHerHim] to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_retribution;Libram of Retribution;;;;;;;;;;;;;x
-libram_of_retribution_desc;This libram is among the church's most ancient relics. It was given to Tirion Fordring by Alonsus Faol, who challenged him to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-libram_of_retribution_key;This libram is among the church's most ancient relics. It was given to [Prev.GetDynName] by [libram_giver.GetDynName], who challenged [Prev.GetHerHim] to become the living embodiment of what this holy tome represents.;;;;;;;;;;;;;x
-orb_of_kiljaeden;Orb of Kil'jaeden;;;;;;;;;;;;;x
-orb_of_kiljaeden_desc;Crafted by the demon lord Kil'jaeden, this orb was meant for his champion to aid them in destroying the Lich King.;;;;;;;;;;;;;x
-scepter_of_sargeras;Scepter of Sargeras;;;;;;;;;;;;;x
-scepter_of_sargeras_desc;This unholy scepter once belonged to the dark titan Sargeras. After his fall, it lay in the depths of his tomb for centuries. It has the power to rip open dimensional gateways between worlds, if placed in gifted hands.;;;;;;;;;;;;;x
-scythe_of_elune;Scythe of Elune;;;;;;;;;;;;;x
-scythe_of_elune_desc;The scythe of Elune is an ancient artifact covered with mystical runes consisting of Goldrinn's fang and the staff of Elune. ;;;;;;;;;;;;;x
-serathil;Serathil;;;;;;;;;;;;;x
-serathil_desc;Serathil was crafted on Draenor for Kash'drakor and used in the Blood River war that ended with the annihilation of the Dark Scar clan.;;;;;;;;;;;;;x
-shadow_orb;Shadow Orb;;;;;;;;;;;;;x
-shadow_orb_desc;The Shadow Orb is a magical artifact created by the orcish Shadow Council and presented to Gul'dan. Excessive use of this powerful tool can drive weaker souls into madness.;;;;;;;;;;;;;x
-skull_of_guldan;Skull of Guldan;;;;;;;;;;;;;x
-skull_of_guldan_desc;The Skull of Gul'dan is a powerful demonic artifact created from the skull of the orc warlock Gul'dan.;;;;;;;;;;;;;x
-sulfuras;Sulfuras, Hand of Ragnaros;;;;;;;;;;;;;x
-sulfuras_desc;Sulfuras is the mighty weapon of Ragnaros, the fire lord, forged from red elementium. Complicated runes cover the surface of the weapon like flowing lava.;;;;;;;;;;;;;x
-the_silver_hand;Silver Hand;;;;;;;;;;;;;x
-the_silver_hand_desc;Tyr himself wielded this weapon in countless battles against the enemies of the Titans. He sacrificed his life to cover the escape of his comrades.;;;;;;;;;;;;;x
-thunderfury;Thunderfury;;;;;;;;;;;;;x
-thunderfury_desc;Thunderfury, the blessed Blade of the Windseeker.;;;;;;;;;;;;;x
-trolkalar;Trol'kalar;;;;;;;;;;;;;x
-trolkalar_desc;The legendary sword of Ignaeus Trollbane, the great general of the Arathorian Empire, which later became the regalia of the Trollbane family. The glory of the sword lies in its ability to deal with any troll with just a couple of strokes.;;;;;;;;;;;;;x
-twilight_canticle;Twilight Canticle;;;;;;;;;;;;;x
-twilight_canticle_desc;This book contains inscrutable knowledge about the Void and the Old Gods. The pages are made of the flesh and skin of faithful followers, who gave their lives for the sake of the will of their lords.;;;;;;;;;;;;;x
-xalatath;Xal'atath, Blade of the Black Empire;;;;;;;;;;;;;x
-xalatath_desc;Nobody knows exactly when this blade was created, but according to legend it was used for sacrifices in ancient times. It drips with void magic and its quiet whispering attacks those with weak minds.;;;;;;;;;;;;;x
-twin_blades_of_azzinoth;Twin Blades of Azzinoth;;;;;;;;;;;;;x
-twin_blades_of_azzinoth_desc;These twin-blades formerly belonged to Azzinoth, the leader of the doomguard, who was slain by Illidan 10,000 years ago. They are usually connected, but can be seperated and used as two weapons.;;;;;;;;;;;;;x
-gorehowl;Gorehowl;;;;;;;;;;;;;x
-gorehowl_desc;A massive axe wielded by Grommash Hellscream of the Warsong Clan. It is permanently stained with the blood of the warrior's fallen enemies. Small holes and notches that dot the blade make it "sing" when swung.;;;;;;;;;;;;;x
-warblade_of_archimonde;Warblade of Archimonde;;;;;;;;;;;;;x
-warblade_of_archimonde_desc;This humongous warblade belongs to Archimonde the Defiler, Lord of the Burning Legion. Countless worlds were conquered by the might of this blade and its owner.;;;;;;;;;;;;;x
+eye_of_sargeras_desc;Око Саргераса - могущественный драгоценный артефакт, ранее принадлежавший Аватару Саргераса. Этот магический камень гудит от переполняющей его демонический энергии.;;;;;;;;;;;;;x
+felomelorn;Фело'мелорн;;;;;;;;;;;;;x
+felomelorn_desc;Это фамильное оружие, название которого означает «волна огня» на талассийском языке, переходило по наследству в королевской семье высших эльфов, и Анастериан Солнечный Скиталец, внук Дат'Ремара, использовал его в войнах против троллей Амани после основания Кель'Таласа.;;;;;;;;;;;;;x
+frostmourne;Ледяная Скорбь;;;;;;;;;;;;;x
+frostmourne_desc;Этот меч, усеянный темными рунами, был выкован натрезимами. Души живых существ, убитых Ледяной Скорбью, остаются в вечном заточении внутри клинка, который с легкостью разрезает плоть, кость и даже самый прочный металл.;;;;;;;;;;;;;x
+hammer_of_the_twilight;Молот Сумерек;;;;;;;;;;;;;x
+hammer_of_the_twilight_desc;Молот Сумерек, также известный как Сумеречный Молот, был выкован из элементия и могущества Древних Богов. Он был создан, чтобы олицетворять собой символ могущества культа Сумеречного Молота.;;;;;;;;;;;;;x
+horn_of_cenarius;Рог Кенария;;;;;;;;;;;;;x
+horn_of_cenarius_desc;Согласно легендам, эта древняя реликвия обладает способностью взывать к душам ночных эльфов.;;;;;;;;;;;;;x
+libram_of_compassion;Манускрипт Сострадания;;;;;;;;;;;;;x
+libram_of_compassion_desc;Этот манускрипт является одной из самых древних реликвий церкви. Он был передан Гавинраду Алонсием Фаолом, который пожелал, чтобы его ученики стали истинными воплощениями каждого из идеалов ордена.;;;;;;;;;;;;;x
+libram_of_compassion_key;Этот манускрипт является одной из самых древних реликвий церкви. [libram_giver.GetDynName], пожелавш[Prev.GetAyaIy], чтобы [Prev.GetHerHis] ученики стали истинными воплощениями каждого из идеалов ордена, передал[Prev.GetEndA] манускрипт одному из первых паладинов по имени [Prev.GetDynName].;;;;;;;;;;;;;x
+libram_of_holiness;Манускрипт Святости;;;;;;;;;;;;;x
+libram_of_holiness_desc;Этот манускрипт является одной из самых древних реликвий церкви. Он был передан Сайдану Датрохану Алонсием Фаолом, который пожелал, чтобы его ученики стали истиннымыми воплощениями каждого из идеалов ордена.;;;;;;;;;;;;;x
+libram_of_holiness_key;Этот манускрипт является одной из самых древних реликвий церкви. [libram_giver.GetDynName], пожелавш[Prev.GetAyaIy], чтобы [Prev.GetHerHis] ученики стали истинными воплощениями каждого из идеалов ордена, передал[Prev.GetEndA] манускрипт одному из первых паладинов по имени [Prev.GetDynName].;;;;;;;;;;;;;x
+libram_of_justice;Манускрипт Справделивости;;;;;;;;;;;;;x
+libram_of_justice_desc;Этот манускрипт является одной из самых древних реликвий церкви. Он был передан Утеру Алонсием Фаолом, который пожелал, чтобы его ученики стали истинными воплощениями каждого из идеалов ордена.;;;;;;;;;;;;;x
+libram_of_justice_key;Этот манускрипт является одной из самых древних реликвий церкви. [libram_giver.GetDynName], пожелавш[Prev.GetAyaIy], чтобы [Prev.GetHerHis] ученики стали истинными воплощениями каждого из идеалов ордена, передал[Prev.GetEndA] манускрипт одному из первых паладинов по имени [Prev.GetDynName].;;;;;;;;;;;;;x
+libram_of_protection;Манускрипт Защиты;;;;;;;;;;;;;x
+libram_of_protection_desc;Этот манускрипт является одной из самых древних реликвий церкви. Он был передан Туралиону Алонсием Фаолом, который пожелал, чтобы его ученики стали истинными воплощениями каждого из идеалов ордена.;;;;;;;;;;;;;x
+libram_of_protection_key;Этот манускрипт является одной из самых древних реликвий церкви. [libram_giver.GetDynName], пожелавш[Prev.GetAyaIy], чтобы [Prev.GetHerHis] ученики стали истинными воплощениями каждого из идеалов ордена, передал[Prev.GetEndA] манускрипт одному из первых паладинов по имени [Prev.GetDynName].;;;;;;;;;;;;;x
+libram_of_retribution;Манускрипт Воздаяния;;;;;;;;;;;;;x
+libram_of_retribution_desc;Этот манускрипт является одной из самых древних реликвий церкви. Он был передан Тириону Фордрингу Алонсием Фаолом, который пожелал, чтобы его ученики стали истинными воплощениями каждого из идеалов ордена.;;;;;;;;;;;;;x
+libram_of_retribution_key;Этот манускрипт является одной из самых древних реликвий церкви. [libram_giver.GetDynName], пожелавш[Prev.GetAyaIy], чтобы [Prev.GetHerHis] ученики стали истинными воплощениями каждого из идеалов ордена, передал[Prev.GetEndA] манускрипт одному из первых паладинов по имени [Prev.GetDynName].;;;;;;;;;;;;;x
+orb_of_kiljaeden;Сфера Кил'джедена;;;;;;;;;;;;;x
+orb_of_kiljaeden_desc;Выкованная повелителем демонов Кил'джеденом, эта сфера была передана им его чемпиону, чтобы помочь ему в уничтожении Короля-лича.;;;;;;;;;;;;;x
+scepter_of_sargeras;Скипетр Саргераса;;;;;;;;;;;;;x
+scepter_of_sargeras_desc;Этот нечестивый скипетр когда-то принадлежал темному титану Саргерасу. После падения титана, скипетр находился в его гробнице на протяжении веков. Находясь в руках одаренного волшебника, скипетр способен открывать врата между мирами, разрывая пространство и время.;;;;;;;;;;;;;x
+scythe_of_elune;Коса Элуны;;;;;;;;;;;;;x
+scythe_of_elune_desc;Коса Элуны - древний артефакт, покрытый мистическими рунами. Она была создана из клыка Голдринна и посоха Элуны. ;;;;;;;;;;;;;x
+serathil;Сератил;;;;;;;;;;;;;x
+serathil_desc;Сератил был выкован на Дреноре для знаменитого воина из клана Северного Волка Кас'дракора, который использовал топор в войне Кровавой Реки, завершившейся уничтожением клана Темного Шрама.;;;;;;;;;;;;;x
+shadow_orb;Сфера Теней;;;;;;;;;;;;;x
+shadow_orb_desc;Сфера Теней - магический артефакт, созданный орочьим Советом Теней и преподнесенный в дар Гул'дану. Долгое использование этого артефакта может лишить владельца рассудка.;;;;;;;;;;;;;x
+skull_of_guldan;Череп Гул'дана;;;;;;;;;;;;;x
+skull_of_guldan_desc;Череп чернокнижника Гул'дана - демонический артефакт колоссальной силы.;;;;;;;;;;;;;x
+sulfuras;Сульфурас, Рука Рагнароса;;;;;;;;;;;;;x
+sulfuras_desc;Сульфурас - могучее оружие Рагнароса, Повелителя Огня, выкованное из красного элементиума. Его поверхность покрыта сложными рунами, напоминающими текущую лаву.;;;;;;;;;;;;;x
+the_silver_hand;Серебряная Длань;;;;;;;;;;;;;x
+the_silver_hand_desc;Длань самого хранителя Тира, который провел бесчисленные битвы против врагов Пантеона. Он пожертвовал своей жизнью, чтобы скрыть побег своих соратников.;;;;;;;;;;;;;x
+thunderfury;Громовая Ярость;;;;;;;;;;;;;x
+thunderfury_desc;Громовая Ярость, благословенный клинок Искателя Ветра.;;;;;;;;;;;;;x
+trolkalar;Трол'калар;;;;;;;;;;;;;x
+trolkalar_desc;Легендарный меч Игнеуса Троллебоя, великого полководца империи Аратор, ставший семейной реликвией рода Троллебоев. Слава меча состоит в том, что владелец меча может расправиться с любым троллем, сделав всего пару выпадов Трол'каларом.;;;;;;;;;;;;;x
+twilight_canticle;Песнь Сумерек;;;;;;;;;;;;;x
+twilight_canticle_desc;Эта книга содержит непостижимые истины о Бездне и Древних Богах. Ее страницы сделаны из плоти и кожи верных последователей, которые принесли себя в жертву ради своих повелителей.;;;;;;;;;;;;;x
+xalatath;Ксал'атат, клинок Темной Империи;;;;;;;;;;;;;x
+xalatath_desc;Никто не знает точно, когда был выкован этот клинок, но, согласно преданиям, в древние времена он использовался во время жертвоприношений. Его тысячелетние руны источают магию Бездны. Время от времени можно услышать слабый, почти неслышимый шепот, исходящий от клинка, который постепенно может подчинить себе слабовольного владельца..;;;;;;;;;;;;;x
+twin_blades_of_azzinoth;Парные клинки Аззинота;;;;;;;;;;;;;x
+twin_blades_of_azzinoth_desc;Эти парные клинки когда то принадлежали Аззиноту, повелителю Стражей Ужаса, который был повержен 10.000 лет назад Иллиданом. Клинки обычно соединены между собой, но могут использоваться и по-отдельности.;;;;;;;;;;;;;x
+gorehowl;Кровавый вой;;;;;;;;;;;;;x
+gorehowl_desc;Огромный топор, принадлежащий Громмашу Адскому Крику из клана Песни Войны, постоянно покрытый кровью поверженных врагов. Мелкие отверстия и выемки, которые усеивают топор, заставляют его "петь" при замахе.;;;;;;;;;;;;;x
+warblade_of_archimonde;Боевой клинок Архимонда;;;;;;;;;;;;;x
+warblade_of_archimonde_desc;Этот огромный клинок принадлежит Архимонду Осквернителю, Повелителю Пылающего Легионы. Бесчисленные миры были повержены силой этого оружия и его владельца.;;;;;;;;;;;;;x
 # Epic #;;;;;;;;;;;;;;
-chalice_of_trollbanes;Ignaeus' Chalice;;;;;;;;;;;;;x
-chalice_of_trollbanes_desc;Now a cherished relic of the Trollbanes', which, according to legend, Ignaeus Trollbane drank from when he feasted with the great king Thoradin himself after the defeat of the Amani Empire.;;;;;;;;;;;;;x
+chalice_of_trollbanes;Чаша Игнеуса;;;;;;;;;;;;;x
+chalice_of_trollbanes_desc;Бесценная семейная реликвия рода Троллебоев, из которой, согласно преданиям, пил сам Игнеус Троллебой во время пира, проведенного в честь разгрома империи Амани великим королем Торадином.;;;;;;;;;;;;;x
 frost_wyrm_skull_shield;Frost Wyrm Skull Shield;;;;;;;;;;;;;x
 frost_wyrm_skull_shield_desc;This unique shield was carved from the flattened crown of a white dragon's skull. The bone has been hardened and enhanced with an intricate steel framework interlaced with unidentifiable runes from an unknown maker. Handles were added, turning the skull into a powerful shield.;;;;;;;;;;;;;x
 hammer_of_the_lightbringer;Hammer of the Lightbringer;;;;;;;;;;;;;x
@@ -118,13 +118,13 @@ great_royal_sword;Great Royal Sword;;;;;;;;;;;;;x
 great_royal_sword_desc;This sword, the so called "blade of Stormwind", is a massive two-handed runeblade, wielded by Anduin Lothar until his death. It bears the lion of Stormwind near its parry bar.;;;;;;;;;;;;;x
 legion_doomhorn;Legion Doomhorn;;;;;;;;;;;;;x
 legion_doomhorn_desc;The inside of a doom horn looks like it has been blackened with a flame, but feels smooth and cool. The sound of this horn freezes the blood in the veins of the enemies.;;;;;;;;;;;;;x
-libram_of_devoutness_03;Libram of Devoutness;;;;;;;;;;;;;x
+libram_of_devoutness_03;Манускрипт Благочестия;;;;;;;;;;;;;x
 libram_of_devoutness_03_desc;This libram is a symbol of devoutness to the ideals of the holy light. Its owner proves to be a faithful student of the light and a righteous defender.;;;;;;;;;;;;;x
-libram_of_guardianship_03;Libram of Guardianship;;;;;;;;;;;;;x
+libram_of_guardianship_03;Манускрипт Защиты;;;;;;;;;;;;;x
 libram_of_guardianship_03_desc;This libram is a symbol of guardianship before the ideals of the holy light. Its owner proves to be a strong and righteous fighter for the light.;;;;;;;;;;;;;x
-libram_of_reckoning_03;Libram of Reckoning;;;;;;;;;;;;;x
+libram_of_reckoning_03;Манускрипт Воздаяния;;;;;;;;;;;;;x
 libram_of_reckoning_03_desc;This libram is a symbol of reckoning before the ideals of the holy light. Its owner proves to be a strong fighter for the light.;;;;;;;;;;;;;x
-libram_of_righteousness_03;Libram of Righteousness;;;;;;;;;;;;;x
+libram_of_righteousness_03;Манускрипт Справделивости;;;;;;;;;;;;;x
 libram_of_righteousness_03_desc;This libram is a symbol of righteousness before the ideals of the holy light. Its owner proves to be a faithful student and righteous fighter for the light.;;;;;;;;;;;;;x
 lionhorn_of_stormwind;Lion Horn of Stormwind;;;;;;;;;;;;;x
 lionhorn_of_stormwind_desc;The powerful sound of this horn makes the hearts of the soldiers beat faster.;;;;;;;;;;;;;x
@@ -136,12 +136,12 @@ ring_of_kaldorei_empire;Ring of the Kaldorei Empire;;;;;;;;;;;;;x
 ring_of_kaldorei_empire_desc;The Ring of the Kaldorei Empire.;;;;;;;;;;;;;x
 ring_of_trollbanes;Trollbane Sigil Ring;;;;;;;;;;;;;x
 ring_of_trollbanes_desc;This golden ring decorated with precious stones is a direct proof of the incredible wealth of the Trollbane family, which they have acquired over many centuries by owning a multitude of mines in the Arathi highlands.;;;;;;;;;;;;;x
-runeblade_blood_3;Blood Runeblade;;;;;;;;;;;;;x
-runeblade_blood_3_desc;Blood Runeblade.;;;;;;;;;;;;;x
-runeblade_frost_3;Frost Runeblade;;;;;;;;;;;;;x
-runeblade_frost_3_desc;Frost Runeblade.;;;;;;;;;;;;;x
-runeblade_unholy_3;Unholy Runeblade;;;;;;;;;;;;;x
-runeblade_unholy_3_desc;Unholy Runeblade.;;;;;;;;;;;;;x
+runeblade_blood_3;Кровавый рунический клинок;;;;;;;;;;;;;x
+runeblade_blood_3_desc;Кровавый рунический клинок.;;;;;;;;;;;;;x
+runeblade_frost_3;Ледяной рунический клинок;;;;;;;;;;;;;x
+runeblade_frost_3_desc;Ледяной рунический клинок.;;;;;;;;;;;;;x
+runeblade_unholy_3;Нечестивый рунический клинок;;;;;;;;;;;;;x
+runeblade_unholy_3_desc;Нечестивый рунический клинок.;;;;;;;;;;;;;x
 scourge_bone_chimes;Scourge Bone Chimes;;;;;;;;;;;;;x
 scourge_bone_chimes_desc;A set of chimes made of human and animal bones connected by cords that glow with an eerie luminescence.;;;;;;;;;;;;;x
 warsong_battle_drums;Warsong Wardrums;;;;;;;;;;;;;x
