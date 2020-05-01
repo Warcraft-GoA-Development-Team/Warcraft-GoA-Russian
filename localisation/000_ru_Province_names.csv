@@ -160,60 +160,60 @@ PROV159;Зеленые холмы;Greenhills;Greenhills;;;;;;;;;x
 PROV160;Каменная плотина;Stonewrought Dam;Stonewrought Dam;;;;;;;;;x
 PROV161;Долина королей;Valley of Kings;Valley of Kings;;;;;;;;;x
 PROV162;Серебряный поток;Silverstream;Silverstream;;;;;;;;;x
-PROV163;North Crossroads;;;;;;;;;;;x
-PROV164;Loch Islands;;;;;;;;;;;x
-PROV165;Southgate;;;;;;;;;;;x
-PROV166;Grim Batol;;;;;;;;;;;x
-PROV167;Wyrm's Bend;;;;;;;;;;;x
-PROV168;Wildpass;;;;;;;;;;;x
-PROV169;Vermillion;;;;;;;;;;;x
-PROV170;Tiverfil;;;;;;;;;;;x
-PROV171;Alberlin;;;;;;;;;;;x
-PROV172;Thundermar;;;;;;;;;;;x
-PROV173;Virid Forest;;;;;;;;;;;x
-PROV174;Rugged Slopes;;;;;;;;;;;x
-PROV175;Iron Ridge;;;;;;;;;;;x
-PROV176;Thorvald Ravine;;;;;;;;;;;x
-PROV177;Storm Cost;;;;;;;;;;;x
-PROV178;Thunder Grove;;;;;;;;;;;x
-PROV179;Windward Hills;;;;;;;;;;;x
-PROV180;Stormclaw;;;;;;;;;;;x
-PROV181;Quiet Highlands;;;;;;;;;;;x
-PROV182;Dunwald;;;;;;;;;;;x
-PROV183;Crucible of Tin;;;;;;;;;;;x
-PROV184;Verrall Delta;;;;;;;;;;;x
-PROV185;Severe Coast;;;;;;;;;;;x
-PROV186;Cape of Fist;;;;;;;;;;;x
-PROV187;Wildgulch;;;;;;;;;;;x
-PROV188;Windward Slopes;;;;;;;;;;;x
-PROV189;Flat Shore;;;;;;;;;;;x
-PROV190;Verdant Forest;;;;;;;;;;;x
-PROV191;Loose Cliffs;;;;;;;;;;;x
-PROV192;Victor's Point;;;;;;;;;;;x
-PROV193;Obsidian Hills;;;;;;;;;;;x
-PROV194;Elementium Ravine;;;;;;;;;;;x
-PROV195;Dead Highlands;;;;;;;;;;;x
-PROV196;Low Islands;;;;;;;;;;;x
-PROV197;Silverslopes;;;;;;;;;;;x
-PROV198;Menethil Harbor;;;;;;;;;;;x
-PROV199;Dun Algaz;;;;;;;;;;;x
-PROV200;Mosshide Fen;;;;;;;;;;;x
-PROV201;Upland Forest;;;;;;;;;;;x
-PROV202;Slabchisel's Survey;;;;;;;;;;;x
-PROV203;Dun Modr;;;;;;;;;;;x
-PROV204;Bogplain;;;;;;;;;;;x
-PROV205;Direforge;;;;;;;;;;;x
-PROV206;Climbhill;;;;;;;;;;;x
-PROV207;East Floodplain;;;;;;;;;;;x
-PROV208;West Floodplain;;;;;;;;;;;x
-PROV209;Saltspray Glen;;;;;;;;;;;x
-PROV210;North Delta;;;;;;;;;;;x
-PROV211;Central Delta;;;;;;;;;;;x
-PROV212;South Delta;;;;;;;;;;;x
-PROV213;Rocky Gorge;;;;;;;;;;;x
-PROV214;Highgarde;;;;;;;;;;;x
-PROV215;Highpoint;;;;;;;;;;;x
-PROV216;Stromgarde;;;;;;;;;;;x
+PROV163;Северный перекресток;;;;;;;;;;;x
+PROV164;Острова Лок;;;;;;;;;;;x
+PROV165;Южные врата;;;;;;;;;;;x
+PROV166;Грим Батол;;;;;;;;;;;x
+PROV167;Излучина Змея;;;;;;;;;;;x
+PROV168;Дикий проход;;;;;;;;;;;x
+PROV169;Гранатовый редут;;;;;;;;;;;x
+PROV170;Тиверфел;;;;;;;;;;;x
+PROV171;Алберлин;;;;;;;;;;;x
+PROV172;Громтар;;;;;;;;;;;x
+PROV173;Изумрудный лес;;;;;;;;;;;x
+PROV174;Прочные склоны;;;;;;;;;;;x
+PROV175;Железный хребет;;;;;;;;;;;x
+PROV176;Ущелье Торвальда;;;;;;;;;;;x
+PROV177;Штормовое побережье;;;;;;;;;;;x
+PROV178;Громовая роща;;;;;;;;;;;x
+PROV179;Наветренные холмы;;;;;;;;;;;x
+PROV180;Коготь бури;;;;;;;;;;;x
+PROV181;Тихое нагорье;;;;;;;;;;;x
+PROV182;Дунвальд;;;;;;;;;;;x
+PROV183;Оловяный тигель;;;;;;;;;;;x
+PROV184;Дельта Вералл;;;;;;;;;;;x
+PROV185;Суровое побережье;;;;;;;;;;;x
+PROV186;Мыс Кулака;;;;;;;;;;;x
+PROV187;Дикая расселина;;;;;;;;;;;x
+PROV188;Наветренные склоны;;;;;;;;;;;x
+PROV189;Плоский берег;;;;;;;;;;;x
+PROV190;Зеленеющий лес;;;;;;;;;;;x
+PROV191;Сыпучие скалы;;;;;;;;;;;x
+PROV192;Лагерь Победителя;;;;;;;;;;;x
+PROV193;Обсидиановые холмы;;;;;;;;;;;x
+PROV194;Элементиевое ущелье;;;;;;;;;;;x
+PROV195;Мертвое нагорье;;;;;;;;;;;x
+PROV196;Низкие острова;;;;;;;;;;;x
+PROV197;Серебряные склоны;;;;;;;;;;;x
+PROV198;Гавань Менетилов;;;;;;;;;;;x
+PROV199;Дун Альгаз;;;;;;;;;;;x
+PROV200;Болото Мохошкуров;;;;;;;;;;;x
+PROV201;Возвышенный лес;;;;;;;;;;;x
+PROV202;Привал Крепкой Стамески;;;;;;;;;;;x
+PROV203;Дун Модр;;;;;;;;;;;x
+PROV204;Болотная равнина;;;;;;;;;;;x
+PROV205;Зловещий холм;;;;;;;;;;;x
+PROV206;Высокий холм;;;;;;;;;;;x
+PROV207;Восточное Половодье;;;;;;;;;;;x
+PROV208;Западное Половодье;;;;;;;;;;;x
+PROV209;Долина Солевого тумана;;;;;;;;;;;x
+PROV210;Северная дельта;;;;;;;;;;;x
+PROV211;Центральная дельта;;;;;;;;;;;x
+PROV212;Южная дельта;;;;;;;;;;;x
+PROV213;Скалистое ущелье;;;;;;;;;;;x
+PROV214;Высокая гряда;;;;;;;;;;;x
+PROV215;Высокая точка;;;;;;;;;;;x
+PROV216;Стромгард;;;;;;;;;;;x
 PROV217;South Highlands;;;;;;;;;;;x
 PROV218;Old Gully;;;;;;;;;;;x
 PROV219;Zolnanji;;;;;;;;;;;x
@@ -257,7 +257,7 @@ PROV256;Hiri'watha;;;;;;;;;;;x
 PROV257;Quel'danil;;;;;;;;;;;x
 PROV258;Shadra'alor;;;;;;;;;;;x
 PROV259;Sweet Ravine;;;;;;;;;;;x
-PROV260;Jintha'alor;;;;;;;;;;;x
+PROV260;Джинта'алор;;;;;;;;;;;x
 PROV261;Altar of Zul;;;;;;;;;;;x
 PROV262;Agol'watha;;;;;;;;;;;x
 PROV263;Skulk Rock;;;;;;;;;;;x
