@@ -308,97 +308,97 @@ PROV307;Агамонд;;;;;;;;;;;x
 PROV308;Похоронный Звон;;;;;;;;;;;x
 PROV309;Шепчущие сады;;;;;;;;;;;x
 PROV310;Кругопряд;;;;;;;;;;;x
-PROV311;Балнир;;;;;;;;;;;x
+PROV311;Бальнир;;;;;;;;;;;x
 PROV312;Бастион;;;;;;;;;;;x
 PROV313;Северное побережье;;;;;;;;;;;x
-PROV314;Mistfall;;;;;;;;;;;x
+PROV314;Туманный водопад;;;;;;;;;;;x
 PROV315;Андорал;;;;;;;;;;;x
-PROV316;Windswept;;;;;;;;;;;x
-PROV317;Cabinwood;;;;;;;;;;;x
-PROV318;Gahrron;;;;;;;;;;;x
-PROV319;Sorrow Hill;;;;;;;;;;;x
+PROV316;Дикий ветер;;;;;;;;;;;x
+PROV317;Деревянная хижина;;;;;;;;;;;x
+PROV318;Гаррон;;;;;;;;;;;x
+PROV319;Холм Печали;;;;;;;;;;;x
 PROV320;Каэр Дарроу;;;;;;;;;;;x
 PROV321;Дольный Очаг;;;;;;;;;;;x
 PROV322;Тракт Дольного Очага;;;;;;;;;;;x
-PROV323;Northridge;;;;;;;;;;;x
-PROV324;Stratholme;;;;;;;;;;;x
-PROV325;Darrowshire;;;;;;;;;;;x
-PROV326;High Thondroril;;;;;;;;;;;x
-PROV327;Lower Thondroril;;;;;;;;;;;x
-PROV328;Marris;;;;;;;;;;;x
-PROV329;Crownvale;;;;;;;;;;;x
-PROV330;Fir Valley;;;;;;;;;;;x
-PROV331;Blackwood;;;;;;;;;;;x
-PROV332;Corin's Crossing;;;;;;;;;;;x
-PROV333;Northdale;;;;;;;;;;;x
-PROV334;Northpass;;;;;;;;;;;x
-PROV335;Jin Yang;;;;;;;;;;;x
-PROV336;Tyr's Hand;;;;;;;;;;;x
-PROV337;Light's Hope;;;;;;;;;;;x
-PROV338;Old Glade;;;;;;;;;;;x
-PROV339;New Avalon;;;;;;;;;;;x
-PROV340;Havenshire;;;;;;;;;;;x
-PROV341;Hasic;;;;;;;;;;;x
-PROV342;Northwood;;;;;;;;;;;x
-PROV343;Brightdale;;;;;;;;;;;x
-PROV344;Silvermoon;;;;;;;;;;;x
-PROV345;Tranquillien;;;;;;;;;;;x
-PROV346;Goldenmist;;;;;;;;;;;x
-PROV347;An'daroth;;;;;;;;;;;x
-PROV348;Elrendar Crossing;;;;;;;;;;;x
-PROV349;Windrunner;;;;;;;;;;;x
+PROV323;Северный Кряж;;;;;;;;;;;x
+PROV324;Стратхольм;;;;;;;;;;;x
+PROV325;Дарроушир;;;;;;;;;;;x
+PROV326;Верхний Тондрорил;;;;;;;;;;;x
+PROV327;Нижний Тондрорил;;;;;;;;;;;x
+PROV328;Маррис;;;;;;;;;;;x
+PROV329;Долина короны;;;;;;;;;;;x
+PROV330;Еловая долина;;;;;;;;;;;x
+PROV331;Чернолесье;;;;;;;;;;;x
+PROV332;Перекресток Корина;;;;;;;;;;;x
+PROV333;Северный Дол;;;;;;;;;;;x
+PROV334;Северный перевал;;;;;;;;;;;x
+PROV335;Цзинь Ян;;;;;;;;;;;x
+PROV336;Длань Тира;;;;;;;;;;;x
+PROV337;Последняя Надежда;;;;;;;;;;;x
+PROV338;Старая поляна;;;;;;;;;;;x
+PROV339;Новый Авалон;;;;;;;;;;;x
+PROV340;Тихоземье;;;;;;;;;;;x
+PROV341;Хасик;;;;;;;;;;;x
+PROV342;Северный лес;;;;;;;;;;;x
+PROV343;Яркий дол;;;;;;;;;;;x
+PROV344;Луносвет;;;;;;;;;;;x
+PROV345;Траквиллион;;;;;;;;;;;x
+PROV346;Золотистая Дымка;;;;;;;;;;;x
+PROV347;Ан'дарот;;;;;;;;;;;x
+PROV348;Мост Элрендар;;;;;;;;;;;x
+PROV349;Шпили Ветрокрылых;;;;;;;;;;;x
 PROV350;Silverfury;;;;;;;;;;;x
-PROV351;Underlight;;;;;;;;;;;x
-PROV352;Ghost Forest;;;;;;;;;;;x
-PROV353;Rest Hollow;;;;;;;;;;;x
-PROV354;Thalassian Pass;;;;;;;;;;;x
-PROV355;Quel'lithien;;;;;;;;;;;x
-PROV356;Andilien Estate;;;;;;;;;;;x
-PROV357;Sanctum of the Sun;;;;;;;;;;;x
-PROV358;Farstrider Enclave;;;;;;;;;;;x
-PROV359;Hatchet Hills;;;;;;;;;;;x
-PROV360;Amani Pass;;;;;;;;;;;x
-PROV361;Akil'zon;;;;;;;;;;;x
-PROV362;Nalorakk;;;;;;;;;;;x
-PROV363;Jan'alai;;;;;;;;;;;x
-PROV364;Halazzi;;;;;;;;;;;x
-PROV365;Tor'watha;;;;;;;;;;;x
-PROV366;Elrendar Coast;;;;;;;;;;;x
-PROV367;Zeb'watha;;;;;;;;;;;x
-PROV368;East Sanctum;;;;;;;;;;;x
-PROV369;Runestone's Valley;;;;;;;;;;;x
-PROV370;Fairbreeze;;;;;;;;;;;x
-PROV371;Sunsail Anchorage;;;;;;;;;;;x
-PROV372;Goldenbough Pass;;;;;;;;;;;x
-PROV373;Tranquil Shore;;;;;;;;;;;x
-PROV374;Golden Strand;;;;;;;;;;;x
-PROV375;Falconwing Square;;;;;;;;;;;x
-PROV376;North Sanctum;;;;;;;;;;;x
-PROV377;Stillwhisper Pond;;;;;;;;;;;x
-PROV378;Duskwither Ravine;;;;;;;;;;;x
-PROV379;Dawning Lane;;;;;;;;;;;x
-PROV380;Sunstrider Isle;;;;;;;;;;;x
-PROV381;Falthrien;;;;;;;;;;;x
-PROV382;Tu Shen;;;;;;;;;;;x
-PROV383;Guo-Lai;;;;;;;;;;;x
-PROV384;Ancestral Rise;;;;;;;;;;;x
-PROV385;Winterbough;;;;;;;;;;;x
-PROV386;Setting Sun;;;;;;;;;;;x
-PROV387;Sunblossom;;;;;;;;;;;x
-PROV388;Endless Spring;;;;;;;;;;;x
-PROV389;Hundred Steps;;;;;;;;;;;x
-PROV390;Spring Road;;;;;;;;;;;x
-PROV391;Leg-Zaol;;;;;;;;;;;x
-PROV392;Xuen;;;;;;;;;;;x
-PROV393;Tiger Way;;;;;;;;;;;x
-PROV394;Sunwell Plateau;;;;;;;;;;;x
-PROV395;Sun's Reach;;;;;;;;;;;x
-PROV396;Dawnstar;;;;;;;;;;;x
-PROV397;Magisters' Terrace;;;;;;;;;;;x
-PROV398;Greengill;;;;;;;;;;;x
-PROV399;Sat'theas;;;;;;;;;;;x
-PROV400;Loch Verrall;;;;;;;;;;;x
-PROV401;The Loch;;;;;;;;;;;x
+PROV351;Беспросветные рудники;;;;;;;;;;;x
+PROV352;Призрачный лес;;;;;;;;;;;x
+PROV353;Тихая лощина;;;;;;;;;;;x
+PROV354;Талассийский перевал;;;;;;;;;;;x
+PROV355;Кель'Литиен;;;;;;;;;;;x
+PROV356;Поместье Андилиен;;;;;;;;;;;x
+PROV357;Святилище Солнца;;;;;;;;;;;x
+PROV358;Анклав Странников;;;;;;;;;;;x
+PROV359;Холмы Томагавков;;;;;;;;;;;x
+PROV360;Перевал Амани;;;;;;;;;;;x
+PROV361;Акил'зон;;;;;;;;;;;x
+PROV362;Налоракк;;;;;;;;;;;x
+PROV363;Джан'алай;;;;;;;;;;;x
+PROV364;Халаззи;;;;;;;;;;;x
+PROV365;Тор'Вата;;;;;;;;;;;x
+PROV366;Побережье Элрендар;;;;;;;;;;;x
+PROV367;Зеб'Вата;;;;;;;;;;;x
+PROV368;Восточное святилище;;;;;;;;;;;x
+PROV369;Долина рунного камня;;;;;;;;;;;x
+PROV370;Легкий Ветерок;;;;;;;;;;;x
+PROV371;Причал Солнечного Паруса;;;;;;;;;;;x
+PROV372;Тропа Золотой Ветви;;;;;;;;;;;x
+PROV373;Безмятежный берег;;;;;;;;;;;x
+PROV374;Золотистое взморье;;;;;;;;;;;x
+PROV375;Площадь Соколиных Крыльев;;;;;;;;;;;x
+PROV376;Северное святилище;;;;;;;;;;;x
+PROV377;Пруд Тихого Шелеста;;;;;;;;;;;x
+PROV378;Сумеречный овраг;;;;;;;;;;;x
+PROV379;Рассветная улица;;;;;;;;;;;x
+PROV380;Остров Солнечного Скитальца;;;;;;;;;;;x
+PROV381;Фалтриен;;;;;;;;;;;x
+PROV382;Ту-шэнь;;;;;;;;;;;x
+PROV383;Го-Лай;;;;;;;;;;;x
+PROV384;Плато Предков;;;;;;;;;;;x
+PROV385;Зимняя Ветвь;;;;;;;;;;;x
+PROV386;Заходящее Солнце;;;;;;;;;;;x
+PROV387;Летнее Цветение;;;;;;;;;;;x
+PROV388;Вечная Весна;;;;;;;;;;;x
+PROV389;Сотня ступеней;;;;;;;;;;;x
+PROV390;Весенняя тропа;;;;;;;;;;;x
+PROV391;Лег-Заол;;;;;;;;;;;x
+PROV392;Сюэнь;;;;;;;;;;;x
+PROV393;Тигриная тропа;;;;;;;;;;;x
+PROV394;Плато Солнечного Колодца;;;;;;;;;;;x
+PROV395;Солнечный Край;;;;;;;;;;;x
+PROV396;Утренняя Звезда;;;;;;;;;;;x
+PROV397;Терраса Магистров;;;;;;;;;;;x
+PROV398;Зеленые жабры;;;;;;;;;;;x
+PROV399;Сат'теас;;;;;;;;;;;x
+PROV400;Лок Вералл;;;;;;;;;;;x
+PROV401;Озеро;;;;;;;;;;;x
 PROV402;Река Тондрорил;;;;;;;;;;;x
 PROV403;Река Тондрорил;;;;;;;;;;;x
 PROV404;Река Тондрорил;;;;;;;;;;;x
