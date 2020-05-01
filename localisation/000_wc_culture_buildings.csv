@@ -104,87 +104,87 @@ ca_culture_gnoll_1;Хижины гноллов;;;;;;;;;;;;;x
 ca_culture_gnoll_2;Хижины гноллов;;;;;;;;;;;;;x
 ca_culture_gnoll_3;Хижины гноллов;;;;;;;;;;;;;x
 ca_culture_gnoll_4;Хижины гноллов;;;;;;;;;;;;;x
-ca_culture_gnoll_desc;Gnolls are primitive, violent brutes, viewing the entire world around them as a source of meat for their insatiable hunger. Reckless and undisciplined, they choose to overwhelm any opponents they encounter, using raw strength and superior numbers to make up for their lack of tactical ability. Though often nomadic, they have been known to build crude huts when finding a desirable resource to exploit, whether gold or food. ;;;;;;;;;;;;;x
+ca_culture_gnoll_desc;Гноллы - примитивные, жестокие существа, рассматривающие весь мир вокруг себя в качестве источника мяса для утоления своего ненасытного голода. Безрассудные и недисциплинированные, они давят противников числом, восполняя недостаток тактических познаний. В основном они видут кочевой образ жизни, но некоторые из них строят хижины около источников золота или пищи.;;;;;;;;;;;;;x
 ca_culture_ogre_1;Огрский курган;;;;;;;;;;;;;x
 ca_culture_ogre_2;Огрский курган;;;;;;;;;;;;;x
 ca_culture_ogre_3;Огрский курган;;;;;;;;;;;;;x
 ca_culture_ogre_4;Огрский курган;;;;;;;;;;;;;x
-ca_culture_ogre_desc;Among the largest of Azeroth's sapient races, ogres are extremely strong and durable, albeit often simple. Their stature and physical prowess makes them fearsome warriors, though some show an affinity towards earth magic or the arcane. The most magically gifted of ogres, the ogre magi, are born with two heads, making them far more intelligent than their single-headed brethren.;;;;;;;;;;;;;x
+ca_culture_ogre_desc;В сравнении с прочими разумными расами Азерота огры чрезвычайно сильны и долговечны, несмотря на недостаток ума. Их рост и физическая сила делают их грозными воинами. Среди них также есть и те, кто расположен к магии земли или тайной магии. Самые умные представители этого вида, огры-маги, рождаются с двумя головами, что делает их гораздо умнее сородичей с одной головой.;;;;;;;;;;;;;x
 ca_culture_magnataur_1;Логово магнатавров;;;;;;;;;;;;;x
 ca_culture_magnataur_2;Логово магнатавров;;;;;;;;;;;;;x
 ca_culture_magnataur_3;Логово магнатавров;;;;;;;;;;;;;x
 ca_culture_magnataur_4;Логово магнатавров;;;;;;;;;;;;;x
-ca_culture_magnataur_desc;Magnataurs are colossal, aggressive creatures, with the body and tusks of a wooly mammoth and the torsos of a giant. They seemingly hate everything around them, even each other, most living in solitude or only with frost kobold worshippers. However, particularly powerful magnataurs can bend others to their will, creating herds based around massive caves, ruling their minions with an iron fist.;;;;;;;;;;;;;x
+ca_culture_magnataur_desc;Магнатавры - колоссальные, агрессивные существа, с телом и бивнями шерстистого мамонта и туловищем великана. Весьма вероятно, что они испытывают к окружающим, включая представителей своей расы, жгучую ненависть. Большинство магнатавров предпочитают жить в уединении или же в обществе слуг - морозных кобольдов. Особенно сильные магнатавры могут подчинять прочих своей воле, создавая стада, проживающие в огромных пещерах.;;;;;;;;;;;;;x
 ca_culture_draenei_1;Пастбища элекков;;;;;;;;;;;;;x
 ca_culture_draenei_2;Пастбища элекков;;;;;;;;;;;;;x
 ca_culture_draenei_3;Пастбища элекков;;;;;;;;;;;;;x
 ca_culture_draenei_4;Пастбища элекков;;;;;;;;;;;;;x
-ca_culture_draenei_desc;Upon their arrival on Draenor, the draenei found herds of gentle, elephant-like creatures known as elekks. Succeeding in domesticating them, the draenei developed such a bond with the species that they brought elekks with them on their escape from Outland. Elekks are smart, loyal, large, patient, and able to cover long distances without tiring, making them ideal mounts, whether for general travel or to act as heavy cavalry.;;;;;;;;;;;;;x
+ca_culture_draenei_desc;Прибывшие на Дренор дренеи обнаружили стада изящных, похожих на слонов существ, известных как элекки. Успешно приручив их, дренеи установили с ними прочную связь. Они взяли элекков с собой во время побега из Запределья. Элекки умны, верны, терпеливы и способны преодолевать большие расстояния без утомления, что делает их идеальными скакунами для обычных поездок или тяжелой боевой конницы.;;;;;;;;;;;;;x
 ca_culture_murloc_1;Мурлокские тотемы стихий;;;;;;;;;;;;;x
 ca_culture_murloc_2;Мурлокские тотемы стихий;;;;;;;;;;;;;x
 ca_culture_murloc_3;Мурлокские тотемы стихий;;;;;;;;;;;;;x
 ca_culture_murloc_4;Мурлокские тотемы стихий;;;;;;;;;;;;;x
-ca_culture_murloc_desc;Though the magic of murlocs is relatively primitive to other shamanic cultures, murlockind shows a great aptitude and connection to water and earth elemental magics. The magic can be tame and fairly basic, but is terrifying in power when murloc casters come together in great numbers, supported by their fanatic, spear-swinging, followers.;;;;;;;;;;;;;x
+ca_culture_murloc_desc;Магические познания мурлоков довольно примитивны в сравнении с шаманскими традициями прочих рас, но, тем не менее мурлоки обладают сильной связью с духами стихий воды и земли. Их магия довольно примитивна, но обладает огромной силой, когда шаманы мурлоков собираются вместе, окруженные размахивающими копьями собратьями.;;;;;;;;;;;;;x
 ca_culture_highborne_1;Башня Высокорожденных;;;;;;;;;;;;;x
 ca_culture_highborne_2;Башня Высокорожденных;;;;;;;;;;;;;x
 ca_culture_highborne_3;Башня Высокорожденных;;;;;;;;;;;;;x
 ca_culture_highborne_4;Башня Высокорожденных;;;;;;;;;;;;;x
-ca_culture_highborne_desc;The highborne elves are a dying breed of descendants from Azshara's great empire from long ago. Even though it has been so long, the highborne still find themselves incredibly skilled with arcane magic and enchantments, so much so that highborne society finds everything and everyone infused and empowered by some article of magical enchantment. Near the center of it all is this enormous pinnacle built to better concentrate the ley energies, what powers highborne society, from the surrounding landscapes.;;;;;;;;;;;;;x
+ca_culture_highborne_desc;Высокорожденные эльфы - последние представители аристократии древней империи Азшары. Несмотря на прошедшие века, все представители расы высокорожденных по прежнему искусны в магии и чарах. Обычно в их городах находится огромная башня, концентрирующая энергию лей-линий, подпитывающих общество Высокорожденных.;;;;;;;;;;;;;x
 ca_culture_gnome_1;Ангар ветролетов;;;;;;;;;;;;;x
 ca_culture_gnome_2;Ангар ветролетов;;;;;;;;;;;;;x
 ca_culture_gnome_3;Ангар ветролетов;;;;;;;;;;;;;x
 ca_culture_gnome_4;Ангар ветролетов;;;;;;;;;;;;;x
-ca_culture_gnome_desc;A technology that would later become the dwarven gyrocopter, the gnomish flying machine was created to supplement gnomekind's great ingenuity and handiwork skills and make up for their lack of any sort of physical strength. Though lightweight and lightly armoured, these flying machines serve as fantastic surveying tools, and they excel in hit and run attacks.;;;;;;;;;;;;;x
+ca_culture_gnome_desc;Ветролеты были созданы для того, чтобы компенсировать отстутствие физической силы у гномов. Несмотря на кажущуюся легкобронированность, ветролеты являются превосходными машинами войны.;;;;;;;;;;;;;x
 ca_culture_hozen_1;Хозенский круг борьбы;;;;;;;;;;;;;x
 ca_culture_hozen_2;Хозенский круг борьбы;;;;;;;;;;;;;x
 ca_culture_hozen_3;Хозенский круг борьбы;;;;;;;;;;;;;x
 ca_culture_hozen_4;Хозенский круг борьбы;;;;;;;;;;;;;x
-ca_culture_hozen_desc;A deeply passionate race, the hozen must spar with soft gloves to keep from killing one another in the heat of even a false battle. Despite their infamous tempers, hozen are deceptively cunning fighters. When engaging in raids or the defense of their hunting grounds, the hozen are masters of guerrilla warfare, using the terrain to set up ambushes and traps before overwhelming their victims.;;;;;;;;;;;;;x
+ca_culture_hozen_desc;Пылкие хозены вынуждены сражаться в мягких рукавицах, чтобы не нанести своим сородичам вред даже во время дружеских поединков. Несмотря на их дурную славу, хозены - хитрые бойцы. Проводя набеги или защищая свои охотничьи владения, они ведут умелую партизанскую войну, используя местность при создании засад и ловушек, прежде чем лицом к лицу столкнуться со своими жертвами.;;;;;;;;;;;;;x
 ca_culture_aqir_1;Курганы акиров;;;;;;;;;;;;;x
 ca_culture_aqir_2;Курганы акиров;;;;;;;;;;;;;x
 ca_culture_aqir_3;Курганы акиров;;;;;;;;;;;;;x
 ca_culture_aqir_4;Курганы акиров;;;;;;;;;;;;;x
-ca_culture_aqir_desc;Creations of the Old Gods, the spiteful and evil Aqir were driven deep underground by the titan-forged centuries ago. There they found bones, metals and gems inaccessible by surface dwellers, managing to create weapons and trinkets that are among the strongest in the world before a disastrous war with the trolls caused them to splinter into multiple civilizations. Regardless of their form, they pose a dangerous threat to all life around them, gathering strength in deep, elaborate caverns, waiting for the right time to strike above ground.;;;;;;;;;;;;;x
+ca_culture_aqir_desc;Творения Древних Богов, злобные и коварные акиры были загнаны глубоко под землю кованными титанами столетия назад. Там они обнаружили кости, металлы и драгоценные камни, недоступные обитателям поверхности, и сумели создать из них оружия и артефакты, которые обладали колоссальной мощью до того, как война с троллями привела к распаду на множество цивилизаций. Вне зависимости от их вида, они представляют серъезную угрозу для обитателей поверхности, собирая войска в подземных пещерах в ожидании подходящего момента для удара из-под земли.;;;;;;;;;;;;;x
 ca_culture_kobold_1;Шахты кобольдов;;;;;;;;;;;;;x
 ca_culture_kobold_2;Шахты кобольдов;;;;;;;;;;;;;x
 ca_culture_kobold_3;Шахты кобольдов;;;;;;;;;;;;;x
 ca_culture_kobold_4;Шахты кобольдов;;;;;;;;;;;;;x
-ca_culture_kobold_desc;Cowardly, dim, and weak, the rat-like kobolds stay in their mines away from civilization, digging for minerals to trade with harpies or goblins. Despite their desire to stay underground, they see very poorly in the dark, causing them to wear candles atop their heads. This need has caused them to develop a cultural attachment to their candles, with some tribes offering leadership to whoever's candle stands the tallest.;;;;;;;;;;;;;x
+ca_culture_kobold_desc;Трусливые и слабые крысоподобные кобольды обитают в своих шахтах вдали от цивилизации, занимаясь добычей полезных ископаемых, которыми они потом торгуют с гарпиями или гоблинами. Несмотря на то, что они живут под землей, они плохо видят в темноте. По этой причине они носят на своих головах свечи. Эта необходимая мера привела к тому, что они стали поклоняться своим свечам, при этом в некоторых племенах вождями становились те, чьи свечи были самыми высокими.;;;;;;;;;;;;;x
 ca_culture_furbolg_1;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
 ca_culture_furbolg_2;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
 ca_culture_furbolg_3;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
 ca_culture_furbolg_4;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
-ca_culture_furbolg_desc;The furbolg find themselves to be descendants of the wild god ancients Ursoc and Ursol. For some furbolgs however, reverence is not enough, and they choose to embody the might and ferocity of their gods, growing large and feral as they infuse themselves with the ancients' power. These are known as ursa totemics, and other furbolgs hold them in nearly as high regard as their shamans, recognizing their role in protecting and hunting for their tribes.;;;;;;;;;;;;;x
+ca_culture_furbolg_desc;Фурболги - потомки древних Диких Богов Урсока и Урсола. Некоторые фурболги не ограничиваются почитанием богов, они решили воплотить мощь и свирепость своих богов, становясь огромными и свирепыми, принимая в себя силу Древних. Они становятся известными как Тотемисты, пользуясь уважением у членов племени, которые признают их значимость в защите племени.;;;;;;;;;;;;;x
 ca_culture_demonic_1;Кузница мо'арг;;;;;;;;;;;;;x
 ca_culture_demonic_2;Кузница мо'арг;;;;;;;;;;;;;x
 ca_culture_demonic_3;Кузница мо'арг;;;;;;;;;;;;;x
 ca_culture_demonic_4;Кузница мо'арг;;;;;;;;;;;;;x
-ca_culture_demonic_desc;The mo'arg represent one of the more versatile member races of the Legion, providing both brute strength and technical brilliance. The mo'arg brutes, the largest among them, choose to augment their hulking bodies with mechanical parts, while the smaller, stunted gan'arg, build and man demonic artillery and arms.;;;;;;;;;;;;;x
+ca_culture_demonic_desc;Мо'арги - универсальная раса демонов Легиона, которая сочетает в себе грубую силу и изобретательность. Мо'арги-громилы, крупнейшие представители этой расы, предпочитают заменять части своих огромных тел механическими частями, а ахи меньшие собратья ган'арги строят демонические пушки, и управляют ими на поле боя.;;;;;;;;;;;;;x
 ca_culture_high_elf_1;Приют Странников;;;;;;;;;;;;;x
 ca_culture_high_elf_2;Приют Странников;;;;;;;;;;;;;x
 ca_culture_high_elf_3;Приют Странников;;;;;;;;;;;;;x
 ca_culture_high_elf_4;Приют Странников;;;;;;;;;;;;;x
-ca_culture_high_elf_desc;The Farstriders are an elite organization of elvish archers and among the very best with a bow that Azeroth has to offer. With a tradition that dates back to the Troll Wars, they devote themselves to eradicating evil both in their homelands and elsewhere and uphold honour and the law with a righteous fervour. Despite their respect for the law, they operate separate from the military, using their independence to further their ideals with minimal political interference.;;;;;;;;;;;;;x
+ca_culture_high_elf_desc;Странники - элитное подразделение эльфийских лучников, вооруженных лучшими луками, которые можно найти на Азероте. Начало их истории восходит к Тролльским войнам. Они посвятили себя искоренению зла как на своей родине, так и за ее пределами, отстаивая честь и закон. Несмотря на свое уважение к закону, Странники действуют отдельно от солдат, используя свою незавимость для отстаивания своих идеалов без вмешательства в политику.;;;;;;;;;;;;;x
 ca_culture_centaur_1;Лагерь кентавров;;;;;;;;;;;;;x
 ca_culture_centaur_2;Лагерь кентавров;;;;;;;;;;;;;x
 ca_culture_centaur_3;Лагерь кентавров;;;;;;;;;;;;;x
 ca_culture_centaur_4;Лагерь кентавров;;;;;;;;;;;;;x
-ca_culture_centaur_desc;Brutal and barbaric, the centaurs are a relatively young but powerful species. The children of Zaetar, son of Cenarius, and Theradras, an earth elemental princess, centaurs are half-horse and half-human with the body of rather ugly humans above the torso and the body of a draft horse below it. Their culture is almost entirely war-driven, whether they are fighting with other centaur bands or the various races unlucky enough to settle near them.;;;;;;;;;;;;;x
+ca_culture_centaur_desc;Жестокие кентавры - относительно молодая, но могучая раса. Кентавры - потомки Зейтара, сына Кенария, и принцессы Терадрас. Их культура почти полностью основана на войне, вне зависимости от того, воюют ли они с другими племенами кентавров или другими расами, которым не повезло поселиться рядом с ними.;;;;;;;;;;;;;x
 ca_culture_goblin_1;Гараж крошшеров;;;;;;;;;;;;;x
 ca_culture_goblin_2;Гараж крошшеров;;;;;;;;;;;;;x
 ca_culture_goblin_3;Гараж крошшеров;;;;;;;;;;;;;x
 ca_culture_goblin_4;Гараж крошшеров;;;;;;;;;;;;;x
-ca_culture_goblin_desc;When it comes to the use of mechanical know-how to mete out reckless yet efficient destruction, the goblins are second to none. This even applies to their lumber harvesting techniques, where they skip axes in favor of Shredders, large mechanical suits of armor equipped with buzzsaws and pincers for hands. Needless to say, a walking suit of armor with a buzzsaw for a hand has its military uses as well.;;;;;;;;;;;;;x
+ca_culture_goblin_desc;Гоблины не имеют себе равных, когда дело касается взрывов и разрушений. Механические доспехи, оснащенные пилами и клещами, также применяются в лесозаготовке. Излишне говорить, что эти механические монстры с циркулярной пилой вместо рук имеют и военное применение.;;;;;;;;;;;;;x
 ca_culture_ancient_1;Роща Гнева природы;;;;;;;;;;;;;x
 ca_culture_ancient_2;Роща Гнева природы;;;;;;;;;;;;;x
 ca_culture_ancient_3;Роща Гнева природы;;;;;;;;;;;;;x
 ca_culture_ancient_4;Роща Гнева природы;;;;;;;;;;;;;x
-ca_culture_ancient_desc;Ancients are the embodiment of nature and are among the very first of Azeroth's sentient creatures. Those that embody the inherent brutal, forceful side of nature are known as Ancients of War, drawing their strength from the energies and memories of conflicts long forgotten. While they aren't afraid to fight themselves, they have also been known to train night elves and others willing in the art of combat.;;;;;;;;;;;;;x
+ca_culture_ancient_desc;Древние являются воплощениями природы и одними из первых живых существ Азерота. Те из них, кто воплощает в себе жестокую силу природы, известны как Древа Войны, которые черпают свою силу из воспоминаний о давно забытых войнах. Несмотря на то, что они и сами не чураются участия в войнах, они обучают ночных эльфов и представителей прочих рас, которые хотят постичь искусство войны.;;;;;;;;;;;;;x
 ca_culture_dragon_1;Драконий насест;;;;;;;;;;;;;x
 ca_culture_dragon_2;Драконий насест;;;;;;;;;;;;;x
 ca_culture_dragon_3;Драконий насест;;;;;;;;;;;;;x
 ca_culture_dragon_4;Драконий насест;;;;;;;;;;;;;x
-ca_culture_dragon_desc;Драконы были избраны Титанами для управления миром. Они разделены на несколько стай, каждый из которых имеет разный окрас и следит за разными аспектами творения Титанов. Их размер, полет и ум, находящийся за гранью понимания смертных может переломить ход любой битвы.;;;;;;;;;;;;;x
+ca_culture_dragon_desc;Драконы были избраны Титанами для наблюдения за миром. Они разделены на несколько стай, каждая из которых имеет свой окрас и следит за разными аспектами творения Титанов. Их размер и ум, находящийся за гранью понимания смертных, могут переломить ход любой битвы.;;;;;;;;;;;;;x
 ca_culture_wildhammer_1;Гнезда грифонов;;;;;;;;;;;;;x
 ca_culture_wildhammer_2;Гнезда грифонов;;;;;;;;;;;;;x
 ca_culture_wildhammer_3;Гнезда грифонов;;;;;;;;;;;;;x
