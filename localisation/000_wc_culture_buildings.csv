@@ -59,154 +59,154 @@ ca_culture_satyr_1;Обитель Призывателей огня;;;;;;;;;;;;;x
 ca_culture_satyr_2;Обитель Призывателей огня;;;;;;;;;;;;;x
 ca_culture_satyr_3;Обитель Призывателей огня;;;;;;;;;;;;;x
 ca_culture_satyr_4;Обитель Призывателей огня;;;;;;;;;;;;;x
-ca_culture_satyr_desc;Descended from the highborne elves of old, the satyr are very magically inclined as a people, though cursed by Xavius and his dark affliction. As a result of this, satyrs find themselves to be particularly talented in shadow and corrupting magic, regardless of who they claim allegience to.;;;;;;;;;;;;;x
-ca_culture_quilboar_1;Grounds of Agamaggan;;;;;;;;;;;;;x
-ca_culture_quilboar_2;Grounds of Agamaggan;;;;;;;;;;;;;x
-ca_culture_quilboar_3;Grounds of Agamaggan;;;;;;;;;;;;;x
-ca_culture_quilboar_4;Grounds of Agamaggan;;;;;;;;;;;;;x
-ca_culture_quilboar_desc;Though the majority of quilboar society is dominated by shamanism and geomancy, powerful and brave warriors are still very much prized among all communities. Several train here in the inspiration that follows from being descendents of Agamaggan.;;;;;;;;;;;;;x
-ca_culture_pygmy_1;Pygmy Billets;;;;;;;;;;;;;x
-ca_culture_pygmy_2;Pygmy Billets;;;;;;;;;;;;;x
-ca_culture_pygmy_3;Pygmy Billets;;;;;;;;;;;;;x
-ca_culture_pygmy_4;Pygmy Billets;;;;;;;;;;;;;x
-ca_culture_pygmy_desc;Hardened by the deserts and primitive jungles of Azeroth, pygmies are small savage humanoids with little reason. Though tiny compared to other races, their warriors are brutal and quick, creating a deadly force able to defend any threatened tribe.;;;;;;;;;;;;;x
-ca_culture_orc_1;Wolf Beastiary;;;;;;;;;;;;;x
-ca_culture_orc_2;Wolf Beastiary;;;;;;;;;;;;;x
-ca_culture_orc_3;Wolf Beastiary;;;;;;;;;;;;;x
-ca_culture_orc_4;Wolf Beastiary;;;;;;;;;;;;;x
-ca_culture_orc_desc;From beyond the Dark Portal, the orcs befriended and tamed the wolves of Draenor. With duties such as scouting and companionship, these large and swift canines were chosen as the orcs' favorite method of transportation that so well happened to be suited for war. Later when the orcs became more belligerent, these wolves were bred specifically for size and stamina so they could bear armoured riders into battle. The ferocity of the wolf and its rider shows in battle, leaving most soldiers trembling in fear.;;;;;;;;;;;;;x
-ca_culture_dark_iron_1;Golem Manufactory;;;;;;;;;;;;;x
-ca_culture_dark_iron_2;Golem Manufactory;;;;;;;;;;;;;x
-ca_culture_dark_iron_3;Golem Manufactory;;;;;;;;;;;;;x
-ca_culture_dark_iron_4;Golem Manufactory;;;;;;;;;;;;;x
-ca_culture_dark_iron_desc;Powerful machines of war, the war golems manufactured by the dark iron dwarves are truly a beguiling wonder to behold. Powered in part by fuel and magic, these golems can tear through enemy defenses, bulldoze entire hovels, and instill terror with the pounding of their metallic feet.;;;;;;;;;;;;;x
-ca_culture_night_elf_1;Sentinel Stronghold;;;;;;;;;;;;;x
-ca_culture_night_elf_2;Sentinel Stronghold;;;;;;;;;;;;;x
-ca_culture_night_elf_3;Sentinel Stronghold;;;;;;;;;;;;;x
-ca_culture_night_elf_4;Sentinel Stronghold;;;;;;;;;;;;;x
-ca_culture_night_elf_desc;Many night elves learn to use weapons before they can walk, or so it is said, but their natural talent in archery is almost unrivaled. The Sentinel Army's archers are excellent hunters, but during wartime they become critical support troops, firing upon their enemies to give their allies a chance to regroup and counterattack. They are renowned for their ambush ability and skills in guerrilla warfare gained by training in the forests of Kalimdor. They maximize their ability by using speed, terrain and dark-vision to their full advantage. "One shot, one kill.";;;;;;;;;;;;;x
-ca_culture_human_1;Knightly Stables;;;;;;;;;;;;;x
-ca_culture_human_2;Knightly Stables;;;;;;;;;;;;;x
-ca_culture_human_3;Knightly Stables;;;;;;;;;;;;;x
-ca_culture_human_4;Knightly Stables;;;;;;;;;;;;;x
-ca_culture_human_desc;Knights are traditionally powerful, horse-mounted warriors based in the human kingdoms. Knighthood among humankind has became an incredible symbol of honour and respect. These mounted warriors wield weapons of their choice, but are most often found with lance or sword.;;;;;;;;;;;;;x
-ca_culture_naga_1;Myrmidon Encampment;;;;;;;;;;;;;x
-ca_culture_naga_2;Myrmidon Encampment;;;;;;;;;;;;;x
-ca_culture_naga_3;Myrmidon Encampment;;;;;;;;;;;;;x
-ca_culture_naga_4;Myrmidon Encampment;;;;;;;;;;;;;x
+ca_culture_satyr_desc;Происходя от высокорожденных эльфов древности, сатиры - народ, склонный к магии, хотя и несущий на себе проклятие Ксавия и его темного недуга. В результате всего этого сатиры особенно умелы в магии теней и порчи, вне завимости от того, кому они верны.;;;;;;;;;;;;;x
+ca_culture_quilboar_1;Поля Агамаггана;;;;;;;;;;;;;x
+ca_culture_quilboar_2;Поля Агамаггана;;;;;;;;;;;;;x
+ca_culture_quilboar_3;Поля Агамаггана;;;;;;;;;;;;;x
+ca_culture_quilboar_4;Поля Агамаггана;;;;;;;;;;;;;x
+ca_culture_quilboar_desc;Хотя большинство представителей народа свинобразов предпочитают шаманизм и геомантию, среди них по-прежнему ценят могучие и смелые воины. Потомки Агамаггана тренируются в этом месте, почитая своего предка.;;;;;;;;;;;;;x
+ca_culture_pygmy_1;Казармы пигмеев;;;;;;;;;;;;;x
+ca_culture_pygmy_2;Казармы пигмеев;;;;;;;;;;;;;x
+ca_culture_pygmy_3;Казармы пигмеев;;;;;;;;;;;;;x
+ca_culture_pygmy_4;Казармы пигмеев;;;;;;;;;;;;;x
+ca_culture_pygmy_desc;Закаленные пустынями и первобытными джунглями Азерота, пигмеи - гуманоидная раса с маленьким ростом. Хотя они крошечны в сравнении с другими расами, их воины яростно обороняют свое племя в час нужды.;;;;;;;;;;;;;x
+ca_culture_orc_1;Стойла для волков;;;;;;;;;;;;;x
+ca_culture_orc_2;Стойла для волков;;;;;;;;;;;;;x
+ca_culture_orc_3;Стойла для волков;;;;;;;;;;;;;x
+ca_culture_orc_4;Стойла для волков;;;;;;;;;;;;;x
+ca_culture_orc_desc;Еще до Темного Портала орки подружились и приручили себе волков Дренора. Волки прекрасно подходили на роль скакунов, учитывая их скорость и острые клыки. Позже, когда орки стали воинственнее, этих волков стали специально выводить большими и выносливыми, чтобы они могли нести на себе бронированных наездников в бой. Свирепость волка и его всадника заставляет вражеских солдат дрожать от страха.;;;;;;;;;;;;;x
+ca_culture_dark_iron_1;Фабрика големов;;;;;;;;;;;;;x
+ca_culture_dark_iron_2;Фабрика големов;;;;;;;;;;;;;x
+ca_culture_dark_iron_3;Фабрика големов;;;;;;;;;;;;;x
+ca_culture_dark_iron_4;Фабрика големов;;;;;;;;;;;;;x
+ca_culture_dark_iron_desc;Могучие военные машины, големы войны, выкованные дворфами Темного Железа - чудо инженерной мысли. Приводимые в движение топливом и магией, эти големы с легкостью прорывают оборону противника, уничтожая их хижины и вселяя страх поступью своих металлических ног.;;;;;;;;;;;;;x
+ca_culture_night_elf_1;Оплот Часовых;;;;;;;;;;;;;x
+ca_culture_night_elf_2;Оплот Часовых;;;;;;;;;;;;;x
+ca_culture_night_elf_3;Оплот Часовых;;;;;;;;;;;;;x
+ca_culture_night_elf_4;Оплот Часовых;;;;;;;;;;;;;x
+ca_culture_night_elf_desc;Ходят слухи, что ночные эльфы учатся владеть оружием прежде, чем начать ходить, но их природный талант к стрельбе из лука практически не имеет себе равных. Лучники войска Часовых являются превосходными охотниками, но в час нужды они становятся важнейшими союзниками, начав обстрел вражеских рядов, чтобы дать своим соратникам шанс перегруппироваться и начать контратаку. Они славятся своим умением организации засад и навыками ведения партизанской войны, приобретенными благодаря усердным тренировкам в лесах Калимдора. Они оттачивают свои способности, используя скорость, местность и ночное зрение в полной мере. "Один выстрел - один труп.";;;;;;;;;;;;;x
+ca_culture_human_1;Рыцарские конюшни;;;;;;;;;;;;;x
+ca_culture_human_2;Рыцарские конюшни;;;;;;;;;;;;;x
+ca_culture_human_3;Рыцарские конюшни;;;;;;;;;;;;;x
+ca_culture_human_4;Рыцарские конюшни;;;;;;;;;;;;;x
+ca_culture_human_desc;Рыцари - могущественные конные воины армий человеческих королевств. Среди людей рыцари считаются воплощениями чести и уважения. Эти конные воины владеют оружием разного вида, но чаще всего используют копье или меч.;;;;;;;;;;;;;x
+ca_culture_naga_1;Лагерь мирмидонов;;;;;;;;;;;;;x
+ca_culture_naga_2;Лагерь мирмидонов;;;;;;;;;;;;;x
+ca_culture_naga_3;Лагерь мирмидонов;;;;;;;;;;;;;x
+ca_culture_naga_4;Лагерь мирмидонов;;;;;;;;;;;;;x
 ca_culture_naga_desc;The Royal Guard are elite naga warriors sworn to protect the very most important of individuals in naga society. Mostly naga males get to serve in this special force, and they are among the most physically and magically talented amongst their brethren. Due to their physical strength and magical prowess, they have the capability to turn the tides of the battle, lunging trident-first into the lines of combatants.;;;;;;;;;;;;;x
-ca_culture_harpy_1;Harpy Hatchery;;;;;;;;;;;;;x
-ca_culture_harpy_2;Harpy Hatchery;;;;;;;;;;;;;x
-ca_culture_harpy_3;Harpy Hatchery;;;;;;;;;;;;;x
-ca_culture_harpy_4;Harpy Hatchery;;;;;;;;;;;;;x
+ca_culture_harpy_1;Инкубатор гарпий;;;;;;;;;;;;;x
+ca_culture_harpy_2;Инкубатор гарпий;;;;;;;;;;;;;x
+ca_culture_harpy_3;Инкубатор гарпий;;;;;;;;;;;;;x
+ca_culture_harpy_4;Инкубатор гарпий;;;;;;;;;;;;;x
 ca_culture_harpy_desc;Descendants of the Ancient Aviana, harpies are wicked bird-women that turned to darkness after her death. Wild and cruel, yet intelligent and resilient, they can thrive in any environment. With wings, sharp talons, and dark magic, they savage any that dare to trespass into their territory, killing or dragging anyone they attack to their nests to be eaten, or worse.;;;;;;;;;;;;;x
-ca_culture_gnoll_1;Gnoll Hut;;;;;;;;;;;;;x
-ca_culture_gnoll_2;Gnoll Hut;;;;;;;;;;;;;x
-ca_culture_gnoll_3;Gnoll Hut;;;;;;;;;;;;;x
-ca_culture_gnoll_4;Gnoll Hut;;;;;;;;;;;;;x
+ca_culture_gnoll_1;Хижины гноллов;;;;;;;;;;;;;x
+ca_culture_gnoll_2;Хижины гноллов;;;;;;;;;;;;;x
+ca_culture_gnoll_3;Хижины гноллов;;;;;;;;;;;;;x
+ca_culture_gnoll_4;Хижины гноллов;;;;;;;;;;;;;x
 ca_culture_gnoll_desc;Gnolls are primitive, violent brutes, viewing the entire world around them as a source of meat for their insatiable hunger. Reckless and undisciplined, they choose to overwhelm any opponents they encounter, using raw strength and superior numbers to make up for their lack of tactical ability. Though often nomadic, they have been known to build crude huts when finding a desirable resource to exploit, whether gold or food. ;;;;;;;;;;;;;x
-ca_culture_ogre_1;Ogre Mound;;;;;;;;;;;;;x
-ca_culture_ogre_2;Ogre Mound;;;;;;;;;;;;;x
-ca_culture_ogre_3;Ogre Mound;;;;;;;;;;;;;x
-ca_culture_ogre_4;Ogre Mound;;;;;;;;;;;;;x
+ca_culture_ogre_1;Огрский курган;;;;;;;;;;;;;x
+ca_culture_ogre_2;Огрский курган;;;;;;;;;;;;;x
+ca_culture_ogre_3;Огрский курган;;;;;;;;;;;;;x
+ca_culture_ogre_4;Огрский курган;;;;;;;;;;;;;x
 ca_culture_ogre_desc;Among the largest of Azeroth's sapient races, ogres are extremely strong and durable, albeit often simple. Their stature and physical prowess makes them fearsome warriors, though some show an affinity towards earth magic or the arcane. The most magically gifted of ogres, the ogre magi, are born with two heads, making them far more intelligent than their single-headed brethren.;;;;;;;;;;;;;x
-ca_culture_magnataur_1;Magnataur Den;;;;;;;;;;;;;x
-ca_culture_magnataur_2;Magnataur Den;;;;;;;;;;;;;x
-ca_culture_magnataur_3;Magnataur Den;;;;;;;;;;;;;x
-ca_culture_magnataur_4;Magnataur Den;;;;;;;;;;;;;x
+ca_culture_magnataur_1;Логово магнатавров;;;;;;;;;;;;;x
+ca_culture_magnataur_2;Логово магнатавров;;;;;;;;;;;;;x
+ca_culture_magnataur_3;Логово магнатавров;;;;;;;;;;;;;x
+ca_culture_magnataur_4;Логово магнатавров;;;;;;;;;;;;;x
 ca_culture_magnataur_desc;Magnataurs are colossal, aggressive creatures, with the body and tusks of a wooly mammoth and the torsos of a giant. They seemingly hate everything around them, even each other, most living in solitude or only with frost kobold worshippers. However, particularly powerful magnataurs can bend others to their will, creating herds based around massive caves, ruling their minions with an iron fist.;;;;;;;;;;;;;x
-ca_culture_draenei_1;Elekk Pasture;;;;;;;;;;;;;x
-ca_culture_draenei_2;Elekk Pasture;;;;;;;;;;;;;x
-ca_culture_draenei_3;Elekk Pasture;;;;;;;;;;;;;x
-ca_culture_draenei_4;Elekk Pasture;;;;;;;;;;;;;x
+ca_culture_draenei_1;Пастбища элекков;;;;;;;;;;;;;x
+ca_culture_draenei_2;Пастбища элекков;;;;;;;;;;;;;x
+ca_culture_draenei_3;Пастбища элекков;;;;;;;;;;;;;x
+ca_culture_draenei_4;Пастбища элекков;;;;;;;;;;;;;x
 ca_culture_draenei_desc;Upon their arrival on Draenor, the draenei found herds of gentle, elephant-like creatures known as elekks. Succeeding in domesticating them, the draenei developed such a bond with the species that they brought elekks with them on their escape from Outland. Elekks are smart, loyal, large, patient, and able to cover long distances without tiring, making them ideal mounts, whether for general travel or to act as heavy cavalry.;;;;;;;;;;;;;x
-ca_culture_murloc_1;Murloc Elemental Totems;;;;;;;;;;;;;x
-ca_culture_murloc_2;Murloc Elemental Totems;;;;;;;;;;;;;x
-ca_culture_murloc_3;Murloc Elemental Totems;;;;;;;;;;;;;x
-ca_culture_murloc_4;Murloc Elemental Totems;;;;;;;;;;;;;x
+ca_culture_murloc_1;Мурлокские тотемы стихий;;;;;;;;;;;;;x
+ca_culture_murloc_2;Мурлокские тотемы стихий;;;;;;;;;;;;;x
+ca_culture_murloc_3;Мурлокские тотемы стихий;;;;;;;;;;;;;x
+ca_culture_murloc_4;Мурлокские тотемы стихий;;;;;;;;;;;;;x
 ca_culture_murloc_desc;Though the magic of murlocs is relatively primitive to other shamanic cultures, murlockind shows a great aptitude and connection to water and earth elemental magics. The magic can be tame and fairly basic, but is terrifying in power when murloc casters come together in great numbers, supported by their fanatic, spear-swinging, followers.;;;;;;;;;;;;;x
-ca_culture_highborne_1;Highborne Pinnacle;;;;;;;;;;;;;x
-ca_culture_highborne_2;Highborne Pinnacle;;;;;;;;;;;;;x
-ca_culture_highborne_3;Highborne Pinnacle;;;;;;;;;;;;;x
-ca_culture_highborne_4;Highborne Pinnacle;;;;;;;;;;;;;x
+ca_culture_highborne_1;Башня Высокорожденных;;;;;;;;;;;;;x
+ca_culture_highborne_2;Башня Высокорожденных;;;;;;;;;;;;;x
+ca_culture_highborne_3;Башня Высокорожденных;;;;;;;;;;;;;x
+ca_culture_highborne_4;Башня Высокорожденных;;;;;;;;;;;;;x
 ca_culture_highborne_desc;The highborne elves are a dying breed of descendants from Azshara's great empire from long ago. Even though it has been so long, the highborne still find themselves incredibly skilled with arcane magic and enchantments, so much so that highborne society finds everything and everyone infused and empowered by some article of magical enchantment. Near the center of it all is this enormous pinnacle built to better concentrate the ley energies, what powers highborne society, from the surrounding landscapes.;;;;;;;;;;;;;x
-ca_culture_gnome_1;Flying Machine Hangar;;;;;;;;;;;;;x
-ca_culture_gnome_2;Flying Machine Hangar;;;;;;;;;;;;;x
-ca_culture_gnome_3;Flying Machine Hangar;;;;;;;;;;;;;x
-ca_culture_gnome_4;Flying Machine Hangar;;;;;;;;;;;;;x
+ca_culture_gnome_1;Ангар ветролетов;;;;;;;;;;;;;x
+ca_culture_gnome_2;Ангар ветролетов;;;;;;;;;;;;;x
+ca_culture_gnome_3;Ангар ветролетов;;;;;;;;;;;;;x
+ca_culture_gnome_4;Ангар ветролетов;;;;;;;;;;;;;x
 ca_culture_gnome_desc;A technology that would later become the dwarven gyrocopter, the gnomish flying machine was created to supplement gnomekind's great ingenuity and handiwork skills and make up for their lack of any sort of physical strength. Though lightweight and lightly armoured, these flying machines serve as fantastic surveying tools, and they excel in hit and run attacks.;;;;;;;;;;;;;x
-ca_culture_hozen_1;Hozen Sparring Circle;;;;;;;;;;;;;x
-ca_culture_hozen_2;Hozen Sparring Circle;;;;;;;;;;;;;x
-ca_culture_hozen_3;Hozen Sparring Circle;;;;;;;;;;;;;x
-ca_culture_hozen_4;Hozen Sparring Circle;;;;;;;;;;;;;x
+ca_culture_hozen_1;Хозенский круг борьбы;;;;;;;;;;;;;x
+ca_culture_hozen_2;Хозенский круг борьбы;;;;;;;;;;;;;x
+ca_culture_hozen_3;Хозенский круг борьбы;;;;;;;;;;;;;x
+ca_culture_hozen_4;Хозенский круг борьбы;;;;;;;;;;;;;x
 ca_culture_hozen_desc;A deeply passionate race, the hozen must spar with soft gloves to keep from killing one another in the heat of even a false battle. Despite their infamous tempers, hozen are deceptively cunning fighters. When engaging in raids or the defense of their hunting grounds, the hozen are masters of guerrilla warfare, using the terrain to set up ambushes and traps before overwhelming their victims.;;;;;;;;;;;;;x
-ca_culture_aqir_1;Aqiri Barrows;;;;;;;;;;;;;x
-ca_culture_aqir_2;Aqiri Barrows;;;;;;;;;;;;;x
-ca_culture_aqir_3;Aqiri Barrows;;;;;;;;;;;;;x
-ca_culture_aqir_4;Aqiri Barrows;;;;;;;;;;;;;x
+ca_culture_aqir_1;Курганы акиров;;;;;;;;;;;;;x
+ca_culture_aqir_2;Курганы акиров;;;;;;;;;;;;;x
+ca_culture_aqir_3;Курганы акиров;;;;;;;;;;;;;x
+ca_culture_aqir_4;Курганы акиров;;;;;;;;;;;;;x
 ca_culture_aqir_desc;Creations of the Old Gods, the spiteful and evil Aqir were driven deep underground by the titan-forged centuries ago. There they found bones, metals and gems inaccessible by surface dwellers, managing to create weapons and trinkets that are among the strongest in the world before a disastrous war with the trolls caused them to splinter into multiple civilizations. Regardless of their form, they pose a dangerous threat to all life around them, gathering strength in deep, elaborate caverns, waiting for the right time to strike above ground.;;;;;;;;;;;;;x
-ca_culture_kobold_1;Kobold Mine;;;;;;;;;;;;;x
-ca_culture_kobold_2;Kobold Mine;;;;;;;;;;;;;x
-ca_culture_kobold_3;Kobold Mine;;;;;;;;;;;;;x
-ca_culture_kobold_4;Kobold Mine;;;;;;;;;;;;;x
+ca_culture_kobold_1;Шахты кобольдов;;;;;;;;;;;;;x
+ca_culture_kobold_2;Шахты кобольдов;;;;;;;;;;;;;x
+ca_culture_kobold_3;Шахты кобольдов;;;;;;;;;;;;;x
+ca_culture_kobold_4;Шахты кобольдов;;;;;;;;;;;;;x
 ca_culture_kobold_desc;Cowardly, dim, and weak, the rat-like kobolds stay in their mines away from civilization, digging for minerals to trade with harpies or goblins. Despite their desire to stay underground, they see very poorly in the dark, causing them to wear candles atop their heads. This need has caused them to develop a cultural attachment to their candles, with some tribes offering leadership to whoever's candle stands the tallest.;;;;;;;;;;;;;x
-ca_culture_furbolg_1;Totem of Ursoc and Ursol;;;;;;;;;;;;;x
-ca_culture_furbolg_2;Totem of Ursoc and Ursol;;;;;;;;;;;;;x
-ca_culture_furbolg_3;Totem of Ursoc and Ursol;;;;;;;;;;;;;x
-ca_culture_furbolg_4;Totem of Ursoc and Ursol;;;;;;;;;;;;;x
+ca_culture_furbolg_1;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
+ca_culture_furbolg_2;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
+ca_culture_furbolg_3;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
+ca_culture_furbolg_4;Тотемы Урсока и Урсола;;;;;;;;;;;;;x
 ca_culture_furbolg_desc;The furbolg find themselves to be descendants of the wild god ancients Ursoc and Ursol. For some furbolgs however, reverence is not enough, and they choose to embody the might and ferocity of their gods, growing large and feral as they infuse themselves with the ancients' power. These are known as ursa totemics, and other furbolgs hold them in nearly as high regard as their shamans, recognizing their role in protecting and hunting for their tribes.;;;;;;;;;;;;;x
-ca_culture_demonic_1;Mo'arg Forge;;;;;;;;;;;;;x
-ca_culture_demonic_2;Mo'arg Forge;;;;;;;;;;;;;x
-ca_culture_demonic_3;Mo'arg Forge;;;;;;;;;;;;;x
-ca_culture_demonic_4;Mo'arg Forge;;;;;;;;;;;;;x
+ca_culture_demonic_1;Кузница мо'арг;;;;;;;;;;;;;x
+ca_culture_demonic_2;Кузница мо'арг;;;;;;;;;;;;;x
+ca_culture_demonic_3;Кузница мо'арг;;;;;;;;;;;;;x
+ca_culture_demonic_4;Кузница мо'арг;;;;;;;;;;;;;x
 ca_culture_demonic_desc;The mo'arg represent one of the more versatile member races of the Legion, providing both brute strength and technical brilliance. The mo'arg brutes, the largest among them, choose to augment their hulking bodies with mechanical parts, while the smaller, stunted gan'arg, build and man demonic artillery and arms.;;;;;;;;;;;;;x
-ca_culture_high_elf_1;Farstrider Lodge;;;;;;;;;;;;;x
-ca_culture_high_elf_2;Farstrider Lodge;;;;;;;;;;;;;x
-ca_culture_high_elf_3;Farstrider Lodge;;;;;;;;;;;;;x
-ca_culture_high_elf_4;Farstrider Lodge;;;;;;;;;;;;;x
+ca_culture_high_elf_1;Приют Странников;;;;;;;;;;;;;x
+ca_culture_high_elf_2;Приют Странников;;;;;;;;;;;;;x
+ca_culture_high_elf_3;Приют Странников;;;;;;;;;;;;;x
+ca_culture_high_elf_4;Приют Странников;;;;;;;;;;;;;x
 ca_culture_high_elf_desc;The Farstriders are an elite organization of elvish archers and among the very best with a bow that Azeroth has to offer. With a tradition that dates back to the Troll Wars, they devote themselves to eradicating evil both in their homelands and elsewhere and uphold honour and the law with a righteous fervour. Despite their respect for the law, they operate separate from the military, using their independence to further their ideals with minimal political interference.;;;;;;;;;;;;;x
-ca_culture_centaur_1;Centaur Camp;;;;;;;;;;;;;x
-ca_culture_centaur_2;Centaur Camp;;;;;;;;;;;;;x
-ca_culture_centaur_3;Centaur Camp;;;;;;;;;;;;;x
-ca_culture_centaur_4;Centaur Camp;;;;;;;;;;;;;x
+ca_culture_centaur_1;Лагерь кентавров;;;;;;;;;;;;;x
+ca_culture_centaur_2;Лагерь кентавров;;;;;;;;;;;;;x
+ca_culture_centaur_3;Лагерь кентавров;;;;;;;;;;;;;x
+ca_culture_centaur_4;Лагерь кентавров;;;;;;;;;;;;;x
 ca_culture_centaur_desc;Brutal and barbaric, the centaurs are a relatively young but powerful species. The children of Zaetar, son of Cenarius, and Theradras, an earth elemental princess, centaurs are half-horse and half-human with the body of rather ugly humans above the torso and the body of a draft horse below it. Their culture is almost entirely war-driven, whether they are fighting with other centaur bands or the various races unlucky enough to settle near them.;;;;;;;;;;;;;x
-ca_culture_goblin_1;Shredder Garage;;;;;;;;;;;;;x
-ca_culture_goblin_2;Shredder Garage;;;;;;;;;;;;;x
-ca_culture_goblin_3;Shredder Garage;;;;;;;;;;;;;x
-ca_culture_goblin_4;Shredder Garage;;;;;;;;;;;;;x
+ca_culture_goblin_1;Гараж крошшеров;;;;;;;;;;;;;x
+ca_culture_goblin_2;Гараж крошшеров;;;;;;;;;;;;;x
+ca_culture_goblin_3;Гараж крошшеров;;;;;;;;;;;;;x
+ca_culture_goblin_4;Гараж крошшеров;;;;;;;;;;;;;x
 ca_culture_goblin_desc;When it comes to the use of mechanical know-how to mete out reckless yet efficient destruction, the goblins are second to none. This even applies to their lumber harvesting techniques, where they skip axes in favor of Shredders, large mechanical suits of armor equipped with buzzsaws and pincers for hands. Needless to say, a walking suit of armor with a buzzsaw for a hand has its military uses as well.;;;;;;;;;;;;;x
-ca_culture_ancient_1;Grove of Nature's Wrath;;;;;;;;;;;;;x
-ca_culture_ancient_2;Grove of Nature's Wrath;;;;;;;;;;;;;x
-ca_culture_ancient_3;Grove of Nature's Wrath;;;;;;;;;;;;;x
-ca_culture_ancient_4;Grove of Nature's Wrath;;;;;;;;;;;;;x
+ca_culture_ancient_1;Роща Гнева природы;;;;;;;;;;;;;x
+ca_culture_ancient_2;Роща Гнева природы;;;;;;;;;;;;;x
+ca_culture_ancient_3;Роща Гнева природы;;;;;;;;;;;;;x
+ca_culture_ancient_4;Роща Гнева природы;;;;;;;;;;;;;x
 ca_culture_ancient_desc;Ancients are the embodiment of nature and are among the very first of Azeroth's sentient creatures. Those that embody the inherent brutal, forceful side of nature are known as Ancients of War, drawing their strength from the energies and memories of conflicts long forgotten. While they aren't afraid to fight themselves, they have also been known to train night elves and others willing in the art of combat.;;;;;;;;;;;;;x
-ca_culture_dragon_1;Dragon Roost;;;;;;;;;;;;;x
-ca_culture_dragon_2;Dragon Roost;;;;;;;;;;;;;x
-ca_culture_dragon_3;Dragon Roost;;;;;;;;;;;;;x
-ca_culture_dragon_4;Dragon Roost;;;;;;;;;;;;;x
+ca_culture_dragon_1;Драконий насест;;;;;;;;;;;;;x
+ca_culture_dragon_2;Драконий насест;;;;;;;;;;;;;x
+ca_culture_dragon_3;Драконий насест;;;;;;;;;;;;;x
+ca_culture_dragon_4;Драконий насест;;;;;;;;;;;;;x
 ca_culture_dragon_desc;Dragons are the Titans' chosen stewards of the world. They are divided into several dragonflights, each bearing scales of a different colour and watching over a different aspect of the Titans' creations. Colossal, airborne, and intelligent beyond mortal capabilities, the presence of even one dragon can be enough to turn the tide of any battle.;;;;;;;;;;;;;x
-ca_culture_wildhammer_1;Gryphon Aerie;;;;;;;;;;;;;x
-ca_culture_wildhammer_2;Gryphon Aerie;;;;;;;;;;;;;x
-ca_culture_wildhammer_3;Gryphon Aerie;;;;;;;;;;;;;x
-ca_culture_wildhammer_4;Gryphon Aerie;;;;;;;;;;;;;x
+ca_culture_wildhammer_1;Гнезда грифонов;;;;;;;;;;;;;x
+ca_culture_wildhammer_2;Гнезда грифонов;;;;;;;;;;;;;x
+ca_culture_wildhammer_3;Гнезда грифонов;;;;;;;;;;;;;x
+ca_culture_wildhammer_4;Гнезда грифонов;;;;;;;;;;;;;x
 ca_culture_wildhammer_desc;After the War of the Three Hammers, the Wildhammer dwarves found themselves residing in the heavily-wooded Hinterlands, where they befriended and tamed the local gryphons. Learning to use them as steeds, the Wildhammer soon became famous for their gryphon riders. These riders pride themselves as powerful airborne cavalry wielding enchanted stormhammers.;;;;;;;;;;;;;x
-ca_culture_bronzebeard_1;Siegeworks;;;;;;;;;;;;;x
-ca_culture_bronzebeard_2;Siegeworks;;;;;;;;;;;;;x
-ca_culture_bronzebeard_3;Siegeworks;;;;;;;;;;;;;x
-ca_culture_bronzebeard_4;Siegeworks;;;;;;;;;;;;;x
+ca_culture_bronzebeard_1;Осадные мастерские;;;;;;;;;;;;;x
+ca_culture_bronzebeard_2;Осадные мастерские;;;;;;;;;;;;;x
+ca_culture_bronzebeard_3;Осадные мастерские;;;;;;;;;;;;;x
+ca_culture_bronzebeard_4;Осадные мастерские;;;;;;;;;;;;;x
 ca_culture_bronzebeard_desc;Gnome designed and dwarf perfected, this is the story of the siege engine. A replacement for the steam tank, the siege engine combines both ramming and shelling capabilities with heavy armoured plating and anti-air flak cannons. These metal beasts enable teams of dwarves to safely and effectively reduce enemy fortifications to powder.;;;;;;;;;;;;;x
-ca_culture_pirate_1;Buccaneer Hold;;;;;;;;;;;;;x
-ca_culture_pirate_2;Buccaneer Hold;;;;;;;;;;;;;x
-ca_culture_pirate_3;Buccaneer Hold;;;;;;;;;;;;;x
-ca_culture_pirate_4;Buccaneer Hold;;;;;;;;;;;;;x
+ca_culture_pirate_1;Пиратское убежище;;;;;;;;;;;;;x
+ca_culture_pirate_2;Пиратское убежище;;;;;;;;;;;;;x
+ca_culture_pirate_3;Пиратское убежище;;;;;;;;;;;;;x
+ca_culture_pirate_4;Пиратское убежище;;;;;;;;;;;;;x
 ca_culture_pirate_desc;Viscous and bloodthirsty in their own right, these pirate buccaneers have nothing left to lose while spending every effort possible to loot and pillage the properties of those more fortunate than them. Whether it be by musket, bow, or cutlass, the unlucky ones who cross their path end up feeding the fish.;;;;;;;;;;;;;x
-ca_culture_giant_1;Giant Outyards;;;;;;;;;;;;;x
-ca_culture_giant_2;Giant Outyards;;;;;;;;;;;;;x
-ca_culture_giant_3;Giant Outyards;;;;;;;;;;;;;x
-ca_culture_giant_4;Giant Outyards;;;;;;;;;;;;;x
-ca_culture_giant_desc;Created by the Titans to protect and oversee the mountains of Azeroth, these giants are a war-like yet honourable race. In battle there are few foes that can match their might as even the strongest warriors fall before their titanic strenght.;;;;;;;;;;;;;x
-ca_culture_forsaken_1;Deathguard Quarters;;;;;;;;;;;;;x
-ca_culture_forsaken_2;Deathguard Quarters;;;;;;;;;;;;;x
-ca_culture_forsaken_3;Deathguard Quarters;;;;;;;;;;;;;x
-ca_culture_forsaken_4;Deathguard Quarters;;;;;;;;;;;;;x
-ca_culture_forsaken_desc;Once they were noble warriors. Now their bodies are weak and rotten, but their indomitable spirits have no equal. Capable of enduring vastly harsher conditions than living troops, the tireless Deathguard can march for days, even weeks to bring death to the enemies.;;;;;;;;;;;;;x
+ca_culture_giant_1;Просторный плац;;;;;;;;;;;;;x
+ca_culture_giant_2;Просторный плац;;;;;;;;;;;;;x
+ca_culture_giant_3;Просторный плац;;;;;;;;;;;;;x
+ca_culture_giant_4;Просторный плац;;;;;;;;;;;;;x
+ca_culture_giant_desc;Созданные Титанами для защиты и наблюдения за горами Азерота, великаны - воинственная, но гордая раса. Существует мало врагов, способных сравниться с их мощью, так как титаническая сила великана способна сокрушить даже самого сильного воина.;;;;;;;;;;;;;x
+ca_culture_forsaken_1;Квартал Стражей Смерти;;;;;;;;;;;;;x
+ca_culture_forsaken_2;Квартал Стражей Смерти;;;;;;;;;;;;;x
+ca_culture_forsaken_3;Квартал Стражей Смерти;;;;;;;;;;;;;x
+ca_culture_forsaken_4;Квартал Стражей Смерти;;;;;;;;;;;;;x
+ca_culture_forsaken_desc;Когда-то они были благородными воинами. Теперь их тела гниют, но их воля по-прежнему сильна. Они способны выдерживать гораздо более суровые условия, чем живые. Неутомимый Страж Смерти может идти днями, или даже неделями, что принести смерть врагам.;;;;;;;;;;;;;x
