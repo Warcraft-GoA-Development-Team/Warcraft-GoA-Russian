@@ -1,17 +1,17 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #Evil Upgrades;;;;;;;;;;;;;;x
-upgrade_unholy_statues;Нечестивые Статуи;;;;;;;;;;;;;x
+upgrade_unholy_statues;Нечестивые статуи;;;;;;;;;;;;;x
 upgrade_unholy_statues_desc;Эти статуи нечестивых существ вселяют ужас в сердца врагов и вдохновляют темную армию.;;;;;;;;;;;;;x
 upgrade_sanctuary_of_shadows;Святилище Теней;;;;;;;;;;;;;x
 upgrade_sanctuary_of_shadows_desc;Это святилище служит как место встречи для послушников.;;;;;;;;;;;;;x
-upgrade_black_walls;Темный Стены;;;;;;;;;;;;;x
+upgrade_black_walls;Темные стены;;;;;;;;;;;;;x
 upgrade_black_walls_desc;Эти стены сделаны из темного камня неизвестного для смертных рас.;;;;;;;;;;;;;x
 upgrade_crimson_hall;Багровый Зал;;;;;;;;;;;;;x
 upgrade_crimson_hall_desc;Этот зал богато обставлен красными декорациями и багровыми шторами и используется для военных собраний.;;;;;;;;;;;;;x
 upgrade_plagueworks;Бойня;;;;;;;;;;;;;x
 upgrade_plagueworks_desc;Здесь лучшие некроманты превращают плоть смертных рас в произведения искусства.;;;;;;;;;;;;;x
-upgrade_nerubian_busts;Нерубианские Бюсты;;;;;;;;;;;;;x
+upgrade_nerubian_busts;Нерубианские бюсты;;;;;;;;;;;;;x
 upgrade_nerubian_busts_desc;Эти холодные черные глаза приводят любого смертного в панику.;;;;;;;;;;;;;x
 upgrade_endless_corridors;Бесконечный Коридоры;;;;;;;;;;;;;x
 upgrade_endless_corridors_desc;Гигантская сеть коридоров соединяющая склепы и гигантские залы.;;;;;;;;;;;;;x
@@ -27,27 +27,27 @@ upgrade_demonic_machinery;Демоническая Машинерия;;;;;;;;;;;;;x
 upgrade_demonic_machinery_desc;Гигантские механизмы Скверны, поддерживающие работу этого комплекса.;;;;;;;;;;;;;x
 upgrade_fel_pool;Бассейн Скверны;;;;;;;;;;;;;x
 upgrade_fel_pool_desc;Этот бассейн энергии Скверны питает демонических существ, населяющих эту структуру.;;;;;;;;;;;;;x
-upgrade_construct_quarter;Construct Quarter;;;;;;;;;;;;;x
-upgrade_construct_quarter_desc;This corridor of the necropolis is completely dedicated to the construction of undead amalgamations bent on serving the Scourge.;;;;;;;;;;;;;x
-upgrade_moarg_workshops;Mo'arg Workshops;;;;;;;;;;;;;x
-upgrade_moarg_workshops_desc;These workshops are worked by the engineers of the Legion, the Mo'arg, and they work to pump out demonic armaments and equipment for our soldiers.;;;;;;;;;;;;;x
-upgrade_condemned_halls;Condemned Halls;;;;;;;;;;;;;x
-upgrade_condemned_halls_desc;These halls echo with the whispers of the Old Gods, and they serve as a large gathering place for their crazed followers.;;;;;;;;;;;;;x
+upgrade_construct_quarter;Квартал Мерзости;;;;;;;;;;;;;x
+upgrade_construct_quarter_desc;В этом квартале некрополя собирают кошмарных существ, которые будут исполнять волю Плети.;;;;;;;;;;;;;x
+upgrade_moarg_workshops;Мастерские мо'аргов;;;;;;;;;;;;;x
+upgrade_moarg_workshops_desc;В этих мастерских трудятся инженеры Легиона, мо'арги, создавая демоническое оружие и броню для войск.;;;;;;;;;;;;;x
+upgrade_condemned_halls;Залы Обреченных;;;;;;;;;;;;;x
+upgrade_condemned_halls_desc;В этих залах раздается шепот Древних Богов. Они служат местом паломничества для их безумных последователей.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #General;;;;;;;;;;;;;;x
-upgrade_stained_glass_window_desc;A beautiful piece of art reflecting a mythical scene.;;;;;;;;;;;;;x
-upgrade_giant_cross;Giant Spire;;;;;;;;;;;;;x
-upgrade_giant_cross_desc;On top of the [FromFrom.GetWonderTypeShortCap] is a big spire, embellishing the silhouette of the building.;;;;;;;;;;;;;x
-upgrade_collection_architecture_desc;The secrets of building great edifices, roads, and bridges are revealed in the classical works of ancient authors.;;;;;;;;;;;;;
-upgrade_collection_math_desc;From the works of Kaldorei thinkers, to the most recent treatises on mathematics.;;;;;;;;;;;;;
+upgrade_stained_glass_window_desc;Прекрасное произведение искусства, на котором изображена сцена из легенды.;;;;;;;;;;;;;x
+upgrade_giant_cross;Гигантский шпиль;;;;;;;;;;;;;x
+upgrade_giant_cross_desc;На вершине [FromFrom.GetWonderTypeShortCap] находится шпиль, украшающий все сооружение.;;;;;;;;;;;;;x
+upgrade_collection_architecture_desc;В классических работах древних мыслителей раскрыты секреты строительства великих сооружений, дорог и мостов.;;;;;;;;;;;;;
+upgrade_collection_math_desc;В этой коллекции можно найти от работ калдорейских мыслителей до новейших трактатов по математике.;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;
 #Historical wonder upgrades;;;;;;;;;;;;;;
-upgrade_forge_of_wills;Forge of Wills;;;;;;;;;;;;;
-upgrade_forge_of_wills_desc;The Forge of Wills was built by the Titans to strengthen the slumbering Azeroth. It can also use her energies to create legions of titan-forged warriors.;;;;;;;;;;;;;
-upgrade_silithid_greathive;Great Silithid Hive;;;;;;;;;;;;;
-upgrade_silithid_greathive_desc;The great silithid hive located in Ahn'Qiraj houses the biggest of their queens who is constantly laying eggs to produce armies of inscetoid warriors.;;;;;;;;;;;;;
-upgrade_crucible_of_storms;Crucible of Storms;;;;;;;;;;;;;
-upgrade_crucible_of_storms_desc;A long-submerged evil stirs beneath the Shrine of the Storm. The whispers that drive to madness echo within the depths, a siren song of eldritch power. Those who listen and obey prepare dark rituals to carry out their master’s will.;;;;;;;;;;;;;
+upgrade_forge_of_wills;Кузня Воли;;;;;;;;;;;;;
+upgrade_forge_of_wills_desc;Кузня Воли была возведена титанами для усиления спящей Азерот. Энергия Кузни может быть использована для создания легионов кованных титанами.;;;;;;;;;;;;;
+upgrade_silithid_greathive;Великий улей силитидов;;;;;;;;;;;;;
+upgrade_silithid_greathive_desc;В великом улье силитидов, расположенном в Ан'Кираже, находится их самая большая королева, откладывающая яйца, из которых вылупляются солдаты-инсектоиды.;;;;;;;;;;;;;
+upgrade_crucible_of_storms;Горнило Штормов;;;;;;;;;;;;;
+upgrade_crucible_of_storms_desc;Глубоко под Святилищем Штормов обитает древнее зло. Шепот, лишающий рассудка, эхом раздается из глубин, воспевая могущество жутких существ. Те, чья воля была подчинена шепотом, ныне проводят темные ритуалы, исполняя волю своего повелителя.;;;;;;;;;;;;;
