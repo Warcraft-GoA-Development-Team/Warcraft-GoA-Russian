@@ -641,23 +641,23 @@ PROV640;Южное море;;;;;;;;;;;x
 PROV641;Южное море;;;;;;;;;;;x
 PROV642;Южное море;;;;;;;;;;;x
 PROV643;Вайш'ир;;;;;;;;;;;x
-PROV644;Crane Cave;;;;;;;;;;;x
-PROV645;Faerseton;;;;;;;;;;;x
-PROV646;Dandred;;;;;;;;;;;x
-PROV647;Whispering Forest;;;;;;;;;;;x
-PROV648;Glistening Shore;;;;;;;;;;;x
-PROV649;Ox'tigar;;;;;;;;;;;x
-PROV650;Kun-Lai Coast;;;;;;;;;;;x
-PROV651;Dragon Nest;;;;;;;;;;;x
-PROV652;Snowblossom;;;;;;;;;;;x
+PROV644;Пещера Журавля;;;;;;;;;;;x
+PROV645;Ферсетон;;;;;;;;;;;x
+PROV646;Дандред;;;;;;;;;;;x
+PROV647;Шепщущий лес;;;;;;;;;;;x
+PROV648;Сверкающий берег;;;;;;;;;;;x
+PROV649;Окс'тигар;;;;;;;;;;;x
+PROV650;Побережье Кун-Лай;;;;;;;;;;;x
+PROV651;Драконье гнездо;;;;;;;;;;;x
+PROV652;Цветущая Зима;;;;;;;;;;;x
 PROV653;Хрустальное озеро;Crystal Lake;Crystal Lake;;;;;;;;;x
 PROV654;Зеркальное озеро;Mirror Lake;Mirror Lake;;;;;;;;;x
 PROV655;Низина Зул'гуруб;Zul'gurub Basin;Zul'gurub Basin;;;;;;;;;x
-PROV656;Surwich Inlet;;;;;;;;;;;x
-PROV657;Lake Everstill;;;;;;;;;;;x
+PROV656;Подход Сурвича;;;;;;;;;;;x
+PROV657;Озеро Безмолвия;;;;;;;;;;;x
 PROV658;Озеро;;;;;;;;;;;x
 PROV659;Озеро;;;;;;;;;;;x
-PROV660;Mosshide Fen;;;;;;;;;;;x
+PROV660;Болото Мохошкуров;;;;;;;;;;;x
 PROV661;Озеро;;;;;;;;;;;x
 PROV662;Озеро;;;;;;;;;;;x
 PROV663;Озеро;;;;;;;;;;;x
@@ -667,14 +667,14 @@ PROV666;Озеро;;;;;;;;;;;x
 PROV667;Озеро;;;;;;;;;;;x
 PROV668;Озеро;;;;;;;;;;;x
 PROV669;Озеро;;;;;;;;;;;x
-PROV670;Zouchin;;;;;;;;;;;x
+PROV670;Цзоучин;;;;;;;;;;;x
 PROV671;Озеро;;;;;;;;;;;x
-PROV672;Stillwater Pond;;;;;;;;;;;x
-PROV673;Brightwater Lake;;;;;;;;;;;x
+PROV672;Тихий омут;;;;;;;;;;;x
+PROV673;Озеро Ясноводное;;;;;;;;;;;x
 PROV674;Озеро;;;;;;;;;;;x
-PROV675;Blackwood Lake;;;;;;;;;;;x
-PROV676;Lake Mereldar;;;;;;;;;;;x
-PROV677;Healthy Lake;;;;;;;;;;;x
+PROV675;Озеро Чернолесья;;;;;;;;;;;x
+PROV676;Озеро Мерельдар;;;;;;;;;;;x
+PROV677;Озеро Полезное;;;;;;;;;;;x
 PROV678;Озеро;;;;;;;;;;;x
 PROV679;Озеро;;;;;;;;;;;x
 PROV680;Озеро;;;;;;;;;;;x
@@ -683,102 +683,102 @@ PROV682;Озеро;;;;;;;;;;;x
 PROV683;Озеро;;;;;;;;;;;x
 PROV684;Озеро;;;;;;;;;;;x
 PROV685;Озеро;;;;;;;;;;;x
-PROV686;Chioji;;;;;;;;;;;x
-PROV687;Cradle of Chi-Ji;;;;;;;;;;;x
-PROV688;Kea Krak;;;;;;;;;;;x
-PROV689;Maisara Hills;;;;;;;;;;;x
-PROV690;Ula-Tek;;;;;;;;;;;x
-PROV691;Greenrush;;;;;;;;;;;x
+PROV686;Чиоцзи;;;;;;;;;;;x
+PROV687;Колыбель Чи-Цзи;;;;;;;;;;;x
+PROV688;Ки Крак;;;;;;;;;;;x
+PROV689;Майсарские холмы;;;;;;;;;;;x
+PROV690;Ула-Тек;;;;;;;;;;;x
+PROV691;Зеленая лихорадка;;;;;;;;;;;x
 PROV692;Зул'машар;Zul'mashar;Zul'mashar;;;;;;;;;x
-PROV693;Abassi Coast;Abassi Coast;Abassi Coast;;;;;;;;;x
-PROV694;Abassi Lake;Abassi Lake;Abassi Lake;;;;;;;;;x
+PROV693;Побережье Абасси;Abassi Coast;Abassi Coast;;;;;;;;;x
+PROV694;Озеро Абасси;Abassi Lake;Abassi Lake;;;;;;;;;x
 PROV695;Ледяная Корона;Icecrown;Icecrown;;;;;;;;;x
 PROV696;Утгард;Utgarde;Utgarde;;;;;;;;;x
-PROV697;Halgrind;;;;;;;;;;;x
-PROV698;Ember Clutch;;;;;;;;;;;x
-PROV699;New Agamand;;;;;;;;;;;x
-PROV700;Shield Hill;;;;;;;;;;;x
-PROV701;Grarland;;;;;;;;;;;x
-PROV702;Wyrmskull Coast;;;;;;;;;;;x
-PROV703;Kamagua;;;;;;;;;;;x
-PROV704;Iskaal;;;;;;;;;;;x
-PROV705;Scalawag Point;;;;;;;;;;;x
-PROV706;Sorlof's Strand;;;;;;;;;;;x
-PROV707;Nifflevar;;;;;;;;;;;x
-PROV708;Bealgun;;;;;;;;;;;x
-PROV709;Eastern Cape;;;;;;;;;;;x
-PROV710;Ivald;;;;;;;;;;;x
-PROV711;Baleheim;;;;;;;;;;;x
-PROV712;Bleeding Vale;;;;;;;;;;;x
-PROV713;Giants Run;;;;;;;;;;;x
-PROV714;Cauldros Isle;;;;;;;;;;;x
-PROV715;Glade Forest;;;;;;;;;;;x
-PROV716;Winterhoof;;;;;;;;;;;x
-PROV717;Broken Bluffs;;;;;;;;;;;x
-PROV718;Gjalerbron;;;;;;;;;;;x
-PROV719;Rivenwood;;;;;;;;;;;x
-PROV720;Steelgate;;;;;;;;;;;x
-PROV721;Skorn;;;;;;;;;;;x
-PROV722;Chillmere;;;;;;;;;;;x
-PROV723;Cauldros Lake;;;;;;;;;;;x
-PROV724;Winter's Breath Lake;;;;;;;;;;;x
-PROV725;Coldmere Lake;;;;;;;;;;;x
-PROV726;Creek River;;;;;;;;;;;x
-PROV727;Creek River;;;;;;;;;;;x
+PROV697;Халгринд;;;;;;;;;;;x
+PROV698;Пылающее Гнездовье;;;;;;;;;;;x
+PROV699;Новый Агамонд;;;;;;;;;;;x
+PROV700;Заградительный холм;;;;;;;;;;;x
+PROV701;Грарланд;;;;;;;;;;;x
+PROV702;Побережье Драконьего Черепа;;;;;;;;;;;x
+PROV703;Камагуа;;;;;;;;;;;x
+PROV704;Искаал;;;;;;;;;;;x
+PROV705;Лагерь Скалаваг;;;;;;;;;;;x
+PROV706;Побережье Сорлофа;;;;;;;;;;;x
+PROV707;Ниффлвар;;;;;;;;;;;x
+PROV708;Бейлгун;;;;;;;;;;;x
+PROV709;Восточный мыс;;;;;;;;;;;x
+PROV710;Ивальд;;;;;;;;;;;x
+PROV711;Гибльхейм;;;;;;;;;;;x
+PROV712;Кровоточащая долина;;;;;;;;;;;x
+PROV713;Тропа великанов;;;;;;;;;;;x
+PROV714;Остров Колдрос;;;;;;;;;;;x
+PROV715;Лесная поляна;;;;;;;;;;;x
+PROV716;Заиндевевшее Копыто;;;;;;;;;;;x
+PROV717;Расколотые утесы;;;;;;;;;;;x
+PROV718;Гьялерброн;;;;;;;;;;;x
+PROV719;Терзающие Вдовы;;;;;;;;;;;x
+PROV720;Стальные Врата;;;;;;;;;;;x
+PROV721;Скорн;;;;;;;;;;;x
+PROV722;Стылая Межа;;;;;;;;;;;x
+PROV723;Озеро Колдрос;;;;;;;;;;;x
+PROV724;Озеро Дыхания Зимы;;;;;;;;;;;x
+PROV725;Стылое озеро;;;;;;;;;;;x
+PROV726;Небольшая речка;;;;;;;;;;;x
+PROV727;Небольшая речка;;;;;;;;;;;x
 PROV728;Озеро;;;;;;;;;;;x
-PROV729;Venture Bay;;;;;;;;;;;x
-PROV730;Blackriver;;;;;;;;;;;x
-PROV731;Drak'zin;;;;;;;;;;;x
-PROV732;Zeb'halak;;;;;;;;;;;x
-PROV733;Silverbrook;;;;;;;;;;;x
-PROV734;Bluedome;;;;;;;;;;;x
-PROV735;Amberpine;;;;;;;;;;;x
-PROV736;Voldrune;;;;;;;;;;;x
-PROV737;Grizzlemaw;;;;;;;;;;;x
-PROV738;Rage Fang;;;;;;;;;;;x
-PROV739;Heartblood;;;;;;;;;;;x
-PROV740;Oneqwah;;;;;;;;;;;x
-PROV741;Solstice;;;;;;;;;;;x
-PROV742;Hollowstone;;;;;;;;;;;x
-PROV743;Drak'atal;;;;;;;;;;;x
-PROV744;Ursden;;;;;;;;;;;x
-PROV745;Drakil'jin;;;;;;;;;;;x
-PROV746;Tethys;;;;;;;;;;;x
-PROV747;Bloodmoon Isle;;;;;;;;;;;x
-PROV748;Thor Modan;;;;;;;;;;;x
-PROV749;Boulder Hills;;;;;;;;;;;x
-PROV750;Dun Argol;;;;;;;;;;;x
+PROV729;Бухта Торговцев;;;;;;;;;;;x
+PROV730;Черноречье;;;;;;;;;;;x
+PROV731;Драк'Зин;;;;;;;;;;;x
+PROV732;Зеб'Халак;;;;;;;;;;;x
+PROV733;Среброречье;;;;;;;;;;;x
+PROV734;Голубой купол;;;;;;;;;;;x
+PROV735;Янтарная Сосна;;;;;;;;;;;x
+PROV736;Волдрун;;;;;;;;;;;x
+PROV737;Седая Пасть;;;;;;;;;;;x
+PROV738;Яростный Клык;;;;;;;;;;;x
+PROV739;Озаренная Кровь;;;;;;;;;;;x
+PROV740;Уанква;;;;;;;;;;;x
+PROV741;Солнцестояние;;;;;;;;;;;x
+PROV742;Полый Камень;;;;;;;;;;;x
+PROV743;Драк'атал;;;;;;;;;;;x
+PROV744;Урсден;;;;;;;;;;;x
+PROV745;Дракил'джин;;;;;;;;;;;x
+PROV746;Тетис;;;;;;;;;;;x
+PROV747;Остров Кровавой Луны;;;;;;;;;;;x
+PROV748;Тор Модан;;;;;;;;;;;x
+PROV749;Каменистые холмы;;;;;;;;;;;x
+PROV750;Дун Аргол;;;;;;;;;;;x
 PROV751;Озеро;;;;;;;;;;;x
 PROV752;Озеро;;;;;;;;;;;x
 PROV753;Озеро;;;;;;;;;;;x
-PROV754;Gundrak;;;;;;;;;;;x
-PROV755;Zol'heb;;;;;;;;;;;x
-PROV756;Dubra'jin;;;;;;;;;;;x
-PROV757;Zol'maz;;;;;;;;;;;x
-PROV758;Mam'toth;;;;;;;;;;;x
-PROV759;Rhunok;;;;;;;;;;;x
-PROV760;Drak'mabwa;;;;;;;;;;;x
-PROV761;Zim'rhuk;;;;;;;;;;;x
-PROV762;Harkoa;;;;;;;;;;;x
-PROV763;Quetz'lun;;;;;;;;;;;x
-PROV764;Zim'torga;;;;;;;;;;;x
-PROV765;Heb'drakkar;;;;;;;;;;;x
-PROV766;Drak'tharon;;;;;;;;;;;x
-PROV767;Drakuru;;;;;;;;;;;x
-PROV768;Rageclaw;;;;;;;;;;;x
-PROV769;Low Fields;;;;;;;;;;;x
-PROV770;Chaga'jin;;;;;;;;;;;x
-PROV771;Drak'sotra;;;;;;;;;;;x
-PROV772;Zim'abwa;;;;;;;;;;;x
-PROV773;Drakkari Arena;;;;;;;;;;;x
-PROV774;Heb'valok;;;;;;;;;;;x
-PROV775;Sseratus;;;;;;;;;;;x
-PROV776;Rageclaw Lake;;;;;;;;;;;x
-PROV777;Wyrmrest;;;;;;;;;;;x
-PROV778;Magnadoth;;;;;;;;;;;x
-PROV779;Galakrond;;;;;;;;;;;x
-PROV780;Magnadon;;;;;;;;;;;x
-PROV781;Crystal Vice;;;;;;;;;;;x
+PROV754;Гундрак;;;;;;;;;;;x
+PROV755;Зол'Хеб;;;;;;;;;;;x
+PROV756;Дубра'Джин;;;;;;;;;;;x
+PROV757;Зол'Маз;;;;;;;;;;;x
+PROV758;Мам'тот;;;;;;;;;;;x
+PROV759;Рунок;;;;;;;;;;;x
+PROV760;Драк'Мабва;;;;;;;;;;;x
+PROV761;Зим'Рук;;;;;;;;;;;x
+PROV762;Харкоа;;;;;;;;;;;x
+PROV763;Кетц'лун;;;;;;;;;;;x
+PROV764;Зим'Торга;;;;;;;;;;;x
+PROV765;Хеб'драккар;;;;;;;;;;;x
+PROV766;Драк'тарон;;;;;;;;;;;x
+PROV767;Дракуру;;;;;;;;;;;x
+PROV768;Яростный Коготь;;;;;;;;;;;x
+PROV769;Низкие поля;;;;;;;;;;;x
+PROV770;Чага'Джин;;;;;;;;;;;x
+PROV771;Драк'Сотра;;;;;;;;;;;x
+PROV772;Зим'Абва;;;;;;;;;;;x
+PROV773;Арена Драккари;;;;;;;;;;;x
+PROV774;Хеб'Валок;;;;;;;;;;;x
+PROV775;Шшератус;;;;;;;;;;;x
+PROV776;Озеро Яростного Когтя;;;;;;;;;;;x
+PROV777;Драконий Покой;;;;;;;;;;;x
+PROV778;Магнадот;;;;;;;;;;;x
+PROV779;Галакронд;;;;;;;;;;;x
+PROV780;Магнадон;;;;;;;;;;;x
+PROV781;Порочные Кристаллы;;;;;;;;;;;x
 PROV782;Maguta;;;;;;;;;;;x
 PROV783;Dragon's Fall;;;;;;;;;;;x
 PROV784;Coldwind;;;;;;;;;;;x
@@ -801,7 +801,7 @@ PROV800;Budur;;;;;;;;;;;x
 PROV801;Ton'croa;;;;;;;;;;;x
 PROV802;Noke'roa;;;;;;;;;;;x
 PROV803;Eldritch;;;;;;;;;;;x
-PROV804;Jintha'kalar;;;;;;;;;;;x
+PROV804;Джинта'Калар;;;;;;;;;;;x
 PROV805;Cladurk;;;;;;;;;;;x
 PROV806;Frostfate;;;;;;;;;;;x
 PROV807;Lake Indu'le;;;;;;;;;;;x
@@ -855,7 +855,7 @@ PROV854;Rainspeaker Rapids;;;;;;;;;;;x
 PROV855;Bittertide Lake;;;;;;;;;;;x
 PROV856;Seabreach Flow;;;;;;;;;;;x
 PROV857;River's Heart;;;;;;;;;;;x
-PROV858;Ulduar;;;;;;;;;;;x
+PROV858;Ульдуар;;;;;;;;;;;x
 PROV859;Marista;;;;;;;;;;;x
 PROV860;Unga Ingoo;;;;;;;;;;;x
 PROV861;Southern Isles;;;;;;;;;;;x
