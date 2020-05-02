@@ -31,21 +31,21 @@ EVTDESC_WCFTW_100;Надвигается буря... На юге Азерота, в Чёрных топях, был открыт
 LOKTAR_OGAR;Лок'тар огар!;;;;;;;;;;;;;x
 EVTOPTB_WCFTW_100;Надо что-то с этим делать!;;;;;;;;;;;;;x
 EVTOPTC_WCFTW_100;Посмотрим, что из этого выйдет.;;;;;;;;;;;;;x
-EVTDESC_WCFTW_101;As the great war between the Orcish Horde and the kingdom of Stormwind rages on, the human kingdom has lost much against the orcish invaders. Their envoys at our court now plead for our aid. How shall we answer?;;;;;;;;;;;;;x
-EVTOPTA_WCFTW_101;We're not going to send our troops to someone else's war.;;;;;;;;;;;;;x
-EVTOPTB_WCFTW_101;This does not concern us.;;;;;;;;;;;;;x
-EVTDESC_WCFTW_102;Today, the infantry divisions of the dwarves of Ironforge arrived. Perhaps not all is lost...;;;;;;;;;;;;;x
-EVTOPTC_WCFTW_100;Excellent!;;;;;;;;;;;;;x
-EVTOPTA_case1_WCFTW_4;No one can stop the Horde now!;;;;;;;;;;;;;x
-EVTOPTA_case2_WCFTW_4;Not all is lost.;;;;;;;;;;;;;x
-EVTOPTA_case3_WCFTW_4;We need to prepare for the worst.;;;;;;;;;;;;;x
-EVTOPTA_case4_WCFTW_4;Crush my enemies!;;;;;;;;;;;;;x
-EVTOPTA_case5_WCFTW_4;What should I do next?;;;;;;;;;;;;;x
-EVTTITLE_WCFTW_4;The Invasion from Draenor;;;;;;;;;;;;;x
-EVTDESC_WCDAC_4014;One seat in the council of [target_loyal_ruler.GetTitledFirstName] is empty. It is better to give it to one of the members of the Shadow Council, so you do not lose control over the people.;;;;;;;;;;;;;x
-EVTOPTB_WCDAC_4014;I'll appoint a trusted person from my court.;;;;;;;;;;;;;x
-EVTOPTC_WCDAC_4014;We must appoint one of our new acolytes.;;;;;;;;;;;;;x
-EVTOPTA_WCDAC_4014;I know the right person for the job.;;;;;;;;;;;;;x
+EVTDESC_WCFTW_101;Между орочьей Ордой и королевством Штормград идет война, в которой пало множество представителей людской расы, отражавших натиск захватчиков-орков. Послы Штормграда при нашем дворе умоляют нас о помощи. Что мы должны им ответить?;;;;;;;;;;;;;x
+EVTOPTA_WCFTW_101;Мы не собираемся посылать наши войска на чужую войну.;;;;;;;;;;;;;x
+EVTOPTB_WCFTW_101;Это нас не касается.;;;;;;;;;;;;;x
+EVTDESC_WCFTW_102;Сегодня прибыли пехотные дивизии дворфов Стальгорна. Возможно, еще не все потеряно...;;;;;;;;;;;;;x
+EVTOPTC_WCFTW_100;Отлично!;;;;;;;;;;;;;x
+EVTOPTA_case1_WCFTW_4;Никто не сможет сдержать Орду!;;;;;;;;;;;;;x
+EVTOPTA_case2_WCFTW_4;Не все потеряно.;;;;;;;;;;;;;x
+EVTOPTA_case3_WCFTW_4;Нужно готовиться к худшему.;;;;;;;;;;;;;x
+EVTOPTA_case4_WCFTW_4;Сокрушите моих врагов!;;;;;;;;;;;;;x
+EVTOPTA_case5_WCFTW_4;Как я поступлю дальше?;;;;;;;;;;;;;x
+EVTTITLE_WCFTW_4;Вторжение из Дренора;;;;;;;;;;;;;x
+EVTDESC_WCDAC_4014;Одно из мест в совете [target_loyal_ruler.GetTitledFirstName] пустует. Следует отдать его одному из членов Совета Теней, чтобы не потерять контроля над народом.;;;;;;;;;;;;;x
+EVTOPTB_WCDAC_4014;Я назначу туда доверенного человека из моего двора.;;;;;;;;;;;;;x
+EVTOPTC_WCDAC_4014;Мы должны назначить одного из наших новых аколитов.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_4014;Я знаю подходящего человека на эту должность.;;;;;;;;;;;;;x
 has_class_trait_trigger_tooltip;Принадлежит к одному из классов\n;;;;;;;;;;;;;x
 is_mage_class_trigger_tooltip;Маг;;;;;;;;;;;;;x
 is_hunter_class_trigger_tooltip;Охотник;;;;;;;;;;;;;x
@@ -182,7 +182,7 @@ EVTOPTB_WCBDP_110_alliance;Мы должны разрушить Портал!;;;;;;;;;;;;;x
 EVTOPTC_WCBDP_110_alliance;А стоит ли закрывать Портал?;;;;;;;;;;;;;x
 EVTDESC_WCBDP_140;[Root.PrimaryTitle.GetFOA], я направляю вас вместе с мой войском за Темным Портал. Вы должны разобраться с опасностью, что исходит от туда.;;;;;;;;;;;;;x
 EVTTITLE_WCBDP_150;Разрушение Дренора;;;;;;;;;;;;;x
-EVTDESC_WCBDP_150;The destruction of the Dark Portal and the dark magic of the Shadowmoon clan have done their dark deeds. Draenor, the home world of the orcs, has entered into its death throes. Earthquakes perpetually tear apart the crust of the planet while the oceans and seas collapse into the nether. Streams of fel burn out what was once fertile meadows. Draenor's end is at hand, and there is no chance for salvation.\nIt is unlikely that Azeroth's inhabitants will ever truly know what happened to this untamed planet, but they will definitely remember the decisive victory over the invading forces found beyond the Dark Portal.\nHowever, there are reports that Ner'zhul, the former orc shaman, and his clan managed to save themselves, throwing themselves into the Twisting Nether by escaping through one of the portals Ner'zhul himself created.;;;;;;;;;;;;;x
+EVTDESC_WCBDP_150;Разрушение Темного Портала и темная магия клана Призрачной Луны привели к катастрофе. Дренор, родина орков, бьется в предсмертных муках. Землетрясения разрывают кору планеты, а океаны и моря рушатся вглубь. Скверна выжигает некогда плодородные земли. Гибель Дренора близка, у него нет шансов на спасение.\nМаловероятно, что обитатели Азерота когда-нибудь узнают о судьбе этой планеты, но они запомнят решительную победу на силами вторжения, начавшегося у Темного Портала.\nТем не менее, есть сведения, что бывший шаман Нер'зул и его клан спаслись, перенеся себя в Запредельную Пустоту, пройдя через один из созданных Нер’Зулом порталов.;;;;;;;;;;;;;x
 EVTOPTA_WCBDP_150;Это ужасно!;;;;;;;;;;;;;x
 EVTTITLE_WCTMB_10;Опасное подземелье;;;;;;;;;;;;;x
 EVTDESC_WCTMB_10_intro;В сыром помещении с тонкими каменными колонами, полностью заросшими разными видами растений и трав, экспедиция видит перед собой дверь покрытую узорами. Она выглядит довольно массивной, но не настолько прочной, как кажется на первый взгляд. В центре двери можно увидеть выпуклый узор, который напоминает какой-то вид крупных кошачьих: пантера, лев, гепард. В его центре, на месте рта, находится странное отверстие уходящее глубоко в дверь.;;;;;;;;;;;;;x
@@ -290,18 +290,18 @@ EVTOPTB_WCPOD_10001;Это ужасно… но нам нужно удержать наши другие владения.;;;;;
 EVTTITLE_WCUND_100;Король-лич;;;;;;;;;;;;;x
 EVTDESC_WCUND_100;Самый северный континент Нордсколл - дикое и суровое место. Половина Нордсколла снежная тундра, покрытое вечными льдами и снегами. Столетиями эти земли жили вполне мирно. Но в один день все поменялось. В тот день небо над Ледяной Короной небо покрылась черно-зелёным облаком, а по земле прошлась ударная волна. И все затихло так же неожиданно, как и началось. Туда отправилась группа смелых путешественников. Но никто оттуда не вернулся. Все начали говорить о том, что на Ледяной Короне поселился злобный дух, прибывший из другого мира.;;;;;;;;;;;;;x
 EVTOPTA_WCUND_100;Посмотрим, что из этого выйдет.;;;;;;;;;;;;;x
-EVTDESC_WCCSO_7001_case_01;I'm having [Root.GetDinnerAndDrinks] with [satanists_recruiter.GetTitledName] tonight. It's lovely, yet what I am most charmed by is [satanists_recruiter.GetFirstName] [satanists_recruiter.GetHerselfHimself]. Why else would I not immediately stop our conversation, which has slowly begun to touch upon some unsavory and deviant topics about our society?;;;;;;;;;;;;;x
-EVTDESC_WCCSO_7002_case_01;Meeting with [satanists_recruit.GetTitledFirstName], I made sure to only cautiously mention the most extreme and unsavory practices of our society... Thankfully, it seems that my carefully chosen words had the desired effect on [satanists_recruit.GetHerHim]. From [satanists_recruit.GetHerHis] glittering eyes I got the distinct impression that [satanists_recruit.GetSheHe] enjoyed the promise of titillating experiences within our society.;;;;;;;;;;;;;x
-EVTDESC_WCCSO_7002_case_02;Meeting with [satanists_recruit.GetTitledFirstName], I made sure to only cautiously mention the most extreme and unsavory practices of our society... Regretfully, it seems that my words only irritated my [satanists_recruit.GetRootRelation] – from the steely look [satanists_recruit.GetSheHe] finally gave me, I should probably steer clear of [satanists_recruit.GetHerHim] for now.;;;;;;;;;;;;;x
-EVTDESC_WCCSO_7003_case_01;Walking the palisades of my [Root.GetCapitalHolding] I am joined by [satanists_recruiter.GetTitledFirstName]. I find myself agreeing with a lot of the concepts [satanists_recruiter.GetSheHe] presents – the futility of prayer particularly resonates with me.;;;;;;;;;;;;;x
-EVTOPTA_WCCSO_7003;[satanists_recruiter.GetSheHeCap] is trustworthy.;;;;;;;;;;;;;x
-EVTOPTB_WCCSO_7003;[satanists_recruiter.GetFirstName] is a very suspicious person.;;;;;;;;;;;;;x
-EVTDESC_WCCSO_7004_case_01;I've arranged a run-in with [From.GetTitledFirstName] on the palisades of [From.GetHerHis] [From.GetCapitalHolding] today. [From.GetHerHisCap] face lights up upon seeing me and we stay out talking for hours.;;;;;;;;;;;;;x
-EVTDESC_WCCSO_7004_case_02;I've arranged a run-in with [From.GetTitledFirstName] on the palisades of [From.GetHerHis] [From.GetCapitalHolding] today. [From.GetHerHisCap] face darkens when I again attempt to discuss my world views.;;;;;;;;;;;;;x
-EVTDESC_WCCSO_7005;A strange person asked you to meet face to face. [From.GetSheHe] hands you a letter and runs away as fast as possible. The seal on the letter seems familiar to you. After reading it, you realise that it is an invitation to a society called [From.Society.GetName].;;;;;;;;;;;;;x
-EVTOPTA_WCCSO_7005;Tempting offer...;;;;;;;;;;;;;x
-EVTOPTB_WCCSO_7005;Throw the letter away before it is too late!;;;;;;;;;;;;;x
-EVTOPTB_WCCSO_7005_tooltip;You reject the invitation to [From.Society.GetName].;;;;;;;;;;;;;x
+EVTDESC_WCCSO_7001_case_01;Сегодня вечером я [Root.GetDinnerAndDrinks] с [satanists_recruiter.GetTitledName]. Все шло замечательно, но больше всего меня удивил [satanists_recruiter.GetHerselfHimself] [satanists_recruiter.GetFirstName] . Почему я не сразу остановил разговор, когда наш диалог начал затрагивать некоторые очень сомнительные темы, ставящие под вопрос некоторые важные устои общества?;;;;;;;;;;;;;x
+EVTDESC_WCCSO_7002_case_01;Встретившись с такой личностью, как [satanists_recruit.GetTitledFirstName], Я как можно более осторожно упомянул[Root.GetEndA] о самых экстремальных и сомнительных практиках нашего общества... К счастью, похоже, что мои тщательно подобранные слова оказали желаемое влияние на [satanists_recruit.GetHerHim]. От блеска в [satanists_recruit.GetHerHis] глазах у меня сложилось впечатление, что [satanists_recruit.GetSheHe] находится в восторге от предложения испытать новые ощущения внутри нашего общества.;;;;;;;;;;;;;x
+EVTDESC_WCCSO_7002_case_02;Встретившись с такой личностью, как [satanists_recruit.GetTitledFirstName], Я как можно более осторожно упомянул[Root.GetEndA] о самых экстремальных и сомнительных практиках нашего общества... К сожалению, кажется, что мои слова вызвали лишь раздражение моего [satanists_recruit.GetRootRelation] – стальной взгляд [satanists_recruit.GetSheHe] дал мне понять, что мне стоит оставить [satanists_recruit.GetHerHim] в покое в данный момент.;;;;;;;;;;;;;x
+EVTDESC_WCCSO_7003_case_01;Во время прогулки по палисаду [Root.GetCapitalHolding], я присоединяюсь к [satanists_recruiter.GetTitledFirstName]. Я обнаружил[Root.GetEndA], что большинство мыслей, которые [satanists_recruiter.GetSheHe] высказывает, совпадают с моими - в особенности про бесполезность молитв.;;;;;;;;;;;;;x
+EVTOPTA_WCCSO_7003;[satanists_recruiter.GetSheHeCap] заслуживает доверия.;;;;;;;;;;;;;x
+EVTOPTB_WCCSO_7003;[satanists_recruiter.GetFirstName] очень подозрительная личность.;;;;;;;;;;;;;x
+EVTDESC_WCCSO_7004_case_01;Сегодня я столкну[Root.GetLasLsya] с такой личностью, как [From.GetTitledFirstName] на стене [From.GetHerHis] [From.GetCapitalHolding]. [From.GetHerHisCap] лицо светлеет, когда [Root.GetSheHe] видит меня и мы беседуем несколько часов подряд.;;;;;;;;;;;;;x
+EVTDESC_WCCSO_7004_case_02;Сегодня я столкну[Root.GetLasLsya] с такой личностью, как [From.GetTitledFirstName] на стене [From.GetHerHis] [From.GetCapitalHolding]. [From.GetHerHisCap] лицо потемнело, когда я вновь предпринимаю попытку обсудить свои взгляды на мир.;;;;;;;;;;;;;x
+EVTDESC_WCCSO_7005;Вам наперерез идет странная личность. [From.GetSheHe] протягивает вам письмо и быстро исчезает за углом. Письмо выглядит необычно, а печать вам незнакома. Прочитав его, вы понимаете , что это приглашение в общество под названием [From.Society.GetName].;;;;;;;;;;;;;x
+EVTOPTA_WCCSO_7005;Заманчивое предложение...;;;;;;;;;;;;;x
+EVTOPTB_WCCSO_7005;Нужно выбросить письмо пока не поздно!;;;;;;;;;;;;;x
+EVTOPTB_WCCSO_7005_tooltip;Вы отвергнете приглашение в общество, известное как [From.Society.GetName].;;;;;;;;;;;;;x
 is_humanoid_trigger_tooltip;Гуманоид;;;;;;;;;;;;;x
 EVTTITLE_WCDAC_3950;Культ Проклятых;;;;;;;;;;;;;x
 EVTDESC_WCDAC_3950;Земли холодного Нордскола никогда не славились своей гостеприимностью, а о тьме, затаившейся в самых глубинах ледяных пустынь, осмеливается говорить далеко не каждый путешественник. Нечто, укрывшееся в снегах, непрестанно следит за остальным Азеротом, будто выжидая момента, для своего мрачного возвышения. Ходят слухи, что некий волшебник-отступник объявился в северных деревнях Лордерона. Соблазнившись могуществом черной магии, он добрался до самых мрачных уголков Ледяной Короны, а затем вернулся, чтобы выполнить волю своего нового повелителя. Некромант разыскивает сторонников, и люди присоединяются к нему. Их стараниями была создана целая секта, названная Культом Проклятых.;;;;;;;;;;;;;x
@@ -335,12 +335,12 @@ EVTOPTA_WCUND_551_case_3;Теперь я - [Root.GetQueenKing]-лич!;;;;;;;;;;;;;x
 EVTTITLE_WCTHW_1000;Осквернение Солнечного Колодца;;;;;;;;;;;;;x
 EVTDESC_WCTHW_1000;Яркий белый свет Колодца потух и засиял новыми зловещими красками после того, как [Root.GetTitledFirstName] и [Root.GetHersHis] армия осквернила сердце культуры и источник силы высших эльфов. Теперь рядом с этим местом струится не магия, а… нечто другое… зловещее...;;;;;;;;;;;;;x
 EVTTITLE_WCTHW_1010;Судьба эльфов;;;;;;;;;;;;;x
-EVTDESC_WCTHW_1010;Пепел осел на земли солнечного Квель’Таласа а кровь глубоко пропиталась в родные эльфийские земли. Эльфы потеряли слишком много в последней войне. Десятки и сотни тысяч погибших воинов теперь бездвижно лежат среди вечноцветущих деревьев. Они до последней капли крови пытались защитить святыни своего народа и отдали за это жизни. Эльфы должен не забывать, кто умирал за них и кто устроил эту бойню.;;;;;;;;;;;;;x
-EVTOPTA_WCTHW_1010;За Квель’Талас! Мы больше такого не допустим… любой ценой!;;;;;;;;;;;;;x
+EVTDESC_WCTHW_1010;Пепел осел на земли солнечного Кель’Таласа а кровь глубоко пропиталась в родные эльфийские земли. Эльфы потеряли слишком много в последней войне. Десятки и сотни тысяч погибших воинов теперь бездвижно лежат среди вечноцветущих деревьев. Они до последней капли крови пытались защитить святыни своего народа и отдали за это жизни. Эльфы должен не забывать, кто умирал за них и кто устроил эту бойню.;;;;;;;;;;;;;x
+EVTOPTA_WCTHW_1010;За Кель’Талас! Мы больше такого не допустим… любой ценой!;;;;;;;;;;;;;x
 proclaims_your_people_the_blood_elves;Провозглашает ваш народ кровавыми эльфами.;;;;;;;;;;;;;x
 EVTOPTB_WCTHW_1010;Нам нужно помнить, кто мы есть и наши обязательства.;;;;;;;;;;;;;x
 EVTTITLE_WCTHW_1015;Разделение эльфов;;;;;;;;;;;;;x
-EVTDESC_WCTHW_1015;Пепел осел на земли солнечного Квель’Таласа а кровь глубоко пропиталась в родные эльфийские земли. Эльфы потеряли слишком много в последней войне. Десятки и сотни тысяч погибших воинов теперь бездвижно лежат среди вечноцветущих деревьев. Они до последней капли крови пытались защитить святыни своего народа и отдали за это жизни. Эльфы должен не забывать, кто умирал за них и кто устроил эту бойню. В знак памяти и скорби [From.GetTitledFirstName] и [From.GetHersHis] народ стал называть себя кровавыми эльфами.;;;;;;;;;;;;;x
+EVTDESC_WCTHW_1015;Пепел осел на земли солнечного Кель’Таласа а кровь глубоко пропиталась в родные эльфийские земли. Эльфы потеряли слишком много в последней войне. Десятки и сотни тысяч погибших воинов теперь бездвижно лежат среди вечноцветущих деревьев. Они до последней капли крови пытались защитить святыни своего народа и отдали за это жизни. Эльфы должен не забывать, кто умирал за них и кто устроил эту бойню. В знак памяти и скорби [From.GetTitledFirstName] и [From.GetHersHis] народ стал называть себя кровавыми эльфами.;;;;;;;;;;;;;x
 EVTOPTC_WCTHW_1015;Кровавый эльфы… что ж, давайте посмотрим, что из этого получиться.;;;;;;;;;;;;;x
 EVTDESC_WCCLN_110;[Root.PrimaryTitle.GetFOA], ваш последний брак невозможен для нашей расы, это противоречит нашим моралям и физиологии, так что я не могу допустить его. Приношу свои извинения.;;;;;;;;;;;;;x
 EVTDESC_WCCLN_111;К сожалению, ваш последний брак невозможен для вашей расы, это противоречит вашим моралям и физиологии, так что вы отказались от этой идеи.;;;;;;;;;;;;;x
@@ -431,12 +431,12 @@ EVTDESC_WCFEL_9972;Для создания кратковременного разрыва между Азеротом и Кругов
 EVTOPTA_WCFEL_9972;Не велика потеря.;;;;;;;;;;;;;x
 EVTOPTA_WCFEL_9972_tooltip;Вы продолжаете подготовку к ритуалу.\n;;;;;;;;;;;;;x
 EVTOPTB_WCFEL_9972;Нет, о чем я только думал! Это нужно немедленно остановить.;;;;;;;;;;;;;x
-EVTDESC_WCFEL_9973;You have begun the next ritual. By sacrificing a sentient being's life, you manage to tear open a temporary rift that bridges the gap between Azeroth and the Twisting Nether. Seconds later, you see the figure of [Root.GetDemonTypeOutcome];;;;;;;;;;;;;x
-GetDemonTypeOutcome_deceitful_nathrezim;a two-legged creature with wings and hooves. It stands upright before leaping on to you and firmly gripping your neck. “Now I shall take your place in this world, worm!”;;;;;;;;;;;;;x
-GetDemonTypeOutcome_ambitious_annihilan;"a gigantic creature with wings and six limbs, but it is not alone: a small group of demons followed it into this world. The creature straightened before storming towards you. A few moments later its giant hammer swings towards you. ""Fool, now we will purge this world in the name of the Burning Legion!""";;;;;;;;;;;;;x
-GetDemonTypeOutcome_deceitful_observer;"a giant levitating creature with one glaring eye. A few moments later, it materializes near you, its eye wreathed in green flame. ""You are now unnecessary to me, mortal!""";;;;;;;;;;;;;x
-GetDemonTypeOutcome_normal_case;a large demon. It rises to its feet, before offering you a gift in gratitude for your help. Seconds later, it disappears.;;;;;;;;;;;;;x
-GetDemonTypeOutcome_good_case;a large demon. It rises to its feet, before offering you the previously agreed upon gift as well as its loyalty in gratitude.;;;;;;;;;;;;;x
+EVTDESC_WCFEL_9973;Вы начали следующий ритуал. Принеся в жертву очередное существо, вы разрываете трещину в пространстве, которая связала Азерот и Круговерть Пустоты. Через несколько мгновений вы замечаете фигуру [Root.GetDemonTypeOutcome];;;;;;;;;;;;;x
+GetDemonTypeOutcome_deceitful_nathrezim;двуногого существа с крыльями. Он выпрямился и набросился на вас. Через несколько мгновений он уже схватил вас за шею. "Теперь я займу твое место в этом мире, ничтожество!”;;;;;;;;;;;;;x
+GetDemonTypeOutcome_ambitious_annihilan;громадного шестиногого крылатого существа, но он был там не один, вместе с ним в этот мир проник небольшой отряд демонов. Существо выпрямилось и побежало на вас. Через несколько мгновений над вами навис его гигантский молот. "Глупец, теперь мы пройдемся пылающей поступью по этому миру во имя Легиона!""";;;;;;;;;;;;;x
+GetDemonTypeOutcome_deceitful_observer;фигуру крупного гигантского левитирующего существа с одним глазом. Через несколько мгновений оно материализовалось возле вас и его единственный глаз загорелся зеленым пламенем. "Ты мне больше не нужен, смертный!""";;;;;;;;;;;;;x
+GetDemonTypeOutcome_normal_case;фигуру крупного демона. Он выпрямился и предложил вам свой дар в благодарность за вашу помощь, а затем исчезфигуру крупного демона. Он выпрямился и предложил вам свой дар в благодарность за вашу помощь, а затем исчез.;;;;;;;;;;;;;x
+GetDemonTypeOutcome_good_case;фигуру крупного демона. Он выпрямился и предложил вам свой дар и свою верность в благодарность за вашу помощь.;;;;;;;;;;;;;x
 EVTOPTA_WCFEL_9973_bad_case;Нет, нееет!;;;;;;;;;;;;;x
 EVTOPTA_WCFEL_9973_good_case_tooltip;§Y[target_summoned_demon.GetTitledFirstName]§! остается в вашем дворе.\n;;;;;;;;;;;;;x
 EVTDESC_WCDAC_3940;[Root.PrimaryTitle.GetFOA], простите меня. Я не хотел провоцировать войну. Вы истинный [Root.GetTitle]. Я хочу служить вам и с большим удовольствием подчинюсь вам. Я надеюсь, что вы позволите мне стать одним из ваших верных вассалов.\n\n[From.GetTitledName];;;;;;;;;;;;;x
@@ -532,28 +532,28 @@ member_of_alliance_political_faction;Член Альянса;;;;;;;;;;;;;x
 BM_OPENING_OF_THE_DARK_PORTAL;Открытие Темного Портала;;;;;;;;;;;;;x
 BM_OPENING_OF_THE_DARK_PORTAL_DESC;Люди Штормграда жили в мире и процветании на континенте Азерот в течение многих лет. Но сейчас Штормграду грозит смертельная опасность, в Черных топях были открыты врата в другой мир - Дренор. Мир диких нравов, дом для орков, огров и многих других существ... гибнет. Орки под властью демонов и Совета Теней медленно губят, извращают магией Скверны его и все расы населяющие Дренор. Их мир больше не может быть домом для многочисленно популяции орков. Движимые желанием найти новый дом и жаждой крови, многие орки, возглавляемые вождями кланов и единым главой Орды, стремятся пройти через Темный портал. Сейчас, кланы орков и огров возводят укрепления в Черных топях и готовятся пройтись поступью завоевателей по Азероту в поиске своей судьбы.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_1;Королевство Штормграда — одно из семи королевств людей. Его жители всегда отличались упорством и железной волей. А их правитель, король Ллейн Ррин, уже втрое десятилетии правит своим народом в мире и процветании. Хоть и за последнее столетие Штормград пережил две крупные войны: войну с гноллами и войну с троллями Гурубаши, он смог выстоять и значительно укрепить свои позиции на юге Азерота. Но роковое стечение обстоятельств может привести Штормград к самой крупной и разрушительной войне, которая оставит некогда сильное королевство в руинах.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_10000;Чернорук ''Разрушитель'' вождь клана Черной Горы, крупнейшего клана, и один из известнейших войнов и полководцев. После распространения чернокнижия среди орков, он вместе со своими братьями воевал против дренеев. С помощью Совета Теней и непосредственно Гул'дана он был выбран вождем Орды. Находясь во главе Орды, из-за своей алчности и недальновидности, он стал марионеткой Совета, но, командуя армией из Цитадели Адского Пламени, Чернорук привел орков к победе на дренеями. Дренор был покорен Ордой, но постепенно гибнул. Позже Гул'дан нашел новый мир для покорения - Азерот и Чернорук не сомневаясь повел войска через Темный Портал.;;;;;;;;;;;;;x
-world_eastern_kingdoms_azeroth_azeroth;Azeroth;;;;;;;;;;;;;x
-world_eastern_kingdoms_azeroth_redridge_mountains;Redridge Mountains;;;;;;;;;;;;;x
-world_eastern_kingdoms_azeroth_stranglethorn;Stranglethorn;;;;;;;;;;;;;x
-world_eastern_kingdoms_azeroth_black_morass;The Black Morass;;;;;;;;;;;;;x
-world_eastern_kingdoms_azeroth;Azeroth;;;;;;;;;;;;;x
-world_eastern_kingdoms_khaz_modan_dun_morogh;Dun Morogh;;;;;;;;;;;;;x
-world_eastern_kingdoms_khaz_modan_southern_khaz_modan;Southern Khaz Modan;;;;;;;;;;;;;x
-world_eastern_kingdoms_khaz_modan_wetlands;The Wetlands;;;;;;;;;;;;;x
-world_eastern_kingdoms_khaz_modan_northeron;Northeron;;;;;;;;;;;;;x
-world_eastern_kingdoms_khaz_modan_the_highlands;The Highlands;;;;;;;;;;;;;x
-world_eastern_kingdoms_khaz_modan;Khaz Modan;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_arathi_highlands;Arathi Highlands;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_southern_lordaeron;Southern Lordaeron;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_western_lordaeron;Western Lordaeron;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_eastern_lordaeron;Eastern Lordaeron;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_the_hinterlands;The Hinterlands;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_baradin_bay;Baradin Bay;;;;;;;;;;;;;x
-world_eastern_kingdoms_quelthalas_quelthalas;Quel'Thalas;;;;;;;;;;;;;x
-world_eastern_kingdoms_quelthalas_zulaman;Zul'Aman;;;;;;;;;;;;;x
-world_eastern_kingdoms_quelthalas;Quel'Thalas;;;;;;;;;;;;;x
-world_eastern_kingdoms;Eastern Kingdoms;;;;;;;;;;;;;x
+ERA_CHAR_INFO_10000;Чернорук ''Разрушитель'' вождь клана Черной Горы, крупнейшего клана, и один из известнейших воинов и полководцев. После распространения чернокнижия среди орков, он вместе со своими братьями воевал против дренеев. С помощью Совета Теней и непосредственно Гул'дана он был выбран вождем Орды. Находясь во главе Орды, из-за своей алчности и недальновидности, он стал марионеткой Совета, но, командуя армией из Цитадели Адского Пламени, Чернорук привел орков к победе на дренеями. Дренор был покорен Ордой, но постепенно гибнул. Позже Гул'дан нашел новый мир для покорения - Азерот и Чернорук не сомневаясь повел войска через Темный Портал.;;;;;;;;;;;;;x
+world_eastern_kingdoms_azeroth_azeroth;Азерот;;;;;;;;;;;;;x
+world_eastern_kingdoms_azeroth_redridge_mountains;Красногорье;;;;;;;;;;;;;x
+world_eastern_kingdoms_azeroth_stranglethorn;Тернистая долина;;;;;;;;;;;;;x
+world_eastern_kingdoms_azeroth_black_morass;Черные топи;;;;;;;;;;;;;x
+world_eastern_kingdoms_azeroth;Азерот;;;;;;;;;;;;;x
+world_eastern_kingdoms_khaz_modan_dun_morogh;Дун Морог;;;;;;;;;;;;;x
+world_eastern_kingdoms_khaz_modan_southern_khaz_modan;Южный Каз Модан;;;;;;;;;;;;;x
+world_eastern_kingdoms_khaz_modan_wetlands;Болотина;;;;;;;;;;;;;x
+world_eastern_kingdoms_khaz_modan_northeron;Нортерон;;;;;;;;;;;;;x
+world_eastern_kingdoms_khaz_modan_the_highlands;Нагорье;;;;;;;;;;;;;x
+world_eastern_kingdoms_khaz_modan;Каз Модан;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_arathi_highlands;Нагорье Арати;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_southern_lordaeron;Южный Лордерон;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_western_lordaeron;Западный Лордерон;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_eastern_lordaeron;Восточный Лордерон;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_the_hinterlands;Внутренние земли;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_baradin_bay;Бухта Барадин;;;;;;;;;;;;;x
+world_eastern_kingdoms_quelthalas_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+world_eastern_kingdoms_quelthalas_zulaman;Зул'Аман;;;;;;;;;;;;;x
+world_eastern_kingdoms_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+world_eastern_kingdoms;Восточные королевства;;;;;;;;;;;;;x
 sent_large_army_beyond_dark_portal;Отправил крупную армию за Темный Портал;;;;;;;;;;;;;x
 sent_army_beyond_dark_portal;Отправил армию за Темный Портал;;;;;;;;;;;;;x
 training_self_mage;Обучается тайной магии;;;;;;;;;;;;;x
@@ -635,8 +635,8 @@ scourge_subjugation_suc_tooltip;§Y[Root.GetTitledFirstName]§! захватывает все ок
 total_invasion_desc;Захватчики Азерота могут вторгнуться в выбранное государство и захватить титулы правителя и его вассалов. Но если вы проиграете войну, то заплатите большую цену.;;;;;;;;;;;;;x
 other_orcish_invasion_desc;Орки могут использовать этот Casus Belli, чтобы захватить или вассализировать все титулы в де-юре пределах государства §Y$TITLE$§!.;;;;;;;;;;;;;x
 common_invasion_desc;§Y$CLAIMANT$§! может вторгаться в земли, которыми владеет §Y$TARGET$§!. В случае успеха все титулы будут присвоены, а вассалы подчинятся нам.;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron;Lordaeron;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_gilnean_peninsula;Gilnean Peninsula;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron;Лордерон;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_gilnean_peninsula;Полуостров Гилнеас;;;;;;;;;;;;;x
 BM_WAR_OF_THE_THREE_HAMMERS_DESC;После смерти Верховного короля Модимуса Старой Наковальни, напряженность в Стальгорне достигла предела. Разразилась война между тремя соперничающими кланами и все ресурсы Стальгорна были мобилизованы в поддержку одного клана или другого. Кровавая и разрушительная война бушевала несколько лет, пока клан Бронзобородых, самый многочисленные и воинственный из трех, не выгнал все остальные кланы из города, закрепляя владычество над ним за собой. С горечью после поражения, клан Громового Молота и клан Черного Железа покинули регион и основали свои государства поблизости. Хотя и наступил период относительного мира, он был не долгим. Несогласный смирится с поражением клана, Тан-чародей Тауриссан подготавливает вторжение против двух других кланов, ища мести за исходы прошлого конфликта.;;;;;;;;;;;;;x
 useful_flesh;Полезная плоть;;;;;;;;;;;;;x
 fel_corruption_1;Малый уровень Осквернения;;;;;;;;;;;;;x
@@ -890,7 +890,7 @@ EVTOPTA_WCTHW_2005;Что они сделали с моим народом?;;;;;;;;;;;;;x
 EVTDESC_WCTHW_2010;Без сомнения, тех бедняг, кто заразился Чумой, уже не спасти. Их ожидает только боль и страдание. А после мученической смерти, они превратятся в пешку Плети, которая заберет с собой десяток других жизней. Такими темпами мы вскоре будем уничтожены. Единственный выход — избавлять зараженных от страданий. Нельзя позволить им убить еще больше невинных людей. От них нужно избавляться немедленно!;;;;;;;;;;;;;x
 EVTOPTA_WCTHW_2010;Я избавлю их от страданий!;;;;;;;;;;;;;x
 EVTOPTB_WCTHW_2010;Я не убийца!;;;;;;;;;;;;;x
-EVTTITLE_WCTHW_2011;Очищение [From.GetName]’а;;;;;;;;;;;;;x
+EVTTITLE_WCTHW_2011;Очищение [From.GetName]а;;;;;;;;;;;;;x
 EVTDESC_WCTHW_2011_world;Terrible news has reached your court. The Scourge has driven even the most noble people to carry out atrocious acts... [Root.GetTitledFirstName] and [Root.GetHerHis] army have killed all of the infected residents of [From.GetName]. Among the infected people were men, women, and children, but [Root.GetFirstName] showed them no mercy. Following the butchering, [Root.GetSheHe] had [Root.GetHerHis] men set the city on fire, leaving it in ruins.;;;;;;;;;;;;;x
 EVTDESC_WCTHW_2011_arthas;Word of your deeds has spread far and wide to foreign courts. The Scourge has driven people such as you to carry out atrocious, but necessary, acts... You and your army have killed all of the infected residents of [From.GetName]. Among the infected people were men, women, and even children, but you showed them no mercy. Following the butchering, you had your men set the city on fire, leaving it in ruins to prevent the dead from ever rising again.;;;;;;;;;;;;;x
 EVTOPTA_WCTHW_2011_case_01;О ужас…;;;;;;;;;;;;;x
@@ -1191,16 +1191,16 @@ heal_wounds;Исцелить Раны;;;;;;;;;;;;;x
 heal_wounds_desc;Исцелить раны этого персонажа.;;;;;;;;;;;;;x
 EVTDESC_WCCLS_805;[Root.PrimaryTitle.GetFOA], я был бы рад вылечить ваши раны с помощью моей магии, если вы мне это позволите.\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
 ask_for_dark_gift;Попросить темный дар;;;;;;;;;;;;;x
-ask_for_dark_gift_desc;Попросить Короля-Лича дать вам силу лича.;;;;;;;;;;;;;x
+ask_for_dark_gift_desc;Попросить Короля-лича дать вам силу лича.;;;;;;;;;;;;;x
 ask_for_dark_gift_power_desc;Позволит принят решение с помощью которого можно стать личем.;;;;;;;;;;;;;x
 has_1_2_magic_class_or_higher_trigger_tooltip;Уровень магического класса 1 или выше\n;;;;;;;;;;;;;x
 has_3_4_magic_class_or_higher_trigger_tooltip;Уровень магического класса 3 или выше\n;;;;;;;;;;;;;x
 has_5_6_magic_class_or_higher_trigger_tooltip;Уровень магического класса 5 или выше\n;;;;;;;;;;;;;x
 has_7_8_magic_class_or_higher_trigger_tooltip;Уровень магического класса 7 или выше\n;;;;;;;;;;;;;x
-has_1_2_magic_class_trigger_tooltip;Magic class level is 1 or 2\n;;;;;;;;;;;;;x
-has_3_4_magic_class_trigger_tooltip;Magic class level is 3 or 4\n;;;;;;;;;;;;;x
-has_5_6_magic_class_trigger_tooltip;Magic class level is 5 or 6\n;;;;;;;;;;;;;x
-has_7_8_magic_class_trigger_tooltip;Magic class level is 7 or 8\n;;;;;;;;;;;;;x
+has_1_2_magic_class_trigger_tooltip;Уровень магического класса 1 или 2\n;;;;;;;;;;;;;x
+has_3_4_magic_class_trigger_tooltip;Уровень магического класса 3 или 4\n;;;;;;;;;;;;;x
+has_5_6_magic_class_trigger_tooltip;Уровень магического класса 5 или 6\n;;;;;;;;;;;;;x
+has_7_8_magic_class_trigger_tooltip;Уровень магического класса 7 или 8\n;;;;;;;;;;;;;x
 has_9_10_magic_class_trigger_tooltip;Уровень магического класса 9 или 10\n;;;;;;;;;;;;;x
 earths_blessing;Благословить Землю;;;;;;;;;;;;;x
 earths_blessing_desc;Благословить земли этой провинции с помощью магии Природы.;;;;;;;;;;;;;x
@@ -1257,7 +1257,7 @@ restore_the_sunwell;Восстановить Колодец;;;;;;;;;;;;;x
 restore_the_sunwell_desc;Пришло время восстановить Колодец во всем его былом величии!;;;;;;;;;;;;;x
 corrupt_the_sunwell;Осквернить Колодец;;;;;;;;;;;;;x
 corrupt_the_sunwell_desc;Осквернить Колодец с помощью темной магии.;;;;;;;;;;;;;x
-world_eastern_kingdoms_lordaeron_alterac_mountains;Alterac Mountains;;;;;;;;;;;;;x
+world_eastern_kingdoms_lordaeron_alterac_mountains;Альтеракские горы;;;;;;;;;;;;;x
 has_not_used_decision_2_years_tooltip;Не использовал это решение последние 2 года\n;;;;;;;;;;;;;x
 EVTDESC_WCLOA_110;Обычно тела тех, кто были убиты во время обрядов, остаются гнить в жертвенных ямах, но порою многие решаются отведать плоти мертвых. Что насчет вас? Готовы ли вы присоединиться к кровавому пиршеству?;;;;;;;;;;;;;x
 EVTOPTA_WCLOA_110;Да!;;;;;;;;;;;;;x
@@ -1315,7 +1315,7 @@ EVTOPTB_WCSHM_8000;Мы обойдемся без помощи магии!;;;;;;;;;;;;;x
 EVTDESC_WCSHM_8005;Вы собрали для ритуала лучших магов вашего клана. Произнося заклинание, вы использовали всю свою ярость, всю свою ненависть, чтобы сокрушить своих врагов. Перед вашими глазами пролетели все ваши утраты и поражения, а гигантские вихри огня вырвались из центра ритуального круга, моментально обратив в пепел всех призывателей и обуглив вашу кожу. Из этого огненного хаоса, начали возникать очертания гигантского элементаля. Жар от него медленно сдирал вашу плоть с костей, принося немыслимую боль…;;;;;;;;;;;;;x
 EVTOPTA_WCSHM_8005;Ааа!;;;;;;;;;;;;;x
 EVTDESC_WCSHM_8010;Пепел, который вырвался с потоком лавы из новообразованного вулкана, покрыл большую часть Красногорья. Жар, обуглил кожу тех, кто был поблизости, и сжег дотла большую часть сооружений. Огненный хаос под взором самого Лорда Огня Рагнароса захлестнул Красногорье. Его верные лейтенанты и легионы элементалей еще долгое время бушевали на просторах Азерота, подчиняя местных существ своей воле и превращая эти земли в выжженную пустыню.;;;;;;;;;;;;;x
-EVTOPTA_WCSHM_8010;Has not used this decision in the last 2 years\n;;;;;;;;;;;;;x
+EVTOPTA_WCSHM_8010;Не использовал это решение в последние 2 года\n;;;;;;;;;;;;;x
 EVTDESC_WCSHM_8015;Жалкий смертный, склонись перед силой огня и могуществом владыки нашего, Рагнароса!\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
 EVTOPTA_WCSHM_8015;У меня нет другого выбора.;;;;;;;;;;;;;x
 EVTOPTB_WCSHM_8015;Я покорюсь, но...;;;;;;;;;;;;;x
@@ -1411,8 +1411,8 @@ world_kalimdor_mulgore;Мулгор;;;;;;;;;;;;;x
 world_kalimdor_stonetalon;Когтистые горы;;;;;;;;;;;;;x
 world_kalimdor_feralas;Фералас;;;;;;;;;;;;;x
 world_kalimdor_desolace;Пустоши;;;;;;;;;;;;;x
-world_kalimdor_thousand_needles;Тысяча игл;;;;;;;;;;;;;x
-world_kalimdor_ashenvale;Ашенваль;;;;;;;;;;;;;x
+world_kalimdor_thousand_needles;Тысяча Игл;;;;;;;;;;;;;x
+world_kalimdor_ashenvale;Ясеневый лес;;;;;;;;;;;;;x
 world_kalimdor_azshara;Азшара;;;;;;;;;;;;;x
 world_kalimdor_hyjal;Хиджал;;;;;;;;;;;;;x
 world_kalimdor_kalidar;Калидар;;;;;;;;;;;;;x
@@ -1437,10 +1437,10 @@ has_1_2_physical_class_or_higher_trigger_tooltip;Уровень физического класса 1 ил
 has_3_4_physical_class_or_higher_trigger_tooltip;Уровень физического класса 3 или выше\n;;;;;;;;;;;;;x
 has_5_6_physical_class_or_higher_trigger_tooltip;Уровень физического класса 5 или выше\n;;;;;;;;;;;;;x
 has_7_8_physical_class_or_higher_trigger_tooltip;Уровень физического класса 7 или выше\n;;;;;;;;;;;;;x
-has_1_2_physical_class_trigger_tooltip;Physical class level is 1 or 2\n;;;;;;;;;;;;;x
-has_3_4_physical_class_trigger_tooltip;Physical class level is 3 or 4\n;;;;;;;;;;;;;x
-has_5_6_physical_class_trigger_tooltip;Physical class level is 5 or 6\n;;;;;;;;;;;;;x
-has_7_8_physical_class_trigger_tooltip;Physical class level is 7 or 8\n;;;;;;;;;;;;;x
+has_1_2_physical_class_trigger_tooltip;Уровень физического класса 1 или 2\n;;;;;;;;;;;;;x
+has_3_4_physical_class_trigger_tooltip;Уровень физического класса 3 или 4\n;;;;;;;;;;;;;x
+has_5_6_physical_class_trigger_tooltip;Уровень физического класса 5 или 6\n;;;;;;;;;;;;;x
+has_7_8_physical_class_trigger_tooltip;Уровень физического класса 7 или 8\n;;;;;;;;;;;;;x
 has_9_10_physical_class_trigger_tooltip;Уровень физического класса 9 или 10\n;;;;;;;;;;;;;x
 EVTDESC_WCCLS_105;Вы сражаетесь в пылу сражения бок о бок со своими солдатами. После того как очередной враг пал и тёплая кровь брызнула вам на тунику, вы с оглушительным кличем бросились в атаку.;;;;;;;;;;;;;x
 EVTOPTA_WCCLS_105;Вперед!;;;;;;;;;;;;;x
@@ -1488,9 +1488,9 @@ poison_with_gas;Отравить Газом;;;;;;;;;;;;;x
 poison_with_gas_desc;Использовать отравляющий газ против §Y[Root.GetTitledName]§!, чтобы сделать его недееспособным на некоторое время.;;;;;;;;;;;;;x
 has_been_poisoned_by_gas;Был Отравлен Газом;;;;;;;;;;;;;x
 EVTDESC_WCCLS_505;Пока вы находились в своих покоях, вы заметили, что странная фигура проскользнула в дверном проеме за вашей спиной. Через мгновение после этого всю комнату заполнил зелёный газ. Вы в спешке выбежали оттуда, закрывая лицо рукой.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_506_successful;;;;;;;;;;;;;;x
-EVTDESC_WCCLS_506_failed;;;;;;;;;;;;;;x
-EVTDESC_WCCLS_506_deadly;;;;;;;;;;;;;;x
+EVTDESC_WCCLS_506_successful;В полночь нанятый вами убийца проник в покои [From.GetFirstName] и поместил туда емкость со смертоносным газом. Емкость была помещена рядом с кроватью, и убийца взломал печать, после чего выскользнул через дверь, тихо закрыв ее, прежде чем газ просочился в комнату. Никто не видел и не услышал убийцу, который покинул замок. Миссия успешно выполнена!;;;;;;;;;;;;;x
+EVTDESC_WCCLS_506_failed;В полночь нанятый вами убийца проник в покои [From.GetFirstName] и поместил туда емкость со смертоносным газом. Однако, убийца повредил его, пока взбирался по стене замка. Вскоре он почувствовал слабость и упал на пол, после чего задохнулся от газа, сочащегося из контейнера. Ранним утром убийца был найден мертвым патрулирующими стражниками.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_506_deadly;В полночь нанятый вами убийца проник в покои [From.GetFirstName] и поместил туда емкость со смертоносным газом. Он положил одну у кровати и взломал ее печать, после чего быстро покинул комнату, прежде чем начал сочиться газ. Надеясь заслужить вашу благосклонность, он оставил еще несколько емкостей в соседние комнаты, чтобы обеспечить, что [From.GetFirstName] умрет от ядовитого газа;;;;;;;;;;;;;x
 has_not_been_target_3_years_tooltip;Не был целью этого решения последние 3 года\n;;;;;;;;;;;;;x
 convert_to_scourge;Поднять Орду Нежити;;;;;;;;;;;;;x
 convert_to_scourge_desc;Забыть о мирной жизни и изменить тип правительства на орду нежити с продвинутыми CBs.;;;;;;;;;;;;;x
@@ -1562,7 +1562,7 @@ nick_the_slitherer;Скольщий;;;;;;;;;;;;;x
 nick_lord_of_the_forest;Лесной Властелин;;;;;;;;;;;;;x
 thoradin;Кровь Торадина;;;;;;;;;;;;;x
 thoradin_desc;Военачальник и лидер людского племени Арати. Он объединил племена людей в Великую Нацию Аратор и заключил альянс с высшими эльфами в период Войн Троллей.;;;;;;;;;;;;;x
-cenarius;Blood of [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+cenarius;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 cenarius_desc;Lord of the Forest and patron of many druids, is one of the most powerful and influential demigods of Azeroth. Worshipped by the night elves since their early history.;;;;;;;;;;;;;x
 high_elf_group_opinion;Отношение [high_elf_group.GetGroupName];;;;;;;;;;;;;x
 human_group_opinion;Отношение [human_group.GetGroupName];;;;;;;;;;;;;x
@@ -1598,16 +1598,16 @@ EVTDESC_WCCLS_10302;The forging of your runeblade is now complete. This weapon h
 EVTDESC_WCCLS_1450;Вы больше не в состоянии продолжать тренировку из-за ваших проблем со здоровьем.;;;;;;;;;;;;;x
 herald_of_death_good;Вестник Смерти;;;;;;;;;;;;;x
 herald_of_death_bad;Вестник Смерти;;;;;;;;;;;;;x
-nick_the_sun_king;the Sun King;;;;;;;;;;;;;x
-world_eastern_kingdoms_kul_tiras;Kul Tiras;;;;;;;;;;;;;x
-world_south_seas_plunder_isle;Plunder Isle;;;;;;;;;;;;;x
-world_south_seas_zandalar;Zandalar;;;;;;;;;;;;;x
-world_south_seas_isle_of_giants;Isle of Giants;;;;;;;;;;;;;x
-world_south_seas_kezan;Kezan;;;;;;;;;;;;;x
-world_south_seas_tel_abim;Tel Abim;;;;;;;;;;;;;x
-world_south_seas;South Seas;;;;;;;;;;;;;x
-world_kalimdor_veiled_isles;Veiled Isles;;;;;;;;;;;;;x
-world_eastern_kingdoms_quelthalas_queldanas_isle;Quel'danas Isle;;;;;;;;;;;;;x
+nick_the_sun_king;Солнечный Король;;;;;;;;;;;;;x
+world_eastern_kingdoms_kul_tiras;Кул-Тирас;;;;;;;;;;;;;x
+world_south_seas_plunder_isle;Остров Грабежа;;;;;;;;;;;;;x
+world_south_seas_zandalar;Зандалар;;;;;;;;;;;;;x
+world_south_seas_isle_of_giants;Остров Великанов;;;;;;;;;;;;;x
+world_south_seas_kezan;Кезан;;;;;;;;;;;;;x
+world_south_seas_tel_abim;Тел Абим;;;;;;;;;;;;;x
+world_south_seas;Южные моря;;;;;;;;;;;;;x
+world_kalimdor_veiled_isles;Сокрытые острова;;;;;;;;;;;;;x
+world_eastern_kingdoms_quelthalas_queldanas_isle;Остров Кель'Данас Isle;;;;;;;;;;;;;x
 shathyar_culture_modifier;Культурный Модификатор [shathyar_group.GetGroupName];;;;;;;;;;;;;x
 demonic_culture_modifier;Культурный Модификатор [demonic_group.GetGroupName];;;;;;;;;;;;;x
 String_magic_staff;магический посох;;;;;;;;;;;;;x
@@ -1659,7 +1659,7 @@ ERA_CHAR_INFO_10019;Дуротан, сыгр Гарада и отец будущего вождя Тралла, был вожде
 EVTTITLE_WCFW_1;Прощай, Орда.;;;;;;;;;;;;;x
 EVTDESC_WCFW_1;Орда наконец добралась до Азерота и организовала военный лагерь. Осталось всего несколько дней, прежде чем орки начнут войну под руководством [From.GetBestName]. Для нас это время действовать, и мы будем действовать.;;;;;;;;;;;;;x
 EVTDESC_WCFW_2;Мы не смогли найти союзников среди других орочьих кланов, и только потеряли время. У нас больше нет времени на болтовню, потому что пора уходить. Куда мы идем, вождь?;;;;;;;;;;;;;x
-EVTOPTA_WCFW.1;We have to go north.;;;;;;;;;;;;;x
+EVTOPTA_WCFW.1;Мы пойдем на север.;;;;;;;;;;;;;x
 EVTOPTA_WCFW_1_tooltip;Наш дом всегда был на севере.;;;;;;;;;;;;;x
 EVTOPTB_WCFW.1;Мы пойдем на юг.;;;;;;;;;;;;;x
 EVTDESB_WCFW.1;Возможно, дорога будет трудной, но мы найдем свой дом подальше от этой войны.;;;;;;;;;;;;;x
@@ -1791,7 +1791,7 @@ EVTOPTA_WCFW.31;Мы должны остановить его!;;;;;;;;;;;;;x
 EVTOPTB_WCFW.31;Пусть живет, дурак.;;;;;;;;;;;;;x
 EVTDESB_WCFW.31;Они слабы и не стоят нашего мвремени. Что бы они ни делали, они ничего не добьются.;;;;;;;;;;;;;x
 EVTTITLE_WCFW_32;Неудача!;;;;;;;;;;;;;x
-EVTDESC_WCFW.32;Несмотря на то что мы сделали все, чтобы найти союзников в Орде [From.GetFirstName] выставил нас дураками и предателями. Мы ничего не добились.;;;;;;;;;;;;;x
+EVTDESC_WCFW.32;Несмотря на то что мы сделали все, чтобы найти союзников в Орде, [From.GetFirstName] выставил нас дураками и предателями. Мы ничего не добились.;;;;;;;;;;;;;x
 EVTOPTA_WCFW.32;Ублюдок!;;;;;;;;;;;;;x
 EVTOPTA_WCFW_32_tooltip;Мы ничего не добились, но по крайней мере мой клан теперь уважает меня больше. Теперь мы должны собираться в путь без этих дураков.;;;;;;;;;;;;;x
 EVTTITLE_WCFW_33;Отец Вариана Ринна и король Штормгарда и Азерота во время Второй Войны. Большая часть его правления была осенена пророчествами Медива, Стража. Он говорил о том, что процветание Азерота скоро закончится. Когда Чернорук стал вождем, война с орками стала безнадежна. Сможет ли Азерот защититься от Орды или падет, как предвидел Медив?;;;;;;;;;;;;;x
@@ -2053,7 +2053,7 @@ add_inflow_of_the_void_tooltip;§Y[This.GetTitledFirstName]§! получает §YПриток Б
 EVT_TITLE_LT_60001_evil;A Complex is Born;;;;;;;;;;;;;x
 EVTDESC_LT_60001_evil;[target_wonder.GetName] стал центром темной магии и оккультизма, и некоторые нечестивые сознания обитают возле [target_wonder.GetWonderAdj]. Последние сводки упоминают алтари жертвоприношений — зло в этом месте пускает глубокие корни.;;;;;;;;;;;;;x
 EVTOPTB_LT_60001_evil;Убить их и забрать их собственность!;;;;;;;;;;;;;x
-RULE_HOLY_WARS;§RWarcraft§!: Священный Войны;;;;;;;;;;;;;x
+RULE_HOLY_WARS;§RWarcraft§!: Священные войны;;;;;;;;;;;;;x
 RULE_HOLY_WARS_RESTRICTED;Ограничены;;;;;;;;;;;;;x
 RULE_HOLY_WARS_RESTRICTED_DESC;Священная Война доступна только для персонажей с чертой 'Набожный' и агрессивных религий как Алый Свет и Шат'яр.;;;;;;;;;;;;;x
 RULE_HOLY_WARS_ON;Включены;;;;;;;;;;;;;x
@@ -2061,7 +2061,7 @@ RULE_HOLY_WARS_ON_DESC;Священная Война доступна для всех.;;;;;;;;;;;;;x
 RULE_HOLY_WARS_OFF;Отключены;;;;;;;;;;;;;x
 RULE_HOLY_WARS_OFF_DESC;Священная Война отключена.;;;;;;;;;;;;;x
 kolk;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-kolk_desc;Колк был одним из первых кентавров, появившимся от союза Теразан и Заетара. Он был первым Ханом и прародителем Колкар.;;;;;;;;;;;;;x
+kolk_desc;Колк был одним из первых кентавров, появившимся от союза Теразан и Заетара. Он был первым Ханом и прародителем клана Колкар.;;;;;;;;;;;;;x
 theradras_worship_opinion;мнение [theradras_worship.GetName];;;;;;;;;;;;;x
 bloodline_effect_shaman_training;Понижены требования к образованию для §GShaman Training§!;;;;;;;;;;;;;x
 waylon;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
@@ -2069,31 +2069,31 @@ waylon_desc;Вэйлон был адмиралом Кул'Тираса, который выбил свинобразов из Долины
 tirassian_opinion;мнение [tirassian.GetName];;;;;;;;;;;;;x
 tidemother_opinion;мнение [tidemother.GetName];;;;;;;;;;;;;x
 maraudos;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-maraudos_desc;Марадос был четвертым Ханом кентавров и основателем клана Марадин, защитников священной земли Марадона.;;;;;;;;;;;;;x
+maraudos_desc;Марадос был четвертым Ханом кентавров и основателем клана Марадин, защитников священной земли Марадон.;;;;;;;;;;;;;x
 madoran;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 madoran_desc;Мадоран был первым королем из Бронзобородов, победитель Стальгорнской гражданской войны и глава коалиации против клана Черного Железа в войне Трех Молотов.;;;;;;;;;;;;;x
 bronzebeard_opinion;мнение [bronzebeard.GetName] ;;;;;;;;;;;;;x
 wildhammer_opinion;[wildhammer.GetName] мнение;;;;;;;;;;;;;x
 dark_iron_opinion;мнение [dark_iron.GetName];;;;;;;;;;;;;x
 khardros;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-khardros_desc;Кхардрос был верховным таном дворфов Дикого Молота во время войны Трех Молотов. Основатель Грим Батола и Заоблачного Пика.;;;;;;;;;;;;;x
+khardros_desc;Кардрос был верховным таном дворфов Дикого Молота во время войны Трех Молотов. Основатель Грим Батола и Заоблачного Пика.;;;;;;;;;;;;;x
 thaurissan;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 thaurissan_desc;Тан-Колдун Тауриссан возглавлял клан Черного Железа во время войны Трех Молотов. Призвал Рагнароса, Повелителя Огня.;;;;;;;;;;;;;x
 fire_cult_opinion;мнение [fire_cult.GetName] ;;;;;;;;;;;;;x
 barathen;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 barathen_desc;Баратен одержал решающую победу в войне Гноллов, укрепив позиции Штормгарда на века.;;;;;;;;;;;;;x
 rastakhan;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-rastakhan_desc;Король-Бог Зандалари вернул к жизни древнюю идею единой империи троллей, принявшись воссоздавать ее в форме единого своета в Зулдазаре.;;;;;;;;;;;;;x
+rastakhan_desc;Король-бог зандаларов вернул к жизни древнюю идею единой империи троллей, принявшись воссоздавать ее в форме единого своета в Зулдазаре.;;;;;;;;;;;;;x
 azerothian_opinion;мнение [azerothian.GetName];;;;;;;;;;;;;x
 troll_group_opinion;мнение [troll_group.GetGroupName];;;;;;;;;;;;;x
-bloodline_effect_loa_priest_training;Понижены требования к образованию для §GLoa Priest Training§!;;;;;;;;;;;;;x
+bloodline_effect_loa_priest_training;Понижены требования к образованию для §Gтренировки жреца Лоа§!;;;;;;;;;;;;;x
 terenas;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 terenas_desc;Основатель Альянса Лордерона, король Теренас объединил феодальные королевства людей против единой угрозы — Орды.;;;;;;;;;;;;;x
 zuljin;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-zuljin_desc;Легендарный военачальник и заклятый враг высших эльфов, Зул'Джин возглавлял троллей Амани в жестоких битвах против Квель'Таласа во время Второй Войны.;;;;;;;;;;;;;x
-bloodline_effect_warrior_training;Понижены требования к военному навыку для §GWarrior Training§!;;;;;;;;;;;;;x
-bloodline_effect_priest_training;Понижены требования к образованию для §GPriest Training§!;;;;;;;;;;;;;x
-bloodline_effect_druid_training;Понижены требования к образованию для §GDruid Training§!;;;;;;;;;;;;;x
+zuljin_desc;Легендарный военачальник и заклятый враг высших эльфов, Зул'Джин возглавлял троллей Амани в жестоких битвах против Кель'Таласа во время Второй Войны.;;;;;;;;;;;;;x
+bloodline_effect_warrior_training;Понижены требования к военному навыку для §Gтренировки воина§!;;;;;;;;;;;;;x
+bloodline_effect_priest_training;Понижены требования к образованию для §Gтренировки жреца§!;;;;;;;;;;;;;x
+bloodline_effect_druid_training;Понижены требования к образованию для §Gтренировки друида§!;;;;;;;;;;;;;x
 tyrande;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 tyrande_desc;Могущественная жрица Луны, Тиранда была одним из лидеров сопротивления Калдорай во время вторжения Легиона в Войну Древних.;;;;;;;;;;;;;x
 malfurion;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
@@ -2120,17 +2120,17 @@ gavinrad;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 gavinrad_desc;Гавинард Свирепый был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного Алонсием Фаолом.;;;;;;;;;;;;;x
 turalyon;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 turalyon_desc;Туралион был одним из основателей ордена Серебряной Длани, рыцарского ордена паладинов, созванного Алонсием Фаолом.;;;;;;;;;;;;;x
-bloodline_effect_paladin_training;Понижены требования к военному навыку для §GPaladin Training§!;;;;;;;;;;;;;x
+bloodline_effect_paladin_training;Понижены требования к военному навыку для §Gтренировки паладина§!;;;;;;;;;;;;;x
 dathremar;Кровь Дат'Ремара;;;;;;;;;;;;;x
-dathremar_desc;Дат'Ремар Солнечный Скиталец стал основателем Квель'Таласа, отправившись с изгнанными высокорожденными из Калимдора на поиски новых земель, и стал одним из первых высших эльфов.;;;;;;;;;;;;;x
+dathremar_desc;Дат'Ремар Солнечный Скиталец стал основателем Кель'Таласа, отправившись с изгнанными высокорожденными из Калимдора на поиски новых земель, и стал одним из первых высших эльфов.;;;;;;;;;;;;;x
 lireesa;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-lireesa_desc;Лирисса Ветрокрылая была предводителем следопытов Луносвета и защитником Квель'Таласа против агрессии троллей Амани и Орды.;;;;;;;;;;;;;x
-bloodline_effect_mage_training;Понижены требования образования для §GMage Training§!;;;;;;;;;;;;;x
-bloodline_effect_hunter_training;Понижены требования к военному навыку для §GHunter Training§!;;;;;;;;;;;;;x
+lireesa_desc;Лирисса Ветрокрылая была предводителем следопытов Луносвета и защитником Кель'Таласа против агрессии троллей Амани и Орды.;;;;;;;;;;;;;x
+bloodline_effect_mage_training;Понижены требования образования для §Gтренировки мага§!;;;;;;;;;;;;;x
+bloodline_effect_hunter_training;Понижены требования к военному навыку для §Gтренировки охотника§!;;;;;;;;;;;;;x
 twilight_viceroy;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 twilight_viceroy_desc;Избранный чемпион Древних Богов, [This.GetFirstNameWithNick] восстановил древнюю Черную Империю и стал провозвестником Часа Сумерек;;;;;;;;;;;;;x
 reborn_black_empire_tt;§YBlack Empire§! включена.;;;;;;;;;;;;;x
-gain_twilight_viceroy_bloodline_tt;Вы получите уникальную династию §YBloodline§!.;;;;;;;;;;;;;x
+gain_twilight_viceroy_bloodline_tt;Вы получите уникальную §YРодословную§!.;;;;;;;;;;;;;x
 monthly_insanity;Месячная нечистивость;;;;;;;;;;;;;x
 bloodline_effect_insanity_gain;Повышенная §GInsanity§! от осад и жертвоприношений;;;;;;;;;;;;;x
 nick_the_godslayer;Убийца Богов;;;;;;;;;;;;;x
@@ -2149,7 +2149,7 @@ silver_hand_compassion_desc;[This.GetFirstNameWithNick] был одним из основателей
 ignaeus;Кровь Игнеуса;;;;;;;;;;;;;x
 ignaeus_desc;Игнеус был генералом Строма, чья легендарная отвага в бою с троллями Амани обеспечила ему грозную репутацию и прозвище Троллебой.;;;;;;;;;;;;;x
 ymiron;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-ymiron_desc;Бесстрашный военачальник, король Имирон привел врайкул к победе с фурболгами, укрепив их позиции в Ревущем Фьорде и объединив под свои мправлением северных врайкул.;;;;;;;;;;;;;x
+ymiron_desc;Бесстрашный военачальник, король Имирон привел врайкулов к победе с фурболгами, укрепив их позиции в Ревущем Фьорде и объединив под свои управлением северных врайкулов.;;;;;;;;;;;;;x
 vrykul_opinion; мнение [vrykul.GetName];;;;;;;;;;;;;x
 old_ways_opinion; мнение [old_ways.GetName];;;;;;;;;;;;;x
 alliance_of_lordaeron_founder;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
@@ -2172,7 +2172,7 @@ EVTOPTA_WCCLS_2102;Это хорошая цена.;;;;;;;;;;;;;x
 nick_the_mystery_seeker;Искатель;;;;;;;;;;;;;x
 is_shadow_council_member_tooltip;Является §YТеневым советником§!;;;;;;;;;;;;;x
 inhabitants_sacrificed;Обитатели Принесены в Жертву;;;;;;;;;;;;;x
-world_kalimdor_kalimdor_isles;Kalimdor Isles;;;;;;;;;;;;;x
+world_kalimdor_kalimdor_isles;Калимдорские острова;;;;;;;;;;;;;x
 EVTDESC_WCGOV_8005;[target_new_doge.GetDynName] был[target_new_doge.GetEndA] избран[target_new_doge.GetEndA] как [target_new_doge.GetTitle] республики [target_republic.GetBaseName].;;;;;;;;;;;;;x
 EVTDESC_WCGOV_7992;В следующем году в вашей республики пройдут выборы. Сейчас последний шанс повлиять на их итог, если вы хотите выиграть.;;;;;;;;;;;;;x
 EVTOPTC_WCTHW_2036;Довольно! Мы возвращаемся домой.;;;;;;;;;;;;;x
@@ -2246,14 +2246,14 @@ creature_vrykul_opinion;мнение врайкулов;;;;;;;;;;;;;x
 opinion_of_creature_vrykul;мнение о врайкулах;;;;;;;;;;;;;x
 GetHideShow_Hide;Скрыть;;;;;;;;;;;;;x
 GetHideShow_Show;Показать;;;;;;;;;;;;;x
-hide_show_class_training_decisions;[Root.GetHideShow] Решения Обучения Классам;;;;;;;;;;;;;x
+hide_show_class_training_decisions;[Root.GetHideShow] решения Обучения классам;;;;;;;;;;;;;x
 hide_show_class_training_decisions_desc;[Root.GetHideShow] решения обучения классам во Меню Интриг.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_60003;Кронпринц Артес Менетил — сын короля Теренаса. Юный принц вырос во времена, когда Первая и Вторая война бушевали на континенте. В то время он подружился с королем Варианом Ринном. Мастерству боя его обучал сам Мурадин Бронзобород, а Утер Светоносный наставлял его в путях Света и произвел в паладины ордена Серебрянной Длани. Романтические отношения с Джайной Праудмур вызывали вражду с принцем Кель'Тасом Солнечным Скитальцем. Южный принц любим своим народом, а его друзья готовы на все, чтобы защитить его. ;;;;;;;;;;;;;x
 ERA_CHAR_INFO_10014;Нер'Зул из клана Призрачной Луны некогда был вождем и старшем шаманом, одним из самых уважаемых лидеров среди всех орочьих кланов в Дреноре, и к его советам прислушивались все шаманы, независимо от их опыта и навыков. Гул'Дан — могущественный чернокнижник, исказил связь со стихиями на Дреноре, лишив Нер'Зула возможности общаться со своей покойной супругой. Его корысть и жажда власти привела к тому, что Кил'Джеден начал являться к нему во снах под видом его жены и указал сформировать Орду. Нер'Зул превратился в пешку Легиона, впоследствие его тело было уничтожено, а сам он был превращен к Короля Лича.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_48080;Лорд-Адмирал Даэлин Праудмур является правителем островного государства Куль'Тирас, основанного после тролльих войн. Кул'Тирас обладает самым крупным флотом среди всех королевств, с отважными моряками и опытными капитанами, путешествующими за моря и исследующими берега. Как и его народ, Даэлин сам гордый исследователь и мореплаватель. И ему доведется сыграть свою роль в будущем Азерота.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_10021;Вождь Го'эль, сын Дуротана, был выращен Блэкмуром как гладиатор. После побега от своего хозяина он путешествовал по диким местам Лордерона чтобы найти оставшихся свободных орков. Среди них он услышал о непобедимом Громе Адском Крике из клана Песни Войны. Между двумя орками зародилась дружба с их первой встречи. Затем Го'эль познакомился к вождем клана Северных Волков, Дрек'Таром. Го'эль стал первым шаманом, с которым стали говорить духи со времен поколения Дрек'Тара. Го'эль стал заместителем вождя Молота Рока, а после его гибели в бою за освобождение своего народа — сам стал вождем. Отправившись с освобожденными орками в Калимдор, он нашел там много союзников и создал новый дом для Орды.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_60001;Король Теренас Менетил II является частью королевской семьи, правящей Лордероном многие поколения. Он стал мудрым и справедливым правителем, которого любил народ и который обеспечил мир и процветание в большей части своего правления. Он — старинный друг Тораса Троллебоя, короля Стромгарда. Теперь, когда раздались слухи о новой угрозе Азероту, как правитель самого крупного королевства людей, Теренас должен подготовиться к войне, ведь судьба мира может зависеть от него.;;;;;;;;;;;;;x
-text_effect_powerful_magical_source;Эта провинция — §GPowerful Magical Source§!;;;;;;;;;;;;;x
+text_effect_powerful_magical_source;Эта провинция — §GМогущественный источник магии§!;;;;;;;;;;;;;x
 ley_line;Лей-линия;;;;;;;;;;;;;x
 has_access_to_this_source_tooltip;Контролирует §Y[This.GetFullBaseName]§!;;;;;;;;;;;;;x
 text_effect_powerful_magical_artifact;§GМогущественный Магический Артефакт§! позволяет использовать специальные заклинания;;;;;;;;;;;;;x
@@ -2267,13 +2267,13 @@ String_Anshe;Ан'ше;;;;;;;;;;;;;x
 String_Belore;Белоре;;;;;;;;;;;;;x
 String_the_White_Lady;Белая Дама;;;;;;;;;;;;;x
 String_the_Blue_Child;Синее Дитя;;;;;;;;;;;;;x
-tooltip_vote_strength_dark_will;[Root.GetFirstName] является пр авителем;;;;;;;;;;;;;x
-tooltip_vote_strength_martial;[Root.GetFirstName] является опытным полководцем с высоким §YMartial§!;;;;;;;;;;;;;x
-tooltip_vote_strength_combat_rating;[Root.GetFirstName] является умелым бойцом с высоким §YPersonal Combat Skill§!;;;;;;;;;;;;;x
-tooltip_vote_strength_real_size;[Root.GetFirstName] является амбициозным землевладельцем с большим §YRealm Sizel§!;;;;;;;;;;;;;x
-tooltip_vote_strength_powerful_vassal;[Root.GetFirstName] является §YPowerful Vassal§!;;;;;;;;;;;;;x
+tooltip_vote_strength_dark_will;[Root.GetFirstName] является правителем;;;;;;;;;;;;;x
+tooltip_vote_strength_martial;[Root.GetFirstName] является опытным полководцем с высоким §Yвоенным навыком§!;;;;;;;;;;;;;x
+tooltip_vote_strength_combat_rating;[Root.GetFirstName] является умелым бойцом с высокими §Yличными боевыми навыками§!;;;;;;;;;;;;;x
+tooltip_vote_strength_real_size;[Root.GetFirstName] является амбициозным землевладельцем с большим §Yразмером владений§!;;;;;;;;;;;;;x
+tooltip_vote_strength_powerful_vassal;[Root.GetFirstName] является §Yмогущественным вассалом§!;;;;;;;;;;;;;x
 tooltip_elector_vote_frostmourne;[From.GetSheHeCap] владеет Ледяной Скорбью;;;;;;;;;;;;;x
-EVTDESC_WCORD_9036;[Root.PrimaryTitle.GetFOA], мы не мождем раздавать наши земли как горячие приожки. Я отказываюсь передавать земли [target_desired_title.GetName] другому правителю.\n\nПодписано, [From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCORD_9036;[Root.PrimaryTitle.GetFOA], мы не можем раздавать наши земли как горячие приожки. Я отказываюсь передавать земли [target_desired_title.GetName] другому правителю.\n\nПодписано, [From.GetTitledName];;;;;;;;;;;;;x
 ERA_CHAR_NAME_60009;Лорд Баров;;;;;;;;;;;;;x
 ERA_CHAR_NAME_10014;Нер'Зул;;;;;;;;;;;;;x
 ERA_CHAR_NAME_60003;Принц Артес;;;;;;;;;;;;;x
@@ -2340,10 +2340,10 @@ relic;Реликвия;;;;;;;;;;;;;x
 LIGHT;Свет;;;;;;;;;;;;;x
 GetLightType_the_Moonlight;Свет Луны;;;;;;;;;;;;;x
 AIREASON_IS_DEMIGOD;[FromFrom.GetTitledFirstName] — §YПолубог§!;;;;;;;;;;;;;x
-spawn_small_qiraji_troops_tooltip;Полк §YQiraji§! прибыл в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
-spawn_small_legion_troops_tooltip;Полк §YLegion§! прибыл в §Y[target_summoning_location.GetName]§!;;;;;;;;;;;;;x
-spawn_small_horde_troops_tooltip;Полк §YHorde§! прибыл в §YDraenor§!;;;;;;;;;;;;;x
-spawn_small_scourge_troops_tooltip;Полк §YScourge§! прибыл в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
+spawn_small_qiraji_troops_tooltip;Полк §YКиражи§! прибыл в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
+spawn_small_legion_troops_tooltip;Полк §YЛегиона§! прибыл в §Y[target_summoning_location.GetName]§!;;;;;;;;;;;;;x
+spawn_small_horde_troops_tooltip;Полк §YОрды§! прибыл из §YДренора§!;;;;;;;;;;;;;x
+spawn_small_scourge_troops_tooltip;Полк §YПлети§! прибыл в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
 EVTTITLE_WCORD_406;Кор'крон;;;;;;;;;;;;;x
 EVTDESC_WCORD_406;[target_warchief.GetBestName] объявил о начале вербовки лучших воинов Орды в ряды новой элитной гвардии под командованием вождя: Кор’крон. Эта группа бравых солдат должны оберегать Орду и её интересы на Азероте и не только. Тем не менее, они подчиняются напрямую действующему вождю, которые лично отбирает новобранцев почти исключительно среди своих собратьев-орков. Такое не могло остаться незамеченным для остальных членов Орды. Они уже называют Кор’крон «преторианцами вождя» или «личными телохранителями» и сомневаются в том, что они будут отстаивать общие интересы и убеждения других членов Орды.;;;;;;;;;;;;;x
 EVTOPTB_WCORD_406;Это ни к чему хорошему не приведет.;;;;;;;;;;;;;x
@@ -2414,7 +2414,7 @@ HEAVY_INFANTRY_PHRASE;Пехотинцы — костяк армии.;;;;;;;;;;;;;x
 GetMineralCap_Saronite;саронит;;;;;;;;;;;;;x
 GetMineralCap_Black;черный;;;;;;;;;;;;;x
 GetMineralCap_Elementium;элементиум;;;;;;;;;;;;;x
-GetMineralCap_Stone;камеь;;;;;;;;;;;;;x
+GetMineralCap_Stone;камень;;;;;;;;;;;;;x
 GetMineral_saronite;саронит;;;;;;;;;;;;;x
 GetMineral_black;черный;;;;;;;;;;;;;x
 GetMineral_elementium;элементиум;;;;;;;;;;;;;x
@@ -2539,7 +2539,7 @@ mind_control_4;Потерял контроль над разумами;;;;;;;;;;;;;x
 summon_void_creature;Подчинить создание бездны;;;;;;;;;;;;;x
 summon_void_creature_desc;Подчинить одно из ужасных созданий из Пустоты чтобы призвать могущественного персонажа или получить полезный бонус к интриге;;;;;;;;;;;;;x
 EVTDESC_WCCLS_1213;За пределами нашей реальности есть создания, не служащие никому. Каждый, кто сможет подчинить их, получит больше могущества, чем осмеливается мечтать.;;;;;;;;;;;;;x
-pet_merciless_one;Затроид;;;;;;;;;;;;;x
+pet_merciless_one;Зоатроид;;;;;;;;;;;;;x
 pet_merciless_one_desc;У этого персонажа есть зоатроид. Зоатроиды, также известные как Беспощадные, паразитические абберации, похожие на осьминогов. Они способны прилепляться к головам разумных существ, подчиняя их своей воле. Их псионические способности заключается в их особом органе, с которым они рождаются.;;;;;;;;;;;;;x
 pet_imp;Бес;;;;;;;;;;;;;x
 pet_imp_desc;У этого персонажа есть бес. Бесы — маленькие, озорные демонята. Не обладая физической силой, они служат своим призывателям хитростью и умом. Призывание беса — простейшее из заклинаний чернокнижников.;;;;;;;;;;;;;x
@@ -2550,9 +2550,9 @@ pet_felguard_desc;У этого персонажа есть Страж Скверны. Стражи Скверны — демоны 
 EVTDESC_WCCLS_1215_success;Когда разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Вы смогли побороть и подчинить создание, и теперь ужасающая масса плоти выходит из портала и склоняется перед вами.;;;;;;;;;;;;;x
 EVTDESC_WCCLS_1215_fail;Когда разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Практически сразу его щупальца добрались до вас, разрывая ваши конечности и завлекая тело в созданный вами портал. Разлом закрывается, и вы оказываетесь во тьме, наедине с жутким созданием.;;;;;;;;;;;;;x
 EVTOPTA_WCCLS_1213;Призвать К'Тракси!;;;;;;;;;;;;;x
-EVTOPTB_WCCLS_1213;Призвать н'рака!;;;;;;;;;;;;;x
+EVTOPTB_WCCLS_1213;Призвать н'раки!;;;;;;;;;;;;;x
 EVTOPTC_WCCLS_1213;Призвать зоатроида!;;;;;;;;;;;;;x
-power_all_types_of_undead_tooltip;Power: §YCult Master§!\nВы можете поднимать любые виды нежити, независимо от уровня вашего класса.;;;;;;;;;;;;;x
+power_all_types_of_undead_tooltip;Сила: §YМастер культа§!\nВы можете поднимать любые виды нежити, независимо от уровня вашего класса.;;;;;;;;;;;;;x
 is_aggressive_trigger_tooltip;Принадлежать к агрессивной культуре или религии.;;;;;;;;;;;;;x
 is_aggressive_trigger_negative_tooltip;НЕ принадлежит к агрессивной культуре или религии.;;;;;;;;;;;;;x
 EVTDESC_WCPLF_60;[From.GetBestName] уже не может возглавлять [From.GetHerHis] фракцию. В эти темные дни войн и конфликтов, кто-то должен взять контроль над [Root.GetFactionName]. Только сильнейший, [Root.PrimaryTitle.GetFullBaseName], смог взять бразды правления в свои руки. \n\nПусть [From.GetHerHis] правление укрепит силу фракции и принесет ей процветание.;;;;;;;;;;;;;x
@@ -2589,9 +2589,9 @@ RULE_PATRONS_EXIST_DESC;Донатеры не будут отмечены специальной чертой в окне пер
 nick_the_defiler;Осквернитель;;;;;;;;;;;;;x
 helya_opinion;Мнение [helya.GetName];;;;;;;;;;;;;x
 nick_the_decrepit;Дряхлый;;;;;;;;;;;;;x
-EVTDESC_WCDAC_7041;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nЭти смертные считают что имеют право осуждать нас, но им неведома даже половина потенциала нашей темной магии! Однако, некромантия требует жертв, и сейчас нам нужен смертный для наших опытов.\n\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_WCDAC_7024;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\n\nНастало время ударить по глупым еретикам. Жители провинции с высокомерием относится к величию Короля Лича. Покажи им лик смерти и накажи за высокомерие, во имя короля!!\n\n[Root.GetDWExpression]\nПодписано [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_WCDAC_8001;[Root.GetDWDevil]'s favours, [Root.GetSocietyRank] [Root.GetFirstName]\nСкверна дала нам так много, и сейчас наступило время предложить ей подарок взамен. Магия Скверны питается от жизненной силы смертных существ, так что Совет просит Вас принести в жертву душу смернтого. Root.GetSocietyRank]!\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_WCDAC_7041;[Root.GetDWDevil] благоволит Вам, [Root.GetSocietyRank] [Root.GetFirstName]\n\nЭти смертные считают что имеют право осуждать нас, но им неведома даже половина потенциала нашей темной магии! Однако, некромантия требует жертв, и сейчас нам нужен смертный для наших опытов.\n\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_WCDAC_7024;[Root.GetDWDevil] благоволит Вам, [Root.GetSocietyRank] [Root.GetFirstName]\n\nНастало время ударить по глупым еретикам. Жители провинции с высокомерием относится к величию Короля Лича. Покажи им лик смерти и накажи за высокомерие, во имя короля!!\n\n[Root.GetDWExpression]\nПодписано [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_WCDAC_8001;[Root.GetDWDevil] благоволит Вам, [Root.GetSocietyRank] [Root.GetFirstName]\nСкверна дала нам так много, и сейчас наступило время предложить ей подарок взамен. Магия Скверны питается от жизненной силы смертных существ, так что Совет просит Вас принести в жертву душу смернтого. Root.GetSocietyRank]!\n[Root.GetDWExpression]\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
 merge_with_champion;Слияние с Чемпионом;;;;;;;;;;;;;x
 merge_with_champion_desc;Вы соединены с тем, кто владеет Ледяной Скорбью, поскольку часть Вашей души заперта в этом клинке. Ваш чемпион может разрушить Вашу ледяную тюрьму и стать единым с Вами.;;;;;;;;;;;;;x
 someone_found_frostmourne_tooltip;Кто-то завладел Ледяной Скорбью;;;;;;;;;;;;;x
@@ -2631,7 +2631,7 @@ EVTDESC_WCUND_9915;С каждым днем, что Вы проводите в своем путешествии в сердце 
 EVTOPTA_WCUND_9915;Склонись перед Богом Смерти!;;;;;;;;;;;;;x
 EVTOPTB_WCUND_9915;Я смеюсь в лицо смерти!;;;;;;;;;;;;;x
 EVTDESC_WCUND_9920;С каждым днем, что Вы проводите в своем путешествии в сердце Нордскола, бураны становятся все яростнее. Наконец, Вы решаете повернуть домой. Ваши немногие спутники разбежались, и это путешествие оказалось полным провалом.;;;;;;;;;;;;;x
-dwarven_gnomish_alliance_origin_description;Исторический Друг;;;;;;;;;;;;;x
+dwarven_gnomish_alliance_origin_description;Исторические друзья;;;;;;;;;;;;;x
 GetHospitalTempleBuilding_hospital;постройка госпиталя;;;;;;;;;;;;;x
 GetHospitalTempleBuilding_temple;храмовая постройка;;;;;;;;;;;;;x
 GetHospitalTemple_hospital;больница;;;;;;;;;;;;;x
@@ -2640,7 +2640,7 @@ is_dragon_race_trigger_tooltip;является драконом;;;;;;;;;;;;;x
 has_no_class_trait_trigger_tooltip;не имеет класса;;;;;;;;;;;;;x
 is_medium_humanoid_tooltip;является обычным гуманоидом;;;;;;;;;;;;;x
 is_large_humanoid_tooltip;является крупным гуманоидом;;;;;;;;;;;;;x
-text_effect_decision_abduct;Позволяет §GAttempt to Abduct§! на портретах придворных;;;;;;;;;;;;;x
+text_effect_decision_abduct;Позволяет §GПредпринять попытку похищения§! на портретах придворных;;;;;;;;;;;;;x
 GetInSociety_society; в [This.Society.GetName];;;;;;;;;;;;;x
 GetInSocietyYellow_society; в §Y[This.Society.GetName]§!;;;;;;;;;;;;;x
 GetSocietyMembers_society;члены общества;;;;;;;;;;;;;x
@@ -2685,14 +2685,14 @@ GetClassSkill_the_sword;меч;;;;;;;;;;;;;x
 opinion_refused_to_be_mentor;Отказался быть наставником;;;;;;;;;;;;;x
 ROOT_likes_FROM_tooltip;§Y[Root.GetFirstName]§! испытывает симпатию §Y[From.GetFirstName]§!;;;;;;;;;;;;;x
 ROOT_dislikes_FROM_tooltip;§Y[Root.GetFirstName]§! испытывает неприязнь к §Y[From.GetFirstName]§!;;;;;;;;;;;;;x
-ROOT_is_charitable;§Y[Root.GetFirstName]§! является §YCharitable§!;;;;;;;;;;;;;x
-ROOT_is_gregarious;§Y[Root.GetFirstName]§! является §YGregarious§!;;;;;;;;;;;;;x
-ROOT_is_trusting;§Y[Root.GetFirstName]§! является §YTrusting§!;;;;;;;;;;;;;x
-ROOT_is_greedy;§Y[Root.GetFirstName]§! является §YGreedy§!;;;;;;;;;;;;;x
-ROOT_is_shy;§Y[Root.GetFirstName]§! является §YShy§!;;;;;;;;;;;;;x
-ROOT_is_paranoid;§Y[Root.GetFirstName]§! является §Yparanoid§!;;;;;;;;;;;;;x
+ROOT_is_charitable;§Y[Root.GetFirstName]§! является §Yщедрым§!;;;;;;;;;;;;;x
+ROOT_is_gregarious;§Y[Root.GetFirstName]§! является §Yобщительным§!;;;;;;;;;;;;;x
+ROOT_is_trusting;§Y[Root.GetFirstName]§! является §Yдоверчивым§!;;;;;;;;;;;;;x
+ROOT_is_greedy;§Y[Root.GetFirstName]§! является §Yжадным§!;;;;;;;;;;;;;x
+ROOT_is_shy;§Y[Root.GetFirstName]§! является §Yзастенчивым§!;;;;;;;;;;;;;x
+ROOT_is_paranoid;§Y[Root.GetFirstName]§! является §Yпараноиком§!;;;;;;;;;;;;;x
 ROOT_dislikes_FROMFROM_tooltip;§Y[Root.GetFirstName]§! испытывает неприязнь к §Y[FromFrom.GetFirstName]§!;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1440;As you told [student.GetHerHim], [student.GetBestName] окончил свое обучение в искусстве [student.GetClassSkill].;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1440;Как вы и пообещали [student.GetHerHim], [student.GetBestName] окончил свое обучение в искусстве [student.GetClassSkill].;;;;;;;;;;;;;x
 ROOT_likes_FROMFROM_tooltip;§Y[Root.GetFirstName]§! испытывает симпатию к §Y[FromFrom.GetFirstName]§!;;;;;;;;;;;;;x
 GetClassSkill_the_dagger;кинжал;;;;;;;;;;;;;x
 GetClassSkill_the_gun;ружье;;;;;;;;;;;;;x
@@ -2702,9 +2702,9 @@ is_historical_tooltip;является историческим персонажем;;;;;;;;;;;;;x
 GetGenocideName_cull;Вырезать население;;;;;;;;;;;;;x
 GetGenocideName_raise;Поднять мертвых;;;;;;;;;;;;;x
 GetGenocideName_genocide;Очистить провинцию;;;;;;;;;;;;;x
-GetGenocideDesc_cull;Уничтожить нежить §Y[Root.Location.GetName]§!, обращая провинции в в §YReligion§! И §YCulture§!.;;;;;;;;;;;;;x
-GetGenocideDesc_raise;Истребить население §Y[Root.Location.GetName]§! и вернуть его к жизни в виде Ваших §Yundead§! прислужников.;;;;;;;;;;;;;x
-GetGenocideDesc_genocide;Очистить провинции §Y[Root.Location.GetName]§!, обращая ее в §YReligion§! И §YCulture§!.;;;;;;;;;;;;;x
+GetGenocideDesc_cull;Уничтожить нежить §Y[Root.Location.GetName]§!, обратив провинцию в вашу §Yрелигию§! и §Yкультуру§!.;;;;;;;;;;;;;x
+GetGenocideDesc_raise;Истребить население §Y[Root.Location.GetName]§! и вернуть его к жизни в виде Ваших прислужников-§Yнежить§!.;;;;;;;;;;;;;x
+GetGenocideDesc_genocide;Очистить провинцию §Y[Root.Location.GetName]§!, обратив ее в вашу §Yрелигию§! И §Yкультуру§!.;;;;;;;;;;;;;x
 genocide_decision;[Root.GetGenocideName];;;;;;;;;;;;;x
 genocide_decision_desc;[Root.GetGenocideDesc] Местное население будет разъярено;;;;;;;;;;;;;x
 ongoing_genocide;Истребление;;;;;;;;;;;;;x
@@ -2714,7 +2714,7 @@ ongoing_culling_desc;Нежить в этой провинции была уничтожена;;;;;;;;;;;;;x
 ongoing_raising;Поднятие нежити;;;;;;;;;;;;;x
 ongoing_raising_desc;Население этой провинции проходит процедуру жестокой казни и поднимается в виде безвольной нежити;;;;;;;;;;;;;x
 genocide_province_cooldown;Недавно была попытка истребления;;;;;;;;;;;;;x
-BM_ASCENSION_OF_THE_LICH_KING;Восхождение Короля Лича;;;;;;;;;;;;;x
+BM_ASCENSION_OF_THE_LICH_KING;Восхождение Короля-лича;;;;;;;;;;;;;x
 BM_ASCENSION_OF_THE_LICH_KING_DESC;Азерот все еще сотрясает от разрушений, вызванных ужасами Третьей Войны. Королевства на севере лежат в руинах, поглощеные бесчисленной нежитью Плети. В лесах Калимдора осталась гнойная рана демонического вторжения, несмотря на поражение Легиона в Хиджальских горах. Орки начинают обживать красные пески Дуротара, а серьезно пострадавший Альянс вынужден сражаться с угрозами на каждом фронте, включая внутреннюю смуту, вызыванную Братством Справедливости. Иллидан вернулся в Азерот с целью закончить начатое и уничтожить Короля Лича, поэтому нежить Плети отхлынула в Нордскол для защиты своего господина, а оставшаяся нежить в Лордероне находятся на грани гражданской войны.;;;;;;;;;;;;;x
 EVTTITLE_WCTFT_100;Гражданская война Чумных Земель;;;;;;;;;;;;;x
 EVTDESC_WCTFT_100;На протяжении последних месяцев Плеть пребывала в смятении, поскольку Иллидан Ярость Бури воспользовался Оком Саргераса, чтобы ворваться в ледяную тюрьму Короля Лича. Это привело к тому, что нежить в лесах Тирисфаля раскололась на два лагеря. Верные Плети были оттеснены обратно на восток, а их чемпион был вынужден отправиться в Нордскол, чтобы отразить натиск войск Иллидари, разбивших лагеря в Ледяной Короне. Увидев в этом хаосе прекрасную возможность вернуть свои земли, остатки людей в Сребролесье готовятся к последней конфронтации с нежитью, но среди них нет единого мнения по поводу будущего королевства в случае их победы, ведь судьба последнего живого наследника королевства до сих пор неясна. Кому достанетася корона Лордерона — неизвестно.;;;;;;;;;;;;;x
@@ -2803,7 +2803,7 @@ EVTOPTA_WCTFT_500_negative;Лучше бы [target_kaelthas.GetSheHe] не возвращался...
 EVTDESC_WCTFT_550;Вы не смогли добраться до Кель'Таласа. Никто в этих волшебных лесах не желает вашего возвращения, и вам ничего не остается, как повернуть назад.;;;;;;;;;;;;;x
 get_game_over_tooltip;Ты добрался до конца игры!;;;;;;;;;;;;;x
 ERA_CHAR_INFO_48081;Леди Джайна Праудмур, молодая правительница Терамора и героиня Третьей Войны, столкнулась с трудным выбором. Джайна была втянута в войну между ее отцом, лордом Даэлином Праудмуром из Кул Тираса, и ее бывшим союзником - Ордой, с которой она сражалась плечом к плечу против Пылающего Легиона. Будучи пацифистом в душе, конфликт лег на ее сердце тяжким грузом. Ситуацию еще сильнее осложняла ее дружба с Траллом, Вождем Орды. Ни одна из сторон не желает идти на уступки, и становится все более очевидно, что Джайне придется выбирать между ее семьей или ее новыми друзьями. Выбор не будет легким.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_60030;Грандмаршал Отмар Гаритос, предводитель остатков Альянса Лордерона, вырос в небольшом городе в Чернолесье. Отмар занял свое положение не благодаря своим навыкам или способностям к ведению боевых действий, но благодаря репутации его отца. Когда Лордерон пал под натиском Плети, он стал самым могущественным военачальником на территории бывшего королевства и был признан Альянсом как последний оплот государственности, представляющий Лордерон. Под его лидерством союз с эльфами Квель'Таласа был разрушен из за его фанатичных расистских убеждений. Жестокая гражданская война назревала в Чумных Землях, и Отмар должен обеспечить опорный пункт для остатков людей, захватив Столицу и объявив себя законным правителем.;;;;;;;;;;;;;x
+ERA_CHAR_INFO_60030;Грандмаршал Отмар Гаритос, предводитель остатков Альянса Лордерона, вырос в небольшом городе в Чернолесье. Отмар занял свое положение не благодаря своим навыкам или способностям к ведению боевых действий, но благодаря репутации его отца. Когда Лордерон пал под натиском Плети, он стал самым могущественным военачальником на территории бывшего королевства и был признан Альянсом как последний оплот государственности, представляющий Лордерон. Под его лидерством союз с эльфами Кель'Таласа был разрушен из за его фанатичных расистских убеждений. Жестокая гражданская война назревала в Чумных Землях, и Отмар должен обеспечить опорный пункт для остатков людей, захватив Столицу и объявив себя законным правителем.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_42003;Принц Кель'Тас Солнечный Скиталец потерял практически всё. Вторжение Плети принесло огромные разрушения Кель'Таласу. Его отец погиб, а Солнечный Колодец был осквернен. Принц вернулся в свое королевство после войны только для того, чтобы обнаружить его жителей страдающими от магического голда из за потери Колодца.  Кель'Тас покинул Кель'Талас чтобы найти исцеление для своего народа. Сначала он собирался обратиться в Альянс за помощью, но неприязнь лорда Гаритоса ко всем прочим народам привела его в темницу, где только леди Вайши протянула ему руку помощи. Позже она привела его к Иллидану Ярость Бури, который обещал Кель'Тасу средство для исцеления в обмен на его помощь. Теперь Кель сражается на стороне Иллидана в его отчаянной попытке уничтожить Короля Лича и наконец найти исцеление.;;;;;;;;;;;;;x
 ERA_CHAR_INFO_42076;Леди Сильвана Ветрокрылая, бывший предводитель следопытов Луносвета, осталась таким же великолепным воином, как и была до своей смерти от рук принца Артеса Менетила. Ее стальная воля разбила оковы хватки Короля Лича. Когда значительная часть войск Плети покинула Лордерон чтобы расправиться с угрозой в Ледяной Короне, Сильвана выбрала момент, чтобы организовать восстание. Отрекшиеся в лесах Тирисфаля находились в скверном положении. Враги окружали их со всех сторон, и Отрекшиеся боролись за выживание, отчаянно нуждаясь в передышке и убежище. Так Сильвана обратила свой взор на Столицу, которая обладала неоспоримой стратегической ценностью, являясь ключевой точкой к Серебряному бору. Теперь судьба восставших зависит от успеха штурма Столицы.;;;;;;;;;;;;;x
 nick_the_betrayer;Предатель;;;;;;;;;;;;;x
@@ -2815,8 +2815,8 @@ EVTDESC_WCTFT_600;"Сегодня [From.GetTitledFirstNameWithNick] объявил, что пришли
 bloodline_effect_scarlet_king;Может вассализировать Алый Орден.;;;;;;;;;;;;;x
 vassalize_d_scarlet_crusade;Вассализировать Алый Орден;;;;;;;;;;;;;x
 vassalize_d_scarlet_crusade_desc;Алый Орден — ваш давний союзник. Вы можете убедить их стать вассалами вашего государства.;;;;;;;;;;;;;x
-swarm_culture_modifier;Swarm Culture Modifier;;;;;;;;;;;;;x
-quantity_culture_modifier;Quantity Culture Modifier;;;;;;;;;;;;;x
+swarm_culture_modifier;Роевой культурный модификатор;;;;;;;;;;;;;x
+quantity_culture_modifier;Модификатор количественной культуры;;;;;;;;;;;;;x
 ERA_CHAR_NAME_60030;Отмар Гаритос;;;;;;;;;;;;;x
 ERA_CHAR_NAME_42076;Сильвана Ветрокрылая;;;;;;;;;;;;;x
 ERA_CHAR_NAME_340009;Иллидан Ярость Бури;;;;;;;;;;;;;x
