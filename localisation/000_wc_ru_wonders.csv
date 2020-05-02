@@ -23,9 +23,9 @@ wonder_soul_engine_desc;Гигантский комплекс, где собирают и хранят души, приводя
 wonder_soul_engine_construction_desc;Гигантский комплекс, где собирают и хранят души, приводящие в действие военные машины Легиона. Его черные стены скрывают множество секретов темной магии, интриг и военного дела.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #Necropolis;;;;;;;;;;;;;;x
-String_Necropolis;Некрополис;;;;;;;;;;;;;
-String_necropolis;некрополис;;;;;;;;;;;;;x
-wonder_necropolis;Некрополис;;;;;;;;;;;;;x
+String_Necropolis;Некрополь;;;;;;;;;;;;;
+String_necropolis;некрополь;;;;;;;;;;;;;x
+wonder_necropolis;Некрополь;;;;;;;;;;;;;x
 wonder_necropolis_desc;Шедевр нерубской архитектуры. Бесконечные помещения этого здания служат домом как для живых так и для мертвых.;;;;;;;;;;;;;x
 wonder_necropolis_construction_desc;Шедевр нерубской архитектуры. Его бесконечные коридоры скрывают множество секретов темной магии, интриг и военного дела.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
@@ -35,68 +35,68 @@ wonder_twilight_citadel_desc;Темный символ расцветающей силы Древних Богов на Аз
 wonder_twilight_citadel_construction_desc;Темный символ расцветающей силы Древних Богов на Азероте. Его стены из элементиума скрывают множество секретов темной магии, интриг и военного дела.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #General;;;;;;;;;;;;;;x
-wonder_aztec_pyramid;Ступенчатая Пирамида;;;;;;;;;;;;;x
-wonder_aztec_pyramid_desc;The house of the Gods, an Step Pyramid is the holy place where messengers can be sent to them.;;;;;;;;;;;;;x
+wonder_aztec_pyramid;Ступенчатая пирамида;;;;;;;;;;;;;x
+wonder_aztec_pyramid_desc;Ступенчатая пирамида, в которых обитают боги, является местом для паломничеств.;;;;;;;;;;;;;x
 #Other;;;;;;;;;;;;;;x
-wonder_palace_lordaeron_name_string;Lordaeron's Palace;;;;;;;;;;;;;x
-wonder_wall_northreach_name_string;Southern Thoradin's Wall;;;;;;;;;;;;;x
-wonder_wall_northfold_name_string;Northern Thoradin's Wall;;;;;;;;;;;;;x
-wonder_wall_thoradin_desc_string;Thoradin's Wall, an immense edifice, was once a symbol of humanity's strength and defensive might.;;;;;;;;;;;;;x
-wonder_amphitheater_surohi_name_string;Great Arena;;;;;;;;;;;;;x
-wonder_amphitheater_surohi_desc_string;The ancient Gurubashi trolls built a huge gladiatorial arena here many years ago.;;;;;;;;;;;;;x
-wonder_aztec_pyramid_nazwatha_name_string;Atul'nazman;;;;;;;;;;;;;x
-wonder_aztec_pyramid_necropolis_name_string;Necropolis;;;;;;;;;;;;;x
-wonder_aztec_pyramid_necropolis_desc_string;The spirits of the departed can be seen approaching it.;;;;;;;;;;;;;x
-wonder_aztec_pyramid_atulaman_name_string;Atul'Aman;;;;;;;;;;;;;x
-wonder_zuldazar_name_string;Dazar'alor;;;;;;;;;;;;;x
-wonder_zuldazar_desc_string;For ages untold, Dazar'alor has stood at the center of the great and powerful Zandalari empire.;;;;;;;;;;;;;x
-wonder_mausoleum_ataldazar_name_string;Atal'Dazar;;;;;;;;;;;;;x
-wonder_mausoleum_ataldazar_desc_string;For millennia, Zandalari kings and queens have been laid to rest within the tombs of Atal'Dazar. These pyramids have grown more elaborate with each passing ruler as new rooms have been constructed to house the deceased's vast wealth.;;;;;;;;;;;;;x
-wonder_aztec_pyramid_slisetriss_name_string;Sanctuary of the Devoted;;;;;;;;;;;;;x
-wonder_aztec_pyramid_slisetriss_desc_string;This is an ancient temple dedicated to the loa Sethraliss.;;;;;;;;;;;;;x
-wonder_temple_pagan_slisetriss_name_string;Temple of Sethraliss;;;;;;;;;;;;;x
-wonder_temple_pagan_slisetriss_desc_string;Centuries ago, Sethraliss, a powerful snake loa, sacrificed herself to stop Mythrax from unleashing his master upon Azeroth. After the battle, her devoted followers transported her remains and built a temple around them while they awaited her rebirth.;;;;;;;;;;;;;x
-wonder_utgarde_name_string;Utgarde Keep;;;;;;;;;;;;;x
-wonder_utgarde_desc_string;Utgarde Keep stands as a relic of a lost civilization along the central cliffs of the Howling Fjord.;;;;;;;;;;;;;x
-wonder_gundrak_name_string;Gundrak;;;;;;;;;;;;;x
-wonder_gundrak_desc_string;Gundrak is a massive complex with thick walls, tall guard towers, and stalwart gates. Inside, its structures are tiered and laden in steps winding about one another like a nest of small animals, each fitting into the next.;;;;;;;;;;;;;x
-wonder_atalhakkar_name_string;Atal'Hakkar;;;;;;;;;;;;;x
-wonder_atalhakkar_desc_string;According to legend, The Temple of Atal'Hakkar is a holy shrine dedicated to the ancient god, Hakkar the Soulflayer.;;;;;;;;;;;;;
+wonder_palace_lordaeron_name_string;Дворец Лордерона;;;;;;;;;;;;;x
+wonder_wall_northreach_name_string;Южная Стена Торадина;;;;;;;;;;;;;x
+wonder_wall_northfold_name_string;Северная Стена Торадина;;;;;;;;;;;;;x
+wonder_wall_thoradin_desc_string;Огромная Стена Торадина когда-то являлась символом силы и обороноспособности человеческой расы.;;;;;;;;;;;;;x
+wonder_amphitheater_surohi_name_string;Великая Арена;;;;;;;;;;;;;x
+wonder_amphitheater_surohi_desc_string;Много веков назад тролли Гурубаши возвели в этом месте огромную гладиаторскую арену.;;;;;;;;;;;;;x
+wonder_aztec_pyramid_nazwatha_name_string;Атул'Назман;;;;;;;;;;;;;x
+wonder_aztec_pyramid_necropolis_name_string;Некрополь;;;;;;;;;;;;;x
+wonder_aztec_pyramid_necropolis_desc_string;В этом сооружении скитаются духи умерших.;;;;;;;;;;;;;x
+wonder_aztec_pyramid_atulaman_name_string;Атул'Аман;;;;;;;;;;;;;x
+wonder_zuldazar_name_string;Дазар'алор;;;;;;;;;;;;;x
+wonder_zuldazar_desc_string;Много веков Дазар'алор являлся столицей великой и могущественной империи зандаларов.;;;;;;;;;;;;;x
+wonder_mausoleum_ataldazar_name_string;Атал'Дазар;;;;;;;;;;;;;x
+wonder_mausoleum_ataldazar_desc_string;На протяжении тысячелетий зандаларских королей и королев хоронили в гробницах Атал'Дазар. Эти пирамиды становились все более изощренными с приходом новых правителей, которые возводили новые погребальные комплексы для своих предшественников.;;;;;;;;;;;;;x
+wonder_aztec_pyramid_slisetriss_name_string;Святилище преданных;;;;;;;;;;;;;x
+wonder_aztec_pyramid_slisetriss_desc_string;Это древний храм, посвященный лоа Сетралисс.;;;;;;;;;;;;;x
+wonder_temple_pagan_slisetriss_name_string;Храм Сетралисс;;;;;;;;;;;;;x
+wonder_temple_pagan_slisetriss_desc_string;Столетия назад Сетралисс, могущественная лоа-змея пожертвовала собой, чтобы помешать Митраксу освободить своего повелителя. После битвы ее верные последователи перенесли ее останки и возвели вокруг них храм, в ожидании ее возрождения.;;;;;;;;;;;;;x
+wonder_utgarde_name_string;Крепость Утгард;;;;;;;;;;;;;x
+wonder_utgarde_desc_string;Крепость Утгард является памятником исчезнувшей цивилизации, расположенным в скалах Ревущего Фьорда.;;;;;;;;;;;;;x
+wonder_gundrak_name_string;Гундрак;;;;;;;;;;;;;x
+wonder_gundrak_desc_string;Гундрак - массивное сооружение с толстыми стенами, высокими сторожевыми башнями и крепкими воротами. Его внутренняя структура содержит много уровней и выполнена в форме лестницы, ступени которой извиваются друг вокруг друга, словно гнездо мелких животных, каждое из которых вписано в следующее.;;;;;;;;;;;;;x
+wonder_atalhakkar_name_string;Атал'Хаккар;;;;;;;;;;;;;x
+wonder_atalhakkar_desc_string;Согласно легендам, Храм Атал'Хаккара - это святыня, посвященная древнему богу Хаккару Свежевателю Душ.;;;;;;;;;;;;;
 #Library;;;;;;;;;;;;;;
 antiquity_book_arcane;Потерянный Манускрипт;;;;;;;;;;;;;
 String_Arcane;манускрипт;;;;;;;;;;;;;
 String_aArcane;манускрипт;;;;;;;;;;;;;
 String_AnArcane;Манускрипт;;;;;;;;;;;;;
 String_Arcanist;арканист;;;;;;;;;;;;;
-String_Sensiria;Sensiria;;;;;;;;;;;;;
-String_Verinias;Verinias;;;;;;;;;;;;;
-String_Perotharn;Peroth'arn;;;;;;;;;;;;;
-String_Falrin;Falrin;;;;;;;;;;;;;
-String_Benelderath;Benel'derath;;;;;;;;;;;;;
-String_Tarsis;Tarsis;;;;;;;;;;;;;
-String_Rominate;Ro'minate;;;;;;;;;;;;;
-String_Kendra;Kendra;;;;;;;;;;;;;
-String_Kalyndras;Kalyndras;;;;;;;;;;;;;
-String_Kalytha;Kalytha;;;;;;;;;;;;;
-String_Iylar;I'ylar;;;;;;;;;;;;;
-String_Aszune;Aszune;;;;;;;;;;;;;
-String_Javon;Javon;;;;;;;;;;;;;
-String_Kildrath;Kildrath;;;;;;;;;;;;;
-String_Lydros;Lydros;;;;;;;;;;;;;
-String_Mykos;Mykos;;;;;;;;;;;;;
-String_Siralen;Siralen;;;;;;;;;;;;;
-String_Selwyn;Selwyn;;;;;;;;;;;;;
-String_Nidriel;Nidriel;;;;;;;;;;;;;
-String_Sythorne;Sythorne;;;;;;;;;;;;;
+String_Sensiria;Сенсирия;;;;;;;;;;;;;x
+String_Verinias;Вериниас;;;;;;;;;;;;;x
+String_Perotharn;Перот'арн;;;;;;;;;;;;;x
+String_Falrin;Фалрин;;;;;;;;;;;;;x
+String_Benelderath;Бенел'дерат;;;;;;;;;;;;;x
+String_Tarsis;Тарсис;;;;;;;;;;;;;x
+String_Rominate;Ро'минат;;;;;;;;;;;;;x
+String_Kendra;Кендра;;;;;;;;;;;;;x
+String_Kalyndras;Калиндрас;;;;;;;;;;;;;x
+String_Kalytha;Калита;;;;;;;;;;;;;x
+String_Iylar;И'йлар;;;;;;;;;;;;;x
+String_Aszune;Азсуна;;;;;;;;;;;;;x
+String_Javon;Явон;;;;;;;;;;;;;x
+String_Kildrath;Килдрат;;;;;;;;;;;;;x
+String_Lydros;Лидрос;;;;;;;;;;;;;x
+String_Mykos;Микос;;;;;;;;;;;;;x
+String_Siralen;Сирален;;;;;;;;;;;;;x
+String_Selwyn;Селвин;;;;;;;;;;;;;x
+String_Nidriel;Нидриель;;;;;;;;;;;;;x
+String_Sythorne;Ситорн;;;;;;;;;;;;;x
 #Ahn'Qiraj;;;;;;;;;;;;;;
-wonder_ahnqiraj;Temple City of Ahn'Qiraj;;;;;;;;;;;;;
-wonder_ahnqiraj_desc;A Titan research facility turned into the Qiraji temple complex. Standing tall among sandy dunes of southern Silithus, the temple city houses a great darkness deep underground.;;;;;;;;;;;;;
+wonder_ahnqiraj;Храмовый город Ан'Кираж;;;;;;;;;;;;;
+wonder_ahnqiraj_desc;Центр для исследований, возведенный титанами, был превращен в киражийский храмовый комлекс. Возвышающийся среди песчаных дюн южного Силитуса храмовый город скрывает глубоко под землей древнее зло.;;;;;;;;;;;;;
 wonder_ahnqiraj_construction_desc;;;;;;;;;;;;;;
 # Shrine of Storms;;;;;;;;;;;;;;
-wonder_shrine_storm;Shrine of Storms;;;;;;;;;;;;;
-wonder_shrine_storm_desc;The Shrine of the Storms is a monumental temple located on an island in eastern Stormsong Valley. Traditionally a seat of power for tidesages who bless Kul Tiran navy.;;;;;;;;;;;;;
+wonder_shrine_storm;Святилище Штормов;;;;;;;;;;;;;
+wonder_shrine_storm_desc;Святилище Штормов - монументальный храм, расположенный в восточной долине Штормовой Песни. С древних времен в нем проживают жрецы моря, благословляющие Кул-Тирасский флот.;;;;;;;;;;;;;
 wonder_shrine_storm_construction_desc;;;;;;;;;;;;;;
 # Ulduar;;;;;;;;;;;;;;
-wonder_ulduar;Ulduar;;;;;;;;;;;;;
-wonder_ulduar_desc;Ulduar is the biggest titan-forged complex on Azeroth. Situated in the Storm Peaks, it notably encompasses the Halls of Stone and the Halls of Lightning.;;;;;;;;;;;;;
+wonder_ulduar;Ульдуар;;;;;;;;;;;;;
+wonder_ulduar_desc;Ульдуар - самый большой комплекс на Азероте, построенный титанами. Расположенный на Грозовой Гряде комплекс включает в себя Чертоги Камня и Чертоги Молний.;;;;;;;;;;;;;
 wonder_ulduar_construction_desc;;;;;;;;;;;;;;
