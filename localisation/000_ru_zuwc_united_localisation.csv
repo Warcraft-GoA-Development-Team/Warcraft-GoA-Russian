@@ -784,23 +784,23 @@ currency_name_cult_of_the_damned;Милость Проклятого;;;;;;;;;;;;;x
 quest_infect_grain;Заразить зерно в [FromFrom.GetHolding]е [FromFrom.GetName];;;;;;;;;;;;;x
 quest_infect_grain_desc;Жители [From.GetHolding]а [From.GetName] чувствуют себя в безопасности. Пора напомнить им, что это не так. Смерть и болезни могут достать их в самых дальних уголках Азерота и лично мы, как верные последователи Короля, принесем их в [From.GetName].;;;;;;;;;;;;;x
 quest_infect_grain_tooltip;Для завершения этой миссии, нажмите §Gправый клик§! на титульном щите §Y[FromFrom.GetName]'а§!, выберете §Y''Заразить зерно''§! и успешно заразите зерно [FromFrom.GetHolding]а §Y[FromFrom.GetName]§!.;;;;;;;;;;;;;x
-secret_religious_society_rukhmar_worship;the Hidden Rukhmar Worship;;;;;;;;;;;;;x
-secret_religious_society_rukhmar_worship_desc;Placeholder;;;;;;;;;;;;;x
-secretly_convert_to_rukhmar_worship_holy_site;Secretly Convert to Rukhmar Worship;;;;;;;;;;;;;x
-secretly_convert_to_rukhmar_worship_holy_site_desc;The §YRukhmar Worship§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;;;;x
+secret_religious_society_rukhmar_worship;Тайное поклонение Рухмар;;;;;;;;;;;;;x
+secret_religious_society_rukhmar_worship_desc;Культ богини Рухмар берет свое начало еще на Дреноре.;;;;;;;;;;;;;x
+secretly_convert_to_rukhmar_worship_holy_site;Тайно принять культ Рухмар;;;;;;;;;;;;;x
+secretly_convert_to_rukhmar_worship_holy_site_desc;Паломники, исповедующие §YКульт Рухмар§! стекаются в священное место в провинции §Y[Root.Location.GetName]§!. Они вдохновили меня твердостью своих убеждений. Я решил[Root.GetEndA] тайно разделить с ними их веру...;;;;;;;;;;;;;x
 secret_religious_society_rukhmar_worship_currency;Приверженность;;;;;;;;;;;;;x
 secret_religious_society_rukhmar_worship_rank_1_female;Верный;;;;;;;;;;;;;x
 secret_religious_society_rukhmar_worship_rank_2_female;Адепт;;;;;;;;;;;;;x
-secret_religious_society_rukhmar_worship_rank_3_female;Проповедник;;;;;;;;;;;;;x
+secret_religious_society_rukhmar_worship_rank_3_female;Проповедница;;;;;;;;;;;;;x
 secret_religious_society_rukhmar_worship_rank_4_female;Глашатай;;;;;;;;;;;;;x
 secret_religious_society_rukhmar_worship_rank_1_male;Верный;;;;;;;;;;;;;x
 secret_religious_society_rukhmar_worship_rank_2_male;Адепт;;;;;;;;;;;;;x
-secret_religious_society_rukhmar_worship_rank_3_male;Проповедний;;;;;;;;;;;;;x
+secret_religious_society_rukhmar_worship_rank_3_male;Проповедник;;;;;;;;;;;;;x
 secret_religious_society_rukhmar_worship_rank_4_male;Глашатай;;;;;;;;;;;;;x
-secret_religious_community_rukhmar_worship;Secret Rukhmar Worship Community;;;;;;;;;;;;;x
-secret_rukhmar_worship_community;Secret Rukhmar Worship Community;;;;;;;;;;;;;x
-secret_rukhmar_worship_community_desc;In secret, Rukhmar Worship faithfuls have organized themselves as a community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;;;;x
-secret_religious_society_rukhmar_worship_leader_desc;A High Priest in $SOCIETY|Y$;;;;;;;;;;;;;x
+secret_religious_community_rukhmar_worship;Тайное общество последователей Рухмар;;;;;;;;;;;;;x
+secret_rukhmar_worship_community;Тайное общество последователей Рухмар;;;;;;;;;;;;;x
+secret_rukhmar_worship_community_desc;В этой провинции образовалось тайное общество последователей Рухмар. Отсюда они распространяют убеждения и защищают своих.;;;;;;;;;;;;;x
+secret_religious_society_rukhmar_worship_leader_desc;Верховный жрец общества $SOCIETY|Y$;;;;;;;;;;;;;x
 prisoner_disembowel_power_desc;§GПравый клик§! на портрете ваших заключенных позволит выпотрошить их, чтобы получить §Y[Root.GetSocietyCurrency]§! и §YПолезную плоть§!. Некоторые заключенные и цели миссии будут больше удовлетворять [Root.GetSocietyName]. Имейте в виду, что слишком много жертв может привлечь внимание к вашему обществу.;;;;;;;;;;;;;x
 prisoner_raise_from_dead_power_desc;§GПравый клик§! на портрете ваших заключенных позволит превратить их в нежить и ваших верных слуг, в обмен на §Y[Root.Society.GetCurrency]§! или на §YМану§!, если вы некромант или рыцарь смерти.;;;;;;;;;;;;;x
 quest_disembowel_small_humanoid;Выпотрошить маленького гуманоида;;;;;;;;;;;;;x
@@ -1520,7 +1520,7 @@ world_northrend_howling_fjord;Ревущий Фьорд;;;;;;;;;;;;;x
 world_northrend;Нордскол;;;;;;;;;;;;;x
 EVTDESC_WCCOU_200_undead;Вы мертвы, но вам все еще нужно беспокоиться о том, кто заменит вас, если темная магия больше не сможет вернуть вас в этот мир. [target_new_member.GetTitledFirstName] стал[target_new_member.GetEndA] еще лояльнее после своей смерти. Среди всех прочих мертвецов, [target_new_member.GetSheHe] лучший кандидат.;;;;;;;;;;;;;x
 EVTDESC_WCCOU_200_demon;Хоть ваша душа и формально бессмертна, все же стоило бы позаботиться о наследниках, которые продолжат ваше дело, если вы не вернетесь из Круговерти Пустоты. [target_new_member.GetTitledFirstName] вполне подходящий кандидат, что бы вести ваши легионы в будущем.;;;;;;;;;;;;;x
-EVTDESC_WCCOU_200_titanforged;The world is a dangerous place and accidents can happen, perhaps you could break down in combat or for other reasons, but there is a remedy to secure your legacy. [target_new_member.GetTitledFirstName] is a simple construct, but if you shared part of your life spark with him he could carry on your legacy should something happen to you.;;;;;;;;;;;;;x
+EVTDESC_WCCOU_200_titanforged;Мир - опасное место, в котором может случиться все что угодно, возможно, вас уничтожат во время боя или что-то еще. Есть способ защитить ваше наследие. [target_new_member.GetTitledFirstName] - довольно простой механизм, но если вы поделитесь с ним своими знаниями, он может продолжить ваше дело, если с вами что-нибудь случится.;;;;;;;;;;;;;x
 EVTDESC_WCCOU_200_void;Среди всех прочих созданий Бездны, есть одно, которое заслужило ваше доверие. Среди смертных оно известно как [target_new_member.GetTitledFirstName]. Когда вы вернетесь во Тьму вновь, оно сможет занять ваше место.;;;;;;;;;;;;;x
 EVTDESC_WCCOU_200_other;[target_new_member.GetTitledFirstName] од[target_new_member.GetNaIn] из самых верных вам придворных. Вы не можете вспомнить ни единого случая, когда [target_new_member.GetSheHe] подводил[target_new_member.GetEndA] вас. Возможно однажды [target_new_member.GetSheHe] сможет продолжить ваше дело…;;;;;;;;;;;;;x
 EVTOPTA_WCCOU_200;[target_new_member.GetTitledFirstName]… хороший выбор.;;;;;;;;;;;;;x
@@ -1563,7 +1563,7 @@ nick_lord_of_the_forest;Лесной Властелин;;;;;;;;;;;;;x
 thoradin;Кровь Торадина;;;;;;;;;;;;;x
 thoradin_desc;Военачальник и лидер людского племени Арати. Он объединил племена людей в Великую Нацию Аратор и заключил альянс с высшими эльфами в период Войн Троллей.;;;;;;;;;;;;;x
 cenarius;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
-cenarius_desc;Lord of the Forest and patron of many druids, is one of the most powerful and influential demigods of Azeroth. Worshipped by the night elves since their early history.;;;;;;;;;;;;;x
+cenarius_desc;Повелитель Леса и покровитель друидов, Кенарий считается одним из самых могущественных и влиятельных полубогов Азерота. С давних времен его почитают ночные эльфы.;;;;;;;;;;;;;x
 high_elf_group_opinion;Отношение [high_elf_group.GetGroupName];;;;;;;;;;;;;x
 human_group_opinion;Отношение [human_group.GetGroupName];;;;;;;;;;;;;x
 arakkoa_religion_group_opinion;Отношение [arakkoa_religion_group.GetGroupName];;;;;;;;;;;;;x
@@ -1594,7 +1594,7 @@ cult_of_loa_opinion;Отношение [cult_of_loa.GetName];;;;;;;;;;;;;x
 dragon_culture_modifier;Культурный Модификатор [dragon_group.GetGroupName];;;;;;;;;;;;;x
 claim_capital_city;Заявить Претензии на Столицу;;;;;;;;;;;;;x
 claim_capital_city_desc;Столица — сердце вашего королевства. Вы должны взять её под контроль!;;;;;;;;;;;;;x
-EVTDESC_WCCLS_10302;The forging of your runeblade is now complete. This weapon has become a deadly extension of your very being, and with the runes of frost, unholy, and blood etched into your new blade, your power as a death knight has significantly increased.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_10302;Ковка вашего рунического клинка завершена. Это оружие стало продолжением самой вашей сущности, и с рунами мороза, крови или нечестивости, нанесенными на ваш новый клинок, ваши силы рыцаря смерти существенно возросли.;;;;;;;;;;;;;x
 EVTDESC_WCCLS_1450;Вы больше не в состоянии продолжать тренировку из-за ваших проблем со здоровьем.;;;;;;;;;;;;;x
 herald_of_death_good;Вестник Смерти;;;;;;;;;;;;;x
 herald_of_death_bad;Вестник Смерти;;;;;;;;;;;;;x
@@ -1994,7 +1994,7 @@ burn_world_tree;Сжечь Мировое Древо;;;;;;;;;;;;;x
 burn_world_tree_desc;Сжечь Мировое Древо. Это приведет в ярость приверженцев шаманизма и друидизма.;;;;;;;;;;;;;x
 burn_world_tree_tooltip;§Y[This.GetBestName]§! сжигает Мировое Древо\n;;;;;;;;;;;;;x
 burned_world_tree_opinion;Сжег Мировое Древо;;;;;;;;;;;;;x
-burned_world_tree_opinion_desc;This character has burned a world tree. This is a terrible crime against many creatures of Azeroth. Этот персонаж сжег Мировое Древо. Это ужасное преступление против многих существ Азерота.;;;;;;;;;;;;;x
+burned_world_tree_opinion_desc;Этот персонаж сжег Мировое Древо. Это ужасное преступление против многих существ Азерота.;;;;;;;;;;;;;x
 EVTTITLE_WCRLM_600;Горящее Мировое Древо;;;;;;;;;;;;;x
 EVTDESC_WCRLM_600_tree;Даже в ночи, ярчайший свет заливает леса [target_province.GetName]. Огонь горящего мирового древа сияет будто восходящее солнце далеко на горизонте. Здания, расположенные под корнями, моментально складываются будто карточные домики под весом падающих тлеющих ветвей. Огонь, охвативший мировое древо, за пару мгновений перебросился на поселения, а затем на близлежащие леса. Именно там, многие из тех, кто пытался убежать, были застигнуты врасплох, когда кольцо огня заперло их внутри горящего ада. ;;;;;;;;;;;;;x
 EVTDESC_WCRLM_600_nightmare;Даже в ночи, ярчайший свет заливает леса [target_province.GetName]. Огонь горящего кошмарного древа сияет будто восходящее солнце далеко на горизонте. Алтари, расположенные под корнями, моментально складываются будто карточные домики под весом падающих гнилостных ветвей. Огонь, охвативший кошмарное древо, за пару мгновений перебросился на ритуальные комплексы, а затем на близлежащие леса. Нет слов, чтобы описать зловоние дыма, исходившего от этого горящего ада. ;;;;;;;;;;;;;x
@@ -2035,7 +2035,7 @@ EVTOPTA_WCTRO_100;Неожиданно;;;;;;;;;;;;;x
 EVTOPTB_WCTRO_100;Это будет великий день, братья!;;;;;;;;;;;;;x
 form_the_empire_of_zul;Восстановить империю Зул;;;;;;;;;;;;;x
 form_the_empire_of_zul_desc;Империя Зул была предшественником всех пяти империй троллей в древнюю эру. Многие тролли почитают времена своего могущества, и возможно однажды единый лидер сможет заставить объединенную им перию троллей снова восстать по всему Азероту.;;;;;;;;;;;;;x
-create_empire_of_zul_tt;§Y[Root.GetBestName]§! создает §YEmpire of Zul§!;;;;;;;;;;;;;x
+create_empire_of_zul_tt;§Y[Root.GetBestName]§! создает §YИмперию Зул§!;;;;;;;;;;;;;x
 EXODAR;Экзодар;;;;;;;;;;;;;x
 world_kalimdor_durotar;Дуротар;;;;;;;;;;;;;x
 GetRelHeadTitle_lightbound;[d_lightbound.GetRulerTitle];;;;;;;;;;;;;x
@@ -2165,7 +2165,7 @@ I_WILL_NOT_BETRAY_RELIGION;Я не отрину [Root.TrueReligion.GetHighGodName]!;;;;;;
 emperor_of_zul;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 emperor_of_zul_desc;Восстановивший древнее наследие, [This.GetFirstNameWithNick] получил признание среди троллей как один из величайших воителей и верховный правитель.;;;;;;;;;;;;;x
 bloodline_effect_necromancer_training;Пониженные требования к обучению для §GNecromancer Training§!;;;;;;;;;;;;;x
-bloodline_insanity_gain_tooltip;Повышен рост §YInsanity§!;;;;;;;;;;;;;x
+bloodline_insanity_gain_tooltip;Повышен рост §YБезумия§!;;;;;;;;;;;;;x
 String_Death_God;Нер'Зул;;;;;;;;;;;;;x
 GetRelAdjective_Wise;Мудрый;;;;;;;;;;;;;x
 EVTOPTA_WCCLS_2102;Это хорошая цена.;;;;;;;;;;;;;x
@@ -2195,8 +2195,8 @@ FOR_THE_FACTION;За [This.GetFactionName]!;;;;;;;;;;;;;x
 GetFactionName_Horde;Орду;;;;;;;;;;;;;x
 GetFactionName_Alliance;Альянс;;;;;;;;;;;;;x
 GetFactionName_Azeroth;Азерот;;;;;;;;;;;;;x
-EVTDESC_WCPLF_280;Relations within [Root.PrimaryTitle.GetName] are stronger than ever. In the wake of newfound internal peace, [Root.GetTitledFirstName] spoke to highranking members and nobles of [Root.PrimaryTitle.GetName]. During the private meeting, [Root.GetSheHe] proposed combining the military and political power of all subordinate kingdoms and clans in order to protect their common borders. To ensure an uncontested and unified power structure, [Root.GetTitledFirstName] has pledged not to get involved in the internal dynastic politics of [Root.PrimaryTitle.GetName] for the succeeding [Root.GetTitle] will be selected by the nobles and chieftans of the realm from hence forward. After the meeting chamber doors opened, [Root.GetTitledFirstName] announced that [Root.PrimaryTitle.GetName] was now truly united under one [Root.GetTitle]!;;;;;;;;;;;;;x
-EVTTITLE_WCPLF_280;[Root.PrimaryTitle.GetName] United;;;;;;;;;;;;;x
+EVTDESC_WCPLF_280;Внутренние связи фракции [Root.PrimaryTitle.GetName] стали крепче чем когда-либо прежде. Во время долгожданного периода мира, [Root.GetTitledFirstName] обрати[Root.GetLasLsya] к высокопоставленным членам и дворянам фракции [Root.PrimaryTitle.GetName]. Во время частной беседы, [Root.GetSheHe] предложил[Root.GetEndA] объединить военную и политическую силу всех подчиненных королевств и кланов, чтобы лучше защитить границы. Для того, чтобы обеспечить единую и неоспоримую структуру власти, [Root.GetTitledFirstName] обяза[Root.GetLasLsya] не вмешиваться во внутренную династическую политику фракции [Root.PrimaryTitle.GetName], так как следующий [Root.GetTitle] будет избран дворянами вождями королевства начиная с этого момента. После того, как двери в комнату собрания открылись, [Root.GetTitledFirstName] провозгласил[Root.GetEndA], что отныне [Root.PrimaryTitle.GetName] стал[Root.GetEndA] единой, объединившись во фракцию [Root.GetTitle]!;;;;;;;;;;;;;x
+EVTTITLE_WCPLF_280;Единая фракция [Root.PrimaryTitle.GetName];;;;;;;;;;;;;x
 creature_human_opinion;мнение людей;;;;;;;;;;;;;x
 opinion_of_creature_human;мнение о людях;;;;;;;;;;;;;x
 creature_orc_opinion;мнение орков;;;;;;;;;;;;;x
@@ -2547,8 +2547,8 @@ pet_felhunter;Гончая скверны;;;;;;;;;;;;;x
 pet_felhunter_desc;У этого персонажа есть гончая скверны. Гончие скверны — уродливые, красные, шипастые создания, призванные из глубин Круговерти Пустоты. Это демонические гончие, которых используют властители преисподней, чтобы выслеживать своих врагов по следу, оставляемую их магией. Рацион питания этих гончих состоит из самой магии, которую они вытягивают из  наивных волшебников.;;;;;;;;;;;;;x
 pet_felguard;Страж Скверны;;;;;;;;;;;;;x
 pet_felguard_desc;У этого персонажа есть Страж Скверны. Стражи Скверны — демоны из расы мо'аргов, которые служат Легиону как солдаты на передовой линии. Они бесстрашны и невероятно верны воле их хозяина. Практически всегда они предпочитают тяжелое двуручное оружие, но при этом они более ловкие, чем кажется на первый взгляд.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1215_success;Когда разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Вы смогли побороть и подчинить создание, и теперь ужасающая масса плоти выходит из портала и склоняется перед вами.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1215_fail;Когда разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Практически сразу его щупальца добрались до вас, разрывая ваши конечности и завлекая тело в созданный вами портал. Разлом закрывается, и вы оказываетесь во тьме, наедине с жутким созданием.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1215_success;Когда открылся разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Вы смогли побороть и подчинить создание, и теперь ужасающая масса плоти выходит из портала и склоняется перед вами.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1215_fail;Когда открылся разлом в Круговерть Пустоты, вы заметили силуэт огромного создания на другой стороне. Практически сразу его щупальца добрались до вас, разрывая ваши конечности и завлекая тело в созданный вами портал. Разлом закрывается, и вы оказываетесь во тьме, наедине с жутким созданием.;;;;;;;;;;;;;x
 EVTOPTA_WCCLS_1213;Призвать К'Тракси!;;;;;;;;;;;;;x
 EVTOPTB_WCCLS_1213;Призвать н'раки!;;;;;;;;;;;;;x
 EVTOPTC_WCCLS_1213;Призвать зоатроида!;;;;;;;;;;;;;x
