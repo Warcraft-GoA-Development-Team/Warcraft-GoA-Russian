@@ -1,0 +1,247 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN;§RWarCraft§!: Generic Artifacts Spawn At Gamestart ;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_DEFAULT;Default;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_DEFAULT_DESC;Default amount of spawned artifacts on gamestart.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X1_5_DESC;Amount of generic artifacts spawned on gamestart is modified by §G1.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X2_DESC;Amount of generic artifacts spawned on gamestart is modified by §G2§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X0_5_DESC;Amount of generic artifacts spawned on gamestart is modified by §R0.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X0_25_DESC;Amount of generic artifacts spawned on gamestart is modified by §R0.25§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_OFF;Disabled;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_OFF_DESC;No generic artifacts will be spawned on gamestart.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_1;[GetArtifactJewelryCommonAffixN1] Necklace;;;;;;;;;;;;;x
+amulet_1_desc;Common Necklace.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_2_diplomacy;[GetArtifactJewelryUncommonDiplomacyAffixN1] Necklace[GetArtifactJewelryUncommonDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_2_diplomacy_desc;Uncommon Necklace.;;;;;;;;;;;;;x
+amulet_2_martial;[GetArtifactJewelryUncommonMartialAffixN1] Necklace[GetArtifactJewelryUncommonMartialAffixN2];;;;;;;;;;;;;x
+amulet_2_martial_desc;Uncommon Necklace.;;;;;;;;;;;;;x
+amulet_2_stewardship;[GetArtifactJewelryUncommonStewardshipAffixN1] Necklace[GetArtifactJewelryUncommonStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_2_stewardship_desc;Uncommon Necklace.;;;;;;;;;;;;;x
+amulet_2_intrigue;[GetArtifactJewelryUncommonIntrigueAffixN1] Necklace[GetArtifactJewelryUncommonIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_2_intrigue_desc;Uncommon Necklace.;;;;;;;;;;;;;x
+amulet_2_learning;[GetArtifactJewelryUncommonLearningAffixN1] Necklace[GetArtifactJewelryUncommonLearningAffixN2];;;;;;;;;;;;;x
+amulet_2_learning_desc;Uncommon Necklace.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_3_diplomacy;[GetArtifactJewelryRareDiplomacyAffixN1] Necklace[GetArtifactJewelryRareDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_3_diplomacy_desc;Rare Necklace.;;;;;;;;;;;;;x
+amulet_3_martial;[GetArtifactJewelryRareMartialAffixN1] Necklace[GetArtifactJewelryRareMartialAffixN2];;;;;;;;;;;;;x
+amulet_3_martial_desc;Rare Necklace.;;;;;;;;;;;;;x
+amulet_3_stewardship;[GetArtifactJewelryRareStewardshipAffixN1] Necklace[GetArtifactJewelryRareStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_3_stewardship_desc;Rare Necklace.;;;;;;;;;;;;;x
+amulet_3_intrigue;[GetArtifactJewelryRareIntrigueAffixN1] Necklace[GetArtifactJewelryRareIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_3_intrigue_desc;Rare Necklace.;;;;;;;;;;;;;x
+amulet_3_learning;[GetArtifactJewelryRareLearningAffixN1] Necklace[GetArtifactJewelryRareLearningAffixN2];;;;;;;;;;;;;x
+amulet_3_learning_desc;Rare Necklace.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_4_diplomacy;[GetArtifactJewelryEpicDiplomacyAffixN1] Necklace[GetArtifactJewelryEpicDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_4_diplomacy_desc;Epic Necklace.;;;;;;;;;;;;;x
+amulet_4_martial;[GetArtifactJewelryEpicMartialAffixN1] Necklace[GetArtifactJewelryEpicMartialAffixN2];;;;;;;;;;;;;x
+amulet_4_martial_desc;Epic Necklace.;;;;;;;;;;;;;x
+amulet_4_stewardship;[GetArtifactJewelryEpicStewardshipAffixN1] Necklace[GetArtifactJewelryEpicStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_4_stewardship_desc;Epic Necklace.;;;;;;;;;;;;;x
+amulet_4_intrigue;[GetArtifactJewelryEpicIntrigueAffixN1] Necklace[GetArtifactJewelryEpicIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_4_intrigue_desc;Epic Necklace.;;;;;;;;;;;;;x
+amulet_4_learning;[GetArtifactJewelryEpicLearningAffixN1] Necklace[GetArtifactJewelryEpicLearningAffixN2];;;;;;;;;;;;;x
+amulet_4_learning_desc;Epic Necklace.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_5_diplomacy;[GetArtifactJewelryLegendaryDiplomacyAffixN1] Necklace[GetArtifactJewelryLegendaryDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_5_diplomacy_desc;Legendary Necklace.;;;;;;;;;;;;;x
+amulet_5_martial;[GetArtifactJewelryLegendaryMartialAffixN1] Necklace[GetArtifactJewelryLegendaryMartialAffixN2];;;;;;;;;;;;;x
+amulet_5_martial_desc;Legendary Necklace.;;;;;;;;;;;;;x
+amulet_5_stewardship;[GetArtifactJewelryLegendaryStewardshipAffixN1] Necklace[GetArtifactJewelryLegendaryStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_5_stewardship_desc;Legendary Necklace.;;;;;;;;;;;;;x
+amulet_5_intrigue;[GetArtifactJewelryLegendaryIntrigueAffixN1] Necklace[GetArtifactJewelryLegendaryIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_5_intrigue_desc;Legendary Necklace.;;;;;;;;;;;;;x
+amulet_5_learning;[GetArtifactJewelryLegendaryLearningAffixN1] Necklace[GetArtifactJewelryLegendaryLearningAffixN2];;;;;;;;;;;;;x
+amulet_5_learning_desc;Legendary Necklace.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_1;[GetArtifactJewelryCommonAffixN1] Ring;;;;;;;;;;;;;x
+ring_1_desc;Common Ring.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_2_diplomacy;[GetArtifactJewelryUncommonDiplomacyAffixN1] Ring[GetArtifactJewelryUncommonDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_2_diplomacy_desc;Uncommon Ring.;;;;;;;;;;;;;x
+ring_2_martial;[GetArtifactJewelryUncommonMartialAffixN1] Ring[GetArtifactJewelryUncommonMartialAffixN2];;;;;;;;;;;;;x
+ring_2_martial_desc;Uncommon Ring.;;;;;;;;;;;;;x
+ring_2_stewardship;[GetArtifactJewelryUncommonStewardshipAffixN1] Ring[GetArtifactJewelryUncommonStewardshipAffixN2];;;;;;;;;;;;;x
+ring_2_stewardship_desc;Uncommon Ring.;;;;;;;;;;;;;x
+ring_2_intrigue;[GetArtifactJewelryUncommonIntrigueAffixN1] Ring[GetArtifactJewelryUncommonIntrigueAffixN2];;;;;;;;;;;;;x
+ring_2_intrigue_desc;Uncommon Ring.;;;;;;;;;;;;;x
+ring_2_learning;[GetArtifactJewelryUncommonLearningAffixN1] Ring[GetArtifactJewelryUncommonLearningAffixN2];;;;;;;;;;;;;x
+ring_2_learning_desc;Uncommon Ring.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_3_diplomacy;[GetArtifactJewelryRareDiplomacyAffixN1] Ring[GetArtifactJewelryRareDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_3_diplomacy_desc;Rare Ring.;;;;;;;;;;;;;x
+ring_3_martial;[GetArtifactJewelryRareMartialAffixN1] Ring[GetArtifactJewelryRareMartialAffixN2];;;;;;;;;;;;;x
+ring_3_martial_desc;Rare Ring.;;;;;;;;;;;;;x
+ring_3_stewardship;[GetArtifactJewelryRareStewardshipAffixN1] Ring[GetArtifactJewelryRareStewardshipAffixN2];;;;;;;;;;;;;x
+ring_3_stewardship_desc;Rare Ring.;;;;;;;;;;;;;x
+ring_3_intrigue;[GetArtifactJewelryRareIntrigueAffixN1] Ring[GetArtifactJewelryRareIntrigueAffixN2];;;;;;;;;;;;;x
+ring_3_intrigue_desc;Rare Ring.;;;;;;;;;;;;;x
+ring_3_learning;[GetArtifactJewelryRareLearningAffixN1] Ring[GetArtifactJewelryRareLearningAffixN2];;;;;;;;;;;;;x
+ring_3_learning_desc;Rare Ring.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_4_diplomacy;[GetArtifactJewelryEpicDiplomacyAffixN1] Ring[GetArtifactJewelryEpicDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_4_diplomacy_desc;Epic Ring.;;;;;;;;;;;;;x
+ring_4_martial;[GetArtifactJewelryEpicMartialAffixN1] Ring[GetArtifactJewelryEpicMartialAffixN2];;;;;;;;;;;;;x
+ring_4_martial_desc;Epic Ring.;;;;;;;;;;;;;x
+ring_4_stewardship;[GetArtifactJewelryEpicStewardshipAffixN1] Ring[GetArtifactJewelryEpicStewardshipAffixN2];;;;;;;;;;;;;x
+ring_4_stewardship_desc;Epic Ring.;;;;;;;;;;;;;x
+ring_4_intrigue;[GetArtifactJewelryEpicIntrigueAffixN1] Ring[GetArtifactJewelryEpicIntrigueAffixN2];;;;;;;;;;;;;x
+ring_4_intrigue_desc;Epic Ring.;;;;;;;;;;;;;x
+ring_4_learning;[GetArtifactJewelryEpicLearningAffixN1] Ring[GetArtifactJewelryEpicLearningAffixN2];;;;;;;;;;;;;x
+ring_4_learning_desc;Epic Ring.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_5_diplomacy;[GetArtifactJewelryLegendaryDiplomacyAffixN1] Ring[GetArtifactJewelryLegendaryDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_5_diplomacy_desc;Legendary Ring.;;;;;;;;;;;;;x
+ring_5_martial;[GetArtifactJewelryLegendaryMartialAffixN1] Ring[GetArtifactJewelryLegendaryMartialAffixN2];;;;;;;;;;;;;x
+ring_5_martial_desc;Legendary Ring.;;;;;;;;;;;;;x
+ring_5_stewardship;[GetArtifactJewelryLegendaryStewardshipAffixN1] Ring[GetArtifactJewelryLegendaryStewardshipAffixN2];;;;;;;;;;;;;x
+ring_5_stewardship_desc;Legendary Ring.;;;;;;;;;;;;;x
+ring_5_intrigue;[GetArtifactJewelryLegendaryIntrigueAffixN1] Ring[GetArtifactJewelryLegendaryIntrigueAffixN2];;;;;;;;;;;;;x
+ring_5_intrigue_desc;Legendary Ring.;;;;;;;;;;;;;x
+ring_5_learning;[GetArtifactJewelryLegendaryLearningAffixN1] Ring[GetArtifactJewelryLegendaryLearningAffixN2];;;;;;;;;;;;;x
+ring_5_learning_desc;Legendary Ring.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_1;[GetArtifactJewelryCommonAffixN1] Bracers;;;;;;;;;;;;;x
+bracelet_1_desc;Common Bracers.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_2_diplomacy;[GetArtifactJewelryUncommonDiplomacyAffixN1] Bracers[GetArtifactJewelryUncommonDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_2_diplomacy_desc;Uncommon Bracers.;;;;;;;;;;;;;x
+bracelet_2_martial;[GetArtifactJewelryUncommonMartialAffixN1] Bracers[GetArtifactJewelryUncommonMartialAffixN2];;;;;;;;;;;;;x
+bracelet_2_martial_desc;Uncommon Bracers.;;;;;;;;;;;;;x
+bracelet_2_stewardship;[GetArtifactJewelryUncommonStewardshipAffixN1] Bracers[GetArtifactJewelryUncommonStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_2_stewardship_desc;Uncommon Bracers.;;;;;;;;;;;;;x
+bracelet_2_intrigue;[GetArtifactJewelryUncommonIntrigueAffixN1] Bracers[GetArtifactJewelryUncommonIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_2_intrigue_desc;Uncommon Bracers.;;;;;;;;;;;;;x
+bracelet_2_learning;[GetArtifactJewelryUncommonLearningAffixN1] Bracers[GetArtifactJewelryUncommonLearningAffixN2];;;;;;;;;;;;;x
+bracelet_2_learning_desc;Uncommon Bracers.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_3_diplomacy;[GetArtifactJewelryRareDiplomacyAffixN1] Bracers[GetArtifactJewelryRareDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_3_diplomacy_desc;Rare Bracers.;;;;;;;;;;;;;x
+bracelet_3_martial;[GetArtifactJewelryRareMartialAffixN1] Bracers[GetArtifactJewelryRareMartialAffixN2];;;;;;;;;;;;;x
+bracelet_3_martial_desc;Rare Bracers.;;;;;;;;;;;;;x
+bracelet_3_stewardship;[GetArtifactJewelryRareStewardshipAffixN1] Bracers[GetArtifactJewelryRareStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_3_stewardship_desc;Rare Bracers.;;;;;;;;;;;;;x
+bracelet_3_intrigue;[GetArtifactJewelryRareIntrigueAffixN1] Bracers[GetArtifactJewelryRareIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_3_intrigue_desc;Rare Bracers.;;;;;;;;;;;;;x
+bracelet_3_learning;[GetArtifactJewelryRareLearningAffixN1] Bracers[GetArtifactJewelryRareLearningAffixN2];;;;;;;;;;;;;x
+bracelet_3_learning_desc;Rare Bracers.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_4_diplomacy;[GetArtifactJewelryEpicDiplomacyAffixN1] Bracers[GetArtifactJewelryEpicDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_4_diplomacy_desc;Epic Bracers.;;;;;;;;;;;;;x
+bracelet_4_martial;[GetArtifactJewelryEpicMartialAffixN1] Bracers[GetArtifactJewelryEpicMartialAffixN2];;;;;;;;;;;;;x
+bracelet_4_martial_desc;Epic Bracers.;;;;;;;;;;;;;x
+bracelet_4_stewardship;[GetArtifactJewelryEpicStewardshipAffixN1] Bracers[GetArtifactJewelryEpicStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_4_stewardship_desc;Epic Bracers.;;;;;;;;;;;;;x
+bracelet_4_intrigue;[GetArtifactJewelryEpicIntrigueAffixN1] Bracers[GetArtifactJewelryEpicIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_4_intrigue_desc;Epic Bracers.;;;;;;;;;;;;;x
+bracelet_4_learning;[GetArtifactJewelryEpicLearningAffixN1] Bracers[GetArtifactJewelryEpicLearningAffixN2];;;;;;;;;;;;;x
+bracelet_4_learning_desc;Epic Bracers.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_5_diplomacy;[GetArtifactJewelryLegendaryDiplomacyAffixN1] Bracers[GetArtifactJewelryLegendaryDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_5_diplomacy_desc;Legendary Bracers.;;;;;;;;;;;;;x
+bracelet_5_martial;[GetArtifactJewelryLegendaryMartialAffixN1] Bracers[GetArtifactJewelryLegendaryMartialAffixN2];;;;;;;;;;;;;x
+bracelet_5_martial_desc;Legendary Bracers.;;;;;;;;;;;;;x
+bracelet_5_stewardship;[GetArtifactJewelryLegendaryStewardshipAffixN1] Bracers[GetArtifactJewelryLegendaryStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_5_stewardship_desc;Legendary Bracers.;;;;;;;;;;;;;x
+bracelet_5_intrigue;[GetArtifactJewelryLegendaryIntrigueAffixN1] Bracers[GetArtifactJewelryLegendaryIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_5_intrigue_desc;Legendary Bracers.;;;;;;;;;;;;;x
+bracelet_5_learning;[GetArtifactJewelryLegendaryLearningAffixN1] Bracers[GetArtifactJewelryLegendaryLearningAffixN2];;;;;;;;;;;;;x
+bracelet_5_learning_desc;Legendary Bracers.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+sword_twohanded_1;[GetArtifactWeaponsCommonAffixN1] Two-handed Sword;;;;;;;;;;;;;x
+sword_twohanded_1_desc;Common Two-handed Sword.;;;;;;;;;;;;;x
+sword_twohanded_2;[GetArtifactWeaponsUncommonAffixN1] Two-handed[GetArtifactWeaponsUncommonAffixN2] Sword;;;;;;;;;;;;;x
+sword_twohanded_2_desc;Uncommon Two-handed Sword.;;;;;;;;;;;;;x
+sword_twohanded_3;[GetArtifactWeaponsRareAffixN1] Two-handed[GetArtifactWeaponsRareAffixN2] Sword;;;;;;;;;;;;;x
+sword_twohanded_3_desc;Rare Two-handed Sword.;;;;;;;;;;;;;x
+sword_twohanded_4;[GetArtifactWeaponsEpicAffixN1] Two-handed[GetArtifactWeaponsEpicAffixN2] Sword;;;;;;;;;;;;;x
+sword_twohanded_4_desc;Epic Two-handed Sword.;;;;;;;;;;;;;x
+sword_twohanded_5;[GetArtifactWeaponsLegendaryAffixN1] Two-handed[GetArtifactWeaponsLegendaryAffixN2] Sword;;;;;;;;;;;;;x
+sword_twohanded_5_desc;Legendary Two-handed Sword.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+sword_onehanded_1;[GetArtifactWeaponsCommonAffixN1] One-handed Sword;;;;;;;;;;;;;x
+sword_onehanded_1_desc;Common One-handed Sword.;;;;;;;;;;;;;x
+sword_onehanded_2;[GetArtifactWeaponsUncommonAffixN1] One-handed[GetArtifactWeaponsUncommonAffixN2] Sword;;;;;;;;;;;;;x
+sword_onehanded_2_desc;Uncommon One-handed Sword.;;;;;;;;;;;;;x
+sword_onehanded_3;[GetArtifactWeaponsRareAffixN1] One-handed[GetArtifactWeaponsRareAffixN2] Sword;;;;;;;;;;;;;x
+sword_onehanded_3_desc;Rare One-handed Sword.;;;;;;;;;;;;;x
+sword_onehanded_4;[GetArtifactWeaponsEpicAffixN1] One-handed[GetArtifactWeaponsEpicAffixN2] Sword;;;;;;;;;;;;;x
+sword_onehanded_4_desc;Epic One-handed Sword.;;;;;;;;;;;;;x
+sword_onehanded_5;[GetArtifactWeaponsLegendaryAffixN1] One-handed[GetArtifactWeaponsLegendaryAffixN2] Sword;;;;;;;;;;;;;x
+sword_onehanded_5_desc;Legendary One-handed Sword.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+axe_twohanded_1;[GetArtifactWeaponsCommonAffixN1] Two-handed Axe;;;;;;;;;;;;;x
+axe_twohanded_1_desc;Common Two-handed Axe.;;;;;;;;;;;;;x
+axe_twohanded_2;[GetArtifactWeaponsUncommonAffixN1] Two-handed[GetArtifactWeaponsUncommonAffixN2] Axe;;;;;;;;;;;;;x
+axe_twohanded_2_desc;Uncommon Two-handed Axe.;;;;;;;;;;;;;x
+axe_twohanded_3;[GetArtifactWeaponsRareAffixN1] Two-handed[GetArtifactWeaponsRareAffixN2] Axe;;;;;;;;;;;;;x
+axe_twohanded_3_desc;Rare Two-handed Axe.;;;;;;;;;;;;;x
+axe_twohanded_4;[GetArtifactWeaponsEpicAffixN1] Two-handed[GetArtifactWeaponsEpicAffixN2] Axe;;;;;;;;;;;;;x
+axe_twohanded_4_desc;Epic Two-handed Axe.;;;;;;;;;;;;;x
+axe_twohanded_5;[GetArtifactWeaponsLegendaryAffixN1] Two-handed[GetArtifactWeaponsLegendaryAffixN2] Axe;;;;;;;;;;;;;x
+axe_twohanded_5_desc;Legendary Two-handed Axe.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+axe_onehanded_1;[GetArtifactWeaponsCommonAffixN1] One-handed Axe;;;;;;;;;;;;;x
+axe_onehanded_1_desc;Common One-handed Axe.;;;;;;;;;;;;;x
+axe_onehanded_2;[GetArtifactWeaponsUncommonAffixN1] One-handed[GetArtifactWeaponsUncommonAffixN2] Axe;;;;;;;;;;;;;x
+axe_onehanded_2_desc;Uncommon One-handed Axe.;;;;;;;;;;;;;x
+axe_onehanded_3;[GetArtifactWeaponsRareAffixN1] One-handed[GetArtifactWeaponsRareAffixN2] Axe;;;;;;;;;;;;;x
+axe_onehanded_3_desc;Rare One-handed Axe.;;;;;;;;;;;;;x
+axe_onehanded_4;[GetArtifactWeaponsEpicAffixN1] One-handed[GetArtifactWeaponsEpicAffixN2] Axe;;;;;;;;;;;;;x
+axe_onehanded_4_desc;Epic One-handed Axe.;;;;;;;;;;;;;x
+axe_onehanded_5;[GetArtifactWeaponsLegendaryAffixN1] One-handed[GetArtifactWeaponsLegendaryAffixN2] Axe;;;;;;;;;;;;;x
+axe_onehanded_5_desc;Legendary One-handed Axe.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+mace_twohanded_1;[GetArtifactWeaponsCommonAffixN1] Two-handed Mace;;;;;;;;;;;;;x
+mace_twohanded_1_desc;Common Two-handed Mace.;;;;;;;;;;;;;x
+mace_twohanded_2;[GetArtifactWeaponsUncommonAffixN1] Two-handed[GetArtifactWeaponsUncommonAffixN2] Mace;;;;;;;;;;;;;x
+mace_twohanded_2_desc;Uncommon Two-handed Mace.;;;;;;;;;;;;;x
+mace_twohanded_3;[GetArtifactWeaponsRareAffixN1] Two-handed[GetArtifactWeaponsRareAffixN2] Mace;;;;;;;;;;;;;x
+mace_twohanded_3_desc;Rare Two-handed Mace.;;;;;;;;;;;;;x
+mace_twohanded_4;[GetArtifactWeaponsEpicAffixN1] Two-handed[GetArtifactWeaponsEpicAffixN2] Mace;;;;;;;;;;;;;x
+mace_twohanded_4_desc;Epic Two-handed Mace.;;;;;;;;;;;;;x
+mace_twohanded_5;[GetArtifactWeaponsLegendaryAffixN1] Two-handed[GetArtifactWeaponsLegendaryAffixN2] Mace;;;;;;;;;;;;;x
+mace_twohanded_5_desc;Legendary Two-handed Mace.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+mace_onehanded_1;[GetArtifactWeaponsCommonAffixN1] One-handed Mace;;;;;;;;;;;;;x
+mace_onehanded_1_desc;Common One-handed Mace.;;;;;;;;;;;;;x
+mace_onehanded_2;[GetArtifactWeaponsUncommonAffixN1] One-handed[GetArtifactWeaponsUncommonAffixN2] Mace;;;;;;;;;;;;;x
+mace_onehanded_2_desc;Uncommon One-handed Mace.;;;;;;;;;;;;;x
+mace_onehanded_3;[GetArtifactWeaponsRareAffixN1] One-handed[GetArtifactWeaponsRareAffixN2] Mace;;;;;;;;;;;;;x
+mace_onehanded_3_desc;Rare One-handed Mace.;;;;;;;;;;;;;x
+mace_onehanded_4;[GetArtifactWeaponsEpicAffixN1] One-handed[GetArtifactWeaponsEpicAffixN2] Mace;;;;;;;;;;;;;x
+mace_onehanded_4_desc;Epic One-handed Mace.;;;;;;;;;;;;;x
+mace_onehanded_5;[GetArtifactWeaponsLegendaryAffixN1] One-handed[GetArtifactWeaponsLegendaryAffixN2] Mace;;;;;;;;;;;;;x
+mace_onehanded_5_desc;Legendary One-handed Mace.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+halberd_1;[GetArtifactWeaponsCommonAffixN1] Halberd;;;;;;;;;;;;;x
+halberd_1_desc;Common Halberd.;;;;;;;;;;;;;x
+halberd_2;[GetArtifactWeaponsUncommonAffixN1][GetArtifactWeaponsUncommonAffixN2] Halberd;;;;;;;;;;;;;x
+halberd_2_desc;Uncommon Halberd.;;;;;;;;;;;;;x
+halberd_3;[GetArtifactWeaponsRareAffixN1][GetArtifactWeaponsRareAffixN2] Halberd;;;;;;;;;;;;;x
+halberd_3_desc;Rare Halberd.;;;;;;;;;;;;;x
+halberd_4;[GetArtifactWeaponsEpicAffixN1][GetArtifactWeaponsEpicAffixN2] Halberd;;;;;;;;;;;;;x
+halberd_4_desc;Epic Halberd.;;;;;;;;;;;;;x
+halberd_5;[GetArtifactWeaponsLegendaryAffixN1][GetArtifactWeaponsLegendaryAffixN2] Halberd;;;;;;;;;;;;;x
+halberd_5_desc;Legendary Halberd.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+spear_1;[GetArtifactWeaponsCommonAffixN1] Spear;;;;;;;;;;;;;x
+spear_1_desc;Common Spear.;;;;;;;;;;;;;x
+spear_2;[GetArtifactWeaponsUncommonAffixN1][GetArtifactWeaponsUncommonAffixN2] Spear;;;;;;;;;;;;;x
+spear_2_desc;Uncommon Spear.;;;;;;;;;;;;;x
+spear_3;[GetArtifactWeaponsRareAffixN1][GetArtifactWeaponsRareAffixN2] Spear;;;;;;;;;;;;;x
+spear_3_desc;Rare Spear.;;;;;;;;;;;;;x
+spear_4;[GetArtifactWeaponsEpicAffixN1][GetArtifactWeaponsEpicAffixN2] Spear;;;;;;;;;;;;;x
+spear_4_desc;Epic Spear.;;;;;;;;;;;;;x
+spear_5;[GetArtifactWeaponsLegendaryAffixN1][GetArtifactWeaponsLegendaryAffixN2] Spear;;;;;;;;;;;;;x
+spear_5_desc;Legendary Spear.;;;;;;;;;;;;;x

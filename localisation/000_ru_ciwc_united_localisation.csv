@@ -1,0 +1,52 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+cannotBuildTradePost;Is not tribal or publicly practice an evil religion;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+eastern_kingdoms_south_trade_route;Azerothian Trade Route;;;;;;;;;;;;;x
+eastern_kingdoms_north_trade_route;Lordaeron Trade Route;;;;;;;;;;;;;x
+eastern_kingdoms_west_sea_trade_route;Eastern Sea Trade Route;;;;;;;;;;;;;x
+kalimdor_trade_route;Gold Road Trade Route;;;;;;;;;;;;;x
+kalimdor_east_sea_trade_route;Kaldorei Sea Trade Route;;;;;;;;;;;;;x
+great_sea_trade_route;Great Sea Trade Route;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+eastern_kingdoms_north_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YLordearon Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+eastern_kingdoms_south_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YAzerothian Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+eastern_kingdoms_west_sea_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YEastern Sea Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+kalimdor_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YGold Road Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+kalimdor_east_sea_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YKaldorei Sea Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+great_sea_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YGreat Sea Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+text_effect_major_trade_route;This is a §GMajor§! Trade Route;;;;;;;;;;;;;x
+text_effect_medium_trade_route;This is a §YMedium§! Trade Route;;;;;;;;;;;;;x
+text_effect_minor_trade_route;This is a §RMinor§! Trade Route;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+tr_culture_none;Road Tavern;;;;;;;;;;;;;x
+tr_culture_group_goblin;Zeppelin Tower;;;;;;;;;;;;;x
+tr_culture_group_night_elf;Resting Lounge;;;;;;;;;;;;;x
+tr_culture_group_high_elf_human_draenei;Jeweler's Shop;;;;;;;;;;;;;x
+tr_culture_group_tauren;Kodo Ranch;;;;;;;;;;;;;x
+tr_culture_group_tuskarr;Turtle Pools;;;;;;;;;;;;;x
+tr_culture_group_harpy;Guide Eagle Nests;;;;;;;;;;;;;x
+tr_culture_group_orc;Wolf Bestiary;;;;;;;;;;;;;x
+tr_culture_group_troll;Charm Shop;;;;;;;;;;;;;x
+tr_culture_group_dwarf;Stonemasons Guild;;;;;;;;;;;;;x
+tr_culture_group_kobold;Chandlers Guild;;;;;;;;;;;;;x
+tr_culture_group_gnome;Merchant Bots Hub;;;;;;;;;;;;;x
+tr_culture_group_murloc;Coralmasons Guild;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+tr_religion_arcane_religion;Portal Center;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+tr_culture_none_desc;A place where merchants can get a roof over their heads and a plate of food.;;;;;;;;;;;;;x
+tr_culture_group_goblin_desc;A building where a zeppelin docks to pickup and drop off passengers.;;;;;;;;;;;;;x
+tr_culture_group_night_elf_desc;A place where travellers of all sorts can rest.;;;;;;;;;;;;;x
+tr_culture_group_high_elf_human_draenei_desc;In this store, jewelers sell their precious masterpieces.;;;;;;;;;;;;;x
+tr_culture_group_tauren_desc;Many kodo beasts breed happily on this farm.;;;;;;;;;;;;;x
+tr_culture_group_tuskarr_desc;Turtles can make it to these water pools.;;;;;;;;;;;;;x
+tr_culture_group_harpy_desc;Sharp-eyed eagles that live here help merchants avoid dangerous paths.;;;;;;;;;;;;;x
+tr_culture_group_orc_desc;Big, but not really bad wolves are used here for transporting goods.;;;;;;;;;;;;;x
+tr_culture_group_troll_desc;Charms against curses, misfortune and greedy merchants are produced and sold here. No returns or refunds. Ever.;;;;;;;;;;;;;x
+tr_culture_group_dwarf_desc;Here hard stones are used in even harder mason's work.;;;;;;;;;;;;;x
+tr_culture_group_kobold_desc;Chandlers work here to produce candles so long as you no take them!;;;;;;;;;;;;;x
+tr_culture_group_gnome_desc;Merchant bots sell other merchant bots here.\n"Beep-boop, dear customer.";;;;;;;;;;;;;x
+tr_culture_group_murloc_desc;Even if these craftsmen smell fishy, they produce and sell extremely beautiful coralwork.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+tr_religion_arcane_religion_desc;A place that has portals to many places across Azeroth.;;;;;;;;;;;;;x

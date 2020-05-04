@@ -1,0 +1,461 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+#Military Technologies;;;;;;;;;;;;;;x
+TECH_INFANTRY;Frontline Troops;;;;;;;;;;;;;x
+TECH_CAVALRY;Assault Troops;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT;Military Engineering;;;;;;;;;;;;;x
+TECH_RECRUITMENT;Martial Logistics;;;;;;;;;;;;;x
+TECH_INFANTRY_DESC;Better Equipment and Discipline for our Frontline Troops;;;;;;;;;;;;;x
+TECH_CAVALRY_DESC;Better Equipment and Discipline for our Assault Troops;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT_DESC;More Advanced Siege Techniques and Equipment for our Mechanical Troops;;;;;;;;;;;;;x
+TECH_RECRUITMENT_DESC;More Developed Logistical Systems and Recruitment Methods;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+#ABBREVIATIONS;;;;;;;;;;;;;;x
+L_INF;CA;;;;;;;;;;;;;x
+H_INF;IN;;;;;;;;;;;;;x
+PIKE;LI;;;;;;;;;;;;;x
+L_CAV;CV;;;;;;;;;;;;;x
+ARCH;RI;;;;;;;;;;;;;x
+H_CAV;AI;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+PIKEMEN;Large Infantry;;;;;;;;;;;;;x
+PIKEMEN_OFFENSIVE_FIRE;Large Infantry Attack;;;;;;;;;;;;;x
+PIKEMEN_DEFENSIVE_FIRE;Large Infantry Defense;;;;;;;;;;;;;x
+PIKEMEN_MORALE;Large Infantry Morale;;;;;;;;;;;;;x
+PIKEMEN_MODIFIER;Large Infantry Modifier;;;;;;;;;;;;;x
+CU_PIKEMEN;Large Infantry;;;;;;;;;;;;;x
+KNIGHTS;Aerial Infantry;;;;;;;;;;;;;x
+KNIGHTS_OFFENSIVE_FIRE;Aerial Infantry Attack;;;;;;;;;;;;;x
+KNIGHTS_DEFENSIVE_FIRE;Aerial Infantry Defense;;;;;;;;;;;;;x
+KNIGHTS_MORALE;Aerial Infantry Morale;;;;;;;;;;;;;x
+KNIGHTS_MODIFIER;Aerial Infantry Modifier;;;;;;;;;;;;;x
+CU_KNIGHTS;Aerial Infantry;;;;;;;;;;;;;x
+CU_HEAVY_CAVALRY;Aerial Infantry;;;;;;;;;;;;;x
+LIGHT_CAVALRY;Cavalry;;;;;;;;;;;;;x
+LIGHT_CAVALRY_OFFENSIVE_FIRE;Cavalry Attack;;;;;;;;;;;;;x
+LIGHT_CAVALRY_DEFENSIVE_FIRE;Cavalry Defense;;;;;;;;;;;;;x
+LIGHT_CAVALRY_MORALE;Cavalry Morale;;;;;;;;;;;;;x
+LIGHT_CAVALRY_MODIFIER;Cavalry Modifier;;;;;;;;;;;;;x
+CU_LIGHT_CAVALRY;Cavalry;;;;;;;;;;;;;x
+CU_CAVALRY;Shock Troops;;;;;;;;;;;;;
+ARCHERS;Ranged Infantry;;;;;;;;;;;;;x
+ARCHERS_OFFENSIVE_FIRE;Ranged Infantry Attack;;;;;;;;;;;;;x
+ARCHERS_DEFENSIVE_FIRE;Ranged Infantry Defense;;;;;;;;;;;;;x
+ARCHERS_MORALE;Ranged Infantry Morale;;;;;;;;;;;;;x
+ARCHERS_MODIFIER;Ranged Infantry Modifier;;;;;;;;;;;;;x
+CU_ARCHERS;Ranged Infantry;;;;;;;;;;;;;x
+HEAVY_INFANTRY;Infantry;;;;;;;;;;;;;x
+HEAVY_INFANTRY_OFFENSIVE_FIRE;Infantry Attack;;;;;;;;;;;;;x
+HEAVY_INFANTRY_DEFENSIVE_FIRE;Infantry Defense;;;;;;;;;;;;;x
+HEAVY_INFANTRY_MORALE;Infantry Morale;;;;;;;;;;;;;x
+HEAVY_INFANTRY_MODIFIER;Infantry Modifier;;;;;;;;;;;;;x
+CU_HEAVY_INFANTRY;Melee Troops;;;;;;;;;;;;;x
+CU_ACTUAL_HEAVY_INFANTRY;Infantry;;;;;;;;;;;;;x
+LIGHT_INFANTRY;Casters;;;;;;;;;;;;;x
+LIGHT_INFANTRY_OFFENSIVE_FIRE;Casters Attack;;;;;;;;;;;;;x
+LIGHT_INFANTRY_DEFENSIVE_FIRE;Casters Defense;;;;;;;;;;;;;x
+LIGHT_INFANTRY_MORALE;Casters Morale;;;;;;;;;;;;;x
+LIGHT_INFANTRY_MODIFIER;Casters Modifier;;;;;;;;;;;;;x
+CU_LIGHT_INFANTRY;Support Troops;;;;;;;;;;;;;x
+CU_ACTUAL_LIGHT_INFANTRY;Casters;;;;;;;;;;;;;x
+large_cavalry;Large Cavalry;;;;;;;;;;;;;x
+large_cavalry_offensive;Large Cavalry Attack;;;;;;;;;;;;;x
+large_cavalry_defensive;Large Cavalry Defense;;;;;;;;;;;;;x
+large_cavalry_morale;Large Cavalry Morale;;;;;;;;;;;;;x
+large_cavalry_modifier;Large Cavalry Modifier;;;;;;;;;;;;;x
+archmage;Archmage;;;;;;;;;;;;;x
+archmage_offensive;Archmage Attack;;;;;;;;;;;;;x
+archmage_defensive;Archmage Defense;;;;;;;;;;;;;x
+archmage_morale;Archmage Morale;;;;;;;;;;;;;x
+archmage_modifier;Archmage Modifier;;;;;;;;;;;;;x
+undead;Undead;;;;;;;;;;;;;x
+undead_offensive;Undead Attack;;;;;;;;;;;;;x
+undead_defensive;Undead Defense;;;;;;;;;;;;;x
+undead_morale;Undead Morale;;;;;;;;;;;;;x
+undead_modifier;Undead Modifier;;;;;;;;;;;;;x
+war_machines;War Machines;;;;;;;;;;;;;x
+war_machines_offensive;War Machine Attack;;;;;;;;;;;;;x
+war_machines_defensive;War Machine Defense;;;;;;;;;;;;;x
+war_machines_morale;War Machine Morale;;;;;;;;;;;;;x
+war_machines_modifier;War Machine Modifier;;;;;;;;;;;;;x
+animals;Animals;;;;;;;;;;;;;x
+animals_offensive;Animals Attack;;;;;;;;;;;;;x
+animals_defensive;Animals Defense;;;;;;;;;;;;;x
+animals_morale;Animals Morale;;;;;;;;;;;;;x
+animals_modifier;Animals Modifier;;;;;;;;;;;;;x
+dragons;Dragons;;;;;;;;;;;;;x
+dragons_offensive;Dragons Attack;;;;;;;;;;;;;x
+dragons_defensive;Dragons Defense;;;;;;;;;;;;;x
+dragons_morale;Dragons Morale;;;;;;;;;;;;;x
+dragons_modifier;Dragons Modifier;;;;;;;;;;;;;x
+golems;Golems;;;;;;;;;;;;;x
+golems_offensive;Golems Attack;;;;;;;;;;;;;x
+golems_defensive;Golems Defense;;;;;;;;;;;;;x
+golems_morale;Golems Morale;;;;;;;;;;;;;x
+golems_modifier;Golems Modifier;;;;;;;;;;;;;x
+ancients;Ancients;;;;;;;;;;;;;x
+ancients_offensive;Ancients Attack;;;;;;;;;;;;;x
+ancients_defensive;Ancients Defense;;;;;;;;;;;;;x
+ancients_morale;Ancients Morale;;;;;;;;;;;;;x
+ancients_modifier;Ancients Modifier;;;;;;;;;;;;;x
+swarm;Swarm;;;;;;;;;;;;;x
+swarm_offensive;Swarm Attack;;;;;;;;;;;;;x
+swarm_defensive;Swarm Defense;;;;;;;;;;;;;x
+swarm_morale;Swarm Morale;;;;;;;;;;;;;x
+swarm_modifier;Swarm Modifier;;;;;;;;;;;;;x
+siege_machines;Siege Machines;;;;;;;;;;;;;x
+siege_machines_offensive;Siege Machine Attack;;;;;;;;;;;;;x
+siege_machines_defensive;Siege Machine Defense;;;;;;;;;;;;;x
+siege_machines_morale;Siege Machine Morale;;;;;;;;;;;;;x
+siege_machines_modifier;Siege Machine Modifier;;;;;;;;;;;;;x
+thralls;Thralls;;;;;;;;;;;;;x
+thralls_offensive;Thrall Attack;;;;;;;;;;;;;x
+thralls_defensive;Thrall Defense;;;;;;;;;;;;;x
+thralls_morale;Thrall Morale;;;;;;;;;;;;;x
+thralls_modifier;Thrall Modifier;;;;;;;;;;;;;x
+elite_infantry;Elite Infantry;;;;;;;;;;;;;x
+elite_infantry_offensive;Elite Infantry Attack;;;;;;;;;;;;;x
+elite_infantry_defensive;Elite Infantry Defense;;;;;;;;;;;;;x
+elite_infantry_morale;Elite Infantry Morale;;;;;;;;;;;;;x
+elite_infantry_modifier;Elite Infantry Modifier;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+#Tactics;;;;;;;;;;;;;;x
+wc_organized_skirmish_tactic;Organized Skirmish;;;;;;;;;;;;;x
+wc_skirmish_tactic;Skirmish;;;;;;;;;;;;;x
+wc_aerial_raid_tactic;Aerial Raid;;;;;;;;;;;;;x
+wc_aerial_strikes_tactic;Aerial Strikes;;;;;;;;;;;;;x
+wc_volley_tactic;Volley;;;;;;;;;;;;;x
+wc_magic_volley_tactic;Magic Volley;;;;;;;;;;;;;x
+wc_bombardment_tactic;Bombardment;;;;;;;;;;;;;x
+wc_shield_wall_tactic;Shieldwall;;;;;;;;;;;;;x
+wc_find_cover_tactic;Find Cover;;;;;;;;;;;;;x
+wc_charge_tactic;Charge;;;;;;;;;;;;;x
+wc_crushing_charge_tactic;Crushing Charge;;;;;;;;;;;;;x
+wc_undefended_charge_on_flank_tactic;Undefended Charge on Flank;;;;;;;;;;;;;x
+wc_spearhead_tactic;Spearhead;;;;;;;;;;;;;x
+wc_advance_tactic;Advance;;;;;;;;;;;;;x
+wc_push_tactic;Push;;;;;;;;;;;;;x
+wc_pike_wall_tactic;Pike Wall;;;;;;;;;;;;;x
+wc_barrier_tactic;Barrier;;;;;;;;;;;;;x
+wc_overwhelm_tactic;Overwhelm;;;;;;;;;;;;;x
+wc_roundabout_charge_tactic;Roundabout Charge;;;;;;;;;;;;;x
+wc_barrage_tactic;Barrage;;;;;;;;;;;;;x
+wc_stand_and_fight_tactic;Stand and Fight;;;;;;;;;;;;;x
+wc_raid_tactic;Raid;;;;;;;;;;;;;x
+wc_overrun_tactic;Overrun;;;;;;;;;;;;;x
+wc_tank_and_heal_tactic;Tank and Heal;;;;;;;;;;;;;x
+wc_trample_tactic;Trample;;;;;;;;;;;;;x
+wc_reinforce_tactic;Reinforce;;;;;;;;;;;;;x
+wc_force_back_tactic;Force Back;;;;;;;;;;;;;x
+wc_swift_volley_tactic;Swift Volley;;;;;;;;;;;;;x
+wc_aimed_bombardment_tactic;Aimed Bombardment;;;;;;;;;;;;;x
+wc_draw_out_tactic;Draw Out;;;;;;;;;;;;;x
+wc_aerial_bombardment_tactic ;Aerial Bombardment;;;;;;;;;;;;;x
+wc_hedgehog_formation_tactic ;Hedgehog Formation;;;;;;;;;;;;;x
+wc_entrench_tactic ;Entrench;;;;;;;;;;;;;x
+wc_heroic_charge_tactic;Heroic Charge;;;;;;;;;;;;;x
+wc_trample_spearhead_tactic;Trample Spearhead;;;;;;;;;;;;;x
+wc_strengthened_barrier_tactic;Strengthened Barrier;;;;;;;;;;;;;x
+wc_crafty_ambush_tactic;Crafty Ambush;;;;;;;;;;;;;x
+wc_religious_zeal_tactic;Religious Zeal;;;;;;;;;;;;;x
+wc_tactical_reinforce_tactic;Tactical Reinforce;;;;;;;;;;;;;x
+wc_slow_harassment_tactic;Slow Harassment;;;;;;;;;;;;;x
+wc_unintentional_charge_tactic;Unintentional Charge;;;;;;;;;;;;;x
+wc_fire_on_own_troops_tactic;Fire on Own Troops;;;;;;;;;;;;;x
+wc_outranged_tactic;Outranged;;;;;;;;;;;;;x
+wc_aggressive_defense_tactic;Aggressive Defense;;;;;;;;;;;;;x
+wc_outstretched_tactic;Outstretched;;;;;;;;;;;;;x
+wc_reckless_charge_tactic;Reckless Charge;;;;;;;;;;;;;x
+wc_charge_through_skirmishers_tactic;Charge Through Skirmishers;;;;;;;;;;;;;x
+wc_hesitate_tactic;Hesitate;;;;;;;;;;;;;x
+wc_failed_barrier_tactic;Failed Barrier;;;;;;;;;;;;;x
+wc_advance_in_the_wrong_direction_tactic;Advance in the Wrong Direction;;;;;;;;;;;;;x
+wc_aerial_melee_tactic;Aerial Melee;;;;;;;;;;;;;x
+wc_forest_ambush_tactic;Forest Ambush;;;;;;;;;;;;;x
+wc_spellbreak_tactic;Spellbreak;;;;;;;;;;;;;x
+wc_breaking_charge_tactic;Breaking Charge;;;;;;;;;;;;;x
+wc_mountain_entrenchment_tactic;Mountain Entrenchment;;;;;;;;;;;;;x
+wc_desert_ambush_tactic;Desert Ambush;;;;;;;;;;;;;x
+wc_swarm_charge_tactic;Swarm Charge;;;;;;;;;;;;;x
+wc_swarm_volley_tactic;Swarm Volley;;;;;;;;;;;;;x
+wc_swarm_harassment_tactic;Swarm Harassment;;;;;;;;;;;;;x
+wc_swarm_encircle_tactic;Swarm Encircle;;;;;;;;;;;;;x
+wc_overrun_push_tactic;Overrun Push;;;;;;;;;;;;;x
+wc_magic_ambush_ractic;Magic Ambush;;;;;;;;;;;;;x
+wc_mountain_raid_tactic;Mountain Raid;;;;;;;;;;;;;x
+wc_water_assault_tactic;Water Assault;;;;;;;;;;;;;x
+wc_commando_raid_tactic;Commando Raid;;;;;;;;;;;;;x
+wc_crush_and_trample_tactic;Crush and Trample;;;;;;;;;;;;;x
+wc_underground_ambush_ractic;Underground Ambush;;;;;;;;;;;;;x
+wc_brutalizing_trample_tactic;Brutalizing Trample;;;;;;;;;;;;;x
+wc_tundra_swarm_tactic;Tundra Swarm;;;;;;;;;;;;;x
+wc_forest_charge_tactic;Forest Charge;;;;;;;;;;;;;x
+wc_heroic_trample_tactic;Heroic Trample;;;;;;;;;;;;;x
+wc_desert_entrenchment_tactic;Desert Entrenchment;;;;;;;;;;;;;x
+wc_winter_ambush_tactic;Winter Ambush;;;;;;;;;;;;;x
+wc_aerial_ambush_tactic;Aerial Ambush;;;;;;;;;;;;;x
+wc_undead_overrun_tactic;Undead Overrun;;;;;;;;;;;;;x
+wc_undead_spearhead_tactic;Under Spearhead;;;;;;;;;;;;;x
+wc_null_magic_tactic;Null Magic;;;;;;;;;;;;;x
+wc_undead_ambush_tactic;Undead Ambush;;;;;;;;;;;;;x
+wc_blinding_light_charge_tactic;Blinding Light Charge;;;;;;;;;;;;;x
+wc_loa_enhanced_zeal_tactic;Loa Enhanced Zeal;;;;;;;;;;;;;x
+wc_ancient_ambush_tactic;Ancient Ambush;;;;;;;;;;;;;x
+wc_taunt_tactic;Taunt;;;;;;;;;;;;;x
+wc_shield_slam_tactic;Shield Slam;;;;;;;;;;;;;x
+wc_thunderclap_tactic;Thunderclap;;;;;;;;;;;;;x
+wc_cleave_tactic;Cleave;;;;;;;;;;;;;x
+wc_multishot_tactic;Multishot;;;;;;;;;;;;;x
+wc_explosive_trap_tactic;Explosive Trap;;;;;;;;;;;;;x
+wc_kill_command_tactic;Kill Command;;;;;;;;;;;;;x
+wc_disengage_tactic;Disengage;;;;;;;;;;;;;x
+wc_distract_tactic;Distract;;;;;;;;;;;;;x
+wc_evasion_tactic;Evasion;;;;;;;;;;;;;x
+wc_poisoned_volley_tactic;Poisoned Volley;;;;;;;;;;;;;x
+wc_poisoned_ambush_tactic;Poisoned Ambush;;;;;;;;;;;;;x
+wc_death_and_decay_tactic;Death and Decay;;;;;;;;;;;;;x
+wc_death_grip_tactic;Death Grip;;;;;;;;;;;;;x
+wc_chains_of_ice_tactic;Chains of Ice;;;;;;;;;;;;;x
+wc_death_coil_tactic;Death Coil;;;;;;;;;;;;;x
+wc_blight_bombardment_tactic;Blight Bombardment;;;;;;;;;;;;;x
+wc_raise_undead_tactic;Raise Undead;;;;;;;;;;;;;x
+wc_empower_undead_tactic;Empower Undead;;;;;;;;;;;;;x
+wc_cripple_tactic;Cripple;;;;;;;;;;;;;x
+wc_consume_magic_tactic;Consume Magic;;;;;;;;;;;;;x
+wc_torment_tactic;Torment;;;;;;;;;;;;;x
+wc_immolation_tactic;Immolation;;;;;;;;;;;;;x
+wc_blade_dance_tactic;Blade Dance;;;;;;;;;;;;;x
+wc_entangling_roots_tactic;Entangling Roots;;;;;;;;;;;;;x
+wc_rejuvenate_tactic;Rejuvenate;;;;;;;;;;;;;x
+wc_lunar_strike_tactic;Lunar Strike;;;;;;;;;;;;;x
+wc_starfall_tactic;Starfall;;;;;;;;;;;;;x
+wc_arcane_barrage_tactic;Arcane Barrage;;;;;;;;;;;;;x
+wc_blizzard_tactic;Blizzard;;;;;;;;;;;;;x
+wc_slow_tactic;Slow;;;;;;;;;;;;;x
+wc_flamestrike_tactic;Flamestrike;;;;;;;;;;;;;x
+wc_consecration_tactic;Consecration;;;;;;;;;;;;;x
+wc_judgement_tactic;Judgement;;;;;;;;;;;;;x
+wc_holy_light_tactic;Holy Light;;;;;;;;;;;;;x
+wc_retribution_tactic;Retribution;;;;;;;;;;;;;x
+wc_heal_tactic;Heal;;;;;;;;;;;;;x
+wc_resurrection_tactic;Resurrection;;;;;;;;;;;;;x
+wc_holy_nova_tactic;Holy Nova;;;;;;;;;;;;;x
+wc_power_word_shield_tactic;Power Word: Shield;;;;;;;;;;;;;x
+wc_mindflay_tactic;Mindflay;;;;;;;;;;;;;x
+wc_mind_blast_tactic;Mind Blast;;;;;;;;;;;;;x
+wc_shadow_word_pain_tactic;Shadow Word: Pain;;;;;;;;;;;;;x
+wc_psychic_scream_tactic;Psychic Scream;;;;;;;;;;;;;x
+wc_hex_tactic;Hex;;;;;;;;;;;;;x
+wc_loa_bargain_tactic;Loa Bargain;;;;;;;;;;;;;x
+wc_defensive_voodoo_tactic;Defensive Voodoo;;;;;;;;;;;;;x
+wc_offensive_voodoo_tactic;Offensive Voodoo;;;;;;;;;;;;;x
+wc_far_sight_tactic;Far Sight;;;;;;;;;;;;;x
+wc_chain_lightning_tactic;Chain Lightning;;;;;;;;;;;;;x
+wc_healing_wave_tactic;Healing Wave;;;;;;;;;;;;;x
+wc_lava_surge_tactic;Lava Surge;;;;;;;;;;;;;x
+wc_fear_trait;Fear;;;;;;;;;;;;;x
+wc_corruption_trait;Corruption;;;;;;;;;;;;;x
+wc_rain_of_fire_tactic;Rain of Fire;;;;;;;;;;;;;x
+wc_soul_link_tactic;Soul Link;;;;;;;;;;;;;x
+elephant_trample_tactic;Trample;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Generic;;;;;;;;;;;;;;x
+wc_ret_gen_inf;Infantry Division;;;;;;;;;;;;;x
+wc_ret_gen_ran;Ranged Battalion;;;;;;;;;;;;;x
+wc_ret_gen_cav;Cavalry Squadron;;;;;;;;;;;;;x
+wc_ret_gen_cas;Caster Company;;;;;;;;;;;;;x
+wc_ret_gen_aer;Aerial Company;;;;;;;;;;;;;x
+wc_ret_gen_van;Vanguard Division;;;;;;;;;;;;;x
+wc_ret_gen_adv;Adventurers;;;;;;;;;;;;;x
+wc_ret_gen_art;Artillery Company;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Tribal;;;;;;;;;;;;;;x
+wc_ret_tribe_pure;Tribal Mob;;;;;;;;;;;;;
+wc_ret_tribe_inf;Warriors;;;;;;;;;;;;;x
+wc_ret_tribe_ran;Hunters;;;;;;;;;;;;;x
+wc_ret_tribe_cav;Outriders;;;;;;;;;;;;;x
+wc_ret_tribe_van;Champions;;;;;;;;;;;;;x
+wc_ret_tribe_cas;Totemists;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Cultural;;;;;;;;;;;;;;x
+wc_ret_cul_qiraji;Silithid Swarm;;;;;;;;;;;;;x
+wc_ret_cul_nerubian;Spiderlords;;;;;;;;;;;;;x
+wc_ret_cul_centaur;Outrunners;;;;;;;;;;;;;x
+wc_ret_cul_eredar;Chaosborn;;;;;;;;;;;;;x
+wc_ret_cul_draenei;Peacekeepers;;;;;;;;;;;;;x
+wc_ret_cul_dragon;Drakes;;;;;;;;;;;;;x
+wc_ret_cul_dryad;Grove Host;;;;;;;;;;;;;x
+wc_ret_cul_bronzebeard;Mountaineers;;;;;;;;;;;;;x
+wc_ret_cul_wildhammer;Gryphon Knights;;;;;;;;;;;;;x
+wc_ret_cul_darkiron;Dragoons;;;;;;;;;;;;;x
+wc_ret_cul_frostborn;Axemasters;;;;;;;;;;;;;x
+wc_ret_cul_furbolg;Ursas;;;;;;;;;;;;;x
+wc_ret_cul_gnoll;Brutes;;;;;;;;;;;;;x
+wc_ret_cul_wolvar;Tundra Hunters;;;;;;;;;;;;;x
+wc_ret_cul_gnome;Commandos;;;;;;;;;;;;;x
+wc_ret_cul_goblin;Shredders;;;;;;;;;;;;;x
+wc_ret_cul_harpy;Roguefeathers;;;;;;;;;;;;;x
+wc_ret_cul_highelf;Rangers;;;;;;;;;;;;;x
+wc_ret_cul_bloodelf;Spellbreakers;;;;;;;;;;;;;x
+wc_ret_cul_hozen;Pounders;;;;;;;;;;;;;x
+wc_ret_cul_lordaeron;Knights;;;;;;;;;;;;;x
+wc_ret_cul_gilnean;Greyguard;;;;;;;;;;;;;x
+wc_ret_cul_arathor;Troll Hunters;;;;;;;;;;;;;x
+wc_ret_cul_azeroth;7th Legion;;;;;;;;;;;;;x
+wc_ret_cul_dalaran;Archmages;;;;;;;;;;;;;x
+wc_ret_cul_alterac;Mountain Rangers;;;;;;;;;;;;;x
+wc_ret_cul_tiras;Marines;;;;;;;;;;;;;x
+wc_ret_cul_northern;Huntsmen;;;;;;;;;;;;;x
+wc_ret_cul_pirate;Corsairs;;;;;;;;;;;;;x
+wc_ret_cul_kobold;Candleholders;;;;;;;;;;;;;x
+wc_ret_cul_snobold;Tundra Guard;;;;;;;;;;;;;x
+wc_ret_cul_magnataur;Crushers;;;;;;;;;;;;;x
+wc_ret_cul_murloc;Tide Hunters;;;;;;;;;;;;;x
+wc_ret_cul_gorloc;Oracles;;;;;;;;;;;;;x
+wc_ret_cul_naga;Royal Guard;;;;;;;;;;;;;x
+wc_ret_cul_nightelf;Sentinels;;;;;;;;;;;;;x
+wc_ret_cul_highborne;Archconjurers;;;;;;;;;;;;;x
+wc_ret_cul_ogre;Maulers;;;;;;;;;;;;;x
+wc_ret_cul_warsong;Outriders;;;;;;;;;;;;;x
+wc_ret_cul_shadowm;Darkcasters;;;;;;;;;;;;;x
+wc_ret_cul_blhollow;Savages;;;;;;;;;;;;;x
+wc_ret_cul_blackrock;Demolishers;;;;;;;;;;;;;x
+wc_ret_cul_bblade;Blademasters;;;;;;;;;;;;;x
+wc_ret_cul_storeave;Warlocks;;;;;;;;;;;;;x
+wc_ret_cul_thunlord;Beastmasters;;;;;;;;;;;;;x
+wc_ret_cul_bonechew;Cannibals;;;;;;;;;;;;;x
+wc_ret_cul_laughskull;Enforcers;;;;;;;;;;;;;x
+wc_ret_cul_shathand;Gladiators;;;;;;;;;;;;;x
+wc_ret_cul_frostwolf;Raiders;;;;;;;;;;;;;x
+wc_ret_cul_twilhammer;Necrolytes;;;;;;;;;;;;;x
+wc_ret_cul_dragonmaw;Dragon Riders;;;;;;;;;;;;;x
+wc_ret_cul_pygmy;Stronglegs;;;;;;;;;;;;;x
+wc_ret_cul_quillboat;Thornguard;;;;;;;;;;;;;x
+wc_ret_cul_satyr;Hellcallers;;;;;;;;;;;;;x
+wc_ret_cul_sethrak;Desert Raiders;;;;;;;;;;;;;x
+wc_ret_cul_tauren;Braves;;;;;;;;;;;;;x
+wc_ret_cul_gurubashi;Razzashi Cavalry;;;;;;;;;;;;;x
+wc_ret_cul_amani;Guardians;;;;;;;;;;;;;x
+wc_ret_cul_zandalari;Warguard;;;;;;;;;;;;;x
+wc_ret_cul_drakkari;Lancers;;;;;;;;;;;;;x
+wc_ret_cul_darktroll;Trappers;;;;;;;;;;;;;x
+wc_ret_cul_farraki;Assassins;;;;;;;;;;;;;x
+wc_ret_cul_bloodtroll;War Mothers;;;;;;;;;;;;;x
+we_ret_cul_tuskarr;Turtle Cossacks;;;;;;;;;;;;;x
+wc_ret_cul_vrykul;Thanes;;;;;;;;;;;;;x
+wc_ret_cul_vulpera;Merchant Gunner;;;;;;;;;;;;;x
+wc_ret_cul_giant;Giant Crushers;;;;;;;;;;;;;x
+wc_ret_cul_titanforged;Titan-forged Legion;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Religious;;;;;;;;;;;;;;x
+wc_ret_rel_scourge;Undead Swarm;;;;;;;;;;;;;x
+wc_ret_rel_scourge2;Frost Wyrms;;;;;;;;;;;;;x
+wc_ret_rel_scourge3;Flesh Titans;;;;;;;;;;;;;x
+wc_ret_rel_scourge4;Death Knights;;;;;;;;;;;;;x
+wc_ret_rel_shaytar;Mindless Slaves;;;;;;;;;;;;;x
+wc_ret_rel_shaytar2;Cultists;;;;;;;;;;;;;x
+wc_ret_rel_shaytar3;Faceless Reavers;;;;;;;;;;;;;x
+wc_ret_rel_shaytar4;Mutants;;;;;;;;;;;;;x
+wc_ret_rel_legion;Lesser Demons;;;;;;;;;;;;;x
+wc_ret_rel_legion2;Greater Demons;;;;;;;;;;;;;x
+wc_ret_rel_legion3;Fel Reavers;;;;;;;;;;;;;x
+wc_ret_rel_legion4;Doomguard;;;;;;;;;;;;;x
+wc_ret_rel_holylight;Paladins;;;;;;;;;;;;;x
+wc_ret_rel_cultofloa;Loa Host;;;;;;;;;;;;;x
+wc_ret_rel_cultofloa2;Avatars;;;;;;;;;;;;;x
+wc_ret_rel_illidari;Demonhunters;;;;;;;;;;;;;x
+wc_ret_rel_kaldoreireligion;Animal Host;;;;;;;;;;;;;x
+wc_ret_rel_kaldoreireligion2;Ancients;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Nomadic;;;;;;;;;;;;;;x
+wc_ret_horde_ani;Raiders;;;;;;;;;;;;;x
+wc_ret_horde_cav;Outriders;;;;;;;;;;;;;x
+wc_ret_horde_ran;Marauders;;;;;;;;;;;;;x
+wc_ret_horde_cas;Windchasers;;;;;;;;;;;;;x
+wc_ret_horde_lrg;Battle Lords;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+#Phase Descriptions;;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_PURSUE;In the Pursue phase, one of the armies has routed and the other one is chasing them down.\n§Y[GetKnightsName]§W, §Y[GetHorseArchersName]§W, §Y[GetDragonsName]§W and §Y[GetLightCavalryName]§W excel in the §YPursue Phase§W!;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_SKIRMISH;In the Skirmish phase, both armies will stay at a distance.\n§Y[GetActualLightInfantryName]§W, §Y[GetArchersName]§W, §Y[GetArchmageName]§W, §Y[GetSiegeMachinesName]§W and §Y[GetHorseArchersName]§W excel in the §YSkirmish Phase§W!;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_MELEE;In the Melee phase, both armies are locked in close combat.\n§Y[GetActualHeavyInfantryName]§W, §Y[GetPikemenName]§W, §Y[GetLightCavalryName]§W, §Y[GetLargeCavalryName]§W, §Y[GetUndeadName]§W, §Y[GetWarMachinesName]§W, §Y[GetAnimalsName]§W, §Y[GetEliteInfantryName]§W, §Y[GetSwarmName]§W, §Y[GetThrallsName]§W excel in the §YMelee Phase§W!;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
