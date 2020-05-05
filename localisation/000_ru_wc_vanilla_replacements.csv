@@ -1,349 +1,349 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
-EVTDESC_HFP_44003;[Root.GetTitledName]\nI write you this letter to inform you that me and my men have officially left your service. We no longer see you fit to rule, and we have once more returned to the faithful service of [From.Religion.GetHighGodName].\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-monastic_orders_go_celibate;Take Vows of Purity;;;;;;;;;;;;;x
-monastic_orders_go_celibate_desc;Take your relationship with Elune even further and vow to stay pure for 10 years.;;;;;;;;;;;;;x
-monastic_orders_stop_celibate;End Celibate;;;;;;;;;;;;;x
-monastic_orders_stop_celibate_desc;You have fulfilled your vows and can now end your vow of purity.;;;;;;;;;;;;;x
-ze_administration_laws_2;Advanced Administration;;;;;;;;;;;;;x
-ze_administration_laws_2_desc;A system of management with a hierarchy of judges and officials who work daily for the benefit of the crown. This allows you to have a stronger, centralized state, and reduces the problems you might face from land-based vassals.;;;;;;;;;;;;;x
-ze_administration_laws_2_option;Advanced Administration;;;;;;;;;;;;;x
-LOADING_TIP_10;Don't forget to report bugs! Unreported bugs can't be fixed!;;;;;;;;;;;;;x
-LOADING_TIP_12;Lok'tar Ogar!;;;;;;;;;;;;;x
-LOADING_TIP_16;For honour and glory!;;;;;;;;;;;;;x
-LOADING_TIP_17;If your children's mentors have levels in any class, they can teach your children the ways of sword and magic.;;;;;;;;;;;;;x
-LOADING_TIP_20;Lead the war very carefully, otherwise the whole world could take up arms against you.;;;;;;;;;;;;;x
-LOADING_TIP_28;Don't forget to periodically check your possible decisions. There you can find many unique features that will not always be available to you.;;;;;;;;;;;;;x
-LOADING_TIP_35;Joining a political faction is a very good way to find new allies for a very long time.;;;;;;;;;;;;;x
-LOADING_TIP_45;Watch out for dark cult activity in your realm. If they get the chance to spread, you may lose your only chance to stop them.;;;;;;;;;;;;;x
-LOADING_TIP_47;If you decide to study the dark arts, you shouldn't forget that you're walking along the edge of the abyss.;;;;;;;;;;;;;x
-LOADING_TIP_53;If your class level is low, you can ask other characters with a higher level in the same class to mentor you personally by right-clicking their portraits.;;;;;;;;;;;;;x
-LOADING_TIP_54;The dark gods can be very eloquent and convincing, but you are just a pawn in their big game.;;;;;;;;;;;;;x
-lance_tier_4_impaler;Runespear;;;;;;;;;;;;;x
-lance_tier_4_impaler_desc;A well created mockery of the legendary spear of the Bloodhoof clan.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_0;Tales of your misdeeds are told from Winterspring to Stranglethorn.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_1;Your low character is the subject of Tortollan stories.;;;;;;;;;;;;;x
-EVTDESC6304;Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n"Whereas the children of the realm have become desensitised to violence, and: whereas the general populace seems to have lost all regard for the sanctity of life:\n\nTherefore I, [From.GetTitledName], decree that all forms of violence directed at other reasonable beings be outlawed, including both capital and corporal punishment as well as the torture of criminals, heathens and foreigners. These vulnerable social groups are instead to be rehabilitated and eventually released back into society as productive citizens.;;;;;;;;;;;;;x
-EVTDESC6308;The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n"Whereas the children of the realm have become desensitised to violence, and: whereas the general populace seems to have lost all regard for the sanctity of life:\n\nTherefore I, [From.GetTitledName], decree that all forms of violence directed at other reasonable beings be outlawed, including both capital and corporal punishment as well as the torture of criminals, heathens and foreigners. These vulnerable social groups are instead to be rehabilitated and eventually released back into society as productive citizens.;;;;;;;;;;;;;x
-employ_priestess;Invite [Root.GetRelAdjective] Woman to Court;;;;;;;;;;;;;x
-employ_priestess_desc;Scour the land for a [Root.GetRelAdjective] Woman to join my court and advise me on religious matters.;;;;;;;;;;;;;x
-employ_priest;Invite [Root.GetRelAdjective] Man to Court;;;;;;;;;;;;;x
-employ_priest_desc;Scour the land for a [Root.GetRelAdjective] Man to join my court and advise me on religious matters.;;;;;;;;;;;;;x
-pagan_county_conquest_desc;Conquer border territory of an aggressive neighbour... or of just a neighbour if you're aggressive enough. Pirates, murlocs, naga, vrykul and evil religions can also take any coastal county.;;;;;;;;;;;;;x
-title_master_of_the_horse_desc;The Master of the Horse delegates the actual day to day running of the actual stables, much of the prestige of this office comes from the responsibility for the stud.;;;;;;;;;;;;;x
-OFFMAP_GRACE_TOOLTIP;This is your current §Y[Root.GetCurrency]§!;;;;;;;;;;;;;x
-OFFMAP_VIEW_BUTTON_INSTANT;$OFFMAP|Y$\nOpen interaction with §Y$OFFMAP_SHORT$§!.;;;;;;;;;;;;;x
-human_anatomy;Humanoid Anatomy;;;;;;;;;;;;;x
-syphilitic;Has Devouring Plague;;;;;;;;;;;;;x
-syphilitic_desc;This character suffers from Devouring Plague, a type of venereal disease.;;;;;;;;;;;;;x
-syphilitic_death;of Devouring Plague;;;;;;;;;;;;;x
-String_syphilis;Devouring Plague;;;;;;;;;;;;;x
-EVTDSC_RIP_5061;For some time now, my [GetFromRelation] [From.GetTitledFirstName] has been avoiding me. [From.GetSheHeCap] has not visited my bedchamber for several weeks. When I have demanded to know why [From.GetSheHe] has given me nothing but feeble excuses. Today I overheard a couple of [From.GetHerHis] servants gossiping. They said [From.GetFirstName] has contracted Devouring Plague!;;;;;;;;;;;;;x
-EVTDESCRIP.5027;Repulsive sores and abscesses are spreading across your body. You have contracted Devouring Plague.;;;;;;;;;;;;;x
-syphilis;Devouring Plague;;;;;;;;;;;;;x
-EVTDESC_RIP_11022;The sores on your body have vanished and you are almost back to your regular self. You are rid of Devouring Plague.;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_syphilitic;[From.GetSheHeCap] has been struck by §YDevouring Plague§!;;;;;;;;;;;;;x
-has_typhoid_fever;Has Frost Fever;;;;;;;;;;;;;x
-has_typhoid_fever_desc;This character suffers from Frost Fever, a disease that lowers the body's temperature.;;;;;;;;;;;;;x
-has_typhoid_fever_death;of Frost Fever;;;;;;;;;;;;;x
-String_slow_fever;Frost Fever;;;;;;;;;;;;;x
-EVTDESCRIP.5029;You feel as if you are burning up, yet your body shivers as if you are freezing. You have contracted Frost Fever.;;;;;;;;;;;;;x
-typhoid_fever;Frost Fever;;;;;;;;;;;;;x
-EVTDESC_RIP_11025;Your delirium has lifted and your temperature is back to normal. You have beaten Frost Fever.;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_has_typhoid_fever;[From.GetSheHeCap] is being consumed by §YFrost Fever§!;;;;;;;;;;;;;x
-TYPHOID_FEVER_INFO;Frost Fever is loose in this county.;;;;;;;;;;;;;x
-has_tuberculosis;Has Blood Plague;;;;;;;;;;;;;x
-has_tuberculosis_desc;This character suffers from Blood Plague. This disease affects the organs and causes internal bleeding.;;;;;;;;;;;;;x
-has_tuberculosis_death;of Blood Plague;;;;;;;;;;;;;x
-String_consumption;Blood Plague;;;;;;;;;;;;;x
-tuberculosis;Blood Plague;;;;;;;;;;;;;x
-TUBERCULOSIS_INFO;Blood Plague is loose in this county.;;;;;;;;;;;;;x
-EVTDESCRIP.5028;You are thrown between waves of chills and sweats. Food has lost its appeal and no amount of sleep seems to remedy your fatigue. You have contracted Blood Plague.;;;;;;;;;;;;;x
-EVTDESC_RIP_11024;You awake rejuvenated. After some moments of disbelief you realize that your fever has passed and your appetite has returned. You have survived Blood Plague.;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_has_tuberculosis;[From.GetSheHeCap] has been struck by §YBlood Plague§!;;;;;;;;;;;;;x
-has_typhus;Has Swamp Fever;;;;;;;;;;;;;x
-has_typhus_desc;This character suffers from Swamp Fever.;;;;;;;;;;;;;x
-has_typhus_death;of Swamp Fever;;;;;;;;;;;;;x
-String_camp_fever;Swamp Fever;;;;;;;;;;;;;x
-typhus;Swamp Fever;;;;;;;;;;;;;x
-TYPHUS_INFO;Swamp Fever is loose in this county.;;;;;;;;;;;;;x
-EVTDESCRIP.5040;Your mind is clouded and a dull red rash is spreading across your body. You feel hot and your joints ache. You have contracted Swamp Fever.;;;;;;;;;;;;;x
-EVTDESC_RIP_11026;A vigor has returned to you as the aches from your recent disease leaves your body. You have survived Swamp Fever.;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_has_typhus;[From.GetSheHeCap] is being consumed by §YSwamp Fever§!;;;;;;;;;;;;;x
-succession_voting_power_1_effect_tooltip;§YPowerful Vassals§! cannot be fired from the §YCouncil§!\nCan no longer change succession if §YElective Monarchy§! is instituted;;;;;;;;;;;;;x
-succession_voting_power_0_effect_tooltip;§YPowerful Vassals§! can be fired from the §YCouncil§!\nCan now change succession if §YElective Monarchy§! is instituted;;;;;;;;;;;;;x
-HINT_SPLASH_VICTORY;You cannot hold infinite amounts of land yourself. To expand, you will need to rely on vassal rulers. Keep them happy with titles and gifts lest they decide to revolt! The game will end in 900, if your line can stay in power that long...;;;;;;;;;;;;;x
-pagan_subjugation_desc;Aggressive rulers are allowed to subjugate other rulers of the same religion group once in their lifetime. (With the "Become $KING$" ambition, there is no such time limit against those who control titles within the kingdom.) Free men are always willing to follow the mightiest ruler...;;;;;;;;;;;;;x
-EVTDESC_WoL_6100;Observing the movements of the stars at night, you have begun to see some regular patterns. These observations, however, have raised many new questions. You are starting to wonder, for example, why are there two moons?;;;;;;;;;;;;;x
-EVTDESC_WoL_6122;One morning, your [GetFromRelation] [From.GetTitledFirstName] comes to see you. [From.GetSheHeCap] says: "I am worried. I have heard that you are spending late nights studying the sky and entertaining heretical notions about the Great Dark. I would ask that you stop, for your own sake.";;;;;;;;;;;;;x
-EVTDESC_WoL_6130;You nightly studies of the movements of the celestial bodies are increasing your knowledge of a great many things. You feel that you are getting closer to understanding the Great Dark Beyond.;;;;;;;;;;;;;x
-EVTDESC_WoL_6160;You studies of the celestial spheres are progressing well. You see movements and relationships that you had never dared guess at. It seems clear to you now that the laws that guide the movements of the stars must also be reflected on Azeroth in some way...;;;;;;;;;;;;;x
-EVTOPTA_WoL_6160;And what is Azeroth?;;;;;;;;;;;;;x
-EVTDESC_WoL_6170;You are sure you have made a breakthrough in your studies. Yes, it cannot be otherwise. The core of Azeroth is constantly in motion as if it is alive. How little we know of this planet!;;;;;;;;;;;;;x
-EVTDESC_WoL_6322;One morning, your [GetFromRelation] [From.GetTitledFirstName] comes to see you. [From.GetSheHeCap] says: "I am worried. I have heard that you are spending late nights staring at the sky, speaking in odd riddles and entertaining heretical notions about the Great Dark. I would ask that you stop, for your own sake.";;;;;;;;;;;;;x
-EVTDESC_WoL_6330;The studies you have conducted in your observatory have convinced you that there are many strange things beyond the Great Dark. There are few sources and no one to share knowledge with you, however. But you have heard of a strange troll witch in the Great Sea who is rumored to possess vast knowledge of the weird.;;;;;;;;;;;;;x
-EVTOPTA_WoL_6330;I will go and see her.;;;;;;;;;;;;;x
-EVTTITLE_WoL_6331;Shath'mag;;;;;;;;;;;;;x
-EVTDESC_WoL_6331;You arrive at the abode of the strange troll witch. After some persuasion, she invites you in. You speak at length, and she tells you of the Runemaster Molgeim, who knew many things of the strange spheres beyond and of talking beings as old as the universe itself. You find out that Molgeim wrote a book called Shath'mag, in which he recorded many strange and unholy truths. The witch says that as she is impressed by your sincerity and desire for knowledge, she can sell you a copy of the book. She tells you to beware, however, as too much intense study of Shath'mag is said to drive the reader insane...;;;;;;;;;;;;;x
-EVTDESC_WoL_6336;Shortly after the death of your [GetFromRelation] [From.GetTitledFirstNameWithNick], you are brought a strange piece of news. It seems that [From.GetHerHis] library was raided, the only item stolen being a strange old book of unknown origin. Two servants who were in the library at the time were found dead, though witnesses refused to describe the state of the bodies.;;;;;;;;;;;;;x
-EVTDESC_WoL_6350;The book you bought from the strange troll witch has proven quite useful for gaining new ideas and insights in your studies of the stars and what lies beyond. It does, however, contain some quite disturbing texts and images, things that lead towards a level of understanding that might make one... mad.;;;;;;;;;;;;;x
-necronomicon;Shath'mag;;;;;;;;;;;;;x
-heliocentrist_scholar;Astronomical Scholar;;;;;;;;;;;;;x
-heliocentrist_scholar_desc;This character has done research of the Great Dark Beyond.;;;;;;;;;;;;;x
-INTERACTION_CANNOT_JOIN_VASSAL_WAR;We cannot join our vassals' wars (except for Crusades and for supporting their claims outside your realm);;;;;;;;;;;;;x
-EVTDESC94156;An old weather-bitten diplomat who has served in the courts of the great rulers agreed to take you under his wing for a few days. He has taught you many valuable tricks in how to deal with vassals and other rulers.;;;;;;;;;;;;;x
-tribal_governments_FEATURES;§Y*§! Can reform to Feudal and Merchant Republic governments;;;;;;;;;;;;;x
-nomadic_governments_FEATURES;§Y*§! Can reform to Feudal and Merchant Republic governments\n§Y*§! Can pillage settlements to gain wealth and technology\n§Y*§! Can abandon provinces to gain increased population and manpower growth;;;;;;;;;;;;;x
-succ_patrician_elective_desc;This is the succession type in the great naval Merchant Republics. The next leader is determined from among the heads of the five grand Patrician families depending on Age, Prestige, and invested Campaign Funds. Elections are held every 12 years.;;;;;;;;;;;;;x
-RESPECT_DESC;Respect is a value based on the age and prestige of a Patrician, determining how likely he is to be elected Magistrate. It can be increased by investing money in the Campaign Fund, but children can never be elected.;;;;;;;;;;;;;x
-CAMPAIGN_FUND_DESC;Money in the Campaign Fund will increase your Respect in the senate and make your candidate more likely to be elected the next $RULER_TITLE$. You can freely adjust the amount until the current $RULER_TITLE$ dies, when the Fund will be used up in the election campaign.;;;;;;;;;;;;;x
-title_state_inquisitor;State Banker;;;;;;;;;;;;;x
-title_state_inquisitor_desc;The State Banker is responsible for managing the state bank and finance.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9906;[Root.Religion.GetHighGodNameCap] be praised!;;;;;;;;;;;;;x
-INTERACTION_REPUBLICS_NEED_REVOKE_REASON;Has a valid revocation reason;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_piety_negative;[From.GetSheHeCap] has low §Y[From.Religion.GetPietyName]§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_piety_positive;[From.GetSheHeCap] has high §Y[From.Religion.GetPietyName]§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_wounded;[From.GetSheHeCap] is §YWounded§!;;;;;;;;;;;;;x
+EVTDESC_HFP_44003;[Root.GetTitledName]\nСообщаю Вам, что я и мои люди прекращаем нашу службу. Мы больше не считаем вас достойным правителем и поэтому возвращаемся к верному служению во имя [From.Religion.GetHighGodName].\n\nПодписано,\n[From.GetTitledName];;;;;;;;;;;;;x
+monastic_orders_go_celibate;Принять Обет чистоты;;;;;;;;;;;;;x
+monastic_orders_go_celibate_desc;Показать свою преданность Элуне, принеся Обет чистоты на 10 лет.;;;;;;;;;;;;;x
+monastic_orders_stop_celibate;Завершить целибат;;;;;;;;;;;;;x
+monastic_orders_stop_celibate_desc;Вы выполнили свои обеты и теперь можете завершить Обет чистоты.;;;;;;;;;;;;;x
+ze_administration_laws_2;Продвинутая администрация;;;;;;;;;;;;;x
+ze_administration_laws_2_desc;Система управления с иерархией судей и чиновников, которые трудятся на благо короны. Это позволяет вам создать более централизованное государство. Такая структура власти даёт меньше полномочий владеющим землёй вассалам.;;;;;;;;;;;;;x
+ze_administration_laws_2_option;Продвинутая администрация;;;;;;;;;;;;;x
+LOADING_TIP_10;Не забывайте сообщить об ошибках! Незарегистрированные ошибки не могут быть исправлены!;;;;;;;;;;;;;x
+LOADING_TIP_12;Лок'тар Огар!;;;;;;;;;;;;;x
+LOADING_TIP_16;За честь и отвагу!;;;;;;;;;;;;;x
+LOADING_TIP_17;Если наставник вашего ребенка имеет определенный уровень какого-либо класса, он может обучить вашего ребенка путям меча и магии.;;;;;;;;;;;;;x
+LOADING_TIP_20;Ведите войну очень осторожно, иначе весь мир может ополчится против вас.;;;;;;;;;;;;;x
+LOADING_TIP_28;Не забывайте периодически проверять ваши возможные решения. Там вы можете найти множество уникальных возможностей, которые не всегда будут доступны вам.;;;;;;;;;;;;;x
+LOADING_TIP_35;Вступление в политическую фракцию – очень хороший способ найти новых союзников на очень долгое время.;;;;;;;;;;;;;x
+LOADING_TIP_45;Следите за активностью темных культов в ваших землях. Если они распространят ересь, то у вас уже не будет шанса остановить их.;;;;;;;;;;;;;x
+LOADING_TIP_47;Если вы решили изучать темные искусства, то не забывайте, что вы ходите по краю пропасти.;;;;;;;;;;;;;x
+LOADING_TIP_53;Если уровень вашего класса слишком низок, вы может попросить других персонажей с высоким уровнем того же класса стать вашим наставником, нажав ПКМ на его портрете.;;;;;;;;;;;;;x
+LOADING_TIP_54;Темные Боги могут быть очень красноречивы и убедительны, но вы всего лишь пешка в их большой игре.;;;;;;;;;;;;;x
+lance_tier_4_impaler;Руническое копье;;;;;;;;;;;;;x
+lance_tier_4_impaler_desc;Искусная реплика легендарного копья клана Кровавого Копыта.;;;;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_0;Слухи о ваших злодеяниях ходят от Зимних Ключей до Тернистой долины.;;;;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_1;Ваш подлый характер - предмет тортолланских сказок.;;;;;;;;;;;;;x
+EVTDESC6304;Ваш эксцентричный сюзерен провозглашает новый закон, который должен быть принят по всей стране. В нём говорится:\n"Дети стали склонны к насилию, а население потеряло всё уважение к святости жизни.\nПосему я, [From.GetTitledName], объявляю закон о том, что все формы насилия, направленные на окружающих объявлены вне закона, в том числе и мародерство, телесные наказания, а также пытки преступников, язычников и иностранцев. Эти уязвимые социальные группы должны быть реабилитированы, освобождены и интегрированы в общество, как добропорядочные граждане.;;;;;;;;;;;;;x
+EVTDESC6308;Новый закон написан и гонцы сообщают о нём всем Вашим вассалам. Вы любуетесь своей работой:\n"Дети стали склонны к насилию, а население потеряло всё уважение к святости жизни.\nПосему я, [From.GetTitledName], объявляю закон о том, что все формы насилия, направленные на окружающих объявлены вне закона, в том числе и мародерство, телесные наказания, а также пытки преступников, язычников и иностранцев. Эти уязвимые социальные группы должны быть реабилитированы, освобождены и интегрированы в общество, как добропорядочные граждане.;;;;;;;;;;;;;x
+employ_priestess;Пригласить [Root.GetRelAdjective];;;;;;;;;;;;;x
+employ_priestess_desc;Отыскать [Root.GetRelAdjective] чтобы она присоединилась к Вашему двору и давала советы по религиозным вопросам.;;;;;;;;;;;;;x
+employ_priest;Пригласить [Root.GetRelAdjective];;;;;;;;;;;;;x
+employ_priest_desc;Отыскать [Root.GetRelAdjective] чтобы он присоединился к Вашему двору и давал советы по религиозным вопросам.;;;;;;;;;;;;;x
+pagan_county_conquest_desc;Завоевать приграничный округ, принадлежащий агрессивному соседу... или если вы сами агрессивны. Пираты, мурлоки, наги, врайкулы и последователи злых религий могут завоевать любой прибережный округ.;;;;;;;;;;;;;x
+title_master_of_the_horse_desc;Большую часть времени Конюший проводит среди лошадей, а на его плечи ложится ответственность за содержание конюшен правителя в надлежащем виде.;;;;;;;;;;;;;x
+OFFMAP_GRACE_TOOLTIP;Это - ваш текущий уровень §Y[Root.GetCurrency]§!;;;;;;;;;;;;;x
+OFFMAP_VIEW_BUTTON_INSTANT;$OFFMAP|Y$\nОткрыть меню взаимодействия с §Y$OFFMAP_SHORT$§!.;;;;;;;;;;;;;x
+human_anatomy;Анатомия гуманоидов;;;;;;;;;;;;;x
+syphilitic;Болеет Пожирающей чумой;;;;;;;;;;;;;x
+syphilitic_desc;Эт[GetEtaEtot] [GetAgedPerson] страдает от венерического заболевания, известного как Пожирающая чума.;;;;;;;;;;;;;x
+syphilitic_death;от Пожирающей чумы;;;;;;;;;;;;;x
+String_syphilis;Пожирающая чума;;;;;;;;;;;;;x
+EVTDSC_RIP_5061;С некоторых пор м[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] избегает меня. Вот уже несколько недель я не видел[Root.GetEndA] [From.GetHersHis] в св[Root.GetMyChamberPREP]. Когда я спросил в чём дело, [From.GetSheHe] отмахну[From.GetLasLsya] нелепыми извинениями. Но сегодня я услышал[Root.GetEndA] от [From.GetHersHis] слуг, что у н[From.GetHersHis] проявились симптомы Пожирающей чумы!;;;;;;;;;;;;;x
+EVTDESCRIP.5027;Отвратительные язвы и нарывы распространяются по всему вашему телу. Вы заразились Пожирающей чумой.;;;;;;;;;;;;;x
+syphilis;Пожирающая чума;;;;;;;;;;;;;x
+EVTDESC_RIP_11022;Язвы на Вашем теле зажили, а самочувствие почти вернулось к нормальному. Вы избавились от Пожирающей чумы.;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_syphilitic;[From.GetSheHeCap] болеет §YПожирающей чумой§!;;;;;;;;;;;;;x
+has_typhoid_fever;Болеет Морозной лихорадкой;;;;;;;;;;;;;x
+has_typhoid_fever_desc;Этот персонаж страдает от Морозной лихорадки, болезни, понижающей температуру тела.;;;;;;;;;;;;;x
+has_typhoid_fever_death;от Морозной лихорадки;;;;;;;;;;;;;x
+String_slow_fever;Морозная лихорадка;;;;;;;;;;;;;x
+EVTDESCRIP.5029;Вы чувствуете, что горите изнутри, а временами дрожите, словно замерзаете. Вы заразились Морозной лихорадкой.;;;;;;;;;;;;;x
+typhoid_fever;Морозная лихорадка;;;;;;;;;;;;;x
+EVTDESC_RIP_11025;Горячка прошла, а температура снова нормальная. Вам удалось справиться с Морозной лихорадкой.;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_has_typhoid_fever;[From.GetSheHeCap] болеет §YМорозной лихорадкой§!;;;;;;;;;;;;;x
+TYPHOID_FEVER_INFO;Морозная лихорадка свирепствует в этом округе.;;;;;;;;;;;;;x
+has_tuberculosis;Болеет Кровавой чумой;;;;;;;;;;;;;x
+has_tuberculosis_desc;Этот персонаж страдает от Кровавой чумы. Это заболевание поражает органы и вызывает внутреннее кровотечение.;;;;;;;;;;;;;x
+has_tuberculosis_death;от Кровавой чумы;;;;;;;;;;;;;x
+String_consumption;Кровавая чума;;;;;;;;;;;;;x
+tuberculosis;Кровавая чума;;;;;;;;;;;;;x
+TUBERCULOSIS_INFO;Кровавая чума свирепствует в этом округе.;;;;;;;;;;;;;x
+EVTDESCRIP.5028;Озноб то и дело сменяется жаром, у Вас пропал аппетит, а сон никак не избавляет от усталости. Вы заразились Кровавой чумой.;;;;;;;;;;;;;x
+EVTDESC_RIP_11024;Вы проснулись обновлённ[Root.GetOyYm]. Лихорадка отступила и к Вам вернулся аппетит. Похоже, Вы избавились от Кровавой чумы.;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_has_tuberculosis;[From.GetSheHeCap] болеет §YКровавой чумой§!;;;;;;;;;;;;;x
+has_typhus;Болеет Болотной лихорадкой;;;;;;;;;;;;;x
+has_typhus_desc;Этот персонаж страдает от Болотной лихорадки.;;;;;;;;;;;;;x
+has_typhus_death;от Болотной лихорадки;;;;;;;;;;;;;x
+String_camp_fever;Болотная лихорадка;;;;;;;;;;;;;x
+typhus;Болотная лихорадка;;;;;;;;;;;;;x
+TYPHUS_INFO;Болотная лихорадка свирепствует в этом округе.;;;;;;;;;;;;;x
+EVTDESCRIP.5040;Ваш разум затуманен, красная сыпь распространяется по всему телу, жар и боль в суставах не дают Вам покоя. Вы заразились Болотной лихорадкой.;;;;;;;;;;;;;x
+EVTDESC_RIP_11026;Силы вернулись к Вам, боль почти прошла. Вы справились с Болотной лихорадкой.;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_has_typhus;[From.GetSheHeCap] болеет §YБолотной лихорадкой§!;;;;;;;;;;;;;x
+succession_voting_power_1_effect_tooltip;§YМогущественные вассалы§! получат иммунитет от увольнения из §Yсовета§!\nВ случае, когда в стране выборная монархия, этот закон наследования нельзя будет менять.;;;;;;;;;;;;;x
+succession_voting_power_0_effect_tooltip;§YМогущественные вассалы§! потеряют иммунитет от увольнения из §Yсовета§!\nВ случае, когда в стране выборная монархия, этот закон наследования можно будет изменить.;;;;;;;;;;;;;x
+HINT_SPLASH_VICTORY;Почти невозвможно справиться с неограниченными владениями, поэтому полагайтесь больше на своих вассалов. Пусть они остаются довольны, получая титулы и подарки, например... Иначе не избежать мятежа. Игра окончится в 900 году, если ваша династия удержится у власти так долго...;;;;;;;;;;;;;x
+pagan_subjugation_desc;Агрессивные правители могут покорять других правителей с той же религией один раз в жизни (с амбицией "Править родной землёй" этот предел времени недействителен против целей внутри государства). Вольные люди всегда желают следовать за самым могущественными правителем...;;;;;;;;;;;;;x
+EVTDESC_WoL_6100;Наблюдая за движением звёзд, Вы начинаете замечать закономерности. Тем не менее, подобные изыскания порождают массу вопросов. Например, как такое возможно, что на небе находится две луны?;;;;;;;;;;;;;x
+EVTDESC_WoL_6122;Одним утром, м[From.GetOyaOy] [GetFromRelation] [From.GetTitledFirstName] подходит ко мне. [From.GetSheHeCap] говорит: [Root.GetFirstName], меня беспокоит твоё новое увлечение. Говорят, ты проводишь ночи, не отрывая глаз от звёздного неба и упиваешься еретическими идеями о Великой Запредельной Тьме. Ради всего святого, прекрати это.";;;;;;;;;;;;;x
+EVTDESC_WoL_6130;Ваши ночные изыскания приносят свои плоды - Вы многое узнали о движении небесных тел и приблизились к пониманию устройства Великой Запредельной Тьмы.;;;;;;;;;;;;;x
+EVTDESC_WoL_6160;Ваши наблюдения за движением небесных тел идут успешно. Вы начинаете открывать закономерности, о которых прежде не могли и помыслить. Теперь ясно, что движение звезд как-то должно отображаться на Азероте...;;;;;;;;;;;;;x
+EVTOPTA_WoL_6160;А что, если Азерот...?;;;;;;;;;;;;;x
+EVTDESC_WoL_6170;Вы уверены, что совершили прорыв в исследованиях. Да, иначе и быть не может. Ядро Азерота находится в постоянном движении, словно оно живое. Как мало мы знаем об этой планете!;;;;;;;;;;;;;x
+EVTDESC_WoL_6322;Одним утром, м[From.GetOyaOy] [GetFromRelation] [From.GetTitledFirstName] подходит ко мне. [From.GetSheHeCap] говорит: "[Root.GetFirstName], меня беспокоит твоё новое увлечение. Говорят, ты ночами смотришь в звёздное небо, говоришь загадками и несёшь какую-то ахинею про Великую Тьму. Ради твоего же блага прошу - прекрати это.";;;;;;;;;;;;;x
+EVTDESC_WoL_6330;Ваши исследования в обсерватории показали, как много невообразимого и странного лежит за пределами Великой Тьмы. Те немногие, кому довелось изучать нечто подобное, наотрез отказались поделиться своими знаниями с Вами. Однако, по слухам, в Великом Море обитает тролльская ведьма, который может пролить свет на эту проблему.;;;;;;;;;;;;;x
+EVTOPTA_WoL_6330;Я найду её.;;;;;;;;;;;;;x
+EVTTITLE_WoL_6331;Шат'маг;;;;;;;;;;;;;x
+EVTDESC_WoL_6331;Вы прибыли к обители таинственной тролльской ведьмы, которая, убедившись в Ваших намерениях, пригласила Вас войти. Вы долго беседовали, после чего она сказала, что некто Мастер рун Молгейм, сведущий во многих оккультных практиках, потусторонних мирах и существах, написал книгу, известную как Шат'маг, которая содержит массу странных нечестивых знаний. Ведьма говорит, что ее настолько впечатлила Ваша искренняя жажда знаний, что она может продать Вам копию книги, но велела быть осторожнее - изучение этой книги может довести до безумия...;;;;;;;;;;;;;x
+EVTDESC_WoL_6336;М[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstNameWithNick] не перестаёт удивлять меня даже после своей смерти. Сегодня злоумышленники проникли в [From.GetHersHis] библиотеку и украли только одну вещь - загадочную древнюю книгу неизвестного происхождения. Двое слуг найдены там мёртвыми, а свидетели отказываются говорить о состоянии их тел.;;;;;;;;;;;;;x
+EVTDESC_WoL_6350;Книга, приобретённая тролльской ведьмы, оказалась весьма полезной в плане идей и объяснений того, чем Вы занимаетесь, изучая Великую Тьму. Однако, помимо прочего, она содержит нечто мрачное и тревожное, нечто, ведущее к уровню понимания, который может свести с ума.;;;;;;;;;;;;;x
+necronomicon;Шат'маг;;;;;;;;;;;;;x
+heliocentrist_scholar;Ученый-астроном;;;;;;;;;;;;;x
+heliocentrist_scholar_desc;Этот персонаж проводит исследования Великой Запредельной Тьмы.;;;;;;;;;;;;;x
+INTERACTION_CANNOT_JOIN_VASSAL_WAR;Мы не можем присоединяться к войнам наших вассалов (за исключением походов и поддержки их претензий на титулы за пределами страны);;;;;;;;;;;;;x
+EVTDESC94156;Дипломат старой закалки, который служил под началом многих великих правителей, согласился взять Вас под своё крыло и научить некоторым трюкам, которые помогут вести дела с вассалами и другими государствами.;;;;;;;;;;;;;x
+tribal_governments_FEATURES;§Y*§! Может реформироваться и стать феодализмомили торговой республикой;;;;;;;;;;;;;x
+nomadic_governments_FEATURES;§Y*§! Может реформироваться и стать феодализмом или торговой республикой\n§Y*§! Позволяет разрушать поселения ради богатства и технологий\n§Y*§!Может покидать земли, чтобы собирать население, привлекая больше людских ресурсов;;;;;;;;;;;;;x
+succ_patrician_elective_desc;Этот вид наследования свойственен великим морским торговым республикам. Следующий правитель выбирается среди глав пяти знатных купеческих семей в зависимости от возраста, престижа и бюджета предвыборной кампании. Выборы проводятся каждые 12 лет.;;;;;;;;;;;;;x
+RESPECT_DESC;Почёт зависит от возраста и престижа. Он влияет на вероятность избрания на должность магистрата. Его можно повысить за счет денежных вливаний в предвыборную кампанию. Женщины и дети на такие титулы избираться не могут.;;;;;;;;;;;;;x
+CAMPAIGN_FUND_DESC;Вложения в фонд предвыборной кампании повышают Ваш "Почёт" в сенате и делают Вашего кандидата более желаемым кандидатом на титул $RULER_TITLE$. Вы можете свободно регулировать размер инвестиций до тех пор, пока текущий правитель находится на своем посту. Только после его ухода этот фонд будет использован по назначению.;;;;;;;;;;;;;x
+title_state_inquisitor;Государственный банкир;;;;;;;;;;;;;x
+title_state_inquisitor_desc;Государственный банкир отвечает за управление государственным банком и финансами.;;;;;;;;;;;;;x
+EVTOPTA_MNM_9906;Да славится[Root.Religion.GetHighGodNameCap]!;;;;;;;;;;;;;x
+INTERACTION_REPUBLICS_NEED_REVOKE_REASON;Имеет соответствующий повод для отзыва титула;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_piety_negative;[From.GetSheHeCap] имеет низкий уровень §Y[From.Religion.GetPietyName]§!;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_piety_positive;[From.GetSheHeCap] имеет высокий уровень §Y[From.Religion.GetPietyName]§!;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_wounded;[From.GetSheHeCap] §Yранен[From.GetEndA]§!;;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_flu;[From.GetSheHeCap] is §YSick§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_food_poisoning;[From.GetSheHeCap] is §YSick§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_ill;[From.GetSheHeCap] is §YSick§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_has_measles;[From.GetSheHeCap] is §YSick§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_sickly;[From.GetSheHeCap] was born §YSickly§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_mangled;[From.GetSheHeCap] has been §YMangled§!;;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_severely_injured;[From.GetSheHeCap] has been §YSeverly Injured§!;;;;;;;;;;;;;x
-religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!. This Casus Belli is valid against neighbors, and also against infidels up to two sea zones away.;;;;;;;;;;;;;x
-EVTDESC20023;[Root.GetTitledName], your [Root.GetLordSpiritualName] [From.GetTitledName] was killed by heathens when trying to spread the [Root.GetRelAdjective] Faith in [From.Location.GetName].;;;;;;;;;;;;;x
-crown;Head;;;;;;;;;;;;;x
-wrist;Hands;;;;;;;;;;;;;x
-EVTOPTAHF23209;I will offer them up in the name of [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
-EVTOPTC65049;[Root.Religion.GetRandomGodNameCap] will cure me!;;;;;;;;;;;;;x
-EVTDESC_MNM_7025;[Root.GetDWDevil]'s favors, [Root.GetSocietyRank] [Root.GetFirstName]\nThe great and mighty [Root.GetDWDevil] has given us so much, and now it is time for us to offer them a gift in return. [Root.GetDWDevil] craves a soul to serve them in their dark realm and we have the perfect kind in mind. Capture and sacrifice a [Root.GetDWSacrifice], [Root.GetSocietyRank]!\n\n[Root.GetDWExpression]\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-MNM.70200.d.suspected_apostate;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] bursts into your [Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], we caught this apostate in the act of reading [accused_apostate.TrueReligion.GetName] scripture, and giving praise to [accused_apostate.TrueReligion.GetHighGodName]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;;;;x
-EVTOPTBHF20090;[Root.Religion.GetHighGodNameCap] has finally touched them.;;;;;;;;;;;;;x
-EVTDESC_WoL_7030;I live my life as other [Root.GetMenWomen] do, navigating its rocks and obstacles, doing my best to achieve success in my endeavours. Still, everything we do takes place in the presence of [Root.Religion.GetRandomGodName], and we must take care lest the influence of [Root.Religion.GetRandomEvilGodName] comes into our lives.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10114_HORSES;A dozen strong [Root.GetHorses].;;;;;;;;;;;;;x
-satanists_recruit;Recruit to [From.Society.GetName];;;;;;;;;;;;;x
-satanists_recruit_desc;Attempt to find out whether §Y[Root.GetTitledFirstName]§! is open to the power of the occult. If so, you may invite [Root.GetHerHim] to become a member of [From.Society.GetName].;;;;;;;;;;;;;x
-EVTDESC_MNM_7022_A;We have seen your good work, [Root.GetSocietyRank] [Root.GetFirstName].\nThe recruit you sent us, [satanists_recruit.GetTitledFirstName], has now completed [satanists_recruit.GetHerHis] induction into [Root.Society.GetName]. I thank you for this contribution – it will not be forgotten.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_MNM_7022_B;We know what has happened, [Root.GetSocietyRank] [Root.GetFirstName].\nThe recruit you sent us, [satanists_recruit.GetTitledFirstName], has proven to be disaster. We have spent significant resources in our attempt to induct [satanists_recruit.GetHerHim], all for naught. This lack of judgment will be remembered.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_MNM_4452;[From.GetSocietyGreeting], [Root.GetTitledFirstName]\n\nWe are delighted by your decision to join the ranks of [From.Society.GetName], [Root.GetTitle]. [From.GetSocietyGoal].\n\n[From.GetSocietyFarewell],\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
-EVTOPT_MNM_4018;Cognition is what I live for.;;;;;;;;;;;;;x
-AUTOCEPHALOUS_PATRIARCHS;Autonomous Bishops;;;;;;;;;;;;;x
-AUTOCEPHALOUS_REL_HEAD_TITLE;Bishop;;;;;;;;;;;;;x
-AUTOCEPHALY_IRO;§YAdditional Autonomous Bishops§!;;;;;;;;;;;;;x
-REL_AUTOCEPHALY_DESC;Autonomous Bishops under Kings;;;;;;;;;;;;;x
-PENTARCHY_DRO;All $RELIGION$ kingdoms or empires also have their own autonomous Bishops. The Court Chaplain of such a kingdom or empire is also considered the Bishop of that realm. He will always do what his liege asks of him, but only the $REL_HEAD_TITLE$ can grant the Invasion Casus Belli. Each autonomous Bishop controls Excommunication within their respective realm.;;;;;;;;;;;;;x
-AUTOCEPHALOUS_REL_HEAD_TITLE_FEMALE;Bishop;;;;;;;;;;;;;x
-EVTOPTA_MNM_9118_TT;Swords may give a bonus to commanded §Y[GetActualLightInfantryName]§! and §Y[GetHeavyInfantryName]§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTB_MNM_9118_TT;Scimitars may give a bonus to commanded §Y[GetActualLightInfantryName]§! and §Y[GetHeavyInfantryName]§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTC_MNM_9118_TT;Lances may give a bonus to commanded §Y[GetActualHeavyInfantryName]§! and §Y[GetCavalryName]§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTD_MNM_9118_TT;Axes may give a bonus to commanded §Y[GetPikemenName]§! and §Y[GetLightInfantryName]§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTE_MNM_9118_TT;Maces may give a bonus to commanded §Y[GetLightCavalryName]§! and §Y[GetHeavyInfantryName]§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTF_MNM_9118_TT;Bows may give a bonus to commanded §Y[GetArchersName]§! and §Y[GetCavalryName]§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-BLOODLINE_EASIER_VOWS_TOOLTIP;Both [From.GetFirstName] and [Root.GetFirstName] are relatives and belong to a §YBloodline§! endorsed by the §Y[Root.RelHead.GetTitle]§!;;;;;;;;;;;;;x
-indulgence_ask;The [Root.RelHead.GetTitle] will hear our plea for salvation.;;;;;;;;;;;;;x
-repentance_ask;The [Root.RelHead.GetTitle] will hear our plea for salvation.;;;;;;;;;;;;;x
-EVTDESC39253;The [Root.RelHead.GetTitle] has agreed to lift the excommunication against me!;;;;;;;;;;;;;x
-convert_to_local_culture;Convert to Local Culture;;;;;;;;;;;;;x
-EVTDESC_WOL_2080_DW;I can hardly believe it, but I have uncovered indisputable proof that [FromFromFrom.GetTitledName] does not follow what they preach and instead secretly follows the philosophies and teachings of a rival faith! [FromFromFrom.GetSubjectPronounCap] is a member of an organization called [FromFromFrom.Society.GetName]. How should I choose to utilize this explosive information?;;;;;;;;;;;;;x
-RULE_DYNASTY_TITLE_NAMES_ON_DESC;Many cultures name their titles after the ruling dynasty (e.g. Kolkar, Bloodhoof, etc.);;;;;;;;;;;;;x
-RULE_CULTURAL_TITLE_NAMES_ON_DESC;The names of titles may change depending on the ruling culture (e.g. "Zul'regan" instead of "Gnomeregan");;;;;;;;;;;;;x
-HF_221_DESC;Bored, I decide to sneak out onto the streets of [child_of_destiny.Location.County.GetName]. I suddenly hear a voice. "Ah, young [child_of_destiny.GetPrincessPrince] [child_of_destiny.GetFirstName]!" It is an old [wise_man_target.GetManWoman], overburdened with books. "I am [wise_man_target.GetFirstName]. The stars have given me a quest – to teach you about the world and the mind of mortals." [wise_man_target.GetSheHeCap] holds out two books. "Our time is limited, which tome should we study?";;;;;;;;;;;;;x
-HF_221_OPTA;"Golgo'nishver", I want to lead and inspire!;;;;;;;;;;;;;x
-HF_221_OPTB;"Tagha'senchal", my future realm shall prosper!;;;;;;;;;;;;;x
-HF_222_DESC;My servants apparently lost track of [child_of_destiny.GetFirstName] today, and it took hours to locate [child_of_destiny.GetHerHim]! [child_of_destiny.GetSheHeCap] was found in the nick of time, just before I was about to order a full-scale search. When they found [child_of_destiny.GetHerHim] [child_of_destiny.GetSheHe] was reading a book no one had ever seen before, written in Kalimag no less...;;;;;;;;;;;;;x
-HF_222_OPTA;[child_of_destiny.GetFirstName], oh how you scared me...! And how do you know Kalimag?;;;;;;;;;;;;;x
-child_of_mithridates;Child of Shadra;;;;;;;;;;;;;x
-child_of_mithridates_desc;This character resists poison to such a degree that people claim [GetHerHim] a child of Shadra.;;;;;;;;;;;;;x
-bloodline_desc_child_of_destiny;A [child_of_destiny.GetManWoman] of true legend. [child_of_destiny.GetHerHisCap] exploits mimicked those of ancient heroes!;;;;;;;;;;;;;x
-COURTIER_FEMALE;courtier;;;;;;;;;;;;;x
-COURTIER_FEMALE_CAP;Courtier;;;;;;;;;;;;;x
-EVTOPTA_ZE_8000;I'll write to [target_ruler.GetTitledFirstName]. We could be friends.;;;;;;;;;;;;;x
-EVTOPTAHFP22006;If only we had pigeons...;;;;;;;;;;;;;x
-EVTDESC_HF_15103_A;[drought_province.GetName] have gone weeks without rain. Watering holes for grazing animals are shrinking, and as inhabitants become more reliant on outside trade, traders charge more for resources. People are beginning to lose faith, even in [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_405;Follow [This.GetObjectPronoun] into the warm water...;;;;;;;;;;;;;x
-REL_CONSORT_MALE;Consort;;;;;;;;;;;;;x
-REL_WOMEN_CAN_TAKE_CONSORTS_DESC;$NAME$ women can take up to $NUM|Y$ Consorts;;;;;;;;;;;;;x
-GOV_WOMEN_CAN_TAKE_CONSORTS_DESC;Female rulers can take up to $NUM|Y$ Consorts;;;;;;;;;;;;;x
-CONSORT_DESC_MALE;$FIRST_CHAR|Y$ is $SECOND_CHAR|Y$'s consort and not truly married. However, any children he's responsible for will be considered legitimate.;;;;;;;;;;;;;x
-CONCUBINAGE_MALE;Consort relationship;;;;;;;;;;;;;x
-CONCUBINAGE_MALE_DESC;This is a Consort relationship. Children of consorts, though of slightly lower social status, inherit normally and will be of the mother's Dynasty;;;;;;;;;;;;;x
-FAM_CONSORTS_MALE;Consorts;;;;;;;;;;;;;x
-TAKECONSORTEFFECT_MALE;$SPOUSE|Y$ becomes a consort of $WHO|Y$.\n;;;;;;;;;;;;;x
-REMOVECONSORTEFFECT_MALE;$CONSORT|Y$ will no longer be a consort of $WHO|Y$.\n;;;;;;;;;;;;;x
-title_male_consort;Consort;;;;;;;;;;;;;x
-IS_NOT_SENIOR_CONSORT;Is NOT the senior party in any consort relationship;;;;;;;;;;;;;x
-IS_SENIOR_CONSORT;Is the senior party in any consort relationship;;;;;;;;;;;;;x
-SET_WOMEN_CAN_TAKE_CONSORTS_EFFECT;Religion now allows women to take consorts;;;;;;;;;;;;;x
-SET_NOT_WOMEN_CAN_TAKE_CONSORTS_EFFECT;Religion now does NOT allow women to take consorts;;;;;;;;;;;;;x
-GetRelation_Consort;Consort;;;;;;;;;;;;;x
-child_of_consort_male;Child of Consort;;;;;;;;;;;;;x
-child_of_consort_male_desc;This character was born to the consort of a ruler. Children of consorts can inherit but are somewhat poorly regarded by others.;;;;;;;;;;;;;x
-EVTDESC660_B;That vile hag [From.GetBestName] has forced me to become her consort!;;;;;;;;;;;;;x
-EVTDESC662_B;[FromFrom.GetBestName] has forced my husband [From.GetBestName] to become her consort!;;;;;;;;;;;;;x
-EVTDESC_WOL_590_MALE;My consort, [target_consort.GetTitledFirstNameNoRegnal], does not love me. While love is not exactly necessary, I'd still like to see his charming face light up with smiles and laughter... so I've decided to romance him!;;;;;;;;;;;;;x
-EVTDESC_WOL_2224_CONSORT_MALE;My consort [From.GetBestName] has fled! He climbed out of his tower room window, probably with outside assistance, because my guards were completely unable to locate him before he escaped my realm.;;;;;;;;;;;;;x
-EVTOPTC_HL_6520_MALE;I want a portrait of my beautiful consort.;;;;;;;;;;;;;x
-EVTDESC400_CONSORT;I am surely with child... my consort will be pleased.;;;;;;;;;;;;;x
-EVTDESC400_CONSORTS;I am surely with child. I wonder which one of my consorts is the lucky father...;;;;;;;;;;;;;x
-string_consort;consort;;;;;;;;;;;;;x
-string_consort_cap;Consort;;;;;;;;;;;;;x
-EVTOPTBHFP21041;I will send [From.GetHerHim] some gold.;;;;;;;;;;;;;x
-EVTOPTCHFP21041;I will tell [From.GetHerHim] of my prosperous realm.;;;;;;;;;;;;;x
-EVTOPTA_HF_15111;We must get food out to the people outside our [Root.GetCapitalHolding].;;;;;;;;;;;;;x
-SO_IT_IS;So it is.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9123;This is excellent, [From.GetMasterMistressCap] [From.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTAHFP21026;I will bestow [From.GetHerHim] the greatest honors!;;;;;;;;;;;;;x
-EVTOPTCHFP21026;I can spare a few words for [From.GetHerHim]...;;;;;;;;;;;;;x
-tooltip_21026_C;Share a small part of your Prestige with §Y[From.GetTitledFirstName]§!, hoping to §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;;x
-GetRelation_Courtier_Female;courtier;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_food_poisoning;[From.GetSheHeCap] §Yбол[From.GetSoftNaEn]§!;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_ill;[From.GetSheHeCap] §Yбол[From.GetSoftNaEn]§!;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_has_measles;[From.GetSheHeCap] §Yбол[From.GetSoftNaEn]§!;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_sickly;[From.GetSheHeCap] роди[From.GetLasLsya] §Yболезненн[From.GetOyYm]§!;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_mangled;[From.GetSheHeCap] §Yискромсан[From.GetEndA]§!;;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_severely_injured;[From.GetSheHeCap] §Yсерьёзно ранен[From.GetEndA]§!;;;;;;;;;;;;;x
+religious_desc;§Y$CLAIMANT$§! может использовать этот Casus Belli (повод для войны), чтобы захватить титулы и земли, удерживаемые правителем-иноверцем, известным как §Y$TARGET$§!, в де-юре пределах государства §Y$TITLE$§!. Этот Casus Belli может быть действителен против соседей, а также на соседей за две морские зоны от вашей.;;;;;;;;;;;;;x
+EVTDESC20023;[Root.GetTitledName], [Root.GetLordSpiritualName] [From.GetFirstName] убит[From.GetEndA] иноверцами при попытках распространить веру [Root.GetRelAdjective] в округе [From.Location.GetName].;;;;;;;;;;;;;x
+crown;Голова;;;;;;;;;;;;;x
+wrist;Запястья;;;;;;;;;;;;;x
+EVTOPTAHF23209;Я принесу их в жертву во имя [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
+EVTOPTC65049;[Root.Religion.GetRandomGodNameCap] исцелит меня!;;;;;;;;;;;;;x
+EVTDESC_MNM_7025;[Root.GetDWDevil] благоволит тебе, [Root.GetSocietyRank] [Root.GetFirstName].\nМы получили многое от [Root.GetDWDevilGEN], пора вернуть долг и дать что-то взамен - душу в услужение в тёмном мире. Захвати в плен и принеси в жертву [Root.GetDWSacrifice]!\n[Root.GetDWExpression]\n [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+MNM.70200.d.suspected_apostate;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] ворва[Root.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] в окружении нескольких [Root.GetReligionWarriorPluralGEN]. С ними был[accused_apostate.GetEndA] [accused_apostate.GetBestName], закованн[accused_apostate.GetAyaYy] в цепи. "[Root.PrimaryTitle.GetFOA], мы поймали эт[accused_apostate.GetUOgo] [accused_apostate.GetAgedPersonACC] за чтением [accused_apostate.GetSecretReligionScriptureAdjAndNameGEN]!, исполняя ритуалы в честь [accused_apostate.TrueReligion.GetHighGodName]! Как мы поступим с [accused_apostate.GetHerHim]?";;;;;;;;;;;;;x
+EVTOPTBHF20090;[Root.Religion.GetHighGodNameCap] пребывает с ними.;;;;;;;;;;;;;x
+EVTDESC_WoL_7030;Моя жизнь похожа на жизнь любого другого - я преодолеваю препятствия на своём пути и делаю всё, что могу, чтобы достичь успеха в своих стремлениях. Но всё, что мы делаем, видит [Root.Religion.GetRandomGodName], , и мы должны заботиться о влиянии, которое [Root.Religion.GetRandomEvilGodName] оказывает на нас.;;;;;;;;;;;;;x
+EVTOPTA_WOL_10114_HORSES;Дюжину лучших лошадей.;;;;;;;;;;;;;x
+satanists_recruit;Пригласить в [From.Society.GetName];;;;;;;;;;;;;x
+satanists_recruit_desc;Попытаться выяснить, увлекается ли §Y[Root.GetTitledFirstName]§! оккультными науками. Если да, то вы сможете пригласить [Root.GetHerHim] вступить в ряды сообщества, известного как [From.Society.GetName].;;;;;;;;;;;;;x
+EVTDESC_MNM_7022_A;Хорошая работа, [Root.GetSocietyRank] [Root.GetFirstName].\nНовообращенн[satanists_recruit.GetAyaYy] [satanists_recruit.GetTitledFirstName], успешно присоедини[satanists_recruit.GetLasLsya] к нам. Мы не забудем о твоём вкладе в наше общее дело.\n\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_MNM_7022_B;[Root.GetDWDevil] всё видит, [Root.GetSocietyRank] [Root.GetFirstName]\n[satanists_recruit.GetTitledFirstName], котор[satanists_recruit.GetUyuOgo] ты послал[Root.GetEndA] вступить к нам, оказа[satanists_recruit.GetLasLsya] настоящей катастрофой. Мы приложили немало усилий, чтобы вразумить [satanists_recruit.GetHersHis], но всё зря. Твоя безалаберность вредит нашему делу.\n\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_MNM_4452;[From.GetSocietyGreeting], [Root.GetTitledFirstName]\n\nМы польщены твоим решением вступить в [From.Society.GetName]. Вместе мы приложим усилия на пути совершенствования себя и наших соратников по истинной вере, следуя [From.GetSocietyGoal].\n\n[From.GetSocietyFarewell],\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;;x
+EVTOPT_MNM_4018;Познание нового - смысл моей жизни.;;;;;;;;;;;;;x
+AUTOCEPHALOUS_PATRIARCHS;Автономные епископы;;;;;;;;;;;;;x
+AUTOCEPHALOUS_REL_HEAD_TITLE;Епископ;;;;;;;;;;;;;x
+AUTOCEPHALY_IRO;§YДополнительные автономные епископы§!;;;;;;;;;;;;;x
+REL_AUTOCEPHALY_DESC;Автономные епископы (под властью своих светских правителей);;;;;;;;;;;;;x
+PENTARCHY_DRO;Все королевства и империи, исповедующие $RELIGION$ имеют своих автономных епископов, которым является духовник правителя. Он подчиняется своему сюзерену, однако только $REL_HEAD_TITLE$ может даровать право на вторжение. Каждый автономный епископ может отлучать от церкви только подданных своей страны.;;;;;;;;;;;;;x
+AUTOCEPHALOUS_REL_HEAD_TITLE_FEMALE;Епископ;;;;;;;;;;;;;x
+EVTOPTA_MNM_9118_TT;Мечи могут дать бонус к командованию §Yлёгкой§! и §Yтяжёлой§! пехотой, помимо прибавок к §Yвоенному§! навыку, §Yличным боевым навыкам§! и §Yмесячному приросту престижа§!.\n;;;;;;;;;;;;;x
+EVTOPTB_MNM_9118_TT;Скимитары могут дать бонус к командованию §Yлёгкой§! и §Yтяжёлой§! пехотой, помимо прибавок к §Yвоенному§! навыку, §Yличным боевым навыкам§! и §Yмесячному приросту престижа§!.\n;;;;;;;;;;;;;x
+EVTOPTC_MNM_9118_TT;Копья могут дать бонус к командованию §Yкопейщиками§! и §Yконницей§!, помимо прибавок к §Yвоенному§! навыку, §Yличным боевым навыкам§! и §Yмесячному приросту престижа§!.\n;;;;;;;;;;;;;x
+EVTOPTD_MNM_9118_TT;Топоры могут дать бонус к командованию §Yтяжёлой§! и §Yлёгкой§! пехотой, помимо прибавок к §Yвоенному§! навыку, §Yличным боевым навыкам§! и §Yмесячному приросту престижа§!.\n;;;;;;;;;;;;;x
+EVTOPTE_MNM_9118_TT;Булавы могут дать бонус к командованию §Yлёгкой конницей§! и §Yтяжёлой пехотой§!, помимо прибавок к §Yвоенному§! навыку, §Yличным боевым навыкам§! и §Yмесячному приросту престижа§!.\n;;;;;;;;;;;;;x
+EVTOPTF_MNM_9118_TT;Луки могут дать бонус к командованию §Yлучниками§! и §Yконницей§!, помимо прибавок к §Yвоенному§! навыку, §Yличным боевым навыкам§! и §Yмесячному приросту престижа§!.\n;;;;;;;;;;;;;x
+BLOODLINE_EASIER_VOWS_TOOLTIP;[From.GetFirstName] и [Root.GetFirstName] являются родственниками и принадлежат к §Yродословной§!, поддерживаемой религиозной организацией, известной как §Y[Root.RelHead.GetTitle]§!;;;;;;;;;;;;;x
+indulgence_ask;[Root.RelHead.GetTitle] услышит нашу просьбу о спасении души.;;;;;;;;;;;;;x
+repentance_ask;[Root.RelHead.GetTitle] услышит нашу просьбу о спасении души.;;;;;;;;;;;;;x
+EVTDESC39253;[Root.RelHead.GetTitle] согласи[Root.RelHead.GetLasLsya] снять с меня отлучение!;;;;;;;;;;;;;x
+convert_to_local_culture;Принять местную культуру;;;;;;;;;;;;;x
+EVTDESC_WOL_2080_DW;Поверить не могу! Мне удалось добыть доказательства того, что [FromFromFrom.GetTitledName] тайно следует философии и учениям враждебной веры! [FromFromFrom.GetSubjectPronounCap] состоит в сообществе, которая называется [FromFromFrom.Society.GetName]. Что мне теперь делать с этми сведениями?;;;;;;;;;;;;;x
+RULE_DYNASTY_TITLE_NAMES_ON_DESC;Многие культуры называют государства по имени правящей династии (Колкар, Кровавое Копыто и тому подобное);;;;;;;;;;;;;x
+RULE_CULTURAL_TITLE_NAMES_ON_DESC;Названия государств могут меняться в зависимости от правящей культуры (например, "Зул'реган" вместо "Гномреган");;;;;;;;;;;;;x
+HF_221_DESC;Во время прогулки по [child_of_destiny.Location.County.GetName], начатой чтобы развеять скуку, я слышу некий голос. "[child_of_destiny.GetPrincessPrince] [child_of_destiny.GetFirstName]!" Я вдруг замечаю [wise_man_target.GetManWoman] с книгами в руках. "Я [wise_man_target.GetFirstName]. Звезды поручили мне важное задание – передать Вам знания о мире и разуме смертных." [wise_man_target.GetSheHeCap] протягивает вам две книги. "Наше время ограничено, какую из книг вы бы хотели изучить?";;;;;;;;;;;;;x
+HF_221_OPTA;"Голго'нишвер", я хочу научиться вести за собой и вдохновлять своим примером!;;;;;;;;;;;;;x
+HF_221_OPTB;"Тага'сенчал", я принесу процветание своим будущим владениям!;;;;;;;;;;;;;x
+HF_222_DESC;Слуги потеряли [child_of_destiny.GetFirstName] сегодня, и потребовалось несколько часов, чтобы найти [child_of_destiny.GetHerHim]! [child_of_destiny.GetSheHeCap] нашли в самый последний момент. Когда они нашли [child_of_destiny.GetHerHim], они застали [child_of_destiny.GetSheHe] за изучением неизвестной книги, написанной на Калимаге...;;;;;;;;;;;;;x
+HF_222_OPTA;[child_of_destiny.GetFirstName], как же я испуга[Root.GetLasLsya]...! Тебе известен Калимаг?;;;;;;;;;;;;;x
+child_of_mithridates;Дитя Шадры;;;;;;;;;;;;;x
+child_of_mithridates_desc;Эт[GetEtaEtot] [GetAgedPerson] настолько устойчив[GetEndA] к яду, что многие называют [GetHersHis] "Дитя Шадры".;;;;;;;;;;;;;x
+bloodline_desc_child_of_destiny;Эт[child_of_destiny.GetEtaEtot] [child_of_destiny.GetAgedPerson] - настоящая легенда. [child_of_destiny.GetHersHisCap] подвиги напоминают действия древних героев!;;;;;;;;;;;;;x
+COURTIER_FEMALE;придворная;;;;;;;;;;;;;x
+COURTIER_FEMALE_CAP;Придворная;;;;;;;;;;;;;x
+EVTOPTA_ZE_8000;Мы могли бы стать друзьями. Напишу [target_ruler.GetHerHim].;;;;;;;;;;;;;x
+EVTOPTAHFP22006;Эх, были бы у нас голуби...;;;;;;;;;;;;;x
+EVTDESC_HF_15103_A;В округе [drought_province.GetName] уже несколько недель не было дождей. Мест для водопоя становится всё меньше, и местные скотоводы всё чаще обращаются к внешним поставщикам воды, в то время как торговцы заламывают цены. Люди теряют веру, даже в [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_405;Вместе последовать в тёплую воду...;;;;;;;;;;;;;x
+REL_CONSORT_MALE;наложник;;;;;;;;;;;;;x
+REL_WOMEN_CAN_TAKE_CONSORTS_DESC;Женщины, исповедущие $NAME$ могут иметь до $NUM|Y$ наложников;;;;;;;;;;;;;x
+GOV_WOMEN_CAN_TAKE_CONSORTS_DESC;Женщина-правители могут иметь до $NUM|Y$ наложников;;;;;;;;;;;;;x
+CONSORT_DESC_MALE;$FIRST_CHAR|Y$ - наложник женщины по имени $SECOND_CHAR|Y$. Это ненастоящий брак, но их дети будут законными наследниками.;;;;;;;;;;;;;x
+CONCUBINAGE_MALE;Наложничество;;;;;;;;;;;;;x
+CONCUBINAGE_MALE_DESC;Наложничество - это особый вид неравных отношений, чем-то напоминающий брак. Дети от наложников имеют более низкий социальный статус, однако могут наследовать и принадлежат к династии матери;;;;;;;;;;;;;x
+FAM_CONSORTS_MALE;Наложники;;;;;;;;;;;;;x
+TAKECONSORTEFFECT_MALE;$SPOUSE|Y$ станет наложником женщины по имени $WHO|Y$.\n;;;;;;;;;;;;;x
+REMOVECONSORTEFFECT_MALE;$CONSORT|Y$ перестанет быть наложником женщины по имени $WHO|Y$.\n;;;;;;;;;;;;;x
+title_male_consort;Наложник;;;;;;;;;;;;;x
+IS_NOT_SENIOR_CONSORT;НЕ является главным участником наложнических отношений;x
+IS_SENIOR_CONSORT;Является главным участником наложнических отношений;x
+SET_WOMEN_CAN_TAKE_CONSORTS_EFFECT;Религия позволит женщинам иметь наложников;x
+SET_NOT_WOMEN_CAN_TAKE_CONSORTS_EFFECT;Религия НЕ будет позволять женщинам иметь наложников;x
+GetRelation_Consort;наложник;x
+child_of_consort_male;Ребенок наложника;x #GetDaughterSonCap_TT_Ребёнок
+child_of_consort_male_desc;Этот персонаж был рожден от наложника правительницы. Дети наложников могут наследовать, но к ним плохо относится общество.;x
+EVTDESC660_B;Это подлая стерва [From.GetBestName] заставил[From.GetEndA] меня стать [From.GetHersHis] наложни[Root.GetTseyKom]!;;;;;;;;;;;;;x
+EVTDESC662_B;[FromFrom.GetTitledFirstNameWithNick] сделал[FromFrom.GetEndA] мо[From.GetYuEgo] [From.GetHusbandWifeACC] сво[From.GetEyIm] наложни[Root.GetTseyKom]!;;;;;;;;;;;;;x
+EVTDESC_WOL_590_MALE;М[target_consort.GetOyaOy] наложни[target_consort.GetTsaK] [target_consort.GetTitledFirstNameNoRegnal], меня явно недолюбливает. Любовь, конечно, в этом деле - лишнее, но хотелось бы увидеть хоть немного радости на [target_consort.GetHersHis] лице!;;;;;;;;;;;;;x
+EVTDESC_WOL_2224_CONSORT_MALE;М[From.GetOyaOy] наложни[From.GetTsaK] [From.GetTitledFirstNameWithNick] сбежал[From.GetEndA] сегодня ночью! [From.GetSheHeCap] выбра[From.GetLasLsya] через окно своей комнаты в одной из башен. Скорее всего [From.GetHerHim] кто-то помог - страже никак не удавалось разыскать [From.GetHersHis] до тех пор, пока [From.GetSheHe] не оказа[From.GetLasLsya] за пределами страны.;;;;;;;;;;;;;x
+EVTOPTC_HL_6520_MALE;Нарисуй мо[Root.GetYuEgoOpp] наложни[Root.GetTsuKaOpp].;;;;;;;;;;;;;x
+EVTDESC400_CONSORT;Я уверена, что беременна... мой наложник будет доволен.;x
+EVTDESC400_CONSORTS;Я уверена, что беременна. Интересно, кто же из моих наложниов - счастливый отец?;x
+string_consort;наложник;;;;;;;;;;;;;x
+string_consort_cap;Наложник;;;;;;;;;;;;;x
+EVTOPTBHFP21041;Отправлю [From.GetHerHim] немного золота.;;;;;;;;;;;;;x
+EVTOPTCHFP21041;Расскажу [From.GetHerHim] о процветании.;;;;;;;;;;;;;x
+EVTOPTA_HF_15111;Поделимся нашими запасами продовольствия с народом, проживающим за пределами нашей столицы.;;;;;;;;;;;;;x
+SO_IT_IS;И что с того?;;;;;;;;;;;;;x
+EVTOPTA_MNM_9123;Прекрасная работа, [From.GetMasterMistressCap] [From.GetFirstName]!;;;;;;;;;;;;;x
+EVTOPTAHFP21026;Я воздам [From.GetHerHim] величайшие почести!;;;;;;;;;;;;;x
+EVTOPTCHFP21026;Скажу о н[From.GetEyYom] пару слов...;;;;;;;;;;;;;x
+tooltip_21026_C;§Y[From.GetTitledFirstName]§! будет упомянут Вами в позитивном ключе, что немного повысит [From.GetHersHis] §Yпрестиж§! и вероятно поможет §Yналадить§! Ваши с н[From.GetEyuIm] отношения.;;;;;;;;;;;;;x
+GetRelation_Courtier_Female;придворная;;;;;;;;;;;;;x
 PIETY_EFFECT_CHARACTER;§Y$WHO$§! $DIRECTION$ $VALUE$ $PIETYNAME$.\n;;;;;;;;;;;;;x
-EVTDESC_4405_GREEDY;My [Root.Religion.GetPriestTitle] always talks about the importance of charity, and I do give alms to the poor on a regular basis. However, I often feel reluctant when doing so, and it brings me shame. While [Root.GetMOPenanceMeditation], I have had plenty of time to think about this. Perhaps I should strive to be more charitable?;;;;;;;;;;;;;x
-EVTDESC_4405_SLOTHFUL;For a true follower of [Root.GetMOCode], the importance of saying [Root.GetPrayers] and studying [Root.Religion.GetScriptureName] - at least my [Root.Religion.GetPriestTitle] says so. However, while [Root.GetMOPenanceMeditation] for days on end, I struggle to stay focused. Sometimes I feel that I am just sitting here, doing nothing. If I closed my eyes for just a moment... surely that would not be so bad?;;;;;;;;;;;;;x
-EVTDESC_MNM_3225_E;In an effort to convince the court of my devotion to [Root.Religion.GetHighGodName], I have chosen to visit the [Root.GetHouseOfWorship], and pray with the [Root.Religion.GetGroupName]s. A [Root.Religion.GetPriestTitle] eyes me curiously as I enter the building, and I stop for moment to gather my thoughts. May [Root.TrueReligion.GetHighGodName] forgive me, but I need to make a good impression here.;;;;;;;;;;;;;x
-EVTDESC_MNM_3225_G;In an effort to convince the court of my commitment to [Root.Religion.GetHighGodName], I have gone to [Root.GetHouseOfWorship], to leave an offering at the altar of the gods. A [Root.Religion.GetPriestTitle] eyes me warily as I walk up the steps and enter the building. May [Root.TrueReligion.GetHighGodName] forgive me, but I need to make a good impression here.;;;;;;;;;;;;;x
-EVTDESC_MNM_3225_H;In an effort to convince the court of my commitment to [Root.Religion.GetHighGodName], I have gone to [Root.GetHouseOfWorship], to leave an offering at the sacred altar. A [Root.Religion.GetPriestTitle] eyes me warily as I walk up the steps and enter the building. May [Root.TrueReligion.GetHighGodName] forgive me, but I need to make a good impression here.;;;;;;;;;;;;;x
-EVTDESC_MNM_3225_J;In an effort to convince the court of my commitment to [Root.Religion.GetHighGodName], I have gone to [Root.GetHouseOfWorship], to make an offering at the altar of the gods. A [Root.Religion.GetPriestTitle] eyes me warily as I walk up the steps and enter the building. May [Root.TrueReligion.GetHighGodName] forgive me, but I need to make a good impression here.;;;;;;;;;;;;;x
-EVTDESC_MNM_3225_O;In an effort to convince my people of my commitment to the ancestors, I have come to make an offering at the sacred altar of our elders. A [Root.Religion.GetPriestTitle] eyes me warily as I walk the steps up to the temple. May [Root.TrueReligion.GetHighGodName] forgive me, but I need to make a good impression here.;;;;;;;;;;;;;x
-EVTDESC_MNM_3225_P;In an effort to convince the court of my piety, I have chosen to visit the [Root.GetHouseOfWorship], and pray with the [Root.Religion.GetGroupName]s. A [Root.Religion.GetPriestTitle] eyes me curiously as I enter the building, and I stop for moment to gather my thoughts. May [Root.TrueReligion.GetHighGodName] forgive me, but I need to make a good impression here.;;;;;;;;;;;;;x
-EVTDESC_MNM_9120;"A [From.GetWeaponsmithWeapon]. I see. An excellent choice, my [Root.GetTitle]" says [From.GetMasterMistressCap] [From.GetFirstName] and calls forward the assistant cradling three [From.GetWeaponsmithWeapon]s in [From.GetHerHis] arms. "I have three examples of different quality levels here. One must determine what one needs and how much one is willing to pay, however they would all serve your Highness well.";;;;;;;;;;;;;x
-EVTDESC_MNM_3949;I feel the [old_religion.Religion.GetName] way of life calling to me still. My [demander.GetLordLady]'s demand for me to abandon my beliefs and never enter my [old_religion.GetHouseOfWorship] again only makes the urge stronger. I find no truth in the [demander.Religion.GetName] faith and truly doubt [demander.GetHerHis] [demander.GetHouseOfWorship] will ever be a place for me.;;;;;;;;;;;;;x
-EVTDESC_MNM_7113_VIOLENT;With a group of handpicked faithful [Root.GetReligionWarriorPlural] I have entered the hallowed grounds of the [desecration_holder.GetHouseOfWorship] in [dw_desecration_target.GetName]. However as soon as I step inside the doors a [desecration_holder.Religion.GetPriestTitle] throws himself at our feet begging us in the name of [desecration_holder.Religion.GetHighGodName] to show mercy and swears to not utter a word of our presence.;;;;;;;;;;;;;x
-EVTDESC_MNM_3225_N;In an effort to convince the court of my commitment to [Root.Religion.GetHighGodName], I have gone to [Root.GetHouseOfWorship], and to visit the altar of God. A [Root.Religion.GetPriestTitle] eyes me warily as I walk up the steps and enter the building. May [Root.TrueReligion.GetHighGodName] forgive me, but I need to make a good impression here.;;;;;;;;;;;;;x
-EVTDESC_TOG_1060;[Root.Religion.GetName] rebels have risen up in [Root.GetName], led by a militant [Root.Religion.GetPriestTitle]. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;;;x
-EVTDESCHFP21071;It is so hard to think about what I could do to endear [From.GetTitledFirstName] to me. I am already so perfect, after all. Why would anyone need encouragement in order to enjoy the pleasure of being in my good graces?;;;;;;;;;;;;;x
-EVTOPTAHFP21071;I will write [From.GetHerHim] a letter about me.;;;;;;;;;;;;;x
-tooltip_21071_A;Send a letter to §Y[From.GetTitledFirstName]§!, writing about how lucky [From.GetSheHe] is to have a friend like you. Hopefully this will §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;;x
-EVTOPTBHFP21071;I will send [From.GetHerHim] one of my statues.;;;;;;;;;;;;;x
-tooltip_21071_B;Send a statue to §Y[From.GetTitledFirstName]§! so that [From.GetSheHe] may always gaze upon you whenever [From.GetSheHe] feels to. Hopefully this will §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;;x
-EVTDESCBHFP21073;[From.GetTitledFirstName] informed me that [From.GetSheHe] is very flattered by the attention I have given [From.GetHerHim] and that [From.GetSheHe] hopes to remain within my good graces for longer still.;;;;;;;;;;;;;x
-EVTOPTAHFP21073;How gracious of [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESCHFPB21098;Perhaps it is time I asked [From.GetTitledFirstName] to spend some time with me. It is probably the fastest way for me to gain [From.GetHerHis] trust.;;;;;;;;;;;;;x
-tooltip_21098_A;Invite §Y[From.GetTitledFirstName]§! to come to your [Root.GetHouse] to spend some time with you, hoping it will §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;;x
-EVTOPT_HFP_11011_B;Wait! How about you just take this [equipped_artifact.GetName] and let me live?!;;;;;;;;;;;;;x
-EVTOPTA_RIP_29004;I will cherish [rip_dead.GetHerHim] until the day I die!;;;;;;;;;;;;;x
-EVTDESC_MNM_7057_NEW;The use of dark magic has corrupted me! The dark tendrils of [Root.GetDWDevil]'s magic have invaded my body, eroding mind and muscle alike. It is obvious that [Root.GetDWDevil] is keeping me alive, but at what cost?;;;;;;;;;;;;;x
-HF_211_DESC;Lying in the crib, I hear a slithering presence drawing closer and closer... What could this be, a friend? A foe? Before long, a hissing head peeks up over the edge. With glaring eyes and searching tongue, it moves towards me...;;;;;;;;;;;;;x
-HF_223_DESC;I have always been revered, though until now I have never thought much about it. Wherever I go, others my age admire me with obvious infatuation! I am constantly showered with compliments and gifts, like I was a [child_of_destiny.GetKingQueen]! I am the center of attention wherever I go, and I like it!;;;;;;;;;;;;;x
-HF_223_OPTA;Perhaps one of the [child_of_destiny.GetBoyGirlOpp]s will win my heart one day?;;;;;;;;;;;;;x
-HF_228_DESC;In order to teach me how to hunt, [marshal_target.GetJobTitle] [marshal_target.GetFirstName] has brought me into the forest. We are silently moving through the shrubbery as I spot a [child_of_destiny.GetRegionalSmallGameAnimal]! I give chase, running until I manage to get a clear shot off - it is a kill! I turn around to face [marshal_target.GetFirstName] with a gleeful smile on my face, but in [marshal_target.GetHerHis] stead is a massive [child_of_destiny.GetRegionalFerociousAnimal]! I ready my spear, and then I...;;;;;;;;;;;;;x
-EVTDESCHF23001;[target_sacrificed_prisoner.GetTitledFirstName] was sacrificed to [FromFrom.Religion.GetHighGodName]! Accounts describe how [target_sacrificed_prisoner.GetSheHe] was forcefully dragged screaming on top of a temple and torn apart by mad priests.;;;;;;;;;;;;;x
-EVTDESC_SSI_060_B;[From.GetTitledName] was sacrified to [FromFrom.Religion.GetHighGodName] by [FromFrom.GetFirstName]'s priests! After bringing [From.GetHerHim] to their [FromFrom.GetHouseOfWorship], they placed [From.GetFirstName] on an altar and sliced [From.GetHerHim] open with a ceremonial dagger. They then tore out [From.GetHerHis] heart to the cheers of the assembled crowd.;;;;;;;;;;;;;x
-EVTDESC_SSI_072;Your priests have sacrificed [From.GetTitledName] to [Root.Religion.GetHighGodName]! After bringing [From.GetHerHim] to our [Root.GetHouseOfWorship], the priests placed [From.GetFirstName] on an altar and sliced [From.GetHerHim] open with a ceremonial dagger. They then tore out [From.GetHerHis] heart to the cheers of the assembled crowd.;;;;;;;;;;;;;x
-EVTOPTA_SSI_072;[Root.Religion.GetHighGodNameCap] will be pleased.;;;;;;;;;;;;;x
-vassal_sacrifice_decision_desc;Have your priests sacrifice [Root.GetTitledFirstName] to [From.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTOPTAHF23207;They will serve [Root.Religion.GetHighGodName] in the afterlife!;;;;;;;;;;;;;x
-bloodthirsty_gods_1_desc;This [Root.GetManWoman] has performed a notable amount of sacrifices.;;;;;;;;;;;;;x
-bloodthirsty_gods_2_desc;This [Root.GetManWoman] is renowned as a bloodthirsty fanatic, always looking for the next victim to sacrifice to [Root.GetHerHis] cruel god.;;;;;;;;;;;;;x
-bloodthirsty_gods_3_desc;This [Root.GetManWoman] has filled rivers with the blood of [Root.GetHerHis] victims and built mountains out of their skulls in [Root.GetHerHis] psychotic desire to please the cruel god [Root.GetSheHe] worships.;;;;;;;;;;;;;x
-EVTDESCAHF23431;I leave the altar with my clothes still dripping of the blood of my last victim. After having officiated a few sacrificial rites, I have found that my hands are much steadier, and that my heart is much more impervious to the incoherent pleas of my offerings to [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTDESCAHF23432;There might have been a time when the sight of blood unsettled me, or when the wailing of a child could make my dagger quake and fill my mind with dread.\nBut not any longer.\n[Root.Religion.GetHighGodName] has granted me the fortitude to perform this sacred work.;;;;;;;;;;;;;x
-EVTDESCAHF23433;The crowd below me cheers as the head of my last sacrifice rolls down the steps of the temple. I throw the heart in the sacred brazier, watching it hiss and burn and singing praises to [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTOPTAHF23432;The Blood God must be appeased!;;;;;;;;;;;;;x
-EVTOPTAHF23433;[Root.Religion.GetHighGodName] demand more blood!;;;;;;;;;;;;;x
-bloodline_desc_bloodthirsty_gods_bloodline;[Root.GetTitledFirstName] dedicated [Root.GetHerHis] life to build an empire of blood and skulls in honour of [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTDESCAHF23434;[Root.Religion.GetName] priests are notorious throughout the world for their sanguinary practices. The many sacrifices performed in the name of [Root.Religion.GetHighGodName] are an imperative necessity, a grim responsibility that every pious man must take part in if we wish to avoid the terrible wrath of our immortal master.\nYet, few can deny that my accomplishments in sating the god's eternal thirst tower above those of all my colleagues.\nThrough my faith and dedication, I have cleansed the entirety of [Root.PrimaryTitle.GetName] in a sea of blood, forging a sacred legacy that will not soon be forgotten.;;;;;;;;;;;;;x
-EVTDESCAHF23435;[From.Religion.GetName] priests are notorious throughout the world for their sanguinary practices. The barbaric sacrifices performed in the name of [From.Religion.GetHighGodName] are a notorious staple of their dogma.\nAnd yet, in spite of their infamy, [From.GetTitledFirstName] has managed to surprise the world with [From.GetHerHis] unfathomable atrocities.\nIn [From.GetHerHis] twisted quest for the blessing of [From.GetHerHis] immortal master, this vile murderer has forged a realm of blood and skulls, slaughtering thousands of innocent and feeding their souls to [From.GetHerHis] monstrous god.;;;;;;;;;;;;;x
-EVTDESCBHF23435;[From.Religion.GetName] priests are notorious throughout the world for their sanguinary practices. They consider the many sacrifices that they regularly perform as an imperative necessity, a grim responsibility that every pious man must take part in to avoid the terrible wrath of [From.Religion.GetHighGodName].\nYet, few can deny that the accomplishments of [From.GetTitledFirstName] in sating the god's eternal thirst have towered upon those of all of [From.GetHerHis] colleagues.\nThrough [From.GetHerHis] faith and dedication, [From.GetSheHe] has cleansed the entirety of [From.PrimaryTitle.GetName] in a sea of blood, forging a sacred legacy that will not soon be forgotten.;;;;;;;;;;;;;x
-flower_war_cb_desc;To prove our eternal devotion to [Root.Religion.GetHighGodName] we can wage war not for land, but to conquer worthy offerings for our altars.;;;;;;;;;;;;;x
-flower_war_cb_tooltip;All captured enemy troops will be sacrificed to [Root.Religion.GetHighGodName] upon victory, leaving [This.GetTitledFirstName]'s lands undefended for several years.;;;;;;;;;;;;;x
-bloodthirsty_flower_war_province_desc;A great sacrifice has depleted this province of a large portion of its inhabitants.;;;;;;;;;;;;;x
-EVTDESCAHF23462;Victory cannot be achieved without the protection of [Root.Religion.GetHighGodName]. If we wish to prevail against our enemies, we must be willing to make the required sacrifices. Once the Blood God is appeased, a terrible power will be unleashed against our foes.;;;;;;;;;;;;;x
-bloodthirsty_mass_sacrifice_bonus_1_desc;By appeasing [Root.Religion.GetHighGodName] with the blood of hundreds of [Root.GetHerHis] own subjects, this ruler has given [Root.GetHerHis] troops absolute certainty of victory in battle.;;;;;;;;;;;;;x
-bloodthirsty_mass_sacrifice_bonus_2_desc;By appeasing [Root.Religion.GetHighGodName] with the blood of hundreds of [Root.GetHerHis] own subjects, this ruler has given [Root.GetHerHis] troops absolute certainty of victory in battle.;;;;;;;;;;;;;x
-bloodthirsty_mass_sacrifice_bonus_3_desc;By appeasing [Root.Religion.GetHighGodName] with the blood of hundreds of [Root.GetHerHis] own subjects, this ruler has given [Root.GetHerHis] troops absolute certainty of victory in battle.;;;;;;;;;;;;;x
-EVTDESCAHF23463;[From.GetTitledFirstName] has performed a great sacrifice, slaughtering hundreds of our own people to garner the favour of [From.Religion.GetHighGodName] during this war. With such a large offering, we are sure to prevail against our foes.;;;;;;;;;;;;;x
-EVTDESCAHF23464;[From.GetTitledFirstName] has performed a great sacrifice, slaughtering hundreds of our own people to garner the favour of [From.Religion.GetHighGodName] during this war. [From.GetHerHisCap] fanatic obsession with sacrifices will doom us all.;;;;;;;;;;;;;x
-EVTDESCAHF23465;[From.GetTitledFirstName] has performed a great sacrifice, slaughtering hundreds of [From.GetHerHis] own people to garner the favour of [From.Religion.GetHighGodName] during this war. [From.GetSheHeCap] hopes that the Blood God will now grant [From.GetHerHis] armies the strength necessary to defeat my warriors.;;;;;;;;;;;;;x
-EVTOPTAHF23465;What if [From.Religion.GetHighGodName] listened to [From.GetHerHim]?;;;;;;;;;;;;;x
-rival_skull_desc;As one stares into the empty sockets of this skull, it is not uncommon to experience both fascination and revulsion. It is a reminder of our impending death, and for some, a satisfying deed...;;;;;;;;;;;;;x
-obj_create_treasury_desc;[This.GetTitledFirstName] wants to gather artifacts to put in [This.GetHerHis] empty treasury.;;;;;;;;;;;;;x
-MODIFIER_ARMY_REINFORCE_RATE;Commanded Army Reinforcement Rate;;;;;;;;;;;;;x
-MODIFIER_CHURCH_OPINION;Church Opinion;;;;;;;;;;;;;x
-hermetics_write_magnum_opus;Write Down Whispers;;;;;;;;;;;;;x
-hermetics_write_magnum_opus_desc;Write down the whispers of the Old Gods that constantly ring in your ears.;;;;;;;;;;;;;x
-hermetics_write_magnum_opus_power_desc;Enables §Gright-clicking§! on your own portrait in order to write down the mysterious whispers of your masters in a book. Quality of the book depends on amount of your §Y[This.TrueReligion.GetPietyName]§!.;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate;Does NOT already own written down whispers on all topics.;;;;;;;;;;;;;x
-MNM.7500.d;As [target_sacrificed_prisoner.GetTitledFirstName] is bound to the altar [target_sacrificed_prisoner.GetSheHe] appears to be mumbling prayers through [target_sacrificed_prisoner.GetHerHis] gag. [target_sacrificed_prisoner.GetSheHeCap] is sweating profusely, either due to the heat from the nearby pyres or from fear. [target_sacrificed_prisoner.GetHerHisCap] holy vestments hang in tatters already, exposing [target_sacrificed_prisoner.GetHerHis] chest. As the appointed hour draws near the chanting of your brethren builds to a crescendo until, finally, it is time.;;;;;;;;;;;;;x
-MNM.7500.a;Plunge my knife into [target_sacrificed_prisoner.GetHerHis] chest!;;;;;;;;;;;;;x
-MNM.7502.d;Bound and gagged, [target_sacrificed_prisoner.GetTitledFirstName] is carried out of [target_sacrificed_prisoner.GetHerHis] cell and dropped into the cauldron. As your acolytes slam down the lid and lock it securely you drop your flaming torch into the firewood stacked around the pot, setting it ablaze. Soon the water within will come to the boil and another soul will be sent to [Root.GetMainOldGodName].;;;;;;;;;;;;;x
-MNM.7503.d;Your acolytes place little [target_sacrificed_prisoner.GetFirstName] on the altar and fasten [target_sacrificed_prisoner.GetHerHim] firmly in place. You step forward and [target_sacrificed_prisoner.GetHerHis] confusion suddenly becomes terror as [target_sacrificed_prisoner.GetSheHe] sees the knife in your hand. [target_sacrificed_prisoner.GetHerHisCap] pitiful scream has only just begun before you slit [target_sacrificed_prisoner.GetHerHis] throat.;;;;;;;;;;;;;x
-MNM.7503.a;[Root.GetMainOldGodName] prefers innocent souls.;;;;;;;;;;;;;x
-MNM.7504.d;Dressed in a white gown, [target_sacrificed_prisoner.GetFirstName] screams hysterically as [target_sacrificed_prisoner.GetSheHe] is bound to the stake emerging from the piled firewood. Frenzied [Root.GetDWMagicianPlural] scream praise to [Root.GetMainOldGodName] as you approach with your blazing torch held high. At the appointed hour you throw the torch into the oil-soaked wood, the fire roars to life, and suddenly [target_sacrificed_prisoner.GetFirstName]'s earlier screams seem quiet in comparison.;;;;;;;;;;;;;x
-MNM.7504.a;A virgin for [Root.GetMainOldGodName]!;;;;;;;;;;;;;x
-MNM.7505.d;[target_sacrificed_prisoner.GetTitledFirstName] looks dazed as [target_sacrificed_prisoner.GetSheHe] is dragged to the altar, but you can see dawning comprehension on [target_sacrificed_prisoner.GetHerHis] face as [target_sacrificed_prisoner.GetSheHe] is tied down. You ignore [target_sacrificed_prisoner.GetHerHis] begging as chants of praise to [Root.GetMainOldGodName] build to a crescendo. Finally it is time, you swing your blade in an overhead arc which ends in [target_sacrificed_prisoner.GetTitledFirstName]'s heart.;;;;;;;;;;;;;x
-MNM.7505.a;Hail [Root.GetMainOldGodName]!;;;;;;;;;;;;;x
-EVTDESCHF23002;The priests drag [target_sacrificed_prisoner.GetTitledFirstName] screaming to the [Root.GetHouseOfWorship], they place [target_sacrificed_prisoner.GetHerHim] on an altar, and slice [target_sacrificed_prisoner.GetHerHim] open with a ceremonial dagger. They then rip out [target_sacrificed_prisoner.GetHerHis] heart to the cheers of the assembled crowd.;;;;;;;;;;;;;x
-EVTDESCHF23002_B;The priests drag [target_sacrificed_prisoner.GetTitledFirstName] screaming to the [Root.GetHouseOfWorship] and they keep [target_sacrificed_prisoner.GetHerHim] steady on the altar while I slice [target_sacrificed_prisoner.GetHerHim] open with a ceremonial dagger. I then rip out [target_sacrificed_prisoner.GetHerHis] heart to the cheers of the assembled crowd.;;;;;;;;;;;;;x
-EVTDESCHF23002_C;The priests drag [target_sacrificed_prisoner.GetTitledFirstName] screaming to the [the_temple.GetName], they place [target_sacrificed_prisoner.GetHerHim] on the [the_sacrificial_altar.GetName] on top of the temple, and slice [target_sacrificed_prisoner.GetHerHim] open with a ceremonial dagger. They then rip out [target_sacrificed_prisoner.GetHerHis] heart to the cheers of the assembled crowd.;;;;;;;;;;;;;x
-EVTDESCHF23002_D;The priests drag [target_sacrificed_prisoner.GetTitledFirstName] screaming to the [the_temple.GetName] and they keep [target_sacrificed_prisoner.GetHerHim] steady on the [the_sacrificial_altar.GetName] that stands there while I slice [target_sacrificed_prisoner.GetHerHim] open with a ceremonial dagger. I then rip out [target_sacrificed_prisoner.GetHerHis] heart to the cheers of the assembled crowd.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_ruler_desc;The powerful and mighty [Root.GetMainOldGodName] take and give. While we are rewarded with powers far beyond what most kings and queens ever dream of, everything has its price. [Root.GetMainOldGodName] demands payment in blood and souls. Offer them the life of a powerful ruler.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_ruler_tooltip;To complete this mission, §Gright-click§! on the portrait of a prisoner in your dungeons who is a landed ruler and select §Y"Sacrifice to [Root.GetMainOldGodName]"§!.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_holy_person_desc;The powerful and mighty [Root.GetMainOldGodName] take and give. While we are rewarded with powers far beyond what most kings and queens ever dream of, everything has a price. The [Root.GetMainOldGodName] demand payment in blood and souls. Offer them someone who has pledged their life to false gods.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_holy_person_tooltip;To complete this mission, §Gright-click§! on the portrait of a prisoner in your dungeons who is a [Root.Religion.GetPriestTitle] or an ascetic and select §Y"Sacrifice to [Root.GetMainOldGodName]"§!.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_virgin_desc;The powerful and mighty [Root.GetMainOldGodName] take and give. While we are rewarded with powers far beyond what most kings and queens ever dream of, everything has a price. The [Root.GetMainOldGodName] demand payment in blood and souls. Offer them the life of someone who has never known love.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_virgin_tooltip;To complete this mission, §Gright-click§! on the portrait of a prisoner in your dungeons who is a virgin and select §Y"Sacrifice to [Root.GetMainOldGodName]"§!. Children, chaste and ascetic characters are likely virgins.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_dwarf_desc;The powerful and mighty [Root.GetMainOldGodName] take and give. While we are rewarded with powers far beyond what most kings and queens ever dream of, everything has a price. The [Root.GetMainOldGodName] demand payment in blood and souls. Offer them the life of a dwarf.;;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_dwarf_tooltip;To complete this mission, §Gright-click§! on the portrait of a prisoner in your dungeons who is a dwarf and select §Y"Sacrifice to [Root.GetMainOldGodName]"§!.;;;;;;;;;;;;;x
-decision_abduct_desc;Attempt to abduct and imprison §Y[This.GetBestName]§! with the help of your brethren§Y[From.GetInSocietyYellow]§!.;;;;;;;;;;;;;x
-EVTDESC_MNM_20070;I have put the word out among my brethren[Root.GetInSociety]. When an opportunity presents itself, the brothers and sisters in [From.Capital.GetName] will attempt to snatch [From.GetTitledFirstNameNoRegnal] and bring [From.GetObjectPronoun] to me in chains...;;;;;;;;;;;;;x
-EVTDESC_MNM_20103;My brethren are not having much luck in their attempts to abduct [FromFromFrom.GetTitledFirstName]. Perhaps [Root.GetSocietyWe] are not influential enough to pull it off... Should I call it off?;;;;;;;;;;;;;x
-EVTDESC_MNM_20081;My fellows[Root.GetInSociety] have informed me that [FromFromFrom.GetTitledFirstNameNoRegnal] plans to travel the realm incognito for a lark, mingling with the common folk. [FromFromFrom.GetSubjectPronounCap] will only be protected by two loyal friends during this little adventure – a great opportunity to have [FromFromFrom.GetObjectPronoun] abducted, if I so wished...;;;;;;;;;;;;;x
-EVTDESC_MNM_20081_CHILD;My fellows[Root.GetInSociety] have managed to insert themselves among the servants of [FromFromFrom.GetTitledFirstNameNoRegnal] and stand ready to snatch the child at my command.;;;;;;;;;;;;;x
-EVTDESC_MNM_20083;My competent brethren[Root.GetInSociety] managed to snatch [From.GetTitledFirstNameNoRegnal] from [From.GetPossPronoun] guards and bring [From.GetObjectPronoun] to me in a sack!;;;;;;;;;;;;;x
-EVTDESC_MNM_20084;My incompetent brethren[Root.GetInSociety] failed to capture [From.GetTitledFirstNameNoRegnal], though apparently they slew a guard and a servant in the attempt. Even worse, it appears that [From.GetFirstName] has started to suspect my involvement in the ambush.;;;;;;;;;;;;;x
-stop_abduct_decision_desc;Call off my [Root.GetSocietyMembers] from abducting my current target.;;;;;;;;;;;;;x
-bloodthirsty_mass_sacrifice_decision;Hold Blood Rituals;;;;;;;;;;;;;x
-RULE_OPTION_EXCLAVE_PURGE_LIMITED_DESC;Exclaves of Independent Rulers at peace will be removed on succession unless they are connected to the Capital area by at least one County, via a naval path or part of the character's De Jure territory.;;;;;;;;;;;;;x
-RULE_OPTION_EXCLAVE_PURGE_LIMITED_NAVAL_DESC;Exclaves of Independent Rulers at peace will be removed on succession unless they are connected to the Capital area by at least one County, via a limited naval path or part of the character's De Jure territory.;;;;;;;;;;;;;x
-RULE_MOVEMENT_LOCK_ON_DESC;When an army has moved over halfway into a County, the order will be locked and can no longer be canceled. While movement is locked you can still cancel further orders or queue up additional orders.;;;;;;;;;;;;;x
-RULE_SILLY_ON_DESC;Absurd events may appear during the game.;;;;;;;;;;;;;x
-RULE_SILLY_OFF_DESC;No absurd events may appear during the game.;;;;;;;;;;;;;x
-EVTDESCHFA20312;During the evening, [From.GetTitledFirstName] has remarked on multiple occasions of how it is important for a new ruler to create stable diplomatic relationships with [From.GetHerHis] peers and subjects in order to ensure peace and prosperity for everyone. [From.GetHerHisCap] show of dialectics has been a revelation for all the guests.;;;;;;;;;;;;;x
-RULE_GRANT_INDEPENDENCE_RESTRICTED_DESC;The Grant Independence action is restricted.;;;;;;;;;;;;;x
-RULE_GRANT_INDEPENDENCE_UNRESTRICTED_DESC;The Grant Independence action is unrestricted and can be used to grant independence to anyone.;;;;;;;;;;;;;x
-EVTDESC_RIP_11041_10;The red powder was tantalizing in color. A servant had made the mistake of tasting it in its pure form - his tongue had swollen up badly and [FromFrom.GetTitledFirstName] had chastized him firmly for it. [FromFrom.GetTitledFirstName] poured the spice into a chalice of water and stirred it meticulously, before feeding you a spoonful.;;;;;;;;;;;;;x
-EVTDESC_TOG_1060;[Root.Religion.GetName] rebels have risen up in [Root.GetName], led by a militant [Root.Religion.GetPriestTitle]. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;;;x
-MNM.70013.d;My [From.GetJobTitle] has discovered a [found_commander.GetManWoman] of great military talent, called [found_commander.GetFirstName], who is willing to serve in my ranks!;;;;;;;;;;;;;x
-NEWBORN_LOG;A §Y$SEX$§! was born to §Y$CHAR1$§! and §Y$CHAR2$§!, named §Y$CHILD$§!.;;;;;;;;;;;;;x
-EVTDESC_ZE_22902;[vassal_teacher.GetBestName] is a renowned godly and learned vassal of yours. After having introduced [vassal_teacher.GetHerselfHimself] to [introduced_heir.GetFirstName], [vassal_teacher.GetFirstName] approaches you with an offer. [vassal_teacher.GetFirstName] is willing to spend some time teaching [introduced_heir.GetFirstName] some of the more intricate parts of [Root.Religion.GetScriptureName] in exchange for your favor.;;;;;;;;;;;;;x
-EVTDESC20000;My liege, I am pleased to report the success of my mission to [From.Location.GetName]. The majority of the population have been converted to the [From.Religion.GetName] faith!\nYour humble [From.GetLordSpiritualName]\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC20011;My liege, I am pleased to report that your errant subject, [From.GetTitledName], has converted to the [From.Religion.GetName] faith. Praise [From.Religion.GetRandomGodName]!\n\nYour humble [Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_WoL_7012;Your dedication to religious pursuits has been noticed around the realm. Among others, it has quite impressed [From.GetTitledName]. You have maintained correspondence on various religious and philosophical matters for some time, and find that you are rapidly becoming good friends.;;;;;;;;;;;;;x
+EVTDESC_4405_GREEDY;Мой [Root.Religion.GetPriestTitle] постоянно говорит о том, как важно быть щедр[Root.GetOyYm], и я регулярно помогаю бедным, но всякий раз, когда я это делаю, то чувствую, как это меня мучает, и мне становится стыдно. Во время [Root.GetMOPenanceMeditation] я постоянно думаю об этом. Возможно, есть какой-то способ по-настоящему измениться?;;;;;;;;;;;;;x
+EVTDESC_4405_SLOTHFUL;Всякий, кто следует [Root.GetMOCodeDAT], понимаем важность [Root.GetPrayers] и изучения священных писаний – по крайней мере мой [Root.Religion.GetPriestTitle] так говорит. Однако, во время [Root.GetMOPenanceMeditation] я постоянно борюсь с собой, чтобы сохранять концентрацию. Как же меня это утомило... Может сделать перерыв? Хуже ведь не будет?;;;;;;;;;;;;;x
+EVTDESC_MNM_3225_E;В стремлении убедить двор в моей приверженности принципам [Root.Religion.GetHighGodName], я решил[Root.GetEndA] посетить [Root.GetHouseOfWorship] и принять участие в молитве. [Root.Religion.GetPriestTitle] смотрел на меня с нескрываемым любопытством. На какое-то время я сделал[Root.GetEndA] паузу, чтобы собраться с мыслями. Да простит меня [Root.TrueReligion.GetHighGodName], но мне нужно произвести на здешних хорошее впечатление.;;;;;;;;;;;;;x
+EVTDESC_MNM_3225_G;В стремлении убедить двор в моей преданности [Root.Religion.GetHighGodName], я решил[Root.GetEndA] посетить [Root.GetHouseOfWorship], чтобы сделать подношение богам. [Root.Religion.GetPriestTitle] смотрел на меня с нескрываемым любопытством. Да простит меня [Root.TrueReligion.GetHighGodName], но мне нужно произвести на здешних хорошее впечатление.;;;;;;;;;;;;;x
+EVTDESC_MNM_3225_H;В стремлении убедить двор в моей преданности [Root.Religion.GetHighGodName], я решил[Root.GetEndA] посетить [Root.GetHouseOfWorship], чтобы сделать подношение у священного алтаря. [Root.Religion.GetPriestTitle] смотрел на меня с нескрываемым любопытством. Да простит меня [Root.TrueReligion.GetHighGodName], но мне нужно произвести на здешних хорошее впечатление.;;;;;;;;;;;;;x
+EVTDESC_MNM_3225_J;В стремлении убедить двор в моей преданности [Root.Religion.GetHighGodName], я решил[Root.GetEndA] посетить [Root.GetHouseOfWorship], чтобы сделать подношение у алтаря богов. [Root.Religion.GetPriestTitle] смотрел на меня с нескрываемым любопытством. Да простит меня [Root.TrueReligion.GetHighGodName],  но мне нужно произвести на здешних хорошее впечатление.;;;;;;;;;;;;;x
+EVTDESC_MNM_3225_O;В стремлении убедить мой народ в преданности духу наших предков, я приш[Root.GetLaYol] совершить подношение на священный алтарь. [Root.Religion.GetPriestTitle] смотрел на меня с нескрываемым любопытством. Да простит меня [Root.TrueReligion.GetHighGodName], но мне нужно произвести на здешних хорошее впечатление.;;;;;;;;;;;;;x
+EVTDESC_MNM_3225_P;В стремлении убедить двор в моей благочестивости, я решил[Root.GetEndA] посетить [Root.GetHouseOfWorshipACC] и помолиться вместе со жрецами. [Root.Religion.GetPriestTitle] смотрел на меня с нескрываемым любопытством.. На какое-то время я сделал[Root.GetEndA] паузу, чтобы собраться с мыслями. Да простит меня [Root.TrueReligion.GetHighGodName], но мне нужно произвести на здешних хорошее впечатление.;;;;;;;;;;;;;x
+EVTDESC_MNM_9120;"Так.. [From.GetWeaponsmithWeapon] значит... Отличный выбор, [Root.PrimaryTitle.GetFOA]", — сказал[From.GetEndA] [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] и подал[From.GetEndA] знак помощнику, который уже через несколько минут принёс три новых [From.GetWeaponsmithWeaponGEN], и [From.GetSheHe] продолжил[From.GetEndA]: "[Root.PrimaryTitle.GetFOA], обратите внимание. Перед Вами три разных примера качества. Выбор зависит от потребностей Вашего Высочества и готовности заплатить нужную сумму";;;;;;;;;;;;;x
+EVTDESC_MNM_3949;На меня по прежнему сильно влияют постулаты веры [old_religion.Religion.GetName]. М[demander.GetOyaOy] [demander.GetLordLady] потребовал[demander.GetEndA] от меня принять [Root.GetReligionFullName], но cмогу ли я отказаться от [old_religion.GetRelAdj]ской веры?.;;;;;;;;;;;;;x
+EVTDESC_MNM_7113_VIOLENT;С группой своих верных [Root.GetReligionWarriorPluralGEN] я проник[Root.GetNoneE] в [desecration_holder.GetHouseOfWorshipACC] [dw_desecration_target.GetBaseName]. Но, как только мы оказались внутри, [desecration_holder.Religion.GetPriestTitle] бросился к нашим ногам, умоляя во имя [desecration_holder.GetReligionHighGodGEN] проявить милосердие, и пообещал, что о нашем присутствии никто не узнает.;;;;;;;;;;;;;x
+EVTDESC_MNM_3225_N;В стремлении убедить двор в моей праведности, я решил[Root.GetEndA] посетить [Root.GetHouseOfWorshipACC], чтобы сделать подношение [Root.GetReligionHighGodDAT], [Root.Religion.GetPriestTitle] смотрел на меня с нескрываемым любопытством. Прежде чем подойти к алтарю, я сделал[Root.GetEndA] паузу, чтобы собраться с мыслями.;;;;;;;;;;;;;x
+EVTDESC_TOG_1060;Мятежники, исповедующие [Root.GetReligionFullName], восстали в округе [Root.GetName]. Их воинствующий лидер - [Root.Religion.GetPriestTitle]. Если бунт не остановить, он может распространиться, как пожар!;;;;;;;;;;;;;x
+EVTDESCHFP21071;Трудно придумать, что я могу сделать, чтобы [From.GetTitledFirstName] относи[From.GetLasLsya] ко мне лучше. В конце концов, я и так прекрас[Root.GetNaEn]. Разве кому-то нужны особые аргументы, чтобы наслаждаться созерцанием моих грациозных манер?;;;;;;;;;;;;;x
+EVTOPTAHFP21071;Я напишу [From.GetHerHim] письмо о себе.;;;;;;;;;;;;;x
+tooltip_21071_A;§Y[From.GetTitledFirstName]§! получит письмо, описывающее то, как [From.GetHerHim] повезло иметь возможность подружиться с так[Root.GetOyIm] [GetAgedPersonINS], как Вы. Возможно, это поспособствует §Yналаживанию§! Ваших с н[From.GetEyuIm] отношений.;x
+EVTOPTBHFP21071;Подарю [From.GetHerHim] одну из своих статуй.;x
+tooltip_21071_B;§Y[From.GetTitledFirstName]§! получит Вашу статую, что даст [From.GetHerHim] возможность лицезреть Ваш прекрасный образ, когда [From.GetSheHe] того пожелает. Возможно, это поспособствует §Yналаживанию§! Ваших с н[From.GetEyuIm] отношений.;x
+EVTDESCBHFP21073;[From.GetTitledFirstName] сообщил[From.GetEndA] мне, что весьма польщен[From.GetEndA] тем вниманием, которое я уделил[From.GetEndA] [From.GetHerHim], и что [From.GetSheHe] надеется ещё долго пользоваться моим благорасположением.;x
+EVTOPTAHFP21073;Как любезно с [From.GetHersHis] стороны!;x
+EVTDESCHFPB21098;Интересно, согласится ли [From.GetTitledFirstName] встретиться со мной, чтобы немного поболтать с глазу на глаз? Возможно, это лучший способ снискать [From.GetHersHis] доверие.;x
+tooltip_21098_A;§Y[From.GetTitledFirstName]§! получит от Вас приглашение провести время вместе в Вашем [Root.GetHousePREP]. Вероятно это поможет §Yналадить§! Ваши отношения.;;;;;;;;;;;;;x
+EVTOPT_HFP_11011_B;Постой! Если я отдам тебе [equipped_artifact.GetName], ты сохранишь мою жизнь?!;;;;;;;;;;;;;x
+EVTOPTA_RIP_29004;Я буду беречь его до дня моей смерти!;;;;;;;;;;;;;x
+EVTDESC_MNM_7057_NEW;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. И теперь [Root.GetDWDevil] отравляет моё тело и лишает сил, поражая разными недугами. Очевидно [Root.GetDWDevil] поддерживает во мне жизнь, но какой ценой?;;;;;;;;;;;;;x
+HF_211_DESC;Лежа в кровати, я чувствую, как словно что-то подползает ко мне. Что же это может быть? Друг, враг? Вскоре я замечаю шипящую голову. Сверкая глазами, она тянется ко мне...;;;;;;;;;;;;;x
+HF_223_DESC;Меня всегда уважали. Чем бы я не занимался, мои сверстники восхищались мной! Меня постоянно осыпают комплиментами и подарками, словно я [child_of_destiny.GetKingQueen]! Я всегда нахожусь в центре внимания, и мне это нравится!;;;;;;;;;;;;;x
+HF_223_OPTA;Возможно, однажды [child_of_destiny.GetBoyGirlOpp] покорит мое сердце?;;;;;;;;;;;;;x
+HF_228_DESC;Чтобы научить меня охоте, [marshal_target.GetJobTitle] [marshal_target.GetFirstName] привел меня в лес. Когда мы продвигаемся по кустам, я замечаю [child_of_destiny.GetRegionalSmallGameAnimal]! Я преследую его, пока не делаю смертельный выстрел! Я оборачиваюсь, и сталкиваюсь с улыбающимся [marshal_target.GetFirstName], но в [marshal_target.GetHerHis] седле уже находится [child_of_destiny.GetRegionalFerociousAnimal]! Я готовлю свое копье, а затем...;;;;;;;;;;;;;x
+EVTDESCHF23001;[target_sacrificed_prisoner.GetTitledFirstName] принесен в жертву [FromFrom.Religion.GetHighGodName]! До нас дошли слухи о том, как [target_sacrificed_prisoner.GetSheHe] насильно притащили на вершину храма, после чего разорвали на части безумные жрецы.;;;;;;;;;;;;;x
+EVTDESC_SSI_060_B;Жрецы [FromFrom.GetFirstName] принесли в жертву [FromFrom.Religion.GetHighGodName] персонажа по имени [From.GetTitledName]! Когда [From.GetHerHim] доставили в [FromFrom.GetHouseOfWorship], они поместили [From.GetFirstName] на альтар и рассекли [From.GetHerHim] грудь церемониальным ножом. После чего они вынули [From.GetHerHis] бьющееся сердце по рев восторженной толпы.;;;;;;;;;;;;;x
+EVTDESC_SSI_072;Ваши жрецы принесли в жертву [Root.Religion.GetHighGodName] персонажа по имени [From.GetTitledName]! Когда [From.GetHerHim] доставили в [Root.GetHouseOfWorship], жрецы поместили [From.GetFirstName] на алтарь и рассекли [From.GetHerHim] грудь церемониальным ножом. Потом они вынули [From.GetHerHis] бьющееся сердце под рев восторженной толпы.;;;;;;;;;;;;;x
+EVTOPTA_SSI_072;[Root.Religion.GetHighGodNameCap] будет доволен.;;;;;;;;;;;;;x
+vassal_sacrifice_decision_desc;Ваши жрецы принесут персонажа по имени [Root.GetTitledFirstName] в жертву [From.Religion.GetHighGodName]у.;;;;;;;;;;;;;x
+EVTOPTAHF23207;Они будут служить [Root.Religion.GetHighGodName]у в загробном мире!;;;;;;;;;;;;;x
+bloodthirsty_gods_1_desc;Этот персонаж совершил множество жертвоприношений.;;;;;;;;;;;;;x
+bloodthirsty_gods_2_desc;Этот персонаж известен как кровавый фанатик, ищущий новые жертвы для жестокого бога.;;;;;;;;;;;;;x
+bloodthirsty_gods_3_desc;Этот персонаж наполнил реки кровью своих жертв и возвел горы из их черепов в своём психотическом желании ублажить жестокого бога.;;;;;;;;;;;;;x
+EVTDESCAHF23431;Я покидаю алтарь, а с моей одежды капает кровь последней жертвы. После нескольких обрядов, ко мне пришло понимание того, что мои руки стали более устойчивыми, а мое сердце лишилось милосердия, став невосприимчивым к мольбам жертв богу [Root.Religion.GetHighGodName]у.;;;;;;;;;;;;;x
+EVTDESCAHF23432;Возможно, когда вид крови могу испугать меня, или плач ребенка мог остановить мою занесенную руку.\nНо все меняется.\n[Root.Religion.GetHighGodName] даровал мне мужество исполнять этот священный ритуал.;;;;;;;;;;;;;x
+EVTDESCAHF23433;Толпа, находящаяся внизу, приветствует меня, когда брошенная мной голова жертвы катится по ступеням храма.Я бросаю сердце в жаровню, смотрю на его шипение, воспевая молитвы и хвалу [Root.Religion.GetHighGodName]у.;;;;;;;;;;;;;x
+EVTOPTAHF23432;Необходимо умиротворить Бога Крови!;;;;;;;;;;;;;x
+EVTOPTAHF23433;[Root.Religion.GetHighGodName] требует больше крови!;;;;;;;;;;;;;x
+bloodline_desc_bloodthirsty_gods_bloodline;[Root.GetTitledFirstName] посвятил [Root.GetHerHis] жизнь служению [Root.Religion.GetHighGodName], создав в его честь царство крови и черепов.;;;;;;;;;;;;;x
+EVTDESCAHF23434;Жрецы [Root.Religion.GetName]а известны своими кровожадными ритуалами. Многие жертвоприношения во имя [Root.Religion.GetHighGodName]а - необходимая мера, которая позволяет избежать гнева нашего бессмертного повелителя.\nМало кто может отрицать, что благодаря благосклонности Бога Крови я смог достичь немалых высот.\nМоя вера и самоотверженность утопила земли в [Root.PrimaryTitle.GetName] в море крови, построив наследие, которое не будет забыто.;;;;;;;;;;;;;x
+EVTDESCAHF23435;Жрецы [From.Religion.GetName]а известны своими кровожадными ритуалами. Варварские жертвоприношения во имя [From.Religion.GetHighGodName]а являются, по их мнению, необходимой мерой, которая позволяет избежать его гнева.\nИ все же, несмотря на бесчестие, [From.GetTitledFirstName] удалось удивить мир [From.GetHerHis] непостижимыми злодеяниями.\nИсполняя зловещую волю [From.GetHerHis] бога во имя благосклонности своего бессмертного господина, этот убийца выстроил царство крови и черепов, убив тысячи невинных и скормив их души своему богу.;;;;;;;;;;;;;x
+EVTDESCBHF23435;Жрецы [From.Religion.GetName]а известны своей кровожадностью. Они считают жертвоприношения мрачной обязанностью, которая позволяет избежать гнева [From.Religion.GetHighGodName]а.\nМало кто отрицает, что [From.GetTitledFirstName] достиг немалых высот, утолив вечную жажду божества.\nБлагодаря [From.GetHerHis] вере и самоотверженности, [From.GetSheHe] утопил земли в [From.PrimaryTitle.GetName] море крови, построив себе священное наследие, которое не будет забыто.;;;;;;;;;;;;;x
+flower_war_cb_desc;Чтобы доказать нашу вечную преданность [Root.Religion.GetHighGodName]у, мы можем вести войну не за земли, а за новых кандидатов на жертвоприношения.;;;;;;;;;;;;;x
+flower_war_cb_tooltip;Все захваченные вражеские воины будут принесены в жертву [Root.Religion.GetHighGodName]у, что на несколько лет сделает владения правителя по имени [This.GetTitledFirstName] беззащитными.;;;;;;;;;;;;;x
+bloodthirsty_flower_war_province_desc;Многие воины из этого округа были принесены в жертву богам в недавней войне.;;;;;;;;;;;;;x
+EVTDESCAHF23462;Без благоволения [Root.Religion.GetHighGodName]а не может быть достигнута победа. Если мы хотим победить наших врагов, мы должны быть готовы пойти на всевозможные жертвы. Как только Бог Крови будет умиротворен, он дарует нам ужасающую силу, способную сокрушить наших врагов.;;;;;;;;;;;;;x
+bloodthirsty_mass_sacrifice_bonus_1_desc;Умиротворив [Root.Religion.GetHighGodName]а кровью сотен собственных подданных, эт[GetEtaEtot] [GetAgedPerson] даровал[GetEndA] своим войскам абсолютную уверенность в победе в грядущей битве.;;;;;;;;;;;;;x
+bloodthirsty_mass_sacrifice_bonus_2_desc;Умиротворив [Root.Religion.GetHighGodName]а кровью сотен собственных подданных, эт[GetEtaEtot] [GetAgedPerson] даровал[GetEndA] своим войскам абсолютную уверенность в победе в грядущей битве.;;;;;;;;;;;;;x
+bloodthirsty_mass_sacrifice_bonus_3_desc;Умиротворив [Root.Religion.GetHighGodName]а кровью сотен собственных подданных, эт[GetEtaEtot] [GetAgedPerson] даровал[GetEndA] своим войскам абсолютную уверенность в победе в грядущей битве.;;;;;;;;;;;;;x
+EVTDESCAHF23463;По воле [From.GetTitledFirstName] было проведено массовое жертвоприношение, во время которого сотни наших подданых были убиты, чтобы обрести благосклонность [From.Religion.GetHighGodName] на время войны. С такими дарами, мы несомненно сокрушим наших врагов.;;;;;;;;;;;;;x
+EVTDESCAHF23464;По воле [From.GetTitledFirstName] было проведено массовое жертвоприношение, во время которого сотни наших подданых были убиты, чтобы обрести благосклонность [From.Religion.GetHighGodName] на время войны. [From.GetHerHisCap] фанатизм с кровавыми жертвоприношениями обрекли всех нас.;;;;;;;;;;;;;x
+EVTDESCAHF23465;По приказу [From.GetTitledFirstName] было проведено массовое жертвоприношение, во время которого сотни [From.GetHerHis] подданных были зарезаны, чтобы получить благосклонность [From.Religion.GetHighGodName] на время войны. [From.GetSheHeCap] надеется, что Бог Крови дарует [From.GetHerHis] войскам силу сокрушить моих воинов.;;;;;;;;;;;;;x
+EVTOPTAHF23465;Что, если [From.Religion.GetHighGodName] прислушивается к [From.GetHerHim]?;;;;;;;;;;;;;x
+rival_skull_desc;Когда кто-то смотрит в пустые глазницы этого черепа, он нередко испытывет одновременно очарование и отвращение. Это напоминание о неизбежности смерти...;;;;;;;;;;;;;x
+obj_create_treasury_desc;[This.GetTitledFirstName] хочет получить артефакт в [This.GetHerHis] пустую сокровищницу.;;;;;;;;;;;;;x
+MODIFIER_ARMY_REINFORCE_RATE;Скорость пополнения войск;;;;;;;;;;;;;x
+MODIFIER_CHURCH_OPINION;Мнение церкви;;;;;;;;;;;;;x
+hermetics_write_magnum_opus;Записать шепот в голове;;;;;;;;;;;;;x
+hermetics_write_magnum_opus_desc;Записать шепот Древних Богов, который всегда звучит в ваших ушах.;;;;;;;;;;;;;x
+hermetics_write_magnum_opus_power_desc;Позволяет, кликнув §Gправой кнопкой мыши§! на Вашем портрете, приступить к записи шепота Древних Богов в вашей голове. Качество книги зависит от количества вашего §Y[This.TrueReligion.GetPietyName]§!.;;;;;;;;;;;;;x
+hermetics_wrote_magnum_opus_duplicate;Убедитесь, что НЕ владеете записью Шепотов ни по одной из тем.;;;;;;;;;;;;;x
+MNM.7500.d;Привязанн[From.GetAyaYy] к алтарю [target_sacrificed_prisoner.GetTitledFirstName] начал[From.GetEndA] молиться, но через кляп доносилось только невнятное мычание. Капли пота блестели на [From.GetHersHis] лице, отражая свет горящего факела, а лохмотья того, что некогда было священным одеянием, едва прикрывали грудь. Нарастающий гул наших песнопений достиг апогея, время пришло.;;;;;;;;;;;;;x
+MNM.7500.a;Вонзить нож в [target_sacrificed_prisoner.GetHerHis] грудь!;;;;;;;;;;;;;x
+MNM.7502.d;Вероятнее всего [From.GetTitledFirstName] кричал[From.GetEndA] бы и пыта[From.GetLasLsya] отбиваться, будучи брошенн[From.GetOyYm] в котёл, если бы не был[From.GetEndA] надёжно связан[From.GetEndA]. Ваши соратники положили сверху крышку, и Вы бросили горящий факел к аккуратно разложенным внизу дровам. Вскоре вода закипела, даровав [Root.GetMainOldGodName] еще одну душу.;;;;;;;;;;;;;x
+MNM.7503.d;Юн[From.GetAyaYy] [From.GetFirstName] поначалу был[From.GetEndA] совершенно споко[From.GetYNaEn], но когда [From.GetHersHis] привязали к алтарю и передали Вам нож, [From.GetHersHis] недоумение сменилось ужасом. Прежде чем [From.GetSheHe] успел[From.GetEndA] успел[From.GetEndA] закричать, Вы перерезали [From.GetHerHim] горло.;;;;;;;;;;;;;x
+MNM.7503.a;[Root.GetMainOldGodName] предпочитает невинные души.;;;;;;;;;;;;;x
+MNM.7504.d;Одет[From.GetAyaYy] в белое, [From.GetFirstName] истерично кричал[From.GetEndA], будучи привязанн[From.GetOyYm] к шесту над разложенными вокруг поленьями. Одержимые [Root.GetDWMagicianPlural] хором выкрикивали восхваления [Root.GetDWDevilDAT], пока Вы приближались, держа в руках горящий факел. В нужный момент, Вы бросили его в промасленные дрова и пламя вспыхнуло столь стремительно, что крики на его фоне как будто стихли.;;;;;;;;;;;;;x
+MNM.7504.a;[Root.GetMainOldGodName] прими эт[From.GetUOgo] девственни[From.GetTsuKa]!;;;;;;;;;;;;;x
+MNM.7505.d;[From.GetTitledFirstName] выглядел[From.GetEndA] ошеломлённ[From.GetOyYm], когда [From.GetHersHis] привязывали к алтарю, но вскоре осознал[From.GetEndA], что [From.GetHerHim] уготовано. Проигнорировав [From.GetHersHis] мольбы, Вы сосредоточились на церемонии, пока песнопения [Root.GetDWDevilDAT] становились всё громче и настойчивее. В нужный момент Вы занесли клинок над головой и вонзили его в сердце жертвы.;;;;;;;;;;;;;x
+MNM.7505.a;Слава [Root.GetMainOldGodName]!;;;;;;;;;;;;;x
+EVTDESCHF23002;[From.GetTitledFirstName] кричал[From.GetEndA] и отбива[From.GetLasLsya], но жрецы схватили [From.GetHersHis] и потащили на вершину [the_temple.GetWonderTypeShortGEN], где поместили [From.GetHersHis] на священный алтарь и вскрыли [From.GetHerHim] грудь церемониальным кинжалом. Затем они вырвали [From.GetHersHis] бьющееся сердце на глазах у ликующей толпы.;;;;;;;;;;;;;x
+EVTDESCHF23002_B;[From.GetTitledFirstName] кричал[From.GetEndA] и отбива[From.GetLasLsya], но жрецы схватили [From.GetHersHis] и потащили на вершину [the_temple.GetWonderTypeShortGEN]. Там они крепко держали [From.GetHersHis] на священном алтаре, пока я вскрывал[Root.GetEndA] [From.GetHersHis] грудь церемониальным кинжалом. Я вырвал[Root.GetEndA] [From.GetHersHis] бьющееся сердце на глазах у ликующей толпы.;;;;;;;;;;;;;x
+EVTDESCHF23002_C;[From.GetTitledFirstName] кричал[From.GetEndA] и отбива[From.GetLasLsya], но жрецы схватили [From.GetHersHis] и потащили на вершину [the_temple.GetWonderTypeShortGEN], где поместили [From.GetHersHis] на священный алтарь и вскрыли [From.GetHerHim] грудь церемониальным кинжалом. Затем они вырвали [From.GetHersHis] бьющееся сердце на глазах у ликующей толпы.;;;;;;;;;;;;;x
+EVTDESCHF23002_D;[From.GetTitledFirstName] кричал[From.GetEndA] и отбива[From.GetLasLsya], но жрецы схватили [From.GetHersHis] и потащили на вершину [the_temple.GetWonderTypeShortGEN]. Там они крепко держали [From.GetHersHis] на священном алтаре, пока я вскрывал[Root.GetEndA] [From.GetHersHis] грудь церемониальным кинжалом. Я вырвал[Root.GetEndA] [From.GetHersHis] бьющееся сердце на глазах у ликующей толпы.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_ruler_desc;[Root.GetMainOldGodName] не только даёт, но и берёт. Мы наделены силами, превосходящими всё то, о чём короли и королевы могут только мечтать, но всё имеет свою цену, и [Root.GetMainOldGodName] требует плату кровью и душами, особенно могущественных правителей.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_ruler_tooltip;Чтобы выполнить это задание, кликните §Gправой кнопкой мыши§! на портрете заключённого правителя в своей темнице и выберите §YЖертва [Root.GetMainOldGodName]у"§!.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_holy_person_desc;[Root.GetMainOldGodName] не только даёт, но и берёт. Мы наделены силами, превосходящими всё то, о чём короли и королевы могут только мечтать, но всё имеет свою цену, и [Root.GetMainOldGodName] требует плату кровью и душами, особенно тех, кто посвятил свою жизнь фальшивым богам.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_holy_person_tooltip;Чтобы выполнить это задание, кликните §Gправой кнопкой мыши§! на портрете заключённого священника или аскета в своей темнице и выберите §YЖертва [Root.GetMainOldGodName]у"§!.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_virgin_desc;[Root.GetMainOldGodName] не только даёт, но и берёт. Мы наделены силами, превосходящими всё то, о чём короли и королевы могут только мечтать, но всё имеет свою цену, и [Root.GetMainOldGodName] требует плату кровью и душами, особенно тех, кто никогда не знал плотской любви.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_virgin_tooltip;Чтобы выполнить это задание, кликните §Gправой кнопкой мыши§! на портрете девственного заключённого в своей темнице и выберите §YЖертва [Root.GetMainOldGodName]у"§!. Дети, благочестивые и аскетичные персонажи зачастую девственны.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_dwarf_desc;[Root.GetMainOldGodName] не только даёт, но и берёт. Мы наделены силами, превосходящими всё то, о чём короли и королевы могут только мечтать, но всё имеет свою цену, и [Root.GetMainOldGodName] требует плату кровью и душами, особенно таких необычных людей, как карлики.;;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_dwarf_tooltip;Чтобы выполнить это задание, кликните §Gправой кнопкой мыши§! на портрете заключённого карлика в своей темнице и выберите §YЖертва [Root.GetMainOldGodName]у"§!.;;;;;;;;;;;;;x
+decision_abduct_desc;§Y[This.GetBestName]§! - Ваша цель. Вы можете предпринять попытку похитить и пленить [This.GetHersHis] при поддержке Ваших соратников §Y[From.GetSocietyNameGEN]§!.;;;;;;;;;;;;;x
+EVTDESC_MNM_20070;Я распространил[Root.GetEndA] весть среди своих [Root.GetDWBrethrenType]ых братьев и сестёр: [From.GetTitledFirstNameNoRegnal] нуж[From.GetNaEn] мне жив[From.GetOyYm]! Когда представится возможность, [Root.GetSocietyName] попытаются схватить [From.GetHersHis] и привести ко мне в цепях...;;;;;;;;;;;;;x
+EVTDESC_MNM_20103;Ваши [Root.GetDWBrethrenType]ые братья и сёстры до сих пор не преуспели в попытках похищения. [target_abduction.GetTitledFirstName] хорошо охраняется, и они не могут к н[target_abduction.GetHerHim] подобраться. Видимо [Root.GetSocietyNameDAT] не хватает влияния в этом регионе. Может, имеет смысл отозвать эту миссию?;;;;;;;;;;;;;x
+EVTDESC_MNM_20081;[Root.GetSocietyNameCap] сообщают, что [target_abduction.GetTitledFirstNameNoRegnal] собирается совершить для забавы прогулку по сельской местности, смешавшись с простонародьем. Во время этого небольшого приключения [target_abduction.GetHersHis] будут защищать только двое верных друзей - прекрасная возможность похитить [target_abduction.GetHersHis], если я того пожелаю...;;;;;;;;;;;;;x
+EVTDESC_MNM_20081_CHILD;Мне сообщили, что [target_abduction.GetTitledFirstNameNoRegnal] теперь в сфере нашей досягаемости, [Root.GetSocietyNameDAT] удалось внедриться в ряды [target_abduction.GetHersHis] слуг. Они ждут моей команды, чтобы схватить ребёнка.;;;;;;;;;;;;;x
+EVTDESC_MNM_20083;Сегодня [Root.GetSocietyName] принесли мне мешок. Он шевелился, издавая странные звуки. Внутри оказа[target_abduction.GetLasLsya] [target_abduction.GetTitledFirstNameNoRegnal]! Им наконец-то удалось похитить [target_abduction.GetHersHis]!;;;;;;;;;;;;;x
+EVTDESC_MNM_20084;Мои некомпетентные соратники провалили миссию, [target_abduction.GetTitledFirstNameNoRegnal] по-прежнему на свободе. Они убили стражника и несколько слуг, но так и не смогли похитить [target_abduction.GetHersHis]. Но, что ещё хуже, [target_abduction.GetSheHe] начал[target_abduction.GetEndA] подозревать мою причастность к этому инциденту!;;;;;;;;;;;;;x
+stop_abduct_decision_desc;Сообщить соратникам по сообществу [Root.GetSocietyMembers], что похищение отменяется.;;;;;;;;;;;;;x
+bloodthirsty_mass_sacrifice_decision;Совершить ритуалы Крови;;;;;;;;;;;;;x
+RULE_OPTION_EXCLAVE_PURGE_LIMITED_DESC;Эксклавы исключаются из наследования, если не связаны со столицей по суше, морю и не являются при этом де-юре территориями.;;;;;;;;;;;;;x
+RULE_OPTION_EXCLAVE_PURGE_LIMITED_NAVAL_DESC;Эксклавы исключаются из наследования, если не связаны со столицей по суше, не имеют общее море с прочими землями и не являются при этом де-юре территориями.;;;;;;;;;;;;;x
+RULE_MOVEMENT_LOCK_ON_DESC;Когда армия прошла половину пути до следующего округа, её движение уже не может быть отменено. Это касается только движения между двумя округами, а не прочих приказов.;;;;;;;;;;;;;x
+RULE_SILLY_ON_DESC;Абсурдные события могут происходить.;x
+RULE_SILLY_OFF_DESC;Никаких абсурдных событий не происходит.;x
+EVTDESCHFA20312;На протяжении всего вечера [From.GetTitledFirstName] неоднократно отмечал[From.GetEndA], насколько важно, чтобы новый правитель наладил стабильные дипломатические отношения со своими вассалами, что обеспечит мир и процветание для его страны. [From.GetHersHisCap] риторика стала откровением для гостей.;;;;;;;;;;;;;x
+RULE_GRANT_INDEPENDENCE_RESTRICTED_DESC;Даровать независимость можно только при определённых условиях.;x
+RULE_GRANT_INDEPENDENCE_UNRESTRICTED_DESC;Даровать независимость можно кому угодно при любых условиях.;x
+EVTDESC_RIP_11041_10;Красный порошок так привлекал внимание, что слуга по ошибке попробовал его на вкус, от чего его язык распух. [FromFrom.GetTitledFirstName] сделав ему выговор, высыпал немного порошка в миску с водой и тщательно перемешав, протянул Вам полную ложку жидкости, чтобы Вы её выпили.;;;;;;;;;;;;;x
+EVTDESC_TOG_1060;Мятежники, исповедующие [Root.GetReligionFullName], восстали в округе [Root.GetName]. Их воинствующий лидер - [Root.Religion.GetPriestTitle]. Если бунт не остановить, он может распространиться, как пожар;;;;;;;;;;;;;x
+MNM.70013.d;Мой [From.GetJobTitle] наш[From.GetLaYol] [found_commander.GetAgedPersonACC] с хорошими военными навыками, [found_commander.GetHersHis] зовут [found_commander.GetFirstName], и [found_commander.GetSheHe] хочет быть моим полководцем!;;;;;;;;;;;;;x
+NEWBORN_LOG;§Y$CHAR1$§! и §Y$CHAR2$§! сообщили, что у них роди[From.GetLasLsya] $SEX$. [From.GetHersHisCap] назвали §Y$CHILD$§!.;;;;;;;;;;;;;x
+EVTDESC_ZE_22902;После того, как [vassal_teacher.GetBestName] и м[introduced_heir.GetOyaOy] наследни[introduced_heir.GetTsaK] [introduced_heir.GetFirstName] познакомились, мне поступило интересное предложение. [vassal_teacher.GetFirstName] - вассал, известный своим благочестием, и [vassal_teacher.GetSheHe] хочет обучать [introduced_heir.GetHersHis] тонкостям толкования священных текстов в расчёте на то, что Вы не забудете об этой услуге в будущем.;;;;;;;;;;;;;x
+EVTDESC20000;[Root.PrimaryTitle.GetFOA], с радостью сообщаю, что моя миссия в округе [From.Location.GetName] увенчалась успехом. Большинство жителей теперь исповедуют [From.GetReligionFullName]!\n[Root.GetMyLordSpiritualName] [From.GetFirstName];;;;;;;;;;;;;x
+EVTDESC20011;[Root.PrimaryTitle.GetFOA], с радостью сообщаю, что Ваш[From.GetEndA] заблудш[From.GetAyaIy] подданн[From.GetAyaYy], [From.GetTitledName], теперь исповедует [From.GetReligionFullName].\n[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName];;;;;;;;;;;;;x
+EVTDESC_WoL_7012;Вести о Ваших религиозных изысканиях распространились по всей стране. Среди всех прочих, [From.GetTitledFirstName] говорит, что они [From.GetHersHis] очень впечатлили. Вы стали переписываться, некоторое время ведя философские и религиозные дискуссии, и теперь стали хорошими друзьями.;;;;;;;;;;;;;x
 EVTDESC_HFP_11021;"[Root.GetFirstName]! You [Root.GetEnemySoldierDesc] brute!" a shout carries [battlefield_location.GetThroughOver] the [battlefield_location.GetTerrain], where I am fighting a close battle alongside my personal guards. In the distance, I see enemy reinforcements coming our way. "Listen-", I begin to my soldiers...;;;;;;;;;;;;;x
 EVTDESC_HFP_11050_A;I could have sworn I heard the enemy commander [enemy_commander.GetTitledFirstName] barking orders, but as I search the [battlefield_location.GetTerrain] [enemy_commander.GetSheHe] is nowhere to be found. A fellow soldier finally informs me that [enemy_commander.GetSheHe] has been spotted cowering in the far back behind a [battlefield_location.GetTreeRockFence], and most disgracefully, behind [enemy_commander.GetHerHis] troops.;;;;;;;;;;;;;x
-EVTDESC_HFP_10105_default_C;The sun is beginning to set when I meet with [other_combatant.GetTitledFirstName], my [GetDuelWeapon] ready. After [other_combatant.GetSheHe] [other_combatant.GetClumsilyElegantly] dodges one attack, my next one lands perfectly. Frantically, the [other_combatant.GetManWoman] attempts to cover [other_combatant.GetHerHis] injured [other_combatant.GetBodyPartInjured], but I have rarely seen so much blood...!;;;;;;;;;;;;;x
-EVTDESC7880;[Root.PlotTarget.GetTitledName] will soon travel in a convoy on an isolated road. Perhaps if we gathered some mercenaries and disguised them as [Root.PlotTarget.GetHighwaymenType]... crime is on the rise, after all.;;;;;;;;;;;;;x
-EVTDESC7882;My co-conspirator, [From.GetTitledName], has asked for gold to hire some mercenaries. They will ambush [Root.PlotTarget.GetTitledName] disguised as [Root.PlotTarget.GetHighwaymenType].;;;;;;;;;;;;;x
-EVTDESC7885;You are travelling in a convoy in the countryside of [Root.Location.GetName] when it comes to a sudden halt. The road has been blocked by a fallen tree, and the convoy leader explains that you will have to make a slight detour on an isolated smaller path.;;;;;;;;;;;;;x
-EVTDESC7886;After less than half a league on the small path, you are ambushed and surrounded by [Root.GetHighwaymenType]! They send your guards on their way, explaining that their interest lies with you alone. You offer the belongings you carry with you, but they merely laugh at this - it is your blood they want.;;;;;;;;;;;;;x
-EVTOPTA7887;Wh-who sent you!?;;;;;;;;;;;;;x
-EVTDESC7888;You force your way through the improvised barricade, narrowly avoiding an ambush by [Root.GetHighwaymenType]! They send an accurate volley of arrows after your convoy as it speeds away, missing it by mere inches.;;;;;;;;;;;;;x
-EVTOPTA7889;They didn't look like [Root.GetHighwaymenType]... more like mercenaries...;;;;;;;;;;;;;x
-EVTDESC7890;My co-conspirator, [From.GetTitledFirstName], has assembled a party of mercenaries who will ambush [Root.PlotTarget.GetTitledFirstName] disguised as [Root.PlotTarget.GetHighwaymenType]. I am assured [Root.PlotTarget.GetSheHe] will not survive the encounter.;;;;;;;;;;;;;x
-EVTDESC7891;[From.GetTitledFirstName] has communicated [From.GetHerHis] support for my plan to ambush [From.PlotTarget.GetTitledFirstName] with mercenaries disguised as [From.PlotTarget.GetHighwaymenType]. May [Root.Religion.GetRandomGodName] help me!;;;;;;;;;;;;;x
-EVTDESC7892;[From.GetTitledName] has let me know that the plot to kill [From.PlotTarget.GetTitledName] is proceeding well. A party of mercenaries in [From.GetHerHis] employ will ambush [From.PlotTarget.GetFirstName] disguised as [From.PlotTarget.GetHighwaymenType] within a month.;;;;;;;;;;;;;x
-EVTDESC7893;Success! The mercenaries ambushed the convoy of [From.GetTitledFirstName] and made short work of [From.GetHerHim]. Unfortunately, the guards survived and saw through their disguises. My involvement is now public knowledge...;;;;;;;;;;;;;x
-EVTDESC7894;Success! The mercenaries ambushed the convoy of [From.GetTitledFirstName] and made short work of [From.GetHerHim]. They let the guards go, and they are convinced the attack was carried out by [From.GetHighwaymenType].;;;;;;;;;;;;;x
-EVTDESC_CM_6303;Late one evening, as you are sitting in your hiding place, contemplating your situation, there is a sound just outside. You look up, and to your astonishment see one of the guards falling through the door, stabbed in the neck. A man clad in black enters and walks silently but swiftly towards you. [Root.GetAsYouRise], he makes a swift movement and you feel a sharp pain in your chest. You look down and see a dagger lodged between your ribs. Your legs start to buckle underneath you, and your vision starts to blur...;;;;;;;;;;;;;x
-EVTDESC_CM_6307;Late one evening, as you are sitting in your hiding place, contemplating your situation, you suddenly hear a sound just outside your room. You look up, and to your astonishment, you see one of the guards falling through the door, stabbed in the neck. A man clad in black enters and walks silently but swiftly towards you. [Root.GetAsYouRise], he suddenly stops with a surprised face. He slowly falls into your arms, blood pouring from his mouth. Behind him you see one of your guards, wounded but with the sword in hand. You thank [Root.Religion.GetRandomGodName] for your narrow rescue.;;;;;;;;;;;;;x
-EVTOPTA8164;It's time to celebrate!;;;;;;;;;;;;;x
-EVTOPTA7894;Oh, those nasty [From.GetHighwaymenType]!;;;;;;;;;;;;;x
-EVTDESC7881;The target of the plot I am backing will soon travel by carriage on an isolated road. Perhaps if we gathered some mercenaries and disguised them as [Root.PlotTarget.GetHighwaymenType]... Crime is on the rise, after all.;;;;;;;;;;;;;x
-EVTOPTA8184;The chick fell out of the nest.;;;;;;;;;;;;;x
-EVTDESC_WOL_2201;I have decided to liberate my beloved [GetFromRelation] [From.GetFirstName] from the filthy paws of [From.GetHerHis] abductor, [From.Employer.GetTitledName]. It will take time - and likely some gold - but [From.GetFirstName] deserves a better fate!;;;;;;;;;;;;;x
-ATTRITION;Attrition;;;;;;;;;;;;;x
-MAX_ATTRITION;Maximum Attrition;;;;;;;;;;;;;x
-LOADING_TIP_13;Hold down the middle mouse button to pan around the map.;;;;;;;;;;;;;x
-SIEGE_TECH_DIFF;Siege Modifier;;;;;;;;;;;;;x
-EVTDESC_JD_2100;My heart burns with fervor upon hearing of the poor [Root.Religion.GetName] souls being oppressed in the realm of [liberate_target.GetBestName]. [Root.Religion.GetHighGodNameCap] intended for all true believers to be free to decide their own fate, but if [Root.Religion.GetHighGodName] is preoccupied with divine things perhaps I should carry out the will of [Root.Religion.GetHighGodName]?;;;;;;;;;;;;;x
-EVTOPTCHFP21041;I will tell [From.GetHerHim] of my prosperous realm.;;;;;;;;;;;;;x
-EVTOPT_HFP_11011_B;Wait! How about you just take this [equipped_artifact.GetName] and let me live?!;;;;;;;;;;;;;x
-less_likely_to_be_looted_modifier_tt;§YArtifacts§! are less likely to be stolen;;;;;;;;;;;;;x
-EVTDESC_HFP_16006_combat_weapon;Upon inspecting the [inherited_artifact.GetArtifactStorage], my guards have found [inherited_artifact.GetName], an old weapon. "It must have belonged to [previous_owner.GetTitledFirstName]", they inform me. "Shame it's not in better shape", they mutter.;;;;;;;;;;;;;x
-REL_LOVER_MALE;lover;;;;;;;;;;;;;x
-REL_LOVER_FEMALE;lover;;;;;;;;;;;;;x
-depopulated_1_desc;This county has been slightly depopulated. As times improve it will repopulate quickly.;;;;;;;;;;;;;x
-depopulated_2_desc;This county has been significantly depopulated. When times improve, it will repopulate over several years.;;;;;;;;;;;;;x
-depopulated_3_desc;This county has been severely depopulated. When times improve, it will take many years to repopulate.;;;;;;;;;;;;;x
-emperor_title_queen_mother_female;High Queen Dowager;;;;;;;;;;;;;x
-focus_hunting_desc;[This.GetTitledFirstName] travels the realm, making friends, and enjoying the hunt of Azeroth's wondrous creatures.;;;;;;;;;;;;;x
+EVTDESC_HFP_10105_default_C;На восходе солнца [other_combatant.GetTitledFirstName] яви[other_combatant.GetLasLsya] на поединок. Я встретил[Root.GetEndA] [other_combatant.GetHersHis] держа наготове св[Root.GetMyDuelWeaponNoHandsNoGunACC]. Поначалу [other_combatant.GetSheHe] [other_combatant.GetClumsilyElegantly] уворачива[other_combatant.GetLasLsya] от моих атак, но вскоре допустил[other_combatant.GetEndA] ошибку. Я попал[Root.GetEndA] [other_combatant.GetHerHim] в [other_combatant.GetBodyPartInjuredACC]. Кровь хлынула из раны. Её было много...!;;;;;;;;;;;;;x
+EVTDESC7880;[Root.PlotTarget.GetTitledName] скоро отправится в поездку по старой заброшенной дороге. Возможно, стоит нанять убийц и замаскировать их под разбойников... в конце концов, преступность на подъёме.;;;;;;;;;;;;;x
+EVTDESC7882;Ваш[From.GetEndA] сообщни[From.GetTsaK] [From.GetTitledName] просит денег для найма убийц. [Root.PlotTarget.GetTitledName] попадет в засаду. Всё будет обставлено, как нападение разбойников.;;;;;;;;;;;;;x
+EVTDESC7885;Вы путешествовали по сельской местности округа [Root.Location.GetName], и вдруг карета внезапно остановилась. Дорогу преградило упавшее дерево и кучер объяснил, что придётся ехать в обход по заброшенной тропе.;;;;;;;;;;;;;x
+EVTDESC7886;Преодолев меньше половины лиги, карета попала в засаду разбойников. Они отпустили извозчика своей дорогой. Им интересен только пассажир. Вы предложили всё, что у Вас есть, но это вызвало лишь их смех, им нужна кровь.;;;;;;;;;;;;;x
+EVTOPTA7887;Кто вас нанял!?;;;;;;;;;;;;;x
+EVTDESC7888;Вы пробрались через импровизированные баррикады, едва избежав засады разбойников! Они продолжают посылать стрелы вслед за каретой. Некоторые пролетели всего в нескольких дюймах от Вас.;;;;;;;;;;;;;x
+EVTOPTA7889;Слишком точно. Только наёмники способны на такое...;;;;;;;;;;;;;x
+EVTDESC7890;Ваш[From.GetEndA] сообщни[From.GetTsaK] [From.GetTitledName] собирает группу наёмников, которые устроят засаду в лесу, через который поедет [Root.PlotTarget.GetTitledFirstName]. Думаю, [Root.PlotTarget.GetSheHe] не переживёт этой встречи.;x
+EVTDESC7891;[From.GetTitledFirstName] сообщил[From.GetEndA], что поддерживает план по засаде на лесной дороге. [From.PlotTarget.GetTitledFirstName] не вернётся из этой поездки. Да простит Вас [Root.Religion.GetHighGodName]!;x
+EVTDESC7892;[From.GetTitledName] сообщил[From.GetEndA], что план покушения идёт полным ходом. [From.PlotTarget.GetTitledName] скоро умрёт. Группа наемников под видом разбойников будет ждать [From.GetHersHis] в лесу месяц.;x
+EVTDESC7893;Готово! Наемники устроили засаду по пути следования цели ([From.GetTitledFirstName]) и расправились с ней. Но извозчик увидел их лица под масками и сбежал. Ваше участие в заговоре стало достоянием общественности.;x
+EVTDESC7894;Готово! Наемники устроили засаду по пути следования цели ([From.GetTitledFirstName]) и расправились с ней. Извозчика отпустили и теперь он полностью уверен, что нападение совершили разбойники с большой дороги. ;x
+EVTDESC_CM_6303;Поздним вечером Вы находитесь в укрытии, обдумывая своё положение и внезапно слышите странный шум - один из Ваших охранников входит в дверь и тут же падает на пол с кинжалом, торчащим из шеи. Человек в чёрном быстро и беззвучно оказывается прямо перед Вами. Не успев отреагировать, Вы замечаете острую боль в груди - кинжал торчит между Ваших рёбер, ноги подкашиваются, а в глазах мутнеет...;;;;;;;;;;;;;x
+EVTDESC_CM_6307;Поздним вечером Вы находитесь в укрытии, обдумывая своё положение и внезапно слышите странный шум - один из Ваших охранников входит в дверь и тут же падает на пол с кинжалом, торчащим из шеи. Человек в чёрном быстро и беззвучно оказывается прямо перед Вами. Не успев отреагировать, Вы замечаете, странную гримасу на его лице и кровь, текущую из его рта - позади него Вы видите одного из Ваших охранников, раненого, но крепко держащего свой меч. Вы благодарите [Root.Religion.GetRandomGodName] за своё чудесное спасение.;;;;;;;;;;;;;x
+EVTOPTA8164;Время отмечать!;;;;;;;;;;;;;x
+EVTOPTA7894;Ох уж эти [From.GetHighwaymenType]!;;;;;;;;;;;;;x
+EVTDESC7881;Цель заговора, который я полностью поддерживаю, скоро отправится в карете по изолированной дороге. Возможно, если бы мы собрали наёмников и переодели их в разбойников с большой дороги... Преступность на подъёме, в конце концов.;;;;;;;;;;;;;x
+EVTOPTA8184;Думаю, сегодня на обед будет цыплёнок.;;;;;;;;;;;;;x
+EVTDESC_WOL_2201;[From.GetFirstName], м[From.GetOyaOy] [From.GetRootRelation], томится в застенках темницы, [From.Employer.GetTitledFirstName] уже давно держит [From.GetHersHis] в плену. Я хочу вытащить [From.GetHersHis] оттуда. Да, это займёт врёмя и потребует денег, но [From.GetFirstName] заслуживает лучшей участи!;;;;;;;;;;;;;x
+ATTRITION;Измор войска ;x
+MAX_ATTRITION;Максимальный измор войска ;x
+LOADING_TIP_13;Удерживайте среднюю кнопку мыши, чтобы перемещаться по карте.;;;;;;;;;;;;;x
+SIEGE_TECH_DIFF;Модификатор осады;;;;;;;;;;;;;x
+EVTDESC_JD_2100;Всякий раз, когда слышу, как несчастные [Root.GetReligiousPersons] страдают под игом [liberate_target.PrimaryTitle.GetAdjective]ских иноверцев, я задумываюсь: если [Root.Religion.GetHighGodName] даровал[Root.GetHGodEndA] истинно верующим право вершить свою судьбу, то почему же таким как [liberate_target.GetBestName] позволяется безнаказанно ограничивать их свободу? Что если ответственность за мирские проблемы лежат на нас?;;;;;;;;;;;;;x
+EVTOPTCHFP21041;Расскажу [From.GetHerHim] о процветании.;;;;;;;;;;;;;x
+EVTOPT_HFP_11011_B;Постой! Если я отдам тебе [equipped_artifact.GetName], ты сохранишь мою жизнь?!;;;;;;;;;;;;;x
+less_likely_to_be_looted_modifier_tt;§YАртефакты§! реже крадут;;;;;;;;;;;;;x
+EVTDESC_HFP_16006_combat_weapon;Осматривая [inherited_artifact.GetArtifactStorageACC], капитан моей стражи кое-что нашёл - [inherited_artifact.GetName].\n"Вне сомнений, [previous_owner.GetYourRootDeadRelationOrNone][previous_owner.GetTitledFirstName] владел[previous_owner.GetEndA] этим оружием, [Root.PrimaryTitle.GetFOA], — сообщил он мне, и сразу добавил, — Его состояние оставляет желать лучшего. Прикажете отдать на починку, [Root.GetLordLady]?.;;;;;;;;;;;;;x
+REL_LOVER_MALE;любовник;;;;;;;;;;;;;x
+REL_LOVER_FEMALE;любовница;;;;;;;;;;;;;x
+depopulated_1_desc;Население этого округа сократилось. Прежняя численность восстановится относительно быстро.;;;;;;;;;;;;;x
+depopulated_2_desc;Население этого округа значительно сократилось. Прежняя численность восстановится за несколько лет.;;;;;;;;;;;;;x
+depopulated_3_desc;Население этого округа почти полностью уничтожено. Пройдёт много лет, прежде чем прежняя численность восстановится.;;;;;;;;;;;;;x
+emperor_title_queen_mother_female;Вдовствующая верховная королева;;;;;;;;;;;;;x
+focus_hunting_desc;[This.GetTitledFirstName] путешествует по стране, заводя друзей и наслаждаясь охотой на самых удивительных существ Азерота.;;;;;;;;;;;;;x
