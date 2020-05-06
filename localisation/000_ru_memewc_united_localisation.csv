@@ -1,13 +1,13 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN;§RWarCraft§!: Generic Artifacts Spawn At Gamestart ;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_DEFAULT;Default;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_DEFAULT_DESC;Default amount of spawned artifacts on gamestart.;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_X1_5_DESC;Amount of generic artifacts spawned on gamestart is modified by §G1.5§!.;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_X2_DESC;Amount of generic artifacts spawned on gamestart is modified by §G2§!.;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_X0_5_DESC;Amount of generic artifacts spawned on gamestart is modified by §R0.5§!.;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_X0_25_DESC;Amount of generic artifacts spawned on gamestart is modified by §R0.25§!.;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_OFF;Disabled;;;;;;;;;;;;;x
-RULE_ARTIFACT_SPAWN_OFF_DESC;No generic artifacts will be spawned on gamestart.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN;§RWarCraft§!: Генерация случайных артефактов на старте игры ;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_DEFAULT;По умолчанию;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_DEFAULT_DESC;На старте игры генерируется стандартное количество случайных артефактов.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X1_5_DESC;Количество случайных артефактов, сгенерированных на старте игры - §G1.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X2_DESC;Количество случайных артефактов, сгенерированных на старте игры - §G2§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X0_5_DESC;Количество случайных артефактов, сгенерированных на старте игры - §R0.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X0_25_DESC;Количество случайных артефактов, сгенерированных на старте игры - §R0.25§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_OFF;Отключена;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_OFF_DESC;Генерация случайных артефактов на старте игры отключена.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
