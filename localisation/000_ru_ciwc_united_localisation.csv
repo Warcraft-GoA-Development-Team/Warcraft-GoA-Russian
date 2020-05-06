@@ -1,52 +1,52 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
-cannotBuildTradePost;Is not tribal or publicly practice an evil religion;;;;;;;;;;;;;x
+cannotBuildTradePost;Не является племенем или открыто практикует злую религию;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-eastern_kingdoms_south_trade_route;Azerothian Trade Route;;;;;;;;;;;;;x
-eastern_kingdoms_north_trade_route;Lordaeron Trade Route;;;;;;;;;;;;;x
-eastern_kingdoms_west_sea_trade_route;Eastern Sea Trade Route;;;;;;;;;;;;;x
-kalimdor_trade_route;Gold Road Trade Route;;;;;;;;;;;;;x
-kalimdor_east_sea_trade_route;Kaldorei Sea Trade Route;;;;;;;;;;;;;x
-great_sea_trade_route;Great Sea Trade Route;;;;;;;;;;;;;x
+eastern_kingdoms_south_trade_route;Азеротский торговый путь;;;;;;;;;;;;;x
+eastern_kingdoms_north_trade_route;Лордеронский торговый путь;;;;;;;;;;;;;x
+eastern_kingdoms_west_sea_trade_route;Торговый путь Восточного моря;;;;;;;;;;;;;x
+kalimdor_trade_route;Торговый путь Золотой дороги;;;;;;;;;;;;;x
+kalimdor_east_sea_trade_route;Калдорейский морской торговый путь;;;;;;;;;;;;;x
+great_sea_trade_route;Торговый путь Великого моря;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-eastern_kingdoms_north_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YLordearon Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
-eastern_kingdoms_south_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YAzerothian Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
-eastern_kingdoms_west_sea_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YEastern Sea Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
-kalimdor_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YGold Road Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
-kalimdor_east_sea_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YKaldorei Sea Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
-great_sea_trade_route_tooltip;Can only build §YTrade Posts§! in certain Counties along the §YGreat Sea Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
+eastern_kingdoms_north_trade_route_tooltip;Можно строить §YТорговые посты§! только в определенных округах вдоль §YЛордеронского торгового пути§!\n        Откройте режим карты §YТорговые зоны§! чтобы найти подходящие округа;;;;;;;;;;;;;x
+eastern_kingdoms_south_trade_route_tooltip;Можно строить §YТорговые посты§! только в определенных округах вдоль §YАзеротского торгового пути§!\n        Откройте режим карты §YТорговые зоны§! чтобы найти подходящие округа;;;;;;;;;;;;;x
+eastern_kingdoms_west_sea_trade_route_tooltip;Можно строить §YТорговые посты§! только в определенных округах вдоль §YТоргового пути Восточного моря§!\n        Откройте режим карты §YТорговые зоны§! чтобы найти подходящие округа;;;;;;;;;;;;;x
+kalimdor_trade_route_tooltip;Можно строить §YТорговые посты§! только в определенных округах вдоль §YТоргового пути Золотой дороги§!\n        Откройте режим карты §YТорговые зоны§! чтобы найти подходящие округа;;;;;;;;;;;;;x
+kalimdor_east_sea_trade_route_tooltip;Можно строить §YТорговые посты§! только в определенных округах вдоль §YКалдорейского морского торгового пути§!\n        Откройте режим карты §YТорговые зоны§! чтобы найти подходящие округа;;;;;;;;;;;;;x
+great_sea_trade_route_tooltip;Можно строить §YТорговые посты§! только в определенных округах вдоль §YТоргового пути Великого моря§!\n        Откройте режим карты §YТорговые зоны§! чтобы найти подходящие округа;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-text_effect_major_trade_route;This is a §GMajor§! Trade Route;;;;;;;;;;;;;x
-text_effect_medium_trade_route;This is a §YMedium§! Trade Route;;;;;;;;;;;;;x
-text_effect_minor_trade_route;This is a §RMinor§! Trade Route;;;;;;;;;;;;;x
+text_effect_major_trade_route;Это §Gкрупный§! торговый путь;;;;;;;;;;;;;x
+text_effect_medium_trade_route;Это §Yсредний§! торговый путь;;;;;;;;;;;;;x
+text_effect_minor_trade_route;Это §Rмалый§! торговый путь;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-tr_culture_none;Road Tavern;;;;;;;;;;;;;x
-tr_culture_group_goblin;Zeppelin Tower;;;;;;;;;;;;;x
-tr_culture_group_night_elf;Resting Lounge;;;;;;;;;;;;;x
-tr_culture_group_high_elf_human_draenei;Jeweler's Shop;;;;;;;;;;;;;x
-tr_culture_group_tauren;Kodo Ranch;;;;;;;;;;;;;x
-tr_culture_group_tuskarr;Turtle Pools;;;;;;;;;;;;;x
-tr_culture_group_harpy;Guide Eagle Nests;;;;;;;;;;;;;x
-tr_culture_group_orc;Wolf Bestiary;;;;;;;;;;;;;x
-tr_culture_group_troll;Charm Shop;;;;;;;;;;;;;x
-tr_culture_group_dwarf;Stonemasons Guild;;;;;;;;;;;;;x
-tr_culture_group_kobold;Chandlers Guild;;;;;;;;;;;;;x
-tr_culture_group_gnome;Merchant Bots Hub;;;;;;;;;;;;;x
-tr_culture_group_murloc;Coralmasons Guild;;;;;;;;;;;;;x
+tr_culture_none;Придорожная таверна;;;;;;;;;;;;;x
+tr_culture_group_goblin;Башня дирижаблей;;;;;;;;;;;;;x
+tr_culture_group_night_elf;Комнаты для отдыха;;;;;;;;;;;;;x
+tr_culture_group_high_elf_human_draenei;Ювелирная лавка;;;;;;;;;;;;;x
+tr_culture_group_tauren;Загон для кодо;;;;;;;;;;;;;x
+tr_culture_group_tuskarr;Пруды для черепах;;;;;;;;;;;;;x
+tr_culture_group_harpy;Учебные гнездилища;;;;;;;;;;;;;x
+tr_culture_group_orc;Загон для волков;;;;;;;;;;;;;x
+tr_culture_group_troll;Лавка амулетов;;;;;;;;;;;;;x
+tr_culture_group_dwarf;Гильдия каменщиков;;;;;;;;;;;;;x
+tr_culture_group_kobold;Гильдия торговцев свечами;;;;;;;;;;;;;x
+tr_culture_group_gnome;Рынок торгоботов;;;;;;;;;;;;;x
+tr_culture_group_murloc;Гильдия коралловых мастеров;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-tr_religion_arcane_religion;Portal Center;;;;;;;;;;;;;x
+tr_religion_arcane_religion;Портальный центр;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-tr_culture_none_desc;A place where merchants can get a roof over their heads and a plate of food.;;;;;;;;;;;;;x
-tr_culture_group_goblin_desc;A building where a zeppelin docks to pickup and drop off passengers.;;;;;;;;;;;;;x
-tr_culture_group_night_elf_desc;A place where travellers of all sorts can rest.;;;;;;;;;;;;;x
-tr_culture_group_high_elf_human_draenei_desc;In this store, jewelers sell their precious masterpieces.;;;;;;;;;;;;;x
-tr_culture_group_tauren_desc;Many kodo beasts breed happily on this farm.;;;;;;;;;;;;;x
-tr_culture_group_tuskarr_desc;Turtles can make it to these water pools.;;;;;;;;;;;;;x
-tr_culture_group_harpy_desc;Sharp-eyed eagles that live here help merchants avoid dangerous paths.;;;;;;;;;;;;;x
-tr_culture_group_orc_desc;Big, but not really bad wolves are used here for transporting goods.;;;;;;;;;;;;;x
-tr_culture_group_troll_desc;Charms against curses, misfortune and greedy merchants are produced and sold here. No returns or refunds. Ever.;;;;;;;;;;;;;x
-tr_culture_group_dwarf_desc;Here hard stones are used in even harder mason's work.;;;;;;;;;;;;;x
-tr_culture_group_kobold_desc;Chandlers work here to produce candles so long as you no take them!;;;;;;;;;;;;;x
-tr_culture_group_gnome_desc;Merchant bots sell other merchant bots here.\n"Beep-boop, dear customer.";;;;;;;;;;;;;x
-tr_culture_group_murloc_desc;Even if these craftsmen smell fishy, they produce and sell extremely beautiful coralwork.;;;;;;;;;;;;;x
+tr_culture_none_desc;Место, где странствующие торговцы могут переночевать и поесть.;;;;;;;;;;;;;x
+tr_culture_group_goblin_desc;Здание, в котором дирижабли подбирают и высаживают пассажиров.;;;;;;;;;;;;;x
+tr_culture_group_night_elf_desc;Место, в котором могут отдыхать путешественники всех рас.;;;;;;;;;;;;;x
+tr_culture_group_high_elf_human_draenei_desc;В этой лавке ювелиры продают изготовленные ими драгоценности.;;;;;;;;;;;;;x
+tr_culture_group_tauren_desc;В этом загоне обитают и выращивают потомство кодо.;;;;;;;;;;;;;x
+tr_culture_group_tuskarr_desc;В этих прудах обитают гигантские ездовые черепахи.;;;;;;;;;;;;;x
+tr_culture_group_harpy_desc;Остроглазые орлы, обитающие в этих гнездилищах, помогают торговцам преодолевать опасные маршруты.;;;;;;;;;;;;;x
+tr_culture_group_orc_desc;В этом загоне обитают большие, но не особо страшные волки, переносящие товары.;;;;;;;;;;;;;x
+tr_culture_group_troll_desc;В этой лавке изготавливают и продают амулеты от проклятий, несчастий и жадных торговцев. Товары обратно не принимаются, деньги не компенсируются. Никогда.;;;;;;;;;;;;;x
+tr_culture_group_dwarf_desc;Здесь каменщики раскалывают огромные глыбы.;;;;;;;;;;;;;x
+tr_culture_group_kobold_desc;Здесь свечных дел мастера производят свечи, которые нельзя трогать!;;;;;;;;;;;;;x
+tr_culture_group_gnome_desc;Здесь торгоботы продают других торгоботов.\n"Бип-буп, дорогой покупатель.";;;;;;;;;;;;;x
+tr_culture_group_murloc_desc;Хотя все, кто здесь работает, пахнут рыбой, они производят из кораллов изделия необычайной красоты.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-tr_religion_arcane_religion_desc;A place that has portals to many places across Azeroth.;;;;;;;;;;;;;x
+tr_religion_arcane_religion_desc;Место, из которого можно переместится в любой уголок Азерота через портал.;;;;;;;;;;;;;x
