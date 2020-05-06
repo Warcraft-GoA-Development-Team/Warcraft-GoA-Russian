@@ -1,212 +1,212 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
 #Military Technologies;;;;;;;;;;;;;;x
-TECH_INFANTRY;Frontline Troops;;;;;;;;;;;;;x
-TECH_CAVALRY;Assault Troops;;;;;;;;;;;;;x
-TECH_SIEGE_EQUIPMENT;Military Engineering;;;;;;;;;;;;;x
-TECH_RECRUITMENT;Martial Logistics;;;;;;;;;;;;;x
-TECH_INFANTRY_DESC;Better Equipment and Discipline for our Frontline Troops;;;;;;;;;;;;;x
-TECH_CAVALRY_DESC;Better Equipment and Discipline for our Assault Troops;;;;;;;;;;;;;x
-TECH_SIEGE_EQUIPMENT_DESC;More Advanced Siege Techniques and Equipment for our Mechanical Troops;;;;;;;;;;;;;x
-TECH_RECRUITMENT_DESC;More Developed Logistical Systems and Recruitment Methods;;;;;;;;;;;;;x
+TECH_INFANTRY;Передовые войска;;;;;;;;;;;;;x
+TECH_CAVALRY;Наступательные войска;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT;Военная инженерия;;;;;;;;;;;;;x
+TECH_RECRUITMENT;Военная логистика;;;;;;;;;;;;;x
+TECH_INFANTRY_DESC;Улучшение снаряжения и дисциплины наших передовых войск;;;;;;;;;;;;;x
+TECH_CAVALRY_DESC;Улучшение снаряжения и дисциплины наших наступательных войск;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT_DESC;Более продвинутые методы и осадные машины для наших механических войск;;;;;;;;;;;;;x
+TECH_RECRUITMENT_DESC;Более продвинутые логистические системы и методы набора войск;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #ABBREVIATIONS;;;;;;;;;;;;;;x
-L_INF;CA;;;;;;;;;;;;;x
-H_INF;IN;;;;;;;;;;;;;x
-PIKE;LI;;;;;;;;;;;;;x
-L_CAV;CV;;;;;;;;;;;;;x
-ARCH;RI;;;;;;;;;;;;;x
-H_CAV;AI;;;;;;;;;;;;;x
+L_INF;ЗЛ;;;;;;;;;;;;;x
+H_INF;ПТ;;;;;;;;;;;;;x
+PIKE;КП;;;;;;;;;;;;;x
+L_CAV;КВ;;;;;;;;;;;;;x
+ARCH;СП;;;;;;;;;;;;;x
+H_CAV;ВП;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-PIKEMEN;Large Infantry;;;;;;;;;;;;;x
-PIKEMEN_OFFENSIVE_FIRE;Large Infantry Attack;;;;;;;;;;;;;x
-PIKEMEN_DEFENSIVE_FIRE;Large Infantry Defense;;;;;;;;;;;;;x
-PIKEMEN_MORALE;Large Infantry Morale;;;;;;;;;;;;;x
-PIKEMEN_MODIFIER;Large Infantry Modifier;;;;;;;;;;;;;x
-CU_PIKEMEN;Large Infantry;;;;;;;;;;;;;x
-KNIGHTS;Aerial Infantry;;;;;;;;;;;;;x
-KNIGHTS_OFFENSIVE_FIRE;Aerial Infantry Attack;;;;;;;;;;;;;x
-KNIGHTS_DEFENSIVE_FIRE;Aerial Infantry Defense;;;;;;;;;;;;;x
-KNIGHTS_MORALE;Aerial Infantry Morale;;;;;;;;;;;;;x
-KNIGHTS_MODIFIER;Aerial Infantry Modifier;;;;;;;;;;;;;x
-CU_KNIGHTS;Aerial Infantry;;;;;;;;;;;;;x
-CU_HEAVY_CAVALRY;Aerial Infantry;;;;;;;;;;;;;x
-LIGHT_CAVALRY;Cavalry;;;;;;;;;;;;;x
-LIGHT_CAVALRY_OFFENSIVE_FIRE;Cavalry Attack;;;;;;;;;;;;;x
-LIGHT_CAVALRY_DEFENSIVE_FIRE;Cavalry Defense;;;;;;;;;;;;;x
-LIGHT_CAVALRY_MORALE;Cavalry Morale;;;;;;;;;;;;;x
-LIGHT_CAVALRY_MODIFIER;Cavalry Modifier;;;;;;;;;;;;;x
-CU_LIGHT_CAVALRY;Cavalry;;;;;;;;;;;;;x
-CU_CAVALRY;Shock Troops;;;;;;;;;;;;;
-ARCHERS;Ranged Infantry;;;;;;;;;;;;;x
-ARCHERS_OFFENSIVE_FIRE;Ranged Infantry Attack;;;;;;;;;;;;;x
-ARCHERS_DEFENSIVE_FIRE;Ranged Infantry Defense;;;;;;;;;;;;;x
-ARCHERS_MORALE;Ranged Infantry Morale;;;;;;;;;;;;;x
-ARCHERS_MODIFIER;Ranged Infantry Modifier;;;;;;;;;;;;;x
-CU_ARCHERS;Ranged Infantry;;;;;;;;;;;;;x
-HEAVY_INFANTRY;Infantry;;;;;;;;;;;;;x
-HEAVY_INFANTRY_OFFENSIVE_FIRE;Infantry Attack;;;;;;;;;;;;;x
-HEAVY_INFANTRY_DEFENSIVE_FIRE;Infantry Defense;;;;;;;;;;;;;x
-HEAVY_INFANTRY_MORALE;Infantry Morale;;;;;;;;;;;;;x
-HEAVY_INFANTRY_MODIFIER;Infantry Modifier;;;;;;;;;;;;;x
-CU_HEAVY_INFANTRY;Melee Troops;;;;;;;;;;;;;x
-CU_ACTUAL_HEAVY_INFANTRY;Infantry;;;;;;;;;;;;;x
-LIGHT_INFANTRY;Casters;;;;;;;;;;;;;x
-LIGHT_INFANTRY_OFFENSIVE_FIRE;Casters Attack;;;;;;;;;;;;;x
-LIGHT_INFANTRY_DEFENSIVE_FIRE;Casters Defense;;;;;;;;;;;;;x
-LIGHT_INFANTRY_MORALE;Casters Morale;;;;;;;;;;;;;x
-LIGHT_INFANTRY_MODIFIER;Casters Modifier;;;;;;;;;;;;;x
-CU_LIGHT_INFANTRY;Support Troops;;;;;;;;;;;;;x
-CU_ACTUAL_LIGHT_INFANTRY;Casters;;;;;;;;;;;;;x
-large_cavalry;Large Cavalry;;;;;;;;;;;;;x
-large_cavalry_offensive;Large Cavalry Attack;;;;;;;;;;;;;x
-large_cavalry_defensive;Large Cavalry Defense;;;;;;;;;;;;;x
-large_cavalry_morale;Large Cavalry Morale;;;;;;;;;;;;;x
-large_cavalry_modifier;Large Cavalry Modifier;;;;;;;;;;;;;x
-archmage;Archmage;;;;;;;;;;;;;x
-archmage_offensive;Archmage Attack;;;;;;;;;;;;;x
-archmage_defensive;Archmage Defense;;;;;;;;;;;;;x
-archmage_morale;Archmage Morale;;;;;;;;;;;;;x
-archmage_modifier;Archmage Modifier;;;;;;;;;;;;;x
-undead;Undead;;;;;;;;;;;;;x
-undead_offensive;Undead Attack;;;;;;;;;;;;;x
-undead_defensive;Undead Defense;;;;;;;;;;;;;x
-undead_morale;Undead Morale;;;;;;;;;;;;;x
-undead_modifier;Undead Modifier;;;;;;;;;;;;;x
-war_machines;War Machines;;;;;;;;;;;;;x
-war_machines_offensive;War Machine Attack;;;;;;;;;;;;;x
-war_machines_defensive;War Machine Defense;;;;;;;;;;;;;x
-war_machines_morale;War Machine Morale;;;;;;;;;;;;;x
-war_machines_modifier;War Machine Modifier;;;;;;;;;;;;;x
-animals;Animals;;;;;;;;;;;;;x
-animals_offensive;Animals Attack;;;;;;;;;;;;;x
-animals_defensive;Animals Defense;;;;;;;;;;;;;x
-animals_morale;Animals Morale;;;;;;;;;;;;;x
-animals_modifier;Animals Modifier;;;;;;;;;;;;;x
-dragons;Dragons;;;;;;;;;;;;;x
-dragons_offensive;Dragons Attack;;;;;;;;;;;;;x
-dragons_defensive;Dragons Defense;;;;;;;;;;;;;x
-dragons_morale;Dragons Morale;;;;;;;;;;;;;x
-dragons_modifier;Dragons Modifier;;;;;;;;;;;;;x
-golems;Golems;;;;;;;;;;;;;x
-golems_offensive;Golems Attack;;;;;;;;;;;;;x
-golems_defensive;Golems Defense;;;;;;;;;;;;;x
-golems_morale;Golems Morale;;;;;;;;;;;;;x
-golems_modifier;Golems Modifier;;;;;;;;;;;;;x
-ancients;Ancients;;;;;;;;;;;;;x
-ancients_offensive;Ancients Attack;;;;;;;;;;;;;x
-ancients_defensive;Ancients Defense;;;;;;;;;;;;;x
-ancients_morale;Ancients Morale;;;;;;;;;;;;;x
-ancients_modifier;Ancients Modifier;;;;;;;;;;;;;x
-swarm;Swarm;;;;;;;;;;;;;x
-swarm_offensive;Swarm Attack;;;;;;;;;;;;;x
-swarm_defensive;Swarm Defense;;;;;;;;;;;;;x
-swarm_morale;Swarm Morale;;;;;;;;;;;;;x
-swarm_modifier;Swarm Modifier;;;;;;;;;;;;;x
-siege_machines;Siege Machines;;;;;;;;;;;;;x
-siege_machines_offensive;Siege Machine Attack;;;;;;;;;;;;;x
-siege_machines_defensive;Siege Machine Defense;;;;;;;;;;;;;x
-siege_machines_morale;Siege Machine Morale;;;;;;;;;;;;;x
-siege_machines_modifier;Siege Machine Modifier;;;;;;;;;;;;;x
-thralls;Thralls;;;;;;;;;;;;;x
-thralls_offensive;Thrall Attack;;;;;;;;;;;;;x
-thralls_defensive;Thrall Defense;;;;;;;;;;;;;x
-thralls_morale;Thrall Morale;;;;;;;;;;;;;x
-thralls_modifier;Thrall Modifier;;;;;;;;;;;;;x
-elite_infantry;Elite Infantry;;;;;;;;;;;;;x
-elite_infantry_offensive;Elite Infantry Attack;;;;;;;;;;;;;x
-elite_infantry_defensive;Elite Infantry Defense;;;;;;;;;;;;;x
-elite_infantry_morale;Elite Infantry Morale;;;;;;;;;;;;;x
-elite_infantry_modifier;Elite Infantry Modifier;;;;;;;;;;;;;x
+PIKEMEN;Крупная пехота;;;;;;;;;;;;;x
+PIKEMEN_OFFENSIVE_FIRE;Атака крупной пехоты;;;;;;;;;;;;;x
+PIKEMEN_DEFENSIVE_FIRE;Защита крупной пехоты;;;;;;;;;;;;;x
+PIKEMEN_MORALE;Боевой дух крупной пехоты;;;;;;;;;;;;;x
+PIKEMEN_MODIFIER;Модификатор крупной пехоты;;;;;;;;;;;;;x
+CU_PIKEMEN;Крупная пехота;;;;;;;;;;;;;x
+KNIGHTS;Воздушная пехота;;;;;;;;;;;;;x
+KNIGHTS_OFFENSIVE_FIRE;Атака воздушной пехоты;;;;;;;;;;;;;x
+KNIGHTS_DEFENSIVE_FIRE;Защита воздушной пехоты;;;;;;;;;;;;;x
+KNIGHTS_MORALE;Боевой дух воздушной пехоты;;;;;;;;;;;;;x
+KNIGHTS_MODIFIER;Модификатор воздушной пехоты;;;;;;;;;;;;;x
+CU_KNIGHTS;Воздушная пехота;;;;;;;;;;;;;x
+CU_HEAVY_CAVALRY;Воздушная пехота;;;;;;;;;;;;;x
+LIGHT_CAVALRY;Кавалерия;;;;;;;;;;;;;x
+LIGHT_CAVALRY_OFFENSIVE_FIRE;Атака кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_DEFENSIVE_FIRE;Защита кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_MORALE;Боевой дух кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_MODIFIER;Модификатор кавалерии;;;;;;;;;;;;;x
+CU_LIGHT_CAVALRY;Кавалерия;;;;;;;;;;;;;x
+CU_CAVALRY;Ударные войска;;;;;;;;;;;;;
+ARCHERS;Стрелковая пехота;;;;;;;;;;;;;x
+ARCHERS_OFFENSIVE_FIRE;Атака стрелковой пехоты;;;;;;;;;;;;;x
+ARCHERS_DEFENSIVE_FIRE;Защита стрелковой пехоты;;;;;;;;;;;;;x
+ARCHERS_MORALE;Боевой дух стрелковой пехоты;;;;;;;;;;;;;x
+ARCHERS_MODIFIER;Модификатор стрелковой пехоты;;;;;;;;;;;;;x
+CU_ARCHERS;Стрелковая пехота;;;;;;;;;;;;;x
+HEAVY_INFANTRY;Пехота;;;;;;;;;;;;;x
+HEAVY_INFANTRY_OFFENSIVE_FIRE;Атака пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_DEFENSIVE_FIRE;Защита пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_MORALE;Боевой дух пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_MODIFIER;Модификатор пехоты;;;;;;;;;;;;;x
+CU_HEAVY_INFANTRY;Войска ближнего боя;;;;;;;;;;;;;x
+CU_ACTUAL_HEAVY_INFANTRY;Пехота;;;;;;;;;;;;;x
+LIGHT_INFANTRY;Заклинатели;;;;;;;;;;;;;x
+LIGHT_INFANTRY_OFFENSIVE_FIRE;Атака заклинателей;;;;;;;;;;;;;x
+LIGHT_INFANTRY_DEFENSIVE_FIRE;Защита заклинателей;;;;;;;;;;;;;x
+LIGHT_INFANTRY_MORALE;Боевой дух заклинателей;;;;;;;;;;;;;x
+LIGHT_INFANTRY_MODIFIER;Модификатор заклинателей;;;;;;;;;;;;;x
+CU_LIGHT_INFANTRY;Войска поддержки;;;;;;;;;;;;;x
+CU_ACTUAL_LIGHT_INFANTRY;Заклинатели;;;;;;;;;;;;;x
+large_cavalry;Крупная кавалерия;;;;;;;;;;;;;x
+large_cavalry_offensive;Атака крупной кавалерии;;;;;;;;;;;;;x
+large_cavalry_defensive;Защита крупной кавалерии;;;;;;;;;;;;;x
+large_cavalry_morale;Боевой дух крупной кавалерии;;;;;;;;;;;;;x
+large_cavalry_modifier;Модификатор крупной кавалерии;;;;;;;;;;;;;x
+archmage;Архимаги;;;;;;;;;;;;;x
+archmage_offensive;Атака архимагов;;;;;;;;;;;;;x
+archmage_defensive;Защита архимагов;;;;;;;;;;;;;x
+archmage_morale;Боевой дух архимагов;;;;;;;;;;;;;x
+archmage_modifier;Модификатор архимагов;;;;;;;;;;;;;x
+undead;Нежить;;;;;;;;;;;;;x
+undead_offensive;Атака нежити;;;;;;;;;;;;;x
+undead_defensive;Защита нежити;;;;;;;;;;;;;x
+undead_morale;Боевой дух нежити;;;;;;;;;;;;;x
+undead_modifier;Модификатор нежити;;;;;;;;;;;;;x
+war_machines;Боевые машины;;;;;;;;;;;;;x
+war_machines_offensive;Атака боевых машин;;;;;;;;;;;;;x
+war_machines_defensive;Защита боевых машин;;;;;;;;;;;;;x
+war_machines_morale;Боевой дух боевых машин;;;;;;;;;;;;;x
+war_machines_modifier;Модификатор боевых машин;;;;;;;;;;;;;x
+animals;Звери;;;;;;;;;;;;;x
+animals_offensive;Атака зверей;;;;;;;;;;;;;x
+animals_defensive;Защита зверей;;;;;;;;;;;;;x
+animals_morale;Боевой дух зверей;;;;;;;;;;;;;x
+animals_modifier;Модификатор зверей;;;;;;;;;;;;;x
+dragons;Драконы;;;;;;;;;;;;;x
+dragons_offensive;Атака драконов;;;;;;;;;;;;;x
+dragons_defensive;Защита драконов;;;;;;;;;;;;;x
+dragons_morale;Боевой дух драконов;;;;;;;;;;;;;x
+dragons_modifier;Модификатор драконов;;;;;;;;;;;;;x
+golems;Големы;;;;;;;;;;;;;x
+golems_offensive;Атака големов;;;;;;;;;;;;;x
+golems_defensive;Защита големов;;;;;;;;;;;;;x
+golems_morale;Боевой дух големов;;;;;;;;;;;;;x
+golems_modifier;Модификатор големов;;;;;;;;;;;;;x
+ancients;Древни;;;;;;;;;;;;;x
+ancients_offensive;Атака древней;;;;;;;;;;;;;x
+ancients_defensive;Защита древней;;;;;;;;;;;;;x
+ancients_morale;Боевой дух древней;;;;;;;;;;;;;x
+ancients_modifier;Модификатор древней;;;;;;;;;;;;;x
+swarm;Рой;;;;;;;;;;;;;x
+swarm_offensive;Атака роя;;;;;;;;;;;;;x
+swarm_defensive;Защита роя;;;;;;;;;;;;;x
+swarm_morale;Боевой дух роя;;;;;;;;;;;;;x
+swarm_modifier;Модификатор роя;;;;;;;;;;;;;x
+siege_machines;Осадные машины;;;;;;;;;;;;;x
+siege_machines_offensive;Атака осадных машин;;;;;;;;;;;;;x
+siege_machines_defensive;Защита осадных машин;;;;;;;;;;;;;x
+siege_machines_morale;Боевой дух осадных машин;;;;;;;;;;;;;x
+siege_machines_modifier;Модификатор осадных машин;;;;;;;;;;;;;x
+thralls;Трэллы;;;;;;;;;;;;;x
+thralls_offensive;Атака трэллов;;;;;;;;;;;;;x
+thralls_defensive;Защита трэллов;;;;;;;;;;;;;x
+thralls_morale;Боевой дух трэллов;;;;;;;;;;;;;x
+thralls_modifier;Модификатор трэллов;;;;;;;;;;;;;x
+elite_infantry;Элитная пехота;;;;;;;;;;;;;x
+elite_infantry_offensive;Атака элитной пехоты;;;;;;;;;;;;;x
+elite_infantry_defensive;Защита элитной пехоты;;;;;;;;;;;;;x
+elite_infantry_morale;Боевой дух элитной пехоты;;;;;;;;;;;;;x
+elite_infantry_modifier;Модификатор элитной пехоты;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #Tactics;;;;;;;;;;;;;;x
-wc_organized_skirmish_tactic;Organized Skirmish;;;;;;;;;;;;;x
-wc_skirmish_tactic;Skirmish;;;;;;;;;;;;;x
-wc_aerial_raid_tactic;Aerial Raid;;;;;;;;;;;;;x
-wc_aerial_strikes_tactic;Aerial Strikes;;;;;;;;;;;;;x
-wc_volley_tactic;Volley;;;;;;;;;;;;;x
-wc_magic_volley_tactic;Magic Volley;;;;;;;;;;;;;x
-wc_bombardment_tactic;Bombardment;;;;;;;;;;;;;x
-wc_shield_wall_tactic;Shieldwall;;;;;;;;;;;;;x
-wc_find_cover_tactic;Find Cover;;;;;;;;;;;;;x
-wc_charge_tactic;Charge;;;;;;;;;;;;;x
-wc_crushing_charge_tactic;Crushing Charge;;;;;;;;;;;;;x
-wc_undefended_charge_on_flank_tactic;Undefended Charge on Flank;;;;;;;;;;;;;x
-wc_spearhead_tactic;Spearhead;;;;;;;;;;;;;x
-wc_advance_tactic;Advance;;;;;;;;;;;;;x
-wc_push_tactic;Push;;;;;;;;;;;;;x
-wc_pike_wall_tactic;Pike Wall;;;;;;;;;;;;;x
-wc_barrier_tactic;Barrier;;;;;;;;;;;;;x
-wc_overwhelm_tactic;Overwhelm;;;;;;;;;;;;;x
-wc_roundabout_charge_tactic;Roundabout Charge;;;;;;;;;;;;;x
-wc_barrage_tactic;Barrage;;;;;;;;;;;;;x
-wc_stand_and_fight_tactic;Stand and Fight;;;;;;;;;;;;;x
-wc_raid_tactic;Raid;;;;;;;;;;;;;x
-wc_overrun_tactic;Overrun;;;;;;;;;;;;;x
-wc_tank_and_heal_tactic;Tank and Heal;;;;;;;;;;;;;x
-wc_trample_tactic;Trample;;;;;;;;;;;;;x
-wc_reinforce_tactic;Reinforce;;;;;;;;;;;;;x
-wc_force_back_tactic;Force Back;;;;;;;;;;;;;x
-wc_swift_volley_tactic;Swift Volley;;;;;;;;;;;;;x
-wc_aimed_bombardment_tactic;Aimed Bombardment;;;;;;;;;;;;;x
-wc_draw_out_tactic;Draw Out;;;;;;;;;;;;;x
-wc_aerial_bombardment_tactic ;Aerial Bombardment;;;;;;;;;;;;;x
-wc_hedgehog_formation_tactic ;Hedgehog Formation;;;;;;;;;;;;;x
-wc_entrench_tactic ;Entrench;;;;;;;;;;;;;x
-wc_heroic_charge_tactic;Heroic Charge;;;;;;;;;;;;;x
-wc_trample_spearhead_tactic;Trample Spearhead;;;;;;;;;;;;;x
-wc_strengthened_barrier_tactic;Strengthened Barrier;;;;;;;;;;;;;x
-wc_crafty_ambush_tactic;Crafty Ambush;;;;;;;;;;;;;x
-wc_religious_zeal_tactic;Religious Zeal;;;;;;;;;;;;;x
-wc_tactical_reinforce_tactic;Tactical Reinforce;;;;;;;;;;;;;x
-wc_slow_harassment_tactic;Slow Harassment;;;;;;;;;;;;;x
-wc_unintentional_charge_tactic;Unintentional Charge;;;;;;;;;;;;;x
-wc_fire_on_own_troops_tactic;Fire on Own Troops;;;;;;;;;;;;;x
-wc_outranged_tactic;Outranged;;;;;;;;;;;;;x
-wc_aggressive_defense_tactic;Aggressive Defense;;;;;;;;;;;;;x
-wc_outstretched_tactic;Outstretched;;;;;;;;;;;;;x
-wc_reckless_charge_tactic;Reckless Charge;;;;;;;;;;;;;x
-wc_charge_through_skirmishers_tactic;Charge Through Skirmishers;;;;;;;;;;;;;x
-wc_hesitate_tactic;Hesitate;;;;;;;;;;;;;x
+wc_organized_skirmish_tactic;Организованная перестрелка;;;;;;;;;;;;;x
+wc_skirmish_tactic;Перестрелка;;;;;;;;;;;;;x
+wc_aerial_raid_tactic;Воздушный налет;;;;;;;;;;;;;x
+wc_aerial_strikes_tactic;Воздушные удары;;;;;;;;;;;;;x
+wc_volley_tactic;Залп;;;;;;;;;;;;;x
+wc_magic_volley_tactic;Магический залп;;;;;;;;;;;;;x
+wc_bombardment_tactic;Артиллерийский обстрел;;;;;;;;;;;;;x
+wc_shield_wall_tactic;Стена щитов;;;;;;;;;;;;;x
+wc_find_cover_tactic;Поиск убежища;;;;;;;;;;;;;x
+wc_charge_tactic;Натиск;;;;;;;;;;;;;x
+wc_crushing_charge_tactic;Сокрушающий натиск;;;;;;;;;;;;;x
+wc_undefended_charge_on_flank_tactic;Натиск по беззащитным флангам;;;;;;;;;;;;;x
+wc_spearhead_tactic;Острие копья;;;;;;;;;;;;;x
+wc_advance_tactic;Наступление;;;;;;;;;;;;;x
+wc_push_tactic;Натиск;;;;;;;;;;;;;x
+wc_pike_wall_tactic;Стена копий;;;;;;;;;;;;;x
+wc_barrier_tactic;Барьер;;;;;;;;;;;;;x
+wc_overwhelm_tactic;Подавление;;;;;;;;;;;;;x
+wc_roundabout_charge_tactic;Обходной натиск;;;;;;;;;;;;;x
+wc_barrage_tactic;Заградительный огонь;;;;;;;;;;;;;x
+wc_stand_and_fight_tactic;Стоять и биться;;;;;;;;;;;;;x
+wc_raid_tactic;Налет;;;;;;;;;;;;;x
+wc_overrun_tactic;Подавление;;;;;;;;;;;;;x
+wc_tank_and_heal_tactic;Танки и целители;;;;;;;;;;;;;x
+wc_trample_tactic;Пробивание;;;;;;;;;;;;;x
+wc_reinforce_tactic;Подкрепление;;;;;;;;;;;;;x
+wc_force_back_tactic;Принудительное отступление;;;;;;;;;;;;;x
+wc_swift_volley_tactic;Стремительный залп;;;;;;;;;;;;;x
+wc_aimed_bombardment_tactic;Прицельный артобстрел;;;;;;;;;;;;;x
+wc_draw_out_tactic;Растягивание рядов;;;;;;;;;;;;;x
+wc_aerial_bombardment_tactic;Воздушная бомбардировка;;;;;;;;;;;;;x
+wc_hedgehog_formation_tactic;Построение Ёж;;;;;;;;;;;;;x
+wc_entrench_tactic;Окапывание;;;;;;;;;;;;;x
+wc_heroic_charge_tactic;Героический натиск;;;;;;;;;;;;;x
+wc_trample_spearhead_tactic;Пробивающее острие копья;;;;;;;;;;;;;x
+wc_strengthened_barrier_tactic;Усиленный барьер;;;;;;;;;;;;;x
+wc_crafty_ambush_tactic;Хитрая засада;;;;;;;;;;;;;x
+wc_religious_zeal_tactic;Религиозное рвение;;;;;;;;;;;;;x
+wc_tactical_reinforce_tactic;Тактические подкрепления;;;;;;;;;;;;;x
+wc_slow_harassment_tactic;Медленное преследование;;;;;;;;;;;;;x
+wc_unintentional_charge_tactic;Неожиданный натиск;;;;;;;;;;;;;x
+wc_fire_on_own_troops_tactic;Огонь по своим;;;;;;;;;;;;;x
+wc_outranged_tactic;Обгон;;;;;;;;;;;;;x
+wc_aggressive_defense_tactic;Агрессивная оборона;;;;;;;;;;;;;x
+wc_outstretched_tactic;Растягивание рядов;;;;;;;;;;;;;x
+wc_reckless_charge_tactic;Безрассудный натиск;;;;;;;;;;;;;x
+wc_charge_through_skirmishers_tactic;Натиск по стрелкам;;;;;;;;;;;;;x
+wc_hesitate_tactic;Колебание;;;;;;;;;;;;;x
 wc_failed_barrier_tactic;Failed Barrier;;;;;;;;;;;;;x
-wc_advance_in_the_wrong_direction_tactic;Advance in the Wrong Direction;;;;;;;;;;;;;x
-wc_aerial_melee_tactic;Aerial Melee;;;;;;;;;;;;;x
-wc_forest_ambush_tactic;Forest Ambush;;;;;;;;;;;;;x
-wc_spellbreak_tactic;Spellbreak;;;;;;;;;;;;;x
-wc_breaking_charge_tactic;Breaking Charge;;;;;;;;;;;;;x
-wc_mountain_entrenchment_tactic;Mountain Entrenchment;;;;;;;;;;;;;x
-wc_desert_ambush_tactic;Desert Ambush;;;;;;;;;;;;;x
-wc_swarm_charge_tactic;Swarm Charge;;;;;;;;;;;;;x
-wc_swarm_volley_tactic;Swarm Volley;;;;;;;;;;;;;x
-wc_swarm_harassment_tactic;Swarm Harassment;;;;;;;;;;;;;x
-wc_swarm_encircle_tactic;Swarm Encircle;;;;;;;;;;;;;x
-wc_overrun_push_tactic;Overrun Push;;;;;;;;;;;;;x
-wc_magic_ambush_ractic;Magic Ambush;;;;;;;;;;;;;x
-wc_mountain_raid_tactic;Mountain Raid;;;;;;;;;;;;;x
-wc_water_assault_tactic;Water Assault;;;;;;;;;;;;;x
-wc_commando_raid_tactic;Commando Raid;;;;;;;;;;;;;x
-wc_crush_and_trample_tactic;Crush and Trample;;;;;;;;;;;;;x
-wc_underground_ambush_ractic;Underground Ambush;;;;;;;;;;;;;x
-wc_brutalizing_trample_tactic;Brutalizing Trample;;;;;;;;;;;;;x
-wc_tundra_swarm_tactic;Tundra Swarm;;;;;;;;;;;;;x
-wc_forest_charge_tactic;Forest Charge;;;;;;;;;;;;;x
-wc_heroic_trample_tactic;Heroic Trample;;;;;;;;;;;;;x
-wc_desert_entrenchment_tactic;Desert Entrenchment;;;;;;;;;;;;;x
-wc_winter_ambush_tactic;Winter Ambush;;;;;;;;;;;;;x
-wc_aerial_ambush_tactic;Aerial Ambush;;;;;;;;;;;;;x
-wc_undead_overrun_tactic;Undead Overrun;;;;;;;;;;;;;x
-wc_undead_spearhead_tactic;Under Spearhead;;;;;;;;;;;;;x
-wc_null_magic_tactic;Null Magic;;;;;;;;;;;;;x
-wc_undead_ambush_tactic;Undead Ambush;;;;;;;;;;;;;x
-wc_blinding_light_charge_tactic;Blinding Light Charge;;;;;;;;;;;;;x
-wc_loa_enhanced_zeal_tactic;Loa Enhanced Zeal;;;;;;;;;;;;;x
-wc_ancient_ambush_tactic;Ancient Ambush;;;;;;;;;;;;;x
-wc_taunt_tactic;Taunt;;;;;;;;;;;;;x
-wc_shield_slam_tactic;Shield Slam;;;;;;;;;;;;;x
-wc_thunderclap_tactic;Thunderclap;;;;;;;;;;;;;x
+wc_advance_in_the_wrong_direction_tactic;Продвижение в неправильном направлении;;;;;;;;;;;;;x
+wc_aerial_melee_tactic;Воздушный ближний бой;;;;;;;;;;;;;x
+wc_forest_ambush_tactic;Лесная засада;;;;;;;;;;;;;x
+wc_spellbreak_tactic;Разрушение чар;;;;;;;;;;;;;x
+wc_breaking_charge_tactic;Разрывающий натиск;;;;;;;;;;;;;x
+wc_mountain_entrenchment_tactic;Окапывание в горах;;;;;;;;;;;;;x
+wc_desert_ambush_tactic;Засада в пустыне;;;;;;;;;;;;;x
+wc_swarm_charge_tactic;Натиск роя;;;;;;;;;;;;;x
+wc_swarm_volley_tactic;Залп роя;;;;;;;;;;;;;x
+wc_swarm_harassment_tactic;Роевое подавление;;;;;;;;;;;;x
+wc_swarm_encircle_tactic;Роевое окружение;;;;;;;;;;;;;x
+wc_overrun_push_tactic;Обходной натиск;;;;;;;;;;;;;x
+wc_magic_ambush_ractic;Магическая засада;;;;;;;;;;;;;x
+wc_mountain_raid_tactic;Налет с гор;;;;;;;;;;;;;x
+wc_water_assault_tactic;Нападение из воды;;;;;;;;;;;;;x
+wc_commando_raid_tactic;Налет коммандо;;;;;;;;;;;;;x
+wc_crush_and_trample_tactic;Раздавить и растоптать;;;;;;;;;;;;;x
+wc_underground_ambush_ractic;Подземная засада;;;;;;;;;;;;;x
+wc_brutalizing_trample_tactic;Жестокое подавление;;;;;;;;;;;;;x
+wc_tundra_swarm_tactic;Тундровый рой;;;;;;;;;;;;;x
+wc_forest_charge_tactic;Натиск из леса;;;;;;;;;;;;;x
+wc_heroic_trample_tactic;Героическое подавление;;;;;;;;;;;;;x
+wc_desert_entrenchment_tactic;Окапывание в пустыне;;;;;;;;;;;;;x
+wc_winter_ambush_tactic;Зимняя засада;;;;;;;;;;;;;x
+wc_aerial_ambush_tactic;Воздушная засада;;;;;;;;;;;;;x
+wc_undead_overrun_tactic;Обход нежити;;;;;;;;;;;;;x
+wc_undead_spearhead_tactic;Под острием копья;;;;;;;;;;;;;x
+wc_null_magic_tactic;Обнуление магии;;;;;;;;;;;;;x
+wc_undead_ambush_tactic;Засада нежити;;;;;;;;;;;;;x
+wc_blinding_light_charge_tactic;Слепящий натиск;;;;;;;;;;;;;x
+wc_loa_enhanced_zeal_tactic;Усиленное рвение Лоа;;;;;;;;;;;;;x
+wc_ancient_ambush_tactic;Засада Древ;;;;;;;;;;;;;x
+wc_taunt_tactic;Провокация;;;;;;;;;;;;;x
+wc_shield_slam_tactic;Мощный удар щитом;;;;;;;;;;;;;x
+wc_thunderclap_tactic;Удар грома;;;;;;;;;;;;;x
 wc_cleave_tactic;Cleave;;;;;;;;;;;;;x
 wc_multishot_tactic;Multishot;;;;;;;;;;;;;x
 wc_explosive_trap_tactic;Explosive Trap;;;;;;;;;;;;;x
-wc_kill_command_tactic;Kill Command;;;;;;;;;;;;;x
+wc_kill_command_tactic;Команда Взять;;;;;;;;;;;;;x
 wc_disengage_tactic;Disengage;;;;;;;;;;;;;x
 wc_distract_tactic;Distract;;;;;;;;;;;;;x
 wc_evasion_tactic;Evasion;;;;;;;;;;;;;x
@@ -217,42 +217,42 @@ wc_death_grip_tactic;Death Grip;;;;;;;;;;;;;x
 wc_chains_of_ice_tactic;Chains of Ice;;;;;;;;;;;;;x
 wc_death_coil_tactic;Death Coil;;;;;;;;;;;;;x
 wc_blight_bombardment_tactic;Blight Bombardment;;;;;;;;;;;;;x
-wc_raise_undead_tactic;Raise Undead;;;;;;;;;;;;;x
-wc_empower_undead_tactic;Empower Undead;;;;;;;;;;;;;x
+wc_raise_undead_tactic;Воскрешение нежити;;;;;;;;;;;;;x
+wc_empower_undead_tactic;Усиление нежити;;;;;;;;;;;;;x
 wc_cripple_tactic;Cripple;;;;;;;;;;;;;x
 wc_consume_magic_tactic;Consume Magic;;;;;;;;;;;;;x
 wc_torment_tactic;Torment;;;;;;;;;;;;;x
 wc_immolation_tactic;Immolation;;;;;;;;;;;;;x
-wc_blade_dance_tactic;Blade Dance;;;;;;;;;;;;;x
+wc_blade_dance_tactic;Танец клинков;;;;;;;;;;;;;x
 wc_entangling_roots_tactic;Entangling Roots;;;;;;;;;;;;;x
 wc_rejuvenate_tactic;Rejuvenate;;;;;;;;;;;;;x
 wc_lunar_strike_tactic;Lunar Strike;;;;;;;;;;;;;x
-wc_starfall_tactic;Starfall;;;;;;;;;;;;;x
+wc_starfall_tactic;Звездопад;;;;;;;;;;;;;x
 wc_arcane_barrage_tactic;Arcane Barrage;;;;;;;;;;;;;x
-wc_blizzard_tactic;Blizzard;;;;;;;;;;;;;x
+wc_blizzard_tactic;Метель;;;;;;;;;;;;;x
 wc_slow_tactic;Slow;;;;;;;;;;;;;x
 wc_flamestrike_tactic;Flamestrike;;;;;;;;;;;;;x
 wc_consecration_tactic;Consecration;;;;;;;;;;;;;x
 wc_judgement_tactic;Judgement;;;;;;;;;;;;;x
-wc_holy_light_tactic;Holy Light;;;;;;;;;;;;;x
+wc_holy_light_tactic;Святой Свет;;;;;;;;;;;;;x
 wc_retribution_tactic;Retribution;;;;;;;;;;;;;x
-wc_heal_tactic;Heal;;;;;;;;;;;;;x
-wc_resurrection_tactic;Resurrection;;;;;;;;;;;;;x
+wc_heal_tactic;Исцеление;;;;;;;;;;;;;x
+wc_resurrection_tactic;Воскрешение;;;;;;;;;;;;;x
 wc_holy_nova_tactic;Holy Nova;;;;;;;;;;;;;x
-wc_power_word_shield_tactic;Power Word: Shield;;;;;;;;;;;;;x
+wc_power_word_shield_tactic;Слово Силы: Щит;;;;;;;;;;;;;x
 wc_mindflay_tactic;Mindflay;;;;;;;;;;;;;x
 wc_mind_blast_tactic;Mind Blast;;;;;;;;;;;;;x
-wc_shadow_word_pain_tactic;Shadow Word: Pain;;;;;;;;;;;;;x
+wc_shadow_word_pain_tactic;Слово Тьмы: Боль;;;;;;;;;;;;;x
 wc_psychic_scream_tactic;Psychic Scream;;;;;;;;;;;;;x
 wc_hex_tactic;Hex;;;;;;;;;;;;;x
 wc_loa_bargain_tactic;Loa Bargain;;;;;;;;;;;;;x
-wc_defensive_voodoo_tactic;Defensive Voodoo;;;;;;;;;;;;;x
-wc_offensive_voodoo_tactic;Offensive Voodoo;;;;;;;;;;;;;x
+wc_defensive_voodoo_tactic;Защитная магия Вуду;;;;;;;;;;;;;x
+wc_offensive_voodoo_tactic;Наступательная магия Вуду;;;;;;;;;;;;;x
 wc_far_sight_tactic;Far Sight;;;;;;;;;;;;;x
 wc_chain_lightning_tactic;Chain Lightning;;;;;;;;;;;;;x
 wc_healing_wave_tactic;Healing Wave;;;;;;;;;;;;;x
 wc_lava_surge_tactic;Lava Surge;;;;;;;;;;;;;x
-wc_fear_trait;Fear;;;;;;;;;;;;;x
+wc_fear_trait;Страх;;;;;;;;;;;;;x
 wc_corruption_trait;Corruption;;;;;;;;;;;;;x
 wc_rain_of_fire_tactic;Rain of Fire;;;;;;;;;;;;;x
 wc_soul_link_tactic;Soul Link;;;;;;;;;;;;;x
