@@ -205,178 +205,178 @@ wc_shield_slam_tactic;Мощный удар щитом;;;;;;;;;;;;;x
 wc_thunderclap_tactic;Удар грома;;;;;;;;;;;;;x
 wc_cleave_tactic;Cleave;;;;;;;;;;;;;x
 wc_multishot_tactic;Multishot;;;;;;;;;;;;;x
-wc_explosive_trap_tactic;Explosive Trap;;;;;;;;;;;;;x
+wc_explosive_trap_tactic;Взрывная ловушка;;;;;;;;;;;;;x
 wc_kill_command_tactic;Команда Взять;;;;;;;;;;;;;x
-wc_disengage_tactic;Disengage;;;;;;;;;;;;;x
-wc_distract_tactic;Distract;;;;;;;;;;;;;x
-wc_evasion_tactic;Evasion;;;;;;;;;;;;;x
-wc_poisoned_volley_tactic;Poisoned Volley;;;;;;;;;;;;;x
-wc_poisoned_ambush_tactic;Poisoned Ambush;;;;;;;;;;;;;x
-wc_death_and_decay_tactic;Death and Decay;;;;;;;;;;;;;x
-wc_death_grip_tactic;Death Grip;;;;;;;;;;;;;x
-wc_chains_of_ice_tactic;Chains of Ice;;;;;;;;;;;;;x
-wc_death_coil_tactic;Death Coil;;;;;;;;;;;;;x
-wc_blight_bombardment_tactic;Blight Bombardment;;;;;;;;;;;;;x
+wc_disengage_tactic;Отрыв;;;;;;;;;;;;;x
+wc_distract_tactic;Отвлечение;;;;;;;;;;;;;x
+wc_evasion_tactic;Ускользание;;;;;;;;;;;;;x
+wc_poisoned_volley_tactic;Ядовитый залп;;;;;;;;;;;;;x
+wc_poisoned_ambush_tactic;Ядовитая засада;;;;;;;;;;;;;x
+wc_death_and_decay_tactic;Смерть и разложение;;;;;;;;;;;;;x
+wc_death_grip_tactic;Хватка смерти;;;;;;;;;;;;;x
+wc_chains_of_ice_tactic;Ледяные оковы;;;;;;;;;;;;;x
+wc_death_coil_tactic;Лик смерти;;;;;;;;;;;;;x
+wc_blight_bombardment_tactic;Чумная бомбардировка;;;;;;;;;;;;;x
 wc_raise_undead_tactic;Воскрешение нежити;;;;;;;;;;;;;x
 wc_empower_undead_tactic;Усиление нежити;;;;;;;;;;;;;x
-wc_cripple_tactic;Cripple;;;;;;;;;;;;;x
-wc_consume_magic_tactic;Consume Magic;;;;;;;;;;;;;x
-wc_torment_tactic;Torment;;;;;;;;;;;;;x
-wc_immolation_tactic;Immolation;;;;;;;;;;;;;x
+wc_cripple_tactic;Увечье;;;;;;;;;;;;;x
+wc_consume_magic_tactic;Поглощение магии;;;;;;;;;;;;;x
+wc_torment_tactic;Истязание;;;;;;;;;;;;;x
+wc_immolation_tactic;Ожог;;;;;;;;;;;;;x
 wc_blade_dance_tactic;Танец клинков;;;;;;;;;;;;;x
-wc_entangling_roots_tactic;Entangling Roots;;;;;;;;;;;;;x
-wc_rejuvenate_tactic;Rejuvenate;;;;;;;;;;;;;x
-wc_lunar_strike_tactic;Lunar Strike;;;;;;;;;;;;;x
+wc_entangling_roots_tactic;Гнев деревьев;;;;;;;;;;;;;x
+wc_rejuvenate_tactic;Омоложение;;;;;;;;;;;;;x
+wc_lunar_strike_tactic;Лунный удар;;;;;;;;;;;;;x
 wc_starfall_tactic;Звездопад;;;;;;;;;;;;;x
-wc_arcane_barrage_tactic;Arcane Barrage;;;;;;;;;;;;;x
+wc_arcane_barrage_tactic;Чародейский обстрел;;;;;;;;;;;;;x
 wc_blizzard_tactic;Метель;;;;;;;;;;;;;x
-wc_slow_tactic;Slow;;;;;;;;;;;;;x
-wc_flamestrike_tactic;Flamestrike;;;;;;;;;;;;;x
-wc_consecration_tactic;Consecration;;;;;;;;;;;;;x
-wc_judgement_tactic;Judgement;;;;;;;;;;;;;x
+wc_slow_tactic;Замедление;;;;;;;;;;;;;x
+wc_flamestrike_tactic;Волна огня;;;;;;;;;;;;;x
+wc_consecration_tactic;Освящение;;;;;;;;;;;;;x
+wc_judgement_tactic;Правосудие;;;;;;;;;;;;;x
 wc_holy_light_tactic;Святой Свет;;;;;;;;;;;;;x
-wc_retribution_tactic;Retribution;;;;;;;;;;;;;x
+wc_retribution_tactic;Воздаяние;;;;;;;;;;;;;x
 wc_heal_tactic;Исцеление;;;;;;;;;;;;;x
 wc_resurrection_tactic;Воскрешение;;;;;;;;;;;;;x
-wc_holy_nova_tactic;Holy Nova;;;;;;;;;;;;;x
+wc_holy_nova_tactic;Кольцо света;;;;;;;;;;;;;x
 wc_power_word_shield_tactic;Слово Силы: Щит;;;;;;;;;;;;;x
-wc_mindflay_tactic;Mindflay;;;;;;;;;;;;;x
-wc_mind_blast_tactic;Mind Blast;;;;;;;;;;;;;x
+wc_mindflay_tactic;Пытка разума;;;;;;;;;;;;;x
+wc_mind_blast_tactic;Взрыв разума;;;;;;;;;;;;;x
 wc_shadow_word_pain_tactic;Слово Тьмы: Боль;;;;;;;;;;;;;x
-wc_psychic_scream_tactic;Psychic Scream;;;;;;;;;;;;;x
-wc_hex_tactic;Hex;;;;;;;;;;;;;x
-wc_loa_bargain_tactic;Loa Bargain;;;;;;;;;;;;;x
+wc_psychic_scream_tactic;Ментальный крик;;;;;;;;;;;;;x
+wc_hex_tactic;Сглаз;;;;;;;;;;;;;x
+wc_loa_bargain_tactic;Сделка с Лоа;;;;;;;;;;;;;x
 wc_defensive_voodoo_tactic;Защитная магия Вуду;;;;;;;;;;;;;x
 wc_offensive_voodoo_tactic;Наступательная магия Вуду;;;;;;;;;;;;;x
-wc_far_sight_tactic;Far Sight;;;;;;;;;;;;;x
-wc_chain_lightning_tactic;Chain Lightning;;;;;;;;;;;;;x
-wc_healing_wave_tactic;Healing Wave;;;;;;;;;;;;;x
-wc_lava_surge_tactic;Lava Surge;;;;;;;;;;;;;x
+wc_far_sight_tactic;Дальнее зрение;;;;;;;;;;;;;x
+wc_chain_lightning_tactic;Цепная молния;;;;;;;;;;;;;x
+wc_healing_wave_tactic;Волна исцеления;;;;;;;;;;;;;x
+wc_lava_surge_tactic;Волна лавы;;;;;;;;;;;;;x
 wc_fear_trait;Страх;;;;;;;;;;;;;x
-wc_corruption_trait;Corruption;;;;;;;;;;;;;x
-wc_rain_of_fire_tactic;Rain of Fire;;;;;;;;;;;;;x
-wc_soul_link_tactic;Soul Link;;;;;;;;;;;;;x
-elephant_trample_tactic;Trample;;;;;;;;;;;;;x
+wc_corruption_trait;Порча;;;;;;;;;;;;;x
+wc_rain_of_fire_tactic;Огненный ливень;;;;;;;;;;;;;x
+wc_soul_link_tactic;Родство душ;;;;;;;;;;;;;x
+elephant_trample_tactic;Тяжелый шаг;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Generic;;;;;;;;;;;;;;x
-wc_ret_gen_inf;Infantry Division;;;;;;;;;;;;;x
-wc_ret_gen_ran;Ranged Battalion;;;;;;;;;;;;;x
-wc_ret_gen_cav;Cavalry Squadron;;;;;;;;;;;;;x
-wc_ret_gen_cas;Caster Company;;;;;;;;;;;;;x
-wc_ret_gen_aer;Aerial Company;;;;;;;;;;;;;x
-wc_ret_gen_van;Vanguard Division;;;;;;;;;;;;;x
-wc_ret_gen_adv;Adventurers;;;;;;;;;;;;;x
-wc_ret_gen_art;Artillery Company;;;;;;;;;;;;;x
+wc_ret_gen_inf;Пехотная дивизия;;;;;;;;;;;;;x
+wc_ret_gen_ran;Стрелковый батальон;;;;;;;;;;;;;x
+wc_ret_gen_cav;Кавалерийский эскадрон;;;;;;;;;;;;;x
+wc_ret_gen_cas;Отряд заклинателей;;;;;;;;;;;;;x
+wc_ret_gen_aer;Воздушный отряд;;;;;;;;;;;;;x
+wc_ret_gen_van;Авангардная дивизия;;;;;;;;;;;;;x
+wc_ret_gen_adv;Искатели приключений;;;;;;;;;;;;;x
+wc_ret_gen_art;Артиллерийский отряд;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Tribal;;;;;;;;;;;;;;x
-wc_ret_tribe_pure;Tribal Mob;;;;;;;;;;;;;
-wc_ret_tribe_inf;Warriors;;;;;;;;;;;;;x
-wc_ret_tribe_ran;Hunters;;;;;;;;;;;;;x
-wc_ret_tribe_cav;Outriders;;;;;;;;;;;;;x
-wc_ret_tribe_van;Champions;;;;;;;;;;;;;x
-wc_ret_tribe_cas;Totemists;;;;;;;;;;;;;x
+wc_ret_tribe_pure;Толпа племенных воинов;;;;;;;;;;;;;
+wc_ret_tribe_inf;Воины;;;;;;;;;;;;;x
+wc_ret_tribe_ran;Охотники;;;;;;;;;;;;;x
+wc_ret_tribe_cav;Всадники;;;;;;;;;;;;;x
+wc_ret_tribe_van;Чемпионы;;;;;;;;;;;;;x
+wc_ret_tribe_cas;Тотемисты;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Cultural;;;;;;;;;;;;;;x
-wc_ret_cul_qiraji;Silithid Swarm;;;;;;;;;;;;;x
-wc_ret_cul_nerubian;Spiderlords;;;;;;;;;;;;;x
-wc_ret_cul_centaur;Outrunners;;;;;;;;;;;;;x
-wc_ret_cul_eredar;Chaosborn;;;;;;;;;;;;;x
-wc_ret_cul_draenei;Peacekeepers;;;;;;;;;;;;;x
-wc_ret_cul_dragon;Drakes;;;;;;;;;;;;;x
-wc_ret_cul_dryad;Grove Host;;;;;;;;;;;;;x
-wc_ret_cul_bronzebeard;Mountaineers;;;;;;;;;;;;;x
-wc_ret_cul_wildhammer;Gryphon Knights;;;;;;;;;;;;;x
-wc_ret_cul_darkiron;Dragoons;;;;;;;;;;;;;x
-wc_ret_cul_frostborn;Axemasters;;;;;;;;;;;;;x
-wc_ret_cul_furbolg;Ursas;;;;;;;;;;;;;x
-wc_ret_cul_gnoll;Brutes;;;;;;;;;;;;;x
-wc_ret_cul_wolvar;Tundra Hunters;;;;;;;;;;;;;x
-wc_ret_cul_gnome;Commandos;;;;;;;;;;;;;x
-wc_ret_cul_goblin;Shredders;;;;;;;;;;;;;x
-wc_ret_cul_harpy;Roguefeathers;;;;;;;;;;;;;x
-wc_ret_cul_highelf;Rangers;;;;;;;;;;;;;x
-wc_ret_cul_bloodelf;Spellbreakers;;;;;;;;;;;;;x
-wc_ret_cul_hozen;Pounders;;;;;;;;;;;;;x
-wc_ret_cul_lordaeron;Knights;;;;;;;;;;;;;x
-wc_ret_cul_gilnean;Greyguard;;;;;;;;;;;;;x
-wc_ret_cul_arathor;Troll Hunters;;;;;;;;;;;;;x
-wc_ret_cul_azeroth;7th Legion;;;;;;;;;;;;;x
-wc_ret_cul_dalaran;Archmages;;;;;;;;;;;;;x
-wc_ret_cul_alterac;Mountain Rangers;;;;;;;;;;;;;x
-wc_ret_cul_tiras;Marines;;;;;;;;;;;;;x
-wc_ret_cul_northern;Huntsmen;;;;;;;;;;;;;x
-wc_ret_cul_pirate;Corsairs;;;;;;;;;;;;;x
-wc_ret_cul_kobold;Candleholders;;;;;;;;;;;;;x
-wc_ret_cul_snobold;Tundra Guard;;;;;;;;;;;;;x
-wc_ret_cul_magnataur;Crushers;;;;;;;;;;;;;x
-wc_ret_cul_murloc;Tide Hunters;;;;;;;;;;;;;x
-wc_ret_cul_gorloc;Oracles;;;;;;;;;;;;;x
-wc_ret_cul_naga;Royal Guard;;;;;;;;;;;;;x
-wc_ret_cul_nightelf;Sentinels;;;;;;;;;;;;;x
-wc_ret_cul_highborne;Archconjurers;;;;;;;;;;;;;x
-wc_ret_cul_ogre;Maulers;;;;;;;;;;;;;x
-wc_ret_cul_warsong;Outriders;;;;;;;;;;;;;x
-wc_ret_cul_shadowm;Darkcasters;;;;;;;;;;;;;x
-wc_ret_cul_blhollow;Savages;;;;;;;;;;;;;x
-wc_ret_cul_blackrock;Demolishers;;;;;;;;;;;;;x
-wc_ret_cul_bblade;Blademasters;;;;;;;;;;;;;x
-wc_ret_cul_storeave;Warlocks;;;;;;;;;;;;;x
-wc_ret_cul_thunlord;Beastmasters;;;;;;;;;;;;;x
-wc_ret_cul_bonechew;Cannibals;;;;;;;;;;;;;x
-wc_ret_cul_laughskull;Enforcers;;;;;;;;;;;;;x
-wc_ret_cul_shathand;Gladiators;;;;;;;;;;;;;x
-wc_ret_cul_frostwolf;Raiders;;;;;;;;;;;;;x
-wc_ret_cul_twilhammer;Necrolytes;;;;;;;;;;;;;x
-wc_ret_cul_dragonmaw;Dragon Riders;;;;;;;;;;;;;x
-wc_ret_cul_pygmy;Stronglegs;;;;;;;;;;;;;x
-wc_ret_cul_quillboat;Thornguard;;;;;;;;;;;;;x
-wc_ret_cul_satyr;Hellcallers;;;;;;;;;;;;;x
-wc_ret_cul_sethrak;Desert Raiders;;;;;;;;;;;;;x
-wc_ret_cul_tauren;Braves;;;;;;;;;;;;;x
-wc_ret_cul_gurubashi;Razzashi Cavalry;;;;;;;;;;;;;x
-wc_ret_cul_amani;Guardians;;;;;;;;;;;;;x
-wc_ret_cul_zandalari;Warguard;;;;;;;;;;;;;x
-wc_ret_cul_drakkari;Lancers;;;;;;;;;;;;;x
-wc_ret_cul_darktroll;Trappers;;;;;;;;;;;;;x
-wc_ret_cul_farraki;Assassins;;;;;;;;;;;;;x
-wc_ret_cul_bloodtroll;War Mothers;;;;;;;;;;;;;x
-we_ret_cul_tuskarr;Turtle Cossacks;;;;;;;;;;;;;x
-wc_ret_cul_vrykul;Thanes;;;;;;;;;;;;;x
-wc_ret_cul_vulpera;Merchant Gunner;;;;;;;;;;;;;x
-wc_ret_cul_giant;Giant Crushers;;;;;;;;;;;;;x
-wc_ret_cul_titanforged;Titan-forged Legion;;;;;;;;;;;;;x
+wc_ret_cul_qiraji;Рой силитидов;;;;;;;;;;;;;x
+wc_ret_cul_nerubian;Паучьи повелители;;;;;;;;;;;;;x
+wc_ret_cul_centaur;Наездники;;;;;;;;;;;;;x
+wc_ret_cul_eredar;Дети Хаоса;;;;;;;;;;;;;x
+wc_ret_cul_draenei;Миротворцы;;;;;;;;;;;;;x
+wc_ret_cul_dragon;Дрейки;;;;;;;;;;;;;x
+wc_ret_cul_dryad;Хранители рощи;;;;;;;;;;;;;x
+wc_ret_cul_bronzebeard;Горные пехотинцы;;;;;;;;;;;;;x
+wc_ret_cul_wildhammer;Рыцари на грифонах;;;;;;;;;;;;;x
+wc_ret_cul_darkiron;Драгуны;;;;;;;;;;;;;x
+wc_ret_cul_frostborn;Мастера топора;;;;;;;;;;;;;x
+wc_ret_cul_furbolg;Урсы;;;;;;;;;;;;;x
+wc_ret_cul_gnoll;Громилы;;;;;;;;;;;;;x
+wc_ret_cul_wolvar;Тундровые охотники;;;;;;;;;;;;;x
+wc_ret_cul_gnome;Коммандо;;;;;;;;;;;;;x
+wc_ret_cul_goblin;Крошшеры;;;;;;;;;;;;;x
+wc_ret_cul_harpy;Крылатые разбойницы;;;;;;;;;;;;;x
+wc_ret_cul_highelf;Следопыты;;;;;;;;;;;;;x
+wc_ret_cul_bloodelf;Разрушители чар;;;;;;;;;;;;;x
+wc_ret_cul_hozen;Крушители;;;;;;;;;;;;;x
+wc_ret_cul_lordaeron;Рыцари;;;;;;;;;;;;;x
+wc_ret_cul_gilnean;Волчьи стражи;;;;;;;;;;;;;x
+wc_ret_cul_arathor;Охотники на троллей;;;;;;;;;;;;;x
+wc_ret_cul_azeroth;7-ой Легион;;;;;;;;;;;;;x
+wc_ret_cul_dalaran;Архимаги;;;;;;;;;;;;;x
+wc_ret_cul_alterac;Горные рейнджеры;;;;;;;;;;;;;x
+wc_ret_cul_tiras;Морские пехотинцы;;;;;;;;;;;;;x
+wc_ret_cul_northern;Егеря;;;;;;;;;;;;;x
+wc_ret_cul_pirate;Корсары;;;;;;;;;;;;;x
+wc_ret_cul_kobold;Носители свечей;;;;;;;;;;;;;x
+wc_ret_cul_snobold;Гвардия Тундры;;;;;;;;;;;;;x
+wc_ret_cul_magnataur;Сокрушители;;;;;;;;;;;;;x
+wc_ret_cul_murloc;Приливные охотники;;;;;;;;;;;;;x
+wc_ret_cul_gorloc;Оракулы;;;;;;;;;;;;;x
+wc_ret_cul_naga;Королевская гвардия;;;;;;;;;;;;;x
+wc_ret_cul_nightelf;Часовые;;;;;;;;;;;;;x
+wc_ret_cul_highborne;Чародеи;;;;;;;;;;;;;x
+wc_ret_cul_ogre;Изверги;;;;;;;;;;;;;x
+wc_ret_cul_warsong;Всадники;;;;;;;;;;;;;x
+wc_ret_cul_shadowm;Темные маги;;;;;;;;;;;;;x
+wc_ret_cul_blhollow;Дикари;;;;;;;;;;;;;x
+wc_ret_cul_blackrock;Разрушители;;;;;;;;;;;;;x
+wc_ret_cul_bblade;Мастера клинка;;;;;;;;;;;;;x
+wc_ret_cul_storeave;Чернокнижники;;;;;;;;;;;;;x
+wc_ret_cul_thunlord;Повелители зверей;;;;;;;;;;;;;x
+wc_ret_cul_bonechew;Каннибалы;;;;;;;;;;;;;x
+wc_ret_cul_laughskull;Каратели;;;;;;;;;;;;;x
+wc_ret_cul_shathand;Гладиаторы;;;;;;;;;;;;;x
+wc_ret_cul_frostwolf;Налетчики;;;;;;;;;;;;;x
+wc_ret_cul_twilhammer;Некролиты;;;;;;;;;;;;;x
+wc_ret_cul_dragonmaw;Наездники на драконах;;;;;;;;;;;;;x
+wc_ret_cul_pygmy;Крепконоги;;;;;;;;;;;;;x
+wc_ret_cul_quillboat;Терновые стражи;;;;;;;;;;;;;x
+wc_ret_cul_satyr;Призыватели огня;;;;;;;;;;;;;x
+wc_ret_cul_sethrak;Пустынные налетчики;;;;;;;;;;;;;x
+wc_ret_cul_tauren;Храбрецы;;;;;;;;;;;;;x
+wc_ret_cul_gurubashi;Всадники Раззаши;;;;;;;;;;;;;x
+wc_ret_cul_amani;Стражи;;;;;;;;;;;;;x
+wc_ret_cul_zandalari;Мастера войны;;;;;;;;;;;;;x
+wc_ret_cul_drakkari;Пикейщики;;;;;;;;;;;;;x
+wc_ret_cul_darktroll;Звероловы;;;;;;;;;;;;;x
+wc_ret_cul_farraki;Убийцы;;;;;;;;;;;;;x
+wc_ret_cul_bloodtroll;Боевые матроны;;;;;;;;;;;;;x
+we_ret_cul_tuskarr;Всадники на черепахах;;;;;;;;;;;;;x
+wc_ret_cul_vrykul;Таны;;;;;;;;;;;;;x
+wc_ret_cul_vulpera;Торговцы-наводчики;;;;;;;;;;;;;x
+wc_ret_cul_giant;Гигантские крушители;;;;;;;;;;;;;x
+wc_ret_cul_titanforged;Легион кованных титанами;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Religious;;;;;;;;;;;;;;x
-wc_ret_rel_scourge;Undead Swarm;;;;;;;;;;;;;x
-wc_ret_rel_scourge2;Frost Wyrms;;;;;;;;;;;;;x
-wc_ret_rel_scourge3;Flesh Titans;;;;;;;;;;;;;x
-wc_ret_rel_scourge4;Death Knights;;;;;;;;;;;;;x
-wc_ret_rel_shaytar;Mindless Slaves;;;;;;;;;;;;;x
-wc_ret_rel_shaytar2;Cultists;;;;;;;;;;;;;x
-wc_ret_rel_shaytar3;Faceless Reavers;;;;;;;;;;;;;x
-wc_ret_rel_shaytar4;Mutants;;;;;;;;;;;;;x
-wc_ret_rel_legion;Lesser Demons;;;;;;;;;;;;;x
-wc_ret_rel_legion2;Greater Demons;;;;;;;;;;;;;x
-wc_ret_rel_legion3;Fel Reavers;;;;;;;;;;;;;x
-wc_ret_rel_legion4;Doomguard;;;;;;;;;;;;;x
-wc_ret_rel_holylight;Paladins;;;;;;;;;;;;;x
-wc_ret_rel_cultofloa;Loa Host;;;;;;;;;;;;;x
-wc_ret_rel_cultofloa2;Avatars;;;;;;;;;;;;;x
-wc_ret_rel_illidari;Demonhunters;;;;;;;;;;;;;x
-wc_ret_rel_kaldoreireligion;Animal Host;;;;;;;;;;;;;x
-wc_ret_rel_kaldoreireligion2;Ancients;;;;;;;;;;;;;x
+wc_ret_rel_scourge;Рой нежити;;;;;;;;;;;;;x
+wc_ret_rel_scourge2;Ледяные змеи;;;;;;;;;;;;;x
+wc_ret_rel_scourge3;Оживленные гиганты;;;;;;;;;;;;;x
+wc_ret_rel_scourge4;Рыцари Смерти;;;;;;;;;;;;;x
+wc_ret_rel_shaytar;Безмозглые рабы;;;;;;;;;;;;x
+wc_ret_rel_shaytar2;Культисты;;;;;;;;;;;;;x
+wc_ret_rel_shaytar3;Безликие разбойники;;;;;;;;;;;;;x
+wc_ret_rel_shaytar4;Мутанты;;;;;;;;;;;;;x
+wc_ret_rel_legion;Меньшие демоны;;;;;;;;;;;;;x
+wc_ret_rel_legion2;Большие демоны;;;;;;;;;;;;;x
+wc_ret_rel_legion3;Скверноботы;;;;;;;;;;;;;x
+wc_ret_rel_legion4;Стражи ужаса;;;;;;;;;;;;;x
+wc_ret_rel_holylight;Паладины;;;;;;;;;;;;;x
+wc_ret_rel_cultofloa;Воинство Лоа;;;;;;;;;;;;;x
+wc_ret_rel_cultofloa2;Аватары;;;;;;;;;;;;;x
+wc_ret_rel_illidari;Охотники на демонов;;;;;;;;;;;;;x
+wc_ret_rel_kaldoreireligion;Звериная стая;;;;;;;;;;;;;x
+wc_ret_rel_kaldoreireligion2;Древние;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Nomadic;;;;;;;;;;;;;;x
-wc_ret_horde_ani;Raiders;;;;;;;;;;;;;x
-wc_ret_horde_cav;Outriders;;;;;;;;;;;;;x
-wc_ret_horde_ran;Marauders;;;;;;;;;;;;;x
-wc_ret_horde_cas;Windchasers;;;;;;;;;;;;;x
-wc_ret_horde_lrg;Battle Lords;;;;;;;;;;;;;x
+wc_ret_horde_ani;Налетчики;;;;;;;;;;;;;x
+wc_ret_horde_cav;Всадники;;;;;;;;;;;;;x
+wc_ret_horde_ran;Мародеры;;;;;;;;;;;;;x
+wc_ret_horde_cas;Ветроловы;;;;;;;;;;;;;x
+wc_ret_horde_lrg;Повелители битв;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 #Phase Descriptions;;;;;;;;;;;;;;x
-COMBATVIEW_PHASE_DESC_PURSUE;In the Pursue phase, one of the armies has routed and the other one is chasing them down.\n§Y[GetKnightsName]§W, §Y[GetHorseArchersName]§W, §Y[GetDragonsName]§W and §Y[GetLightCavalryName]§W excel in the §YPursue Phase§W!;;;;;;;;;;;;;x
-COMBATVIEW_PHASE_DESC_SKIRMISH;In the Skirmish phase, both armies will stay at a distance.\n§Y[GetActualLightInfantryName]§W, §Y[GetArchersName]§W, §Y[GetArchmageName]§W, §Y[GetSiegeMachinesName]§W and §Y[GetHorseArchersName]§W excel in the §YSkirmish Phase§W!;;;;;;;;;;;;;x
-COMBATVIEW_PHASE_DESC_MELEE;In the Melee phase, both armies are locked in close combat.\n§Y[GetActualHeavyInfantryName]§W, §Y[GetPikemenName]§W, §Y[GetLightCavalryName]§W, §Y[GetLargeCavalryName]§W, §Y[GetUndeadName]§W, §Y[GetWarMachinesName]§W, §Y[GetAnimalsName]§W, §Y[GetEliteInfantryName]§W, §Y[GetSwarmName]§W, §Y[GetThrallsName]§W excel in the §YMelee Phase§W!;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_PURSUE;На этапе Преследования одна из армий была разбита, а другая преследует выживших.\n§Y[GetKnightsName]§W, §Y[GetHorseArchersName]§W, §Y[GetDragonsName]§W и §Y[GetLightCavalryName]§W имеют преимущество на фазе §YPursue Phase§W!;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_SKIRMISH;На этапе Перестрелки обе армии ведут бой на расстоянии.\n§Y[GetActualLightInfantryName]§W, §Y[GetArchersName]§W, §Y[GetArchmageName]§W, §Y[GetSiegeMachinesName]§W и §Y[GetHorseArchersName]§W имеют преимущество на фазе §YSkirmish Phase§W!;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_MELEE;На этом этапе обе армии скованы ближним боем.\n§Y[GetActualHeavyInfantryName]§W, §Y[GetPikemenName]§W, §Y[GetLightCavalryName]§W, §Y[GetLargeCavalryName]§W, §Y[GetUndeadName]§W, §Y[GetWarMachinesName]§W, §Y[GetAnimalsName]§W, §Y[GetEliteInfantryName]§W, §Y[GetSwarmName]§W, §Y[GetThrallsName]§W имеют преимущество на фазе §YMelee Phase§W!;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
