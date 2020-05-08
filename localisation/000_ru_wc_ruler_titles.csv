@@ -15,8 +15,8 @@ title_trade_prince;Торговый принц;;;;;;;;;;;;;x
 title_trade_prince_female;Торговая принцесса;;;;;;;;;;;;;x
 LICH_KING_TITLE;Король-лич;;;;;;;;;;;;;x
 LICH_QUEEN_TITLE;Королева-лич;;;;;;;;;;;;;x
-QUARTERMASTER_TITLE;Квартирмейстер;;;;;;;;;;;;;x
-QUARTERMASTER_FOA;Квартирмейстер;;;;;;;;;;;;;x
+QUARTERMASTER_TITLE;Интендант;;;;;;;;;;;;;x
+QUARTERMASTER_FOA;Интендант;;;;;;;;;;;;;x
 LORD_TITLE;Лорд;;;;;;;;;;;;;x
 LADY_TITLE;Леди;;;;;;;;;;;;;x
 TWILIGHT_VICEROY_TITLE;Сумеречный наместник;;;;;;;;;;;;;x
@@ -77,8 +77,8 @@ CHIEFTAIN_TITLE;Вождь;;;;;;;;;;;;;x
 CHIEFTAIN_FEM_TITLE;Предводительница;;;;;;;;;;;;;x
 MAGISTER_TITLE;Магистр;;;;;;;;;;;;;x
 MAGISTER_FEM_TITLE;Магистр;;;;;;;;;;;;;x
-OVERLORD_TITLE;Властитель;;;;;;;;;;;;;x
-OVERLORD_FEMALE_TITLE;Властительница;;;;;;;;;;;;;x
+OVERLORD_TITLE;Повелитель;;;;;;;;;;;;;x
+OVERLORD_FEMALE_TITLE;Повелительница;;;;;;;;;;;;;x
 HERALD_TITLE;Вестник;;;;;;;;;;;;;x
 HERALD_FEM_TITLE;Вестница;;;;;;;;;;;;;x
 HIGHFATHER_TITLE;Верховный отец;;;;;;;;;;;;;x
