@@ -62,54 +62,54 @@ EVTOPTAQ_WCLOA_1010;Торга, Черепаха!;;;;;;;;;;;;;x
 EVTOPTAR_WCLOA_1010;Занза, Лоа Зандалара!;;;;;;;;;;;;;x
 EVTOPTAS_WCLOA_1010;Я буду почитать древнего Лоа из Зандалара!;;;;;;;;;;;;;x
 #Modifiers;;;;;;;;;;;;;;
-follower_of_nalorakk;Follower of Nalorakk;Disciple de Nalorakk;Anbeter Nalorakks;;;;;;;;;;;x
-follower_of_akilzon;Follower of Akil'zon;Disciple d'Akil'zon;Anbeter Akil'zons;;;;;;;;;;;x
-follower_of_janalai;Follower of Jan'alai;Disciple de Jan'alai;Anbeter Jan'alais;;;;;;;;;;;x
-follower_of_halazzi;Follower of Halazzi;Disciple de Halazzi;Anbeter Halazzis;;;;;;;;;;;x
-follower_of_mahamba;Follower of Mahamba;Disciple de Mahamba;Anbeter Mahambas;;;;;;;;;;;x
-follower_of_tsulkalu;Follower of Tsul'Kalu;Disciple de Tsul'Kalu;Anbeter Tsul'Kalus;;;;;;;;;;;x
-follower_of_pogeyan;Follower of Pogeyan;Disciple de Pogeyan;Anbeter Pogeyans;;;;;;;;;;;x
-follower_of_bwonsamdi;Follower of Bwonsamdi;Disciple de Bwonsamdi;Anbeter Bwonsamdis;;;;;;;;;;;x
-follower_of_shango;Follower of Shango;Disciple de Shango;Anbeter Shangos;;;;;;;;;;;x
-follower_of_shirvallah;Follower of Shirvallah;Disciple de Shirvallah;Anbeter Shirvallahs;;;;;;;;;;;x
-follower_of_hireek;Follower of Hir'eek;Disciple de Hir'eek;Anbeter Hir'eeks;;;;;;;;;;;x
-follower_of_shadra;Follower of Elortha no Shadra;Disciple d'Elortha no Shadra;Anbeter Elortha no Shadras;;;;;;;;;;;x
-follower_of_akali;Follower of Akali;Disciple d'Akali;Anbeter Akalis;;;;;;;;;;;x
-follower_of_harkoa;Follower of Har'koa;Disciple de Har'koa;Anbeter Har'koas;;;;;;;;;;;x
-follower_of_mamtoth;Follower of Mam'toth;Disciple de Mam'toth;Anbeter Mam'toths;;;;;;;;;;;x
-follower_of_quetzlun;Follower of Quetz'lun;Disciple de Quetz'lun;Anbeter Quetz'luns;;;;;;;;;;;x
-follower_of_rhunok;Follower of Rhunok;Disciple de Rhunok;Anbeter Rhunoks;;;;;;;;;;;x
-follower_of_sseratus;Follower of Sseratus;Disciple de Sseratus;Anbeter Sseratuss;;;;;;;;;;;x
-follower_of_tharonja;Follower of Tharon'ja;Disciple de Tharon'ja;Anbeter Tharon'jas;;;;;;;;;;;x
-follower_of_dubrajin;Follower of Dubra'Jin;Disciple de Dubra'jin;Anbeter Dubra'Jins;;;;;;;;;;;x
-follower_of_zimabwa;Follower of Zim'Abwa;Disciple de Zim'Abwa;Anbeter Zim'Abwas;;;;;;;;;;;x
-follower_of_zimrhuk;Follower of Zim'Rhuk;Disciple de Zim'Rhuk;Anbeter Zim'Rhuks;;;;;;;;;;;x
-follower_of_zimtorga;Follower of Zim'Torga;Disciple de Zim'Torga;Anbeter Zim'Torgas;;;;;;;;;;;x
-follower_of_bethekk;Follower of Bethekk;Disciple de Bethekk;Anbeter Bethekks;;;;;;;;;;;x
-follower_of_hethiss;Follower of Hethiss;Disciple de Hethiss;Anbeter Hethisss;;;;;;;;;;;x
-follower_of_kimbul;Follower of Eraka no Kimbul;Disciple de Eraka no Kimbul;Anbeter Eraka no Kimbuls;;;;;;;;;;;x
-follower_of_muehzala;Follower of Ueetay no Mueh'zala;Disciple de Ueetay no Mueh'zala;Anbeter Ueetay no Mueh'zalas;;;;;;;;;;;x
-follower_of_akildarah;Follower of Akil'darah;Disciple d'Akil'darah;Anbeter Akil'darahs;;;;;;;;;;;x
-follower_of_akunda;Follower of Akunda;Disciple d'Akunda;Anbeter Akundas;;;;;;;;;;;x
-follower_of_dambala;Follower of Dambala;Disciple de Dambala;Anbeter Dambalas;;;;;;;;;;;x
-follower_of_gral;Follower of Gral;Disciple de Gral;Anbeter Grals;;;;;;;;;;;x
-follower_of_gonk;Follower of Gonk;Disciple de Gonk;Anbeter Gonks;;;;;;;;;;;x
-follower_of_jani;Follower of Jani;Disciple de Jani;Anbeter Janis;;;;;;;;;;;x
-follower_of_kragwa;Follower of Krag'wa;Disciple de Krag'wa;Anbeter Krag'was;;;;;;;;;;;x
-follower_of_lukou;Follower of Lukou;Disciple de Lukou;Anbeter Lukous;;;;;;;;;;;x
-follower_of_paku;Follower of Pa'ku;Disciple de Pa'ku;Anbeter Pa'kus;;;;;;;;;;;x
-follower_of_rezan;Follower of Rezan;Disciple de Rezan;Anbeter Rezans;;;;;;;;;;;x
-follower_of_sethraliss;Follower of Sethraliss;Disciple de Sethraliss;Anbeter Sethralisss;;;;;;;;;;;x
-follower_of_torcali;Follower of Torcali;Disciple de Torcali;Anbeter Torcalis;;;;;;;;;;;x
-follower_of_torga;Follower of Torga;Disciple de Torga;Anbeter Torgas;;;;;;;;;;;x
-follower_of_zanza;Follower of Zanza;Disciple de Zanza;Anbeter Zanzas;;;;;;;;;;;x
-opinion_loa_vassal;Devout vassal;Vassal dйvot;Frommer Vasall;;;;;;;;;;;x
+follower_of_nalorakk;Последователь Налоракка;;;;;;;;;;;;;x
+follower_of_akilzon;Последователь Акил'зона;;;;;;;;;;;;;x
+follower_of_janalai;Последователь Джан'алай;;;;;;;;;;;;;x
+follower_of_halazzi;Последователь Халаззи;;;;;;;;;;;;;x
+follower_of_mahamba;Последователь Махамбы;;;;;;;;;;;;;x
+follower_of_tsulkalu;Последователь Тсул'Калу;;;;;;;;;;;;;x
+follower_of_pogeyan;Последователь Погеана;;;;;;;;;;;;;x
+follower_of_bwonsamdi;Последователь Бвонсамди;;;;;;;;;;;;;x
+follower_of_shango;Последователь Шанго;;;;;;;;;;;;;x
+follower_of_shirvallah;Последователь Ширваллы;;;;;;;;;;;;;x
+follower_of_hireek;Последователь Хир'ика;;;;;;;;;;;;;x
+follower_of_shadra;Последователь Элорта но Шадры;;;;;;;;;;;;;x
+follower_of_akali;Последователь Акали;;;;;;;;;;;;;x
+follower_of_harkoa;Последователь Хар'коа;;;;;;;;;;;;;x
+follower_of_mamtoth;Последователь Мам'тота;;;;;;;;;;;;;x
+follower_of_quetzlun;Последователь Кетц'луна;;;;;;;;;;;;;x
+follower_of_rhunok;Последователь Рунока;;;;;;;;;;;;;x
+follower_of_sseratus;Последователь Шшератуса;;;;;;;;;;;;;x
+follower_of_tharonja;Последователь Тарон'джи;;;;;;;;;;;;;x
+follower_of_dubrajin;Последователь Дубра'Джина;;;;;;;;;;;;;x
+follower_of_zimabwa;Последователь Зим'Абвы;;;;;;;;;;;;;x
+follower_of_zimrhuk;Последователь Зим'Рука;;;;;;;;;;;;;x
+follower_of_zimtorga;Последователь Зим'Торги;;;;;;;;;;;;;x
+follower_of_bethekk;Последователь Бетекка;;;;;;;;;;;;;x
+follower_of_hethiss;Последователь Хетисса;;;;;;;;;;;;;x
+follower_of_kimbul;Последователь Эрака но Кимбула;;;;;;;;;;;;;x
+follower_of_muehzala;Последователь Уеетай но Муе'залы;;;;;;;;;;;;;x
+follower_of_akildarah;Последователь Акил'дара;;;;;;;;;;;;;x
+follower_of_akunda;Последователь Акунды;;;;;;;;;;;;;x
+follower_of_dambala;Последователь Дамбалы;;;;;;;;;;;;;x
+follower_of_gral;Последователь Грала;;;;;;;;;;;;;x
+follower_of_gonk;Последователь Гонка;;;;;;;;;;;;;x
+follower_of_jani;Последователь Джани;;;;;;;;;;;;;x
+follower_of_kragwa;Последователь Краг'вы;;;;;;;;;;;;;x
+follower_of_lukou;Последователь Луку;;;;;;;;;;;;;x
+follower_of_paku;Последователь Па'ку;;;;;;;;;;;;;x
+follower_of_rezan;Последователь Резана;;;;;;;;;;;;;x
+follower_of_sethraliss;Последователь Сетралисса;;;;;;;;;;;;;x
+follower_of_torcali;Последователь Торкали;;;;;;;;;;;;;x
+follower_of_torga;Последователь Торги;;;;;;;;;;;;;x
+follower_of_zanza;Последователь Занзы;;;;;;;;;;;;;x
+opinion_loa_vassal;Набожный вассал;;;;;;;;;;;;;x
 #Event Modifiers;;;;;;;;;;;;;;
-nalorakks_blessing;Nalorakk's Blessing;Bйnйdiction de Nalorakk;Nalorakks Segen;;;;;;;;;;;x
-akalis_blessing;Akali's Blessing;Bйnйdiction d'Akali;Akalis Segen;;;;;;;;;;;x
-gonks_blessing;Gonk's Blessing;Bйnйdiction de Gonk;Gonks Segen;;;;;;;;;;;x
-grals_blessing;Gral's Blessing;Bйnйdiction de Gral;Grals Segen;;;;;;;;;;;x
-harkoas_blessing;Har'koa's Blessing;Bйnйdiction d'Har'koa;Har'koas Segen;;;;;;;;;;;x
-janis_blessing;Jani's Blessing;Bйnйdiction de Jani;Janis Segen;;;;;;;;;;;x
-mamtoths_blessing;Mam'toth's Blessing;Bйnйdiction de Mam'toth;Mam'toths Segen;;;;;;;;;;;x
-torgas_blessing;Torga's Blessing;Bйnйdiction de Torga;Torgas Segen;;;;;;;;;;;x
+nalorakks_blessing;Благословение Налоракка;;;;;;;;;;;;;x
+akalis_blessing;Благословение Акали;;;;;;;;;;;;;x
+gonks_blessing;Благословение Гонка;;;;;;;;;;;;;x
+grals_blessing;Благословение Грала;;;;;;;;;;;;;x
+harkoas_blessing;Благословение Хар'коа;;;;;;;;;;;;;x
+janis_blessing;Благословение Джани;;;;;;;;;;;;;x
+mamtoths_blessing;Благословение Мам'тота;;;;;;;;;;;;;x
+torgas_blessing;Благословение Торги;;;;;;;;;;;;;x
