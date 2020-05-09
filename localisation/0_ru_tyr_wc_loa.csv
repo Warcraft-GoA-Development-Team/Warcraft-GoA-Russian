@@ -1,66 +1,66 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-Loa_group_option_next_1;Show me more Loa!;;Zeigt mir weitere Gцtter!;;;;;;;;;;;x
-Loa_group_option_previous_1;Show me the previous Loa!;;Zeigt mir die vorherigen Gцtter!;;;;;;;;;;;x
-Loa1001;Early troll tribes, though varying wildly in customs and traditions, all shared a common religion: the worship and reverence of the Loa. Pick one of these Loa to worship and gain a fraction of their power and wisdom!;;Die frьhen Trollstдmme, obwohl sie in ihren Brдuchen und Traditionen variieren, teilten alle eine gemeinsame Religion: die Anbetung und Verehrung der Wilden Gцtter. Jetzt ist es an der Zeit, eine dieser Gottheiten auszuwдhlen und ihrer Weisheit zu folgen.;;;;;;;;;;;x
-Loa_group_option_1;Amani Loa;Loa amani;Amani Loa;;;;;;;;;;;x
-Loa_group_option_2;Bloodscalp Totemic Spirits;Esprits totйmiques scalps-rouges;Blutskalp Totemgeister;;;;;;;;;;;x
-Loa_group_option_3;Darkspear Loa;Loa sombrelance;Darkspear Loa;;;;;;;;;;;x
-Loa_group_option_4;Drakkari Loa;Loa drakkari;Drakkari Loa;;;;;;;;;;;x
-Loa_group_option_5;Gurubashi Loa;Loa gurubashi;Gurubashi Loa;;;;;;;;;;;x
-Loa_group_option_6;Sandfury Loa;Loa furie-des-sables;Sandfury Loa;;;;;;;;;;;x
-Loa_group_option_7;Vilebranch and Witherbark Loa;Loa vilebranche et fanйcorce;Blutfratzen und Bleichbarken Loa;;;;;;;;;;;x
-Loa_group_option_8;Zandalari Loa;Loa zandalari;Zandalari Loa;;;;;;;;;;;x
-Loa_group_option_9;Presumed Loa;Loa prйsumй;Angenommene Loa;;;;;;;;;;;x
+Loa_group_option_next_1;Покажите мне больше Лоа!;;;;;;;;;;;;;x
+Loa_group_option_previous_1;Покажите мне предыдущих Лоа;;Zeigt mir die vorherigen Gцtter!;;;;;;;;;;;x
+Loa1001;Несмотря на культурные различия между племенами троллей, их всех объединяет вера в Лоа. Вам следует выбрать одного из этих богов в качестве покровителя и следовать его мудрости.;;;;;;;;;;;;;x
+Loa_group_option_1;Аманийские Лоа;;;;;;;;;;;;;x
+Loa_group_option_2;Тотемические духи племени Кровавого Скальпа;;;;;;;;;;;;;x
+Loa_group_option_3;Лоа племени Темного Копья;;;;;;;;;;;;;x
+Loa_group_option_4;Лоа племени Драккари;;;;;;;;;;;;;x
+Loa_group_option_5;Лоа племени Гурубаши;;;;;;;;;;;;;x
+Loa_group_option_6;Лоа племени Песчаной Бури;;;;;;;;;;;;;x
+Loa_group_option_7;Лоа племен Порочной Ветви и Сухокожих;;;;;;;;;;;;;x
+Loa_group_option_8;Зандаларские Лоа;;;;;;;;;;;;;x
+Loa_group_option_9;Прочие Лоа;;;;;;;;;;;;;x
 #Decisions;;;;;;;;;;;;;;
-pick_main_loa;Pick a Loa to Worship;Choisir un Loa а vйnйrer;Wдhlt einen Loa zum Anbeten;;;;;;;;;;;x
-pick_main_loa_desc;Loa are the remnants of great ancestors, wild gods, or anything else a follower has chosen to worship for guidance. They encompass the spirits of all!;;Loa sind die Geister aller!;;;;;;;;;;;x
-pick_main_loa_tooltip;§Y[Root.GetTitledFirstName]§! Selects a new Loa for worship.;;§Y[Root.GetTitledFirstName]§! Wдhlt einen Loa zum Anbeten.;;;;;;;;;;;x
-pick_main_loa_timer_tooltip;You have NOT chosen a Loa in the past 10 years;;Ihr habt in den letzten 10 Jahren keinen Loa ausgewдhlt;;;;;;;;;;;x
+pick_main_loa;Выбрать Лоа-покровителя;;;;;;;;;;;;;x
+pick_main_loa_desc;Лоа - духи великих предков, Дикие Боги или прочее, что наставляет своих последователей. Лоа повсюду!;;;;;;;;;;;;;x
+pick_main_loa_tooltip;§Y[Root.GetTitledFirstName]§! выберет Лоа-покровителя.;;;;;;;;;;;;;x
+pick_main_loa_timer_tooltip;Вы НЕ выбирали Лоа-покровителя в последние 10 лет;;;;;;;;;;;;;x
 #Events;;;;;;;;;;;;;;
-EVTDESC_WCLOA_1010;The time has come to pick a Loa to venerate. Every troll is expected to honour at least one of the Loa, whether it be one of the wild animal Loa or a wise Loa from the spirit realm. Who shall it be?;;Es ist an der Zeit, dass ich einen der Loa auswдhle, um ihn anzubeten. Jeder Troll muss mindestens einen der Geister ehren, sei es einen tierischen Loa oder einen Loa aus dem Geisterreich. Wen soll ich anbeten?;;;;;;;;;;;x
-EVTOPTA_WCLOA_1010;I will worship the same Loa as my lord!;Je veux vйnйrer le mкme Loa que mon souverain !;Ich werde den selben Loa anbeten wie mein Lehnsherr!;;;;;;;;;;;x
-EVTOPTB_WCLOA_1010;Nalorakk, the Bear!;Nalorakk, l'Ours !;Nalorakk, der Bдr!;;;;;;;;;;;x
-EVTOPTC_WCLOA_1010;Akil'zon, the Eagle!;Akil'zon, l'Aigle !;Akil'zon, der Adler!;;;;;;;;;;;x
-EVTOPTD_WCLOA_1010;Jan'alai, the Dragonhawk!;Jan'alai, le Faucon-dragon !;Jan'alai, der Drachenfalke!;;;;;;;;;;;x
-EVTOPTE_WCLOA_1010;Halazzi, the Lynx!;Halazzi, le Lynx !;Halazzi, der Luchs!;;;;;;;;;;;x
-EVTOPTF_WCLOA_1010;Mahamba, the Water Spirit!;Mahamba, l'Esprit de l'Eau !;Mahamba, der Wassergeist!;;;;;;;;;;;x
-EVTOPTG_WCLOA_1010;Tsul'Kalu, the Earth Spirit!;Tsul'Kalu, l'Esprit de la Terre !;Tsul'Kalu, der Erdgeist!;;;;;;;;;;;x
-EVTOPTH_WCLOA_1010;Pogeyan, the Fire Spirit!;Pogeyan, l'Esprit du Feu !;Pogeyan, der Feuergeist!;;;;;;;;;;;x
-EVTOPTI_WCLOA_1010;Bwonsamdi, the Guardian of the Dead!;Bwonsamdi, le Gardien des morts !;Bwonsamdi, der Wдchter der Toten!;;;;;;;;;;;x
-EVTOPTK_WCLOA_1010;Shango, the Loa of the Storms!;Shango, le Loa des Tempкtes !;Shango, der Loa des Sturms!;;;;;;;;;;;x
-EVTOPTL_WCLOA_1010;Shirvallah, the Tiger!;Shirvallah, le Tigre !;Shirvallah, der Tiger!;;;;;;;;;;;x
-EVTOPTM_WCLOA_1010;Hir'eek, the Bat!;Hir'eek, la Chauve-souris !;Hir'eek, die Fledermaus!;;;;;;;;;;;x
-EVTOPTN_WCLOA_1010;Elortha no Shadra, the Spider!;Elortha no Shadra, l'Araignйe !;Elortha no Shadra, die Spinne!;;;;;;;;;;;x
-EVTOPTO_WCLOA_1010;Akali, the Rhino!;Akali, le Rhinocйros !;Akali, das Nashorn!;;;;;;;;;;;x
-EVTOPTP_WCLOA_1010;Har'koa, the Snow Leopard!;Har'koa, le Lйopard des neiges !;Har'koa, der Schneeleopard!;;;;;;;;;;;x
-EVTOPTQ_WCLOA_1010;Mam'toth, the Mammoth!;Mam'toth, le Mammouth !;Mam'toth, das Mammut!;;;;;;;;;;;x
-EVTOPTR_WCLOA_1010;Quetz'lun, the Wind Serpent!;Quetz'lun, le Serpent des vents !;Quetz'lun, die wilde Schlange!;;;;;;;;;;;x
-EVTOPTS_WCLOA_1010;Rhunok, the Arctic Bear!;Rhunok, l'Ours-polaire !;Rhunok, der Eisbдr!;;;;;;;;;;;x
-EVTOPTT_WCLOA_1010;Sseratus, the Serpent!;Sseratus, le Serpent !;Sseratus, die Schlange!;;;;;;;;;;;x
-EVTOPTU_WCLOA_1010;Tharon'ja, the Skeletal Wind Serpent!;Tharon'ja, le Serpent des vents squelette !;Tharon'ja, die skelettierte Windschlange!;;;;;;;;;;;x
-EVTOPTV_WCLOA_1010;Dubra'Jin!;Dubra'jin !;Dubra'Jin!;;;;;;;;;;;x
-EVTOPTW_WCLOA_1010;Zim'Abwa!;Zim'Abwa !;Zim'Abwa!;;;;;;;;;;;x
-EVTOPTX_WCLOA_1010;Zim'Rhuk, the Wise One!;Zim'Rhuk, le Sage !;Zim'Rhuk, der weise!;;;;;;;;;;;x
-EVTOPTY_WCLOA_1010;Zim'Torga, the Mother of Prosperity!;Zim'Torga la Mиre de la Prospйritй !;Zim'Torga, die Mutter des Wohlstands!;;;;;;;;;;;x
-EVTOPTZ_WCLOA_1010;Bethekk, the Panther!;Bethekk, la Panthиre !;Bethekk, der Panther!;;;;;;;;;;;x
-EVTOPTAA_WCLOA_1010;Hethiss, the Snake!;Hethiss, le Serpent !;Hethiss, die Schlange!;;;;;;;;;;;x
-EVTOPTAB_WCLOA_1010;Akil'darah, the Eagle of Hinterlands!;Akil'darah, l'Aigle des Hinterlands !;Akil'darah, der Adler des Hinterlands!;;;;;;;;;;;x
-EVTOPTAC_WCLOA_1010;Akunda, the Thunder Lizard!;Akunda, le Lйzard-tonnerre !;Akunda, die Donnerechse!;;;;;;;;;;;x
-EVTOPTAD_WCLOA_1010;Dambala, the Treacherous!;Dambala, le Traоtre !;Dambala, der Verrдter!;;;;;;;;;;;x
-EVTOPTAE_WCLOA_1010;Gral, the Shark!;Gral, le Requin !;Gral, der Hai!;;;;;;;;;;;x
-EVTOPTAG_WCLOA_1010;Gonk, the Great Hunter!;Gonk, le Grand Chasseur !;Gonk, der groЯe Jдger!;;;;;;;;;;;x
-EVTOPTAH_WCLOA_1010;Jani, the Lord of Thieves!;Jani, le Seigneur des Voleurs !;Jani, der Herr der Diebe!;;;;;;;;;;;x
-EVTOPTAI_WCLOA_1010;Eraka no Kimbul, the Prey's Doom!;Eraka no Kimbul, la Malйdiction des proies !;Eraka no Kimbul, Schicksal der Beute!;;;;;;;;;;;x
-EVTOPTAJ_WCLOA_1010;Ueetay no Mueh'zala, the Death!;Ueetay no Mueh'zala, la Mort !;Ueetay no Mueh'zala, der Tod!;;;;;;;;;;;x
-EVTOPTAK_WCLOA_1010;Krag'wa, the Huge!;Krag'wa, le Colossal !;Krag'wa, der Riese!;;;;;;;;;;;x
-EVTOPTAL_WCLOA_1010;Lukou, the Respite!;Lukou, le Rйpit !;Lukou, der Heiler;;;;;;;;;;;x
-EVTOPTAM_WCLOA_1010;Pa'ku, the Loa of the Winds!;Pa'ku, le Loa des Vents !;Pa'ku, der Loa des Windes!;;;;;;;;;;;x
-EVTOPTAN_WCLOA_1010;Rezan, the Loa of the Kings!;Rezan, le Loa des Rois !;Rezan, der Loa der Kцnige!;;;;;;;;;;;x
-EVTOPTAO_WCLOA_1010;Sethraliss, the Snake!;Sethraliss, le Serpent !;Sethraliss, die Schlange!;;;;;;;;;;;x
-EVTOPTAP_WCLOA_1010;Torcali, the Direhorn!;Torcali, la Navrecorne !;Torcali, das Terrorhorn!;;;;;;;;;;;x
-EVTOPTAQ_WCLOA_1010;Torga, the Turtle!;Torga, la Tortue !;Torga, die Schildkrцte!;;;;;;;;;;;x
-EVTOPTAR_WCLOA_1010;Zanza, the Loa of Zandalar!;Zanza, le Loa de Zandalar !;Zanza, der Loa von Zandalar!;;;;;;;;;;;x
-EVTOPTAS_WCLOA_1010;I will worship an ancient Loa from the lands of Zandalar!;Je veux vйnйrer un ancien Loa des terres de Zandalar!;Ich werde einen Loa aus dem antiken Zandalar anbeten!;;;;;;;;;;;x
+EVTDESC_WCLOA_1010;Пришло время выбрать себе Лоа-покровителя. Каждый тролль обязан почитать по крайней мере одного Лоа, будь то Лоа-зверь или Лоа из мира духов. Кто же им станет?;;;;;;;;;;;;;x
+EVTOPTA_WCLOA_1010;Я буду поклоняться тому же Лоа, которому поклоняется мой сюзерен!;;;;;;;;;;;;;x
+EVTOPTB_WCLOA_1010;Налоракк, Медведь!;;;;;;;;;;;;;x
+EVTOPTC_WCLOA_1010;Акил'зон, Орел!;;;;;;;;;;;;;x
+EVTOPTD_WCLOA_1010;Джан'алай, Дракондор!;;;;;;;;;;;;;x
+EVTOPTE_WCLOA_1010;Халаззи, Рысь!;;;;;;;;;;;;;x
+EVTOPTF_WCLOA_1010;Махамба, Дух воды;;;;;;;;;;;;;x
+EVTOPTG_WCLOA_1010;Тсул'Калу, Дух земли;;;;;;;;;;;;;x
+EVTOPTH_WCLOA_1010;Погеан, Дух огня;;;;;;;;;;;;;x
+EVTOPTI_WCLOA_1010;Бвонсамди, Страж мертвых!;;;;;;;;;;;;;x
+EVTOPTK_WCLOA_1010;Шанго, Лоа штормов;;;;;;;;;;;;;x
+EVTOPTL_WCLOA_1010;Ширвалла, Тигрица!;;;;;;;;;;;;;x
+EVTOPTM_WCLOA_1010;Хир'ик, Летучая Мышь!;;;;;;;;;;;;;x
+EVTOPTN_WCLOA_1010;Элорта но Шадра, Паучиха!;;;;;;;;;;;;;x
+EVTOPTO_WCLOA_1010;Акали, Носорог!;;;;;;;;;;;;;x
+EVTOPTP_WCLOA_1010;Хар'коа, снежный Леопард;;;;;;;;;;;;;x
+EVTOPTQ_WCLOA_1010;Мам'тот, Мамонт!;;;;;;;;;;;;;x
+EVTOPTR_WCLOA_1010;Кетц'лун, Змей ветров!;;;;;;;;;;;;;x
+EVTOPTS_WCLOA_1010;Рунок, арктический Медведь!;;;;;;;;;;;;;x
+EVTOPTT_WCLOA_1010;Шшератус, Змей!;;;;;;;;;;;;;x
+EVTOPTU_WCLOA_1010;Тарон'джа, Змей-скелет;;;;;;;;;;;;;x
+EVTOPTV_WCLOA_1010;Дубра'Джин!;;;;;;;;;;;;;x
+EVTOPTW_WCLOA_1010;Зим'Абва!;;;;;;;;;;;;;x
+EVTOPTX_WCLOA_1010;Зим'Рук, Мудрец!;;;;;;;;;;;;;x
+EVTOPTY_WCLOA_1010;Зим'Торга, Мать процветания!;;;;;;;;;;;;;x
+EVTOPTZ_WCLOA_1010;Бетекк, Пантера!;;;;;;;;;;;;;x
+EVTOPTAA_WCLOA_1010;Хетисс, Змей!;;;;;;;;;;;;;x
+EVTOPTAB_WCLOA_1010;Акил'дар, Орел Внутренних земель!;;;;;;;;;;;;;x
+EVTOPTAC_WCLOA_1010;Акунда, громовой Змей!;;;;;;;;;;;;;x
+EVTOPTAD_WCLOA_1010;Дамбала, Изменник!;;;;;;;;;;;;;x
+EVTOPTAE_WCLOA_1010;Грал, Акула;;;;;;;;;;;;;x
+EVTOPTAG_WCLOA_1010;Гонк, великий Охотник!;;;;;;;;;;;;;x
+EVTOPTAH_WCLOA_1010;Джани, Владыка воров;;;;;;;;;;;;;x
+EVTOPTAI_WCLOA_1010;Эрака но Кимбул, Смерть из лесов!;;;;;;;;;;;;;x
+EVTOPTAJ_WCLOA_1010;Уеетай но Муе'зала, Смерть!;;;;;;;;;;;;;x
+EVTOPTAK_WCLOA_1010;Краг'ва, Огромный!;;;;;;;;;;;;;x
+EVTOPTAL_WCLOA_1010;Луку, Целитель!;;;;;;;;;;;;;x
+EVTOPTAM_WCLOA_1010;Па'ку, Лоа ветров;;;;;;;;;;;;;x
+EVTOPTAN_WCLOA_1010;Резан, Лоа королей!;;;;;;;;;;;;;x
+EVTOPTAO_WCLOA_1010;Сетралисс, Змей;;;;;;;;;;;;;x
+EVTOPTAP_WCLOA_1010;Торкали, Дикорог!;;;;;;;;;;;;;x
+EVTOPTAQ_WCLOA_1010;Торга, Черепаха!;;;;;;;;;;;;;x
+EVTOPTAR_WCLOA_1010;Занза, Лоа Зандалара!;;;;;;;;;;;;;x
+EVTOPTAS_WCLOA_1010;Я буду почитать древнего Лоа из Зандалара!;;;;;;;;;;;;;x
 #Modifiers;;;;;;;;;;;;;;
 follower_of_nalorakk;Follower of Nalorakk;Disciple de Nalorakk;Anbeter Nalorakks;;;;;;;;;;;x
 follower_of_akilzon;Follower of Akil'zon;Disciple d'Akil'zon;Anbeter Akil'zons;;;;;;;;;;;x
