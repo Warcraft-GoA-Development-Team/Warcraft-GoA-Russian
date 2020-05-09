@@ -1945,7 +1945,7 @@ RULE_CLAIM_FABRICATION;§RWarcraft§!: Фабрикация Претензий;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_DEFAULT;Стандартный;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_DEFAULT_DESC;Скорость фабрикации претензий не изменена.;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_FASTER_25;Быстрее;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_FASTER_25_DESC;Скорость фабрикации претензий = 1.25х.\n§GThis is the recommended rule.§!;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_FASTER_25_DESC;Скорость фабрикации претензий = 1.25х.\n§GЭто рекомендованное правило.§!;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_SLOWER_25;Медленнее;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_SLOWER_25_DESC;Скорость фабрикации претензий = 0.75х;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_FASTER_50;Заметно быстрее;;;;;;;;;;;;;x
@@ -2734,7 +2734,7 @@ EVTOPTB_WCTFT_110;Ее правление не затянется надолго.;;;;;;;;;;;;;x
 EVTOPTC_WCTFT_110;По крайней мере с ней можно договориться, в отличие от этого ксенофобного болвана.;;;;;;;;;;;;;x
 EVTOPTD_WCTFT_110;Интересно.;;;;;;;;;;;;;x
 nick_the_blightcaller;Гнилостень;;;;;;;;;;;;;x
-RULE_FROZEN_THRONE_STORY;§RwarCraft§!: События The Frozen Throne;;;;;;;;;;;;;x
+RULE_FROZEN_THRONE_STORY;§RWarCraft§!: События The Frozen Throne;;;;;;;;;;;;;x
 RULE_FROZEN_THRONE_STORY_ON_DESC;Исторические события Пробуждения Короля Лича включены, позволяя играть с определенными глобальными событиями, влияющими на весь мир и открывающими различные сюжетные выборы для определенных персонажей.;;;;;;;;;;;;;x
 RULE_FROZEN_THRONE_STORY_OFF_DESC;Исторические события Пробуждения Короля Лича отключены, позволяя сфокусироваться на свободной игре с самого начала.;;;;;;;;;;;;;x
 EVTTITLE_WCTFT_111;Люди, сохранившие верность Серебряной Длани;;;;;;;;;;;;;x
