@@ -173,60 +173,60 @@ ct_guard_3;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
 ct_guard_4;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
 ct_guard_5;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
 ct_guard_6;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
-ct_guard_1_desc;The [Root.Holder.GetCityAdjective] guard are headquartered here[Root.Holder.GetGuardPurpose];;;;;;;;;;;;;x
+ct_guard_1_desc;В этом здании проживает [Root.Holder.GetCityAdjective] стража [Root.Holder.GetGuardPurpose];;;;;;;;;;;;;x
 ct_marketplace_1;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
 ct_marketplace_2;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
 ct_marketplace_3;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
 ct_marketplace_4;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
 ct_marketplace_5;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
 ct_marketplace_6;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
-ct_marketplace_desc;The main hub of the city[Root.Holder.GetMarketplacePurpose];;;;;;;;;;;;;x
+ct_marketplace_desc;Центр города [Root.Holder.GetMarketplacePurpose];;;;;;;;;;;;;x
 ct_port_1;Гавань;;;;;;;;;;;;;x
 ct_port_2;Гавань;;;;;;;;;;;;;x
 ct_port_3;Гавань;;;;;;;;;;;;;x
 ct_port_4;Гавань;;;;;;;;;;;;;x
 ct_port_5;Гавань;;;;;;;;;;;;;x
-ct_port_1_desc;A port that services ships coming in to load or unload cargo.;;;;;;;;;;;;;x
+ct_port_1_desc;Порт, обслуживающий корабли, которые загружают или разгружают грузы.;;;;;;;;;;;;;x
 ct_university_1;[Root.Holder.GetUniversityCap];;;;;;;;;;;;;x
 ct_university_2;[Root.Holder.GetUniversityCap];;;;;;;;;;;;;x
 ct_university_3;[Root.Holder.GetUniversityCap];;;;;;;;;;;;;x
-ct_university_1_desc;A place of higher learning[Root.Holder.GetUniversityPurpose];;;;;;;;;;;;;x
-tp_wall_desc;These [Root.Holder.GetMineral] walls surround the [Root.Holder.GetHouseOfWorship] and must be overcome by any attacker.;;;;;;;;;;;;;x
+ct_university_1_desc;Место, где получает более продвинутое образование [Root.Holder.GetUniversityPurpose];;;;;;;;;;;;;x
+tp_wall_desc;[Root.Holder.GetMineral] стены, окружающие [Root.Holder.GetHouseOfWorship], которые способны помочь отразить любую атаку.;;;;;;;;;;;;;x
 tp_monastery_4;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;;x
 tp_monastery_5;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;;x
 tp_monastery_6;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;;x
-tp_monastery_desc;This [Root.Holder.GetHouseOfWorship] serves as the [Root.Holder.GetSpiritual] center of the local [Root.Holder.GetCommunity].;;;;;;;;;;;;;x
+tp_monastery_desc;[Root.Holder.GetHouseOfWorship] служит как [Root.Holder.GetSpiritual] центр местного [Root.Holder.GetCommunity].;;;;;;;;;;;;;x
 tp_barracks_1;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
 tp_barracks_2;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
 tp_barracks_3;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
 tp_barracks_4;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
 tp_barracks_5;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
 tp_barracks_6;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
-tp_barracks_1_desc;When necessary, [Root.Holder.GetPeasantsType] are conscripted into the [Root.Holder.GetHouseOfWorship] militia and stationed here.;;;;;;;;;;;;;x
-tp_elite_barracks_1_desc;These devoted warriors have sworn to defend this [Root.Holder.GetHouseOfWorship] with their lives.;;;;;;;;;;;;;x
-tp_town_desc;This town of devoted [Root.Holder.GetPeasantsType] has formed around the [Root.Holder.GetHouseOfWorship].;;;;;;;;;;;;;x
-tp_shipyard_1;[Root.Holder.GetHouseOfWorshipCap] Shipyard;;;;;;;;;;;;;x
-tp_shipyard_2;[Root.Holder.GetHouseOfWorshipCap] Shipyard;;;;;;;;;;;;;x
-tp_shipyard_3;[Root.Holder.GetHouseOfWorshipCap] Shipyard;;;;;;;;;;;;;x
-tp_shipyard_4;[Root.Holder.GetHouseOfWorshipCap] Shipyard;;;;;;;;;;;;;x
+tp_barracks_1_desc;В час нужды, [Root.Holder.GetPeasantsType] призываются в [Root.Holder.GetHouseOfWorship] ополчение и размещаются в этом сооружении.;;;;;;;;;;;;;x
+tp_elite_barracks_1_desc;Это набожные воины принесли клятву защищать этот [Root.Holder.GetHouseOfWorship] ценой своих жизней.;;;;;;;;;;;;;x
+tp_town_desc;Это поселение набожных [Root.Holder.GetPeasantsType] создано вокруг [Root.Holder.GetHouseOfWorship].;;;;;;;;;;;;;x
+tp_shipyard_1;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
+tp_shipyard_2;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
+tp_shipyard_3;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
+tp_shipyard_4;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 tr_banana_plantation_1;Малая банановая плантация;;;;;;;;;;;;;x
 tr_banana_plantation_2;Банановая плантация;;;;;;;;;;;;;x
 tr_banana_plantation_3;Большая банановая плантация;;;;;;;;;;;;;x
-tr_banana_plantation_1_desc;Малое поле растущих бананов.;;;;;;;;;;;;;x
-tr_banana_plantation_2_desc;A well established plantation capable of producing large quantities of bananas.;;;;;;;;;;;;;x
-tr_banana_plantation_3_desc;The production of this large plantation complex is unrivaled. It produces an immense amount of bananas.;;;;;;;;;;;;;x
-tr_banana_rum_distillery;Rum Distillery;;;;;;;;;;;;;x
-tr_banana_rum_distillery_desc;A place where banana infused rum of high quality is produced and sold.;;;;;;;;;;;;;x
+tr_banana_plantation_1_desc;Малое поле, на котором выращивают бананы.;;;;;;;;;;;;;x
+tr_banana_plantation_2_desc;Возделанные плантации, на котором можно выращивать большее количество бананов.;;;;;;;;;;;;;x
+tr_banana_plantation_3_desc;Производство в этом большом комплексе плантаций не имеет равных. Здесь производят огромное количество бананов.;;;;;;;;;;;;;x
+tr_banana_rum_distillery;Ромовая фабрика;;;;;;;;;;;;;x
+tr_banana_rum_distillery_desc;Место, в котором производят и продают банановый ром высокого качества.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-wcfo_tower_1;Scout Towers;;;;;;;;;;;;;x
-wcfo_tower_2;Outposts;;;;;;;;;;;;;x
-wcfo_tower_1_desc;Light wooden scout towers have been built here to keep survey of the land and any hostile forces.;;;;;;;;;;;;;x
-wcfo_tower_2_desc;Fortified outposts stand here protecting the land from light enemy forces.;;;;;;;;;;;;;x
+wcfo_tower_1;Разведывательные башни;;;;;;;;;;;;;x
+wcfo_tower_2;Заставы;;;;;;;;;;;;;x
+wcfo_tower_1_desc;Легкие деревянные разведывательные башни, построенные для надзора за вражескими войсками.;;;;;;;;;;;;;x
+wcfo_tower_2_desc;Укрепленная застава, защищающая округ от вражеских налетчиков.;;;;;;;;;;;;;x
 wcfo_patrols_1;Легкий гарнизон;;;;;;;;;;;;;x
 wcfo_patrols_2;Тяжелый гарнизон;;;;;;;;;;;;x
-wcfo_patrols_1_desc;Small squads of foot troops have been garrisoned in this fort to protect the surrounding land.;;;;;;;;;;;;;x
-wcfo_patrols_2_desc;Heavy troops have been stationed at this garrison to further reinforce defenses in the surrounding area.;;;;;;;;;;;;;x
+wcfo_patrols_1_desc;В этом форте размещен пеший гарнизон, защищающий окружающие земли.;;;;;;;;;;;;;x
+wcfo_patrols_2_desc;Тяжелые войска, размещенный для улучшения обороны окрестных земель.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
