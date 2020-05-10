@@ -2411,28 +2411,28 @@ ARTILLERY_PHRASE;Наши артиллерийские батареи не оставят от них и пепла.;;;;;;;;;
 AERIAL_PHRASE;Ливень гнева обрушится на них с высоты полета наших дивизий.;;;;;;;;;;;;;x
 MARKSMAN_PHRASE;Противник не увидет неба за нашими стрелами.;;;;;;;;;;;;;x
 HEAVY_INFANTRY_PHRASE;Пехотинцы — костяк армии.;;;;;;;;;;;;;x
-GetMineralCap_Saronite;саронит;;;;;;;;;;;;;x
-GetMineralCap_Black;черный;;;;;;;;;;;;;x
-GetMineralCap_Elementium;элементиум;;;;;;;;;;;;;x
-GetMineralCap_Stone;камень;;;;;;;;;;;;;x
-GetMineral_saronite;саронит;;;;;;;;;;;;;x
-GetMineral_black;черный;;;;;;;;;;;;;x
-GetMineral_elementium;элементиум;;;;;;;;;;;;;x
-GetMineral_stone;камень;;;;;;;;;;;;;x
+GetMineralCap_Saronite;Саронитовые;;;;;;;;;;;;;x
+GetMineralCap_Black;Черножелезные;;;;;;;;;;;;;x
+GetMineralCap_Elementium;Элементиевые;;;;;;;;;;;;;x
+GetMineralCap_Stone;Каменные;;;;;;;;;;;;;x
+GetMineral_saronite;Саронит;;;;;;;;;;;;;x
+GetMineral_black;Черное железо;;;;;;;;;;;;;x
+GetMineral_elementium;Элементиум;;;;;;;;;;;;;x
+GetMineral_stone;Камень;;;;;;;;;;;;;x
 GetAdjectiveCap_Undead;нежить;;;;;;;;;;;;;x
 GetAdjectiveCap_Demonic;демонический;;;;;;;;;;;;;x
 GetAdjectiveCap_Zealot;фанатик;;;;;;;;;;;;;x
-GetAdjectiveCap_Castle;замок;;;;;;;;;;;;;x
+GetAdjectiveCap_Castle;Крепостные;;;;;;;;;;;;;x
 GetAdjectiveCap_Dark;Темный;;;;;;;;;;;;;x
 GetAdjective_undead;нежить;;;;;;;;;;;;;x
 GetAdjective_demonic;демонический;;;;;;;;;;;;;x
 GetAdjective_zealot;фанатик;;;;;;;;;;;;;x
-GetAdjective_castle;замок;;;;;;;;;;;;;x
+GetAdjective_castle;Крепость;;;;;;;;;;;;;x
 GetAdjective_dark;Темный;;;;;;;;;;;;;x
 GetPeasantsType_acolytes;послушник;;;;;;;;;;;;;x
 GetPeasantsType_peasants;крестьяне;;;;;;;;;;;;;x
 GetAdjective_Acolyte;послушник;;;;;;;;;;;;;x
-GetAdjective_Militia;ополчение;;;;;;;;;;;;;x
+GetAdjective_Militia;ополчения;;;;;;;;;;;;;x
 GetAdjective_Peon;батрак;;;;;;;;;;;;;x
 GetPeasantsType_peons;батраки;;;;;;;;;;;;;x
 GetAdjectiveCap_Wolf;волк;;;;;;;;;;;;;x
