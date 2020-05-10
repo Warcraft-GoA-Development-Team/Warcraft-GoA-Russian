@@ -1,33 +1,33 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;RUSSIAN;;;;;;;;;;;;;x
 ##Fallbacks;;;;;;;;;;;;;;x
-artifact_common_affixn1_0;Common;;Gewцhnliche[GetGenericArtifactAffixN1EndingGerman];;;;;;;;;;;x
-artifact_uncommon_affixn1_0;Uncommon;;Ungewцhnliche[GetGenericArtifactAffixN1EndingGerman];;;;;;;;;;;x
-artifact_rare_affixn1_0;Rare;;Seltene[GetGenericArtifactAffixN1EndingGerman];;;;;;;;;;;x
-artifact_epic_affixn1_0;Epic;;Epische[GetGenericArtifactAffixN1EndingGerman];;;;;;;;;;;x
-artifact_legendary_affixn1_0;Legendary;;Legendдre[GetGenericArtifactAffixN1EndingGerman];;;;;;;;;;;x
+artifact_common_affixn1_0;Обычное;;;;;;;;;;;;;x
+artifact_uncommon_affixn1_0;Необычное;;;;;;;;;;;;;x
+artifact_rare_affixn1_0;Редкое;;;;;;;;;;;;;x
+artifact_epic_affixn1_0;Эпическое;;;;;;;;;;;;;x
+artifact_legendary_affixn1_0;Legendary;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_stat_diplomacy_affixn2_0; of Diplomacy;; der Diplomatie;;;;;;;;;;;x
-artifact_jewelry_stat_martial_affixn2_0; of Martial;; der Kriegskunst;;;;;;;;;;;x
-artifact_jewelry_stat_stewardship_affixn2_0; of Stewardship;; der Verwaltung;;;;;;;;;;;x
-artifact_jewelry_stat_intrigue_affixn2_0; of Intrigue;; der Intrige;;;;;;;;;;;x
-artifact_jewelry_stat_learning_affixn2_0; of Learning;; des Lernens;;;;;;;;;;;x
+artifact_jewelry_stat_diplomacy_affixn2_0; Дипломатии;;;;;;;;;;;;;x
+artifact_jewelry_stat_martial_affixn2_0; Военного навыка;;;;;;;;;;;;;x
+artifact_jewelry_stat_stewardship_affixn2_0; Управления;;;;;;;;;;;;;x
+artifact_jewelry_stat_intrigue_affixn2_0; Интриги;;;;;;;;;;;;;x
+artifact_jewelry_stat_learning_affixn2_0; Образованности;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_common_origin;Rumors tell that [GetArtifactCommonOrigin].;;Gerьchte besagen, dass [GetArtifactCommonOrigin].;;;;;;;;;;;x
-artifact_uncommon_origin;Stories tell that [GetArtifactUncommonOrigin].;;Geschichten erzдhlen, dass [GetArtifactUncommonOrigin].;;;;;;;;;;;x
-artifact_rare_origin;Fables tell that [GetArtifactRareOrigin].;;Fabeln besagen, dass [GetArtifactRareOrigin] [ArtefaktHerkunft].;;;;;;;;;;;x
-artifact_epic_origin;Myths tell that [GetArtifactEpicOrigin].;;Mythen besagen, dass [GetArtefaktEpicOrigin].;;;;;;;;;;;x
-artifact_legendary_origin;Legends tell that [GetArtifactLegendaryOrigin].;;Legenden besagen, dass [GetArtifactLegendaryOrigin].;;;;;;;;;;;x
+artifact_common_origin;Ходят слухи, что [GetArtifactCommonOrigin].;;;;;;;;;;;;;x
+artifact_uncommon_origin;Ходят истории о том, что [GetArtifactUncommonOrigin].;;;;;;;;;;;;;x
+artifact_rare_origin;В сказках говорится о том, что [GetArtifactRareOrigin].;;;;;;;;;;;;;x
+artifact_epic_origin;В мифах говорится о том, что [GetArtifactEpicOrigin].;;;;;;;;;;;;;x
+artifact_legendary_origin;В легендах говорится о том, что [GetArtifactLegendaryOrigin].;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_common_origin_1;this [This.GetName] is actually a rare artifact.\nDo not believe any rumor you hear;;diese [This.GetName] eigentlich ein seltenes Artefakt ist.\nGlaubt keinem Gerьcht, das Ihr hцrt;;;;;;;;;;;x
-artifact_common_origin_2;this [This.GetName] was found in trash;;diese [This.GetName] im Papierkorb gefunden wurde ;;;;;;;;;;;x
-artifact_common_origin_3;this [This.GetName] is a masterpiece of a dropout apprentice;;diese [This.GetName] ein Meisterwerk eines Lehrabbrechers ist;;;;;;;;;;;x
-artifact_common_origin_4;this [This.GetName] is incomplete, although still fully usable;;diese [This.GetName] unvollstдndig ist, aber immer noch uneingeschrдnkt nutzbar;;;;;;;;;;;x
-artifact_common_origin_5;there is no interesting story behind this [This.GetName];;es gibt keine interessante Geschichte ьber [This.GetName];;;;;;;;;;;x
-artifact_common_origin_6;an angry spirit haunts anyone who dares to wear this [This.GetName];;ein zorniger Geist verfolgt jeden, der es wagt, diese [This.GetName] zu tragen;;;;;;;;;;;x
-artifact_common_origin_7;this [This.GetName] has no magical qualities;;diese [This.GetName] keinerlei magische Eigenschaften hat;;;;;;;;;;;x
-artifact_common_origin_8;this [This.GetName] was accidentally created by a drunk craftsman;;diese [This.GetName] versehentlich von einem betrunkenen Handwerker geschaffen wurde;;;;;;;;;;;x
-artifact_common_origin_9;the symbols and runes covering this [This.GetName] actually mean and do nothing;;die Symbole und Runen, die diese [This.GetName] bedecken, tatsдchlich nichts bedeuten;;;;;;;;;;;x
-artifact_common_origin_10;this [This.GetName] was reforged from another one, but it severely decreased the quality;;diese [This.GetName] aus einem anderen Artefakt neu geschmiedet wurde, was die Qualitдt jedoch stark verminderte;;;;;;;;;;;x
+artifact_common_origin_1;[This.GetName] на самом деле является редким артефактом.\nНе верьте слухам;;;;;;;;;;;;;x
+artifact_common_origin_2;[This.GetName] текущий владелец обнаружил в куче мусора;;;;;;;;;;;;;x
+artifact_common_origin_3;[This.GetName] создал подмастерье, бросивший обучение;;;;;;;;;;;;;x
+artifact_common_origin_4;[This.GetName] пригодно к использованию, но не доведено до совершенства;;;;;;;;;;;;;x
+artifact_common_origin_5;о [This.GetName] нет никаких историй;;;;;;;;;;;;;x
+artifact_common_origin_6;злобный призрак настигнет тех, кто осмелится носить [This.GetName];;;;;;;;;;;;;x
+artifact_common_origin_7;[This.GetName] не свойственны магические качества;;;;;;;;;;;;;x
+artifact_common_origin_8;[This.GetName] выковал пьяный кузнец;;;;;;;;;;;;;x
+artifact_common_origin_9;символы и руны, усеивающие [This.GetName] не имеют смысла;;;;;;;;;;;;;x
+artifact_common_origin_10;ремесленник, создавший [This.GetName] выковал это произведение из совершенно другого артефакта, но значительно ухудшил качество;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 artifact_uncommon_origin_1;this [This.GetName] was never deliberately enchanted, but acquired its magic by chance;;diese [This.GetName] nicht absichtlich verzaubert wurde, sondern zufдllig Magie erlangte;;;;;;;;;;;x
 artifact_uncommon_origin_2;this [This.GetName] was fished out of a lake;;diese [This.GetName] aus einem See gefischt wurde;;;;;;;;;;;x
@@ -305,225 +305,225 @@ artifact_jewelry_legendary_affixn1_learning_9;Rainbow;;Des Regenbogens;;;;;;;;;;
 artifact_jewelry_legendary_affixn1_learning_10;Sentient;;Des Vorlдufers;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_1; of Innocence;; der Unschuld;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_2; of Honesty;; der Ehrlichkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_3; of Honour;; der Ehre;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_4; of Oaths;; der Eide;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_5; of Romance;; der Romantik;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_6; of Promises;; der Versprechen;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_7; of Kindness;; der Freundlichkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_8; of Gregariousness;; der GroЯzьgigkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_9; of Friendship;; der Freundschaft;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_diplomacy_10; of Excitement;; der Begeisterung;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_1; Невинности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_2; Честности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_3; Чести;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_4; Клятв;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_5; Романтики;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_6; Обещаний;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_7; Доброты;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_8; Общительности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_9; Дружбы;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_10; Волнения;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_1; of Aggression;; der Aggression;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_2; of Bravery;; der Tapferkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_3; of Evisceration;; der Ausweidung;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_4; of Maiming;; der Verstьmmelung;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_5; of Strength;; der Stдrke;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_6; of Wrath;; des Zorns;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_7; of Fury;; der Wut;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_8; of Rage;; der Raserei;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_9; of Wounding;; der Verwundung;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_martial_10; of Power;; der Macht;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_1; Агрессии;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_2; Храбрости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_3; Потрошения;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_4; Увечий;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_5; Силы;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_6; Гнева;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_7; Неистовства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_8; Ярости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_9; Ранений;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_10; Силы;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_1; of Chance;; des Zufalls;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_2; of Craftsmanship;; der Handwerkskunst;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_3; of Greed;; der Gier;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_4; of Judgement;; des Urteils;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_5; of Riches;; des Reichtums;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_6; of Order;; der Ordnung;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_7; of Success;; des Erfolgs;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_8; of Concentration;; der Konzentration;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_9; of Fairness;; der Gerechtigkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_stewardship_10; of Guidance;; der Fьhrung;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_1; Случайностей;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_2; Мастерства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_3; Жадности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_4; Правосудия;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_5; Богатства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_6; Порядка;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_7; Успеха;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_8; Сосредоточения;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_9; Справедливости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_10; Руководства;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_1; of Agility;; der Beweglichkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_2; of Betrayal;; des Verrats;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_3; of Dexterity;; der Fertigkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_4; of Skill;; der Fдhigkeit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_5; of Trickery;; der Trickserei;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_6; of Pride;; des Stolzes;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_7; of Disruption;; der Unterbrechung;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_8; of Envy;; des Neids;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_9; of Fear;; der Furcht;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_intrigue_10; of Manipulation;; der Manipulation;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_1; Ловкости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_2; Предательства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_3; Хитрости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_4; Умелости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_5; Обмана;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_6; Гордыни;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_7; Разрушения;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_8; Зависти;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_9; Страха;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_10; Манипуляций;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_1; of Insight;; der Einsicht;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_2; of Intellect;; des Intellekts;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_3; of Magic;; der Magie;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_4; of Psyche;; des Zauberkundigen;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_5; of Spirit;; des Geistes;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_6; of the Mind;; des Verstands;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_7; of Truth;; der Wahrheit;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_8; of Erudition;; der Erleuchtung;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_9; of Memory;; der Erinnerung;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn2_learning_10; of Swarming Thoughts;; der schwдrmenden Gedanken;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_1; Проницательности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_2; Интеллекта;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_3; Магии;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_4; Психики;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_5; Призраков;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_6; Разума;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_7; Правды;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_8; Эрудиции;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_9; Воспоминаний;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_10; Роящихся Мыслей;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_1; of Beauty;; der Schцnheit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_2; of Charity;; der Nдchstenliebe;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_3; of Prominence;; der Bedeutung;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_4; of Enfeebling Accusations;; der Erhabenheit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_5; of Fame;; des Ruhms;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_6; of Joy;; der Freude;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_7; of Elation;; des Hochgefьhls;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_8; of Attention;; der Aufmerksamkeit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_9; of Smiling Fate;; des lдchelnden Schicksals;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_diplomacy_10; of Brightness;; der Klarheit;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_1; Красоты;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_2; Милосердия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_3; Тщеславия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_4; Обвинений;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_5; Славы;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_6; Радости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_7; Восторга;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_8; Внимания;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_9; Улыбающейся Судьбы;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_10; Яркости;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_1; of Butchery;; des Abschlachtens;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_2; of Cruelty;; der Grausamkeit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_3; of Gore;; des Bluts;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_4; of Might;; der Macht;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_5; of Courage;; des Muts;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_6; of Ruthlessness;; der Rьcksichtslosigkeit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_7; of Slaying;; des Tцtens;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_8; of War;; des Krieges;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_9; of Loathing;; der Mutigen;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_martial_10; of Hatred;; des Hasses;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_1; Бойни;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_2; Жестокости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_3; Крови;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_4; Могущества;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_5; Отваги;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_6; Безжалостности;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_7; Сокрушения;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_8; Войны;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_9; Вражды;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_10; Ненависти;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_1; of Fortune;; des Schicksals;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_2; of Justice;; der Justiz;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_3; of Wealth;; des Reichtums;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_4; of Rulership;; der Herrschaft;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_5; of Diligence;; des FleiЯes;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_6; of Luck;; des Glьcks;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_7; of Peace;; des Friedens;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_8; of Respect;; des Respekts;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_9; of Pragmatism;; des Pragmatismus;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_stewardship_10; of Ideals;; der Ideale;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_1; Удачи;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_2; Правосудия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_3; Богатства;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_4; Правления;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_5; Усердия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_6; Удачи;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_7; Мира;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_8; Уважения;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_9; Прагматизма;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_10; Идеалов;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_1; of Accuracy;; der Genauigkeit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_2; of Malice;; der Bosheit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_3; of Murder;; des Mordes;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_4; of Secrecy;; der Geheimniskrдmerei;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_5; of Ill Will;; der Bцswilligkeit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_6; of Evisceration;; der Ausweidung;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_7; of Torment;; der Qualen;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_8; of Heinous Acts;; der ruchlosen Taten;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_9; of Detestable Guile;; der abscheulichen Arglist;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_intrigue_10; of Questionable Loyalties;; der fragwьrdigen Loyalitдten;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_1; Точности;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_2; Злобы;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_3; Убийства;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_4; Тайны;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_5; Злой Воли;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_6; Потрошения;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_7; Мучений;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_8; Отвратительный Деяний;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_9; Бесчестной Хитрости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_10; Сомнительной Верности;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_1; of Brilliance;; der Brillanz;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_2; of Knowledge;; des Wissens;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_3; of Meditation;; der Meditation;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_4; of Old;; des Alters;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_5; of Wisdom;; der Weisheit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_6; of Faith;; des Glaubens;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_7; of Piety;; der Frцmmigkeit;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_8; of Life Energy;; der Lebensenergie;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_9; of the Dawn;; der Erkenntnis;;;;;;;;;;;x
-artifact_jewelry_rare_affixn2_learning_10; of Pure Thought;; des reinen Denkens;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_1; Разума;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_2; Знаний;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_3; Медитации;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_4; Старости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_5; Мудрости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_6; Веры;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_7; Благочестия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_8; Жизненных Сил;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_9; Рассвета;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_10; Чистых Мыслей;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_1; of Attraction;; der Attraktivitдt;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_2; of Calming Waves;; der beruhigenden Wellen;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_3; of Reclaimed Honour;; der wiedergewonnenen Ehre;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_4; of Prowess;; der Tapferkeit;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_5; of Valour;; des Heldenmuts;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_6; of Noble Deeds;; der noblen Taten;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_7; of Selfless Acts;; der selbstlosen Taten;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_8; of Solace;; des Trostes;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_9; of Renown;; der Bekanntheit;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_diplomacy_10; of Bliss;; der Glьckseligkeit;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_1; Притяжения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_2; Успокоения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_3; Востановленной Чести;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_4; Доблести;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_5; Отваги;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_6; Благородных Поступков;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_7; Самоотверженности;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_8; Утешения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_9; Славы;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_10; Блаженства;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_1; of Blood;; der Eile;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_2; of Callous Aggression;; der herzlosen Aggression;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_3; of Carnage;; des Gemetzels;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_4; of Destruction;; der Vernichtung;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_5; of Slaughter;; des Schlachtens;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_6; of Triumph;; des Triumphs;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_7; of Undauntedness;; der Uneigennьtzigkeit;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_8; of Indomitable Will;; des unbeugsamen Willens;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_9; of Strategy;; der Strategie;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_martial_10; of Domination;; der Beherrschung;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_1; Крови;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_2; Бездушности;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_3; Резни;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_4; Разрушений;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_5; Сокрушения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_6; Триумфа;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_7; Безрассудства;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_8; Неукротимой Воли;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_9; Стратегии;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_10; Господства;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_1; of Conservancy;; der Zurьckhaltung;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_2; of Governance;; der Regierungstдtigkeit;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_3; of Good Luck;; des Glьcks;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_4; of Nature's Bounty;; der natьrlichen Gaben;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_5; of Prosperity;; des Wohlstands;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_6; of Endless Energy;; der unendlichen Energie;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_7; of Resolute Justice;; der entschlossenen Gerechtigkeit;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_8; of Unwritten Rules;; der ungeschriebenen Regeln;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_9; of Authority;; der Autoritдt;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_stewardship_10; of Reasoning;; der Logik;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_1; Бережливости;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_2; Управления;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_3; Удачи;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_4; Щедрости Природы;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_5; Процветания;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_6; Бесконечной Энергии;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_7; Решительного Правосудия;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_8; Неписаных Законов;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_9; Власти;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_10; Рассудительности;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_1; of Precision;; der Prдzision;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_2; of Shadows;; der Schatten;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_3; of the Night;; der Nacht;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_4; of Elusiveness;; der Unbestimmbarkeit;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_5; of Deceitful Intents;; der betrьgerischen Absichten;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_6; of Evil Faces;; der finsteren Gesichter;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_7; of Dread;; des Grauens;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_8; of Nightmares;; der Alptrдume;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_9; of Rescinded Truths;; der zurьckgenommenen Wahrheiten;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_intrigue_10; of Illusions;; der Illusionen;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_1; Точности;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_2; Тени;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_3; Ночи;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_4; Неуловимости;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_5; Подлых Намерений;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_6; Злых Лиц;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_7; Страха;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_8; Кошмаров;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_9; Отреченных Истин;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_10; Иллюзий;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_1; of Empowering;; der Verdienten;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_2; of Foresight;; der Voraussicht;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_3; of Infusing;; der Fьllung;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_4; of the Occult;; des Okkulten;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_5; of Worship;; der Anbetung;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_6; of Death;; des Todes;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_7; of Life;; des Lebens;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_8; of the Heavens;; der Himmel;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_9; of Spiritual Fervor;; der geistigen Inbrunst;;;;;;;;;;;x
-artifact_jewelry_epic_affixn2_learning_10; of the Meditative Mind;; des meditativen Geistes;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_1; Возможностей;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_2; Предвидения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_3; Средоточия;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_4; Оккультизма;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_5; Поклонения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_6; Смерти;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_7; Жизни;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_8; Неба;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_9; Духовного Рвения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_10; Разума;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_1; of Fated Encounters;; der schicksalhaften Begegnungen;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_2; of Glamour;; des Glanzes;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_3; of Hope;; der Hoffnung;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_4; of Royal Grandeur;; der kцniglichen Hoheit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_5; of Everliving Fealty;; der ewig-lebenden Lehnstreue;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_6; of Ascended Glory;; der aufgestiegenen Herrlichkeit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_7; of Self-Sacrifice;; der Selbstaufopferung;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_8; of the Silver Tongued;; der Silberzunge;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_9; of Euphoria;; der Euphorie;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_diplomacy_10; of Love;; der Liebe;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_1; Обреченных Встреч;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_2; Гламура;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_3; Надежды;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_4; Королевского Величия;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_5; Вечной Верности;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_6; Вознесенной Славы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_7; Самопожертвования;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_8; Красноречивости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_9; Эйфории;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_10; Любви;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_1; of Unyielding Strength;; der unnachgiebigen Stдrke;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_2; of Ethereal Flame;; der дtherischen Flamme;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_3; of the Endless Legions;; der endlosen Legionen;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_4; of Impenetrable Defenses;; der undurchdringlichen Abwehr;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_5; of Invincibility;; der Unbesiegbarkeit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_6; of Scorched Ends;; der verbrannten Enden;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_7; of Supremacy;; der Oberhoheit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_8; of the Immortal Spirit;; des Erlцsers;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_9; of Unstoppable Force;; der unaufhaltsamen Kraft;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_martial_10; of Immortal Command;; des unsterblichen Befehls;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_1; Несгибаемой Силы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_2; Вечного Пламени;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_3; Неисчислимых Легионов;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_4; Непреодолимой Защиты;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_5; Непобедимости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_6; Сжигания;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_7; Превосходства;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_8; Бессмертного Духа;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_9; Непреодолимой Силы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_10; Бессмертного Командования;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_1; of Golden Hands;; der goldenen Hдnde;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_2; of Greater Luck;; des grцЯten Glьcks;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_3; of Harmony;; der Harmonie;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_4; of Eternal Justice;; der ewigen Gerechtigkeit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_5; of Shattered Faults;; der zerschmetterten Fehler;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_6; of the Old Empire;; des alten Reiches;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_7; of Pure Gaze;; des reinen Blicks;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_8; of Unbreakable Laws;; der unbrechbaren Gesetze;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_9; of the Restless Watch;; der unruhigen Uhr;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_stewardship_10; of Destinyforging;; der Schicksalsschmiede;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_1; Золотых Рук;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_2; Великой Удачи;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_3; Гармонии;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_4; Вечной Справедливости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_5; Разрушительных Ошибок;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_6; Старой Империи;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_7; Чистого Взгляда;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_8; Нерушимых Законов;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_9; Вечного Дозора;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_10; Кования Судьбы;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_1; of Invisibility;; der Unsichtbarkeit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_2; of Darkness;; der Finsternis;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_3; of Hollow Whispers;; des hohlen Geflьsters;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_4; of Dead Kings;; der toten Kцnige;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_5; of Unspoken Names;; der verschwiegenen Namen;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_6; of Lightless Nights;; der lichtlosen Nдchte;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_7; of Death's Kiss;; des Todeskusses;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_8; of Vaulted Secrets;; der versteckten Geheimnisse;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_9; of Eternal Fears;; der ewigen Дngsten;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_intrigue_10; of Cryptic Dreams;; der kryptischen Trдume;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_1; Невидимости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_2; Тьмы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_3; Шепота;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_4; Усопших Королей;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_5; Невысказанных Имен;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_6; Беспросветных Ночей;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_7; Поцелуя Смерти;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_8; Тайн;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_9; Вечных Страхов;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_10; Загадочных Снов;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_1; of Divinity;; der Gцttlichkeit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_2; of Life Everlasting;; des ewigen Lebens;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_3; of Omniscience;; der Allwissenheit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_4; of the Ages;; der Zeitalter;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_5; of Transcendence;; der Transzendenz;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_6; of Enlightenment;; der Lichtung;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_7; of Eternity;; der Ewigkeit;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_8; of Ascension;; des Aufstiegs;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_9; of Ancient Knowledge;; des alten Wissens;;;;;;;;;;;x
-artifact_jewelry_legendary_affixn2_learning_10; of Infinite Wisdom;; der unendlichen Weisheit;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_1; Божественности;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_2; Вечной Жизни;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_3; Всеведания;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_4; Веков;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_5; Превосходства;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_6; Просвещения;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_7; Вечности;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_8; Вознесения;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_9; Древних Знаний;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_10; Безграничной Мудрости;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
@@ -583,118 +583,118 @@ artifact_weapons_legendary_affixn1_9;Lost;;Verloren;;;;;;;;;;;x
 artifact_weapons_legendary_affixn1_10;Skyfallen;;Verloren;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_uncommon_fire_affixn2_1; Smoking;; des Rauchs;;;;;;;;;;;x
-artifact_weapons_uncommon_fire_affixn2_2; Smoldering;; des Schwelbrands;;;;;;;;;;;x
-artifact_weapons_uncommon_fire_affixn2_3; Heated;; der Hitze;;;;;;;;;;;x
+artifact_weapons_uncommon_fire_affixn2_1; Огня;;;;;;;;;;;;;x
+artifact_weapons_uncommon_fire_affixn2_2; Раскаленности;;;;;;;;;;;;;x
+artifact_weapons_uncommon_fire_affixn2_3; Жары;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_uncommon_frost_affixn2_1; Frosted;; der Kдlte;;;;;;;;;;;x
-artifact_weapons_uncommon_frost_affixn2_2; Chilled;; des Frosts;;;;;;;;;;;x
-artifact_weapons_uncommon_frost_affixn2_3; Polar;; des Polareises;;;;;;;;;;;x
+artifact_weapons_uncommon_frost_affixn2_1; Льда;;;;;;;;;;;;;x
+artifact_weapons_uncommon_frost_affixn2_2; Метели;;;;;;;;;;;;;x
+artifact_weapons_uncommon_frost_affixn2_3; Тундры;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_uncommon_lightning_affixn2_1; Static;; der Ladung;;;;;;;;;;;x
-artifact_weapons_uncommon_lightning_affixn2_2; Buzzing;; der statischen Aufladung;;;;;;;;;;;x
-artifact_weapons_uncommon_lightning_affixn2_3; Energetic;; der Blitze;;;;;;;;;;;x
+artifact_weapons_uncommon_lightning_affixn2_1; Молний;;;;;;;;;;;;;x
+artifact_weapons_uncommon_lightning_affixn2_2; Искр;;;;;;;;;;;;;x
+artifact_weapons_uncommon_lightning_affixn2_3; Энергии;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_uncommon_poison_affixn2_1; Foul;; der Unreinheit;;;;;;;;;;;x
-artifact_weapons_uncommon_poison_affixn2_2; Septic;; der Sepsis;;;;;;;;;;;x
-artifact_weapons_uncommon_poison_affixn2_3; Nasty;; der Pest;;;;;;;;;;;x
+artifact_weapons_uncommon_poison_affixn2_1; Подлости;;;;;;;;;;;;;x
+artifact_weapons_uncommon_poison_affixn2_2; Септичности;;;;;;;;;;;;;x
+artifact_weapons_uncommon_poison_affixn2_3; Отвратительности;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_uncommon_magic_affixn2_1; Mysterious;; des Mysteriums;;;;;;;;;;;x
-artifact_weapons_uncommon_magic_affixn2_2; Strange;; der Trдume;;;;;;;;;;;x
-artifact_weapons_uncommon_magic_affixn2_3; Ritual;; des Rituals;;;;;;;;;;;x
+artifact_weapons_uncommon_magic_affixn2_1; Загадок;;;;;;;;;;;;;x
+artifact_weapons_uncommon_magic_affixn2_2; Странностей;;;;;;;;;;;;;x
+artifact_weapons_uncommon_magic_affixn2_3; Ритуалов;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_1; Glinting;; des Glitzerns;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_2; Burnished;; der Politur;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_3; Polished;; der Wдchters;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_4; Cruel;; der Quдlerei;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_5; Brutal;; der Brutalitдt;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_6; Enfeebling;; der Schwдchung;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_7; Edgy;; des Ьberlebens;;;;;;;;;;;x
-artifact_weapons_uncommon_physical_affixn2_8; Penetrating;; der Durchdringung;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_1; Блеска;;;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_2; Полированности;;;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_3; Жестокости;;;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_4; Отваги;;;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_5; Могущества;;;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_6; Слабости;;;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_7; Шока;;;;;;;;;;;;;x
+artifact_weapons_uncommon_physical_affixn2_8; Увечий;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_rare_fire_affixn2_1; Burning;; der Glut;;;;;;;;;;;x
-artifact_weapons_rare_fire_affixn2_2; Fiery;; der Flamme;;;;;;;;;;;x
-artifact_weapons_rare_fire_affixn2_3; Dazzling;; des Feuers;;;;;;;;;;;x
+artifact_weapons_rare_fire_affixn2_1; Опаления;;;;;;;;;;;;;x
+artifact_weapons_rare_fire_affixn2_2; Огня;;;;;;;;;;;;;x
+artifact_weapons_rare_fire_affixn2_3; Ослепления;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_rare_frost_affixn2_1; Icy;; des Eises;;;;;;;;;;;x
-artifact_weapons_rare_frost_affixn2_2; Frozen;; des Gefrierbrands;;;;;;;;;;;x
-artifact_weapons_rare_frost_affixn2_3; Shattering;; der Zerschmetterung;;;;;;;;;;;x
+artifact_weapons_rare_frost_affixn2_1; Льда;;;;;;;;;;;;;x
+artifact_weapons_rare_frost_affixn2_2; Мороза;;;;;;;;;;;;;x
+artifact_weapons_rare_frost_affixn2_3; Сокрушения;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_rare_lightning_affixn2_1; Sparking;; des Funkens;;;;;;;;;;;x
-artifact_weapons_rare_lightning_affixn2_2; Glowing;; des Aufleuchtens;;;;;;;;;;;x
-artifact_weapons_rare_lightning_affixn2_3; Electric;; der Elektrizitдt;;;;;;;;;;;x
+artifact_weapons_rare_lightning_affixn2_1; Искр;;;;;;;;;;;;;x
+artifact_weapons_rare_lightning_affixn2_2; Молний;;;;;;;;;;;;;x
+artifact_weapons_rare_lightning_affixn2_3; Грома;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_rare_poison_affixn2_1; Corrosive;; des Дtzens;;;;;;;;;;;x
-artifact_weapons_rare_poison_affixn2_2; Fungal;; des Schimmelns;;;;;;;;;;;x
-artifact_weapons_rare_poison_affixn2_3; Acidic;; der Sдure;;;;;;;;;;;x
+artifact_weapons_rare_poison_affixn2_1; Едкости;;;;;;;;;;;;;x
+artifact_weapons_rare_poison_affixn2_2; Жжения;;;;;;;;;;;;;x
+artifact_weapons_rare_poison_affixn2_3; Кислотности;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_rare_magic_affixn2_1; Arcane;; des Arkanen;;;;;;;;;;;x
-artifact_weapons_rare_magic_affixn2_2; Magical;; des Magischen;;;;;;;;;;;x
-artifact_weapons_rare_magic_affixn2_3; Enigmatic;; der Rдtsel;;;;;;;;;;;x
+artifact_weapons_rare_magic_affixn2_1; Тайной Магии;;;;;;;;;;;;;x
+artifact_weapons_rare_magic_affixn2_2; Магии;;;;;;;;;;;;;x
+artifact_weapons_rare_magic_affixn2_3; Загадок;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_1; Honed;; der Eile;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_2; Gleaming;; des Glanzes;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_3; Sharp;; der Schдrfe;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_4; Ruthless;; der Gnadenlosigkeit;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_5; Vicious;; der Bцsartigkeit;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_6; Violent;; der Gewalttдtigkeit;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_7; Bloodthirsty;; der Blutrьnstigkeit;;;;;;;;;;;x
-artifact_weapons_rare_physical_affixn2_8; Incising;; des Einschneidens;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_1; Тьмы;;;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_2; Блеска;;;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_3; Резни;;;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_4; Безжалостности;;;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_5; Злобы;;;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_6; Жестокости;;;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_7; Кровожадности;;;;;;;;;;;;;x
+artifact_weapons_rare_physical_affixn2_8; Порезов;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_epic_fire_affixn2_1; Blazing;; des Brandes;;;;;;;;;;;x
-artifact_weapons_epic_fire_affixn2_2; Flamecalling;; des Flammenrufers;;;;;;;;;;;x
-artifact_weapons_epic_fire_affixn2_3; Flickering;; des Aufflackerns;;;;;;;;;;;x
+artifact_weapons_epic_fire_affixn2_1; Пламени;;;;;;;;;;;;;x
+artifact_weapons_epic_fire_affixn2_2; Призывания Огня;;;;;;;;;;;;;x
+artifact_weapons_epic_fire_affixn2_3; Мерцания;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_epic_frost_affixn2_1; Freezing;; der Erfrierung;;;;;;;;;;;x
-artifact_weapons_epic_frost_affixn2_2; Glacial;; des Gletscher;;;;;;;;;;;x
-artifact_weapons_epic_frost_affixn2_3; Icebound;; des Eisgebundenen;;;;;;;;;;;x
+artifact_weapons_epic_frost_affixn2_1; Мороза;;;;;;;;;;;;;x
+artifact_weapons_epic_frost_affixn2_2; Льда;;;;;;;;;;;;;x
+artifact_weapons_epic_frost_affixn2_3; Незыблемости;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_epic_lightning_affixn2_1; Shocking;; des Schock;;;;;;;;;;;x
-artifact_weapons_epic_lightning_affixn2_2; Electrifying;; des Kurzschlusses;;;;;;;;;;;x
-artifact_weapons_epic_lightning_affixn2_3; Voltaic;; der Spannung;;;;;;;;;;;x
+artifact_weapons_epic_lightning_affixn2_1; Шока;; des Schock;;;;;;;;;;;x
+artifact_weapons_epic_lightning_affixn2_2; Мерцания;; des Kurzschlusses;;;;;;;;;;;x
+artifact_weapons_epic_lightning_affixn2_3; Заряда;; der Spannung;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_epic_poison_affixn2_1; Toxic;; des Gifts;;;;;;;;;;;x
-artifact_weapons_epic_poison_affixn2_2; Noxious;; des Verfalls;;;;;;;;;;;x
-artifact_weapons_epic_poison_affixn2_3; Blighting;; der Verderbnis;;;;;;;;;;;x
+artifact_weapons_epic_poison_affixn2_1; Токсичности;;;;;;;;;;;;;x
+artifact_weapons_epic_poison_affixn2_2; Вреда;;;;;;;;;;;;;x
+artifact_weapons_epic_poison_affixn2_3; Разрушения;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_epic_magic_affixn2_1; Eerie;; der Wahrnehmung;;;;;;;;;;;x
-artifact_weapons_epic_magic_affixn2_2; Astral;; des Astralen;;;;;;;;;;;x
-artifact_weapons_epic_magic_affixn2_3; Mythical;; des Mythischen;;;;;;;;;;;x
+artifact_weapons_epic_magic_affixn2_1; Жути;;;;;;;;;;;;;x
+artifact_weapons_epic_magic_affixn2_2; Астральности;;;;;;;;;;;;;x
+artifact_weapons_epic_magic_affixn2_3; Мифов;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_1; Annealed;; der Geschicklichkeit;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_2; Tempered;; der Hдrte;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_3; Serrated;; der Zacken;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_4; Merciless;; der Rьcksichtslosigkeit ;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_5; Perforating;; des Durchlцcherns;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_6; Disabling;; der Behinderung;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_7; Ravenous;; der Raserei;;;;;;;;;;;x
-artifact_weapons_epic_physical_affixn2_8; Puncturing;; des DurchstoЯens;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_1; Обожженности;;;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_2; Закаленности;;;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_3; Зазубренности;;;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_4; Безжалостности;;;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_5; Ранений;;;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_6; Умерщвления;;;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_7; Коварности;;;;;;;;;;;;;x
+artifact_weapons_epic_physical_affixn2_8; Прокалывания;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_legendary_fire_affixn2_1; Erupting;; des Ausbruchs;;;;;;;;;;;x
-artifact_weapons_legendary_fire_affixn2_2; Scorching;; der sengenden Hitze;;;;;;;;;;;x
-artifact_weapons_legendary_fire_affixn2_3; Infernal;; des Infernos;;;;;;;;;;;x
+artifact_weapons_legendary_fire_affixn2_1; Извержения;;;;;;;;;;;;;x
+artifact_weapons_legendary_fire_affixn2_2; Угля;;;;;;;;;;;;;x
+artifact_weapons_legendary_fire_affixn2_3; Бездны;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_legendary_frost_affixn2_1; Entombing;; des EinschlieЯens;;;;;;;;;;;x
-artifact_weapons_legendary_frost_affixn2_2; Boreal;; der Tundra;;;;;;;;;;;x
-artifact_weapons_legendary_frost_affixn2_3; Hibernal;; des Winterschlafs;;;;;;;;;;;x
+artifact_weapons_legendary_frost_affixn2_1; Снежной Бури;;;;;;;;;;;;;x
+artifact_weapons_legendary_frost_affixn2_2; Тундры;;;;;;;;;;;;;x
+artifact_weapons_legendary_frost_affixn2_3; Холодной Метели;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_legendary_lightning_affixn2_1; Thundercalling;; des grollenden Donners;;;;;;;;;;;x
-artifact_weapons_legendary_lightning_affixn2_2; Stormcharged;; der Sturmwolken;;;;;;;;;;;x
-artifact_weapons_legendary_lightning_affixn2_3; Tempestuous;; der Stьrme;;;;;;;;;;;x
+artifact_weapons_legendary_lightning_affixn2_1; Призывания Грома;;;;;;;;;;;;;x
+artifact_weapons_legendary_lightning_affixn2_2; Штормов;;;;;;;;;;;;;x
+artifact_weapons_legendary_lightning_affixn2_3; Бури;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_legendary_poison_affixn2_1; Pestilent;; der Pestverseuchung;;;;;;;;;;;x
-artifact_weapons_legendary_poison_affixn2_2; Venomous;; der Verseuchung;;;;;;;;;;;x
-artifact_weapons_legendary_poison_affixn2_3; Plaguebringing;; des Pestbringers;;;;;;;;;;;x
+artifact_weapons_legendary_poison_affixn2_1; Коварности;;;;;;;;;;;;;x
+artifact_weapons_legendary_poison_affixn2_2; Яда;;;;;;;;;;;;;x
+artifact_weapons_legendary_poison_affixn2_3; Чумы;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_legendary_magic_affixn2_1; Mystic;; des Mystischen;;;;;;;;;;;x
-artifact_weapons_legendary_magic_affixn2_2; Celestial;; der Himmlischen;;;;;;;;;;;x
-artifact_weapons_legendary_magic_affixn2_3; Rainbow;; des Regenbogens;;;;;;;;;;;x
+artifact_weapons_legendary_magic_affixn2_1; Мистицизма;;;;;;;;;;;;;x
+artifact_weapons_legendary_magic_affixn2_2; Неба;;;;;;;;;;;;;x
+artifact_weapons_legendary_magic_affixn2_3; Радуги;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_1; Deadly;; des Todes;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_2; Devastating;; der Verheerung;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_3; Savage;; der Wildheit;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_4; Ferocious;; der Grausamkeit;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_5; Impaling;; des AufspieЯens;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_6; Crippling;; der Lдhmung;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_7; Voracious;; der GefrдЯigkeit;;;;;;;;;;;x
-artifact_weapons_legendary_physical_affixn2_8; Murderous;; der Mordlust;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_1; Смерти;;;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_2; Разорения;;;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_3; Дикости;;;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_4; Свирепости;;;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_5; Пронзания;;;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_6; Увечий;;;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_7; Ненасытности;;;;;;;;;;;;;x
+artifact_weapons_legendary_physical_affixn2_8; Кровожадности;;;;;;;;;;;;;x
