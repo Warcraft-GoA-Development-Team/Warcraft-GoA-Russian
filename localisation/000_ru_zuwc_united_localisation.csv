@@ -2207,8 +2207,8 @@ creature_high_elf_opinion;мнение высших эльфов;;;;;;;;;;;;;x
 opinion_of_creature_high_elf;мнение о высших эльфах;;;;;;;;;;;;;x
 creature_blood_elf_opinion;мнение кровавых эльфов;;;;;;;;;;;;;x
 opinion_of_creature_blood_elf;мнение о кровавых эльфах;;;;;;;;;;;;;x
-creature_magnataur_opinion;мнение магнотавров;;;;;;;;;;;;;x
-opinion_of_creature_magnataur;мнение о магнотаврах;;;;;;;;;;;;;x
+creature_magnataur_opinion;мнение магнатавров;;;;;;;;;;;;;x
+opinion_of_creature_magnataur;мнение о магнатаврах;;;;;;;;;;;;;x
 creature_taunka_opinion;мнение таунка;;;;;;;;;;;;;x
 opinion_of_creature_taunka;мнение о таунка;;;;;;;;;;;;;x
 creature_night_elf_opinion;мнение ночных эльфов;;;;;;;;;;;;;x
