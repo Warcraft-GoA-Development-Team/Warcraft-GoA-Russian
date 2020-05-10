@@ -2230,9 +2230,9 @@ RULE_INTERRACIAL_MARRIAGES_UNRESTRICTED;Неограниченные;;;;;;;;;;;;;x
 RULE_INTERRACIAL_MARRIAGES_UNRESTRICTED_DESC;Межрасовые браки доступны между всеми расами.;;;;;;;;;;;;;x
 RULE_INTERRACIAL_MARRIAGES_OFF;Отключены;;;;;;;;;;;;;x
 RULE_INTERRACIAL_MARRIAGES_OFF_DESC;Межрасовые браки отключены.;;;;;;;;;;;;;x
-RULE_HALFBREED_RACE;§RWarcraft§!: Расы Полукровок;;;;;;;;;;;;;x
+RULE_HALFBREED_RACE;§RWarcraft§!: Расы полукровок;;;;;;;;;;;;;x
 RULE_HALFBREED_RACE_DYNASTY;Династическая;;;;;;;;;;;;;x
-RULE_HALFBREED_RACE_DYNASTY_DESC;Полукрови получают расу отца, если они имеют династию отца. В противном случае, они получают расу матери.;;;;;;;;;;;;;x
+RULE_HALFBREED_RACE_DYNASTY_DESC;Полукровки получают расу отца, если они имеют династию отца. В противном случае, они получают расу матери.;;;;;;;;;;;;;x
 RULE_HALFBREED_RACE_FATHER;Отцовская;;;;;;;;;;;;;x
 RULE_HALFBREED_RACE_FATHER_DESC;Полукровки всегда получают династию отца.;;;;;;;;;;;;;x
 RULE_HALFBREED_RACE_MOTHER;Материнская;;;;;;;;;;;;;x
