@@ -1,48 +1,48 @@
-#CODE;RUSSIAN;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;RUSSIAN;;;;;;;;;;;;;x
 # Common;;;;;;;;;;;;;;x
-tribal_emperor;Император;Empereur;Kaiser;;;;;;;;;;;x
-tribal_emperor_female;Императрица;Impйratrice;Kaiserin;;;;;;;;;;;x
-tribal_empire_of;Империя;Empire de;Imperium von;;;;;;;;;;;x
-tribal_empire;Империя;Empire;Imperium;;;;;;;;;;;x
-tribal_king;Верховный вождь;Grand chef;Oberhдuptling;;;;;;;;;;;x
-tribal_king_female;Верховная предводительница;Grande cheffe;Oberhдuptlingsfrau;;;;;;;;;;;x
-tribal_kingdom_of;Верховное племя;Grande Tribu de;Hochstamm von;;;;;;;;;;;x
-tribal_kingdom;Верховный клан;Haut Clan;Hochstamm;;;;;;;;;;;x
-tribal_duke;Вождь;Chef;Hдuptling;;;;;;;;;;;x
-tribal_duke_female;Предводительница;Cheffe;Hдutlingsfrau;;;;;;;;;;;x
-tribal_duchy_of;Племя;Tribu de;Stamm von;;;;;;;;;;;x
-tribal_duchy;Клан;Clan;Clan;;;;;;;;;;;x
-tribal_count;Предводитель;Chef;Hдuptling;;;;;;;;;;;x
-tribal_count_female;Предводительница;Cheffe;Hдuptlingsdame;;;;;;;;;;;x
-tribal_county_of;Вождество;Chefferie de;Hдuptlingstum von;;;;;;;;;;;x
-tribal_county;Вождество;Chefferie;Hдuptlingstum;;;;;;;;;;;x
-tribal_baron;Вождь;Chefferie mineure de;Geringerer Hдuptling;;;;;;;;;;;x
-tribal_baron_female;Предводительница;Chefferie mineure;Geringere Hдuptlingsdame;;;;;;;;;;;x
-tribal_barony_of;Земли племени;Terres tribales de;Stammesland von;;;;;;;;;;;x
-tribal_barony;Земли племени;Terres tribales;Stammesland;;;;;;;;;;;x
+tribal_emperor;Император;;;;;;;;;;;;;x
+tribal_emperor_female;Императрица;;;;;;;;;;;;;x
+tribal_empire_of;Империя;;;;;;;;;;;;;x
+tribal_empire;Империя;;;;;;;;;;;;;x
+tribal_king;Верховный вождь;;;;;;;;;;;;;x
+tribal_king_female;Верховная предводительница;;;;;;;;;;;;;x
+tribal_kingdom_of;Верховное племя;;;;;;;;;;;;;x
+tribal_kingdom;Верховный клан;;;;;;;;;;;;;x
+tribal_duke;Вождь;;;;;;;;;;;;;x
+tribal_duke_female;Предводительница;;;;;;;;;;;;;x
+tribal_duchy_of;Племя;;;;;;;;;;;;;x
+tribal_duchy;Клан;;;;;;;;;;;;;x
+tribal_count;Предводитель;;;;;;;;;;;;;x
+tribal_count_female;Предводительница;;;;;;;;;;;;;x
+tribal_county_of;Вождество;;;;;;;;;;;;;x
+tribal_county;Вождество;;;;;;;;;;;;;x
+tribal_baron;Вождь;;;;;;;;;;;;;x
+tribal_baron_female;Предводительница;;;;;;;;;;;;;x
+tribal_barony_of;Земли племени;;;;;;;;;;;;;x
+tribal_barony;Земли племени;;;;;;;;;;;;;x
 # troll_group;;;;;;;;;;;;;;x
-tribal_emperor_troll_group;Король-бог;Dieu-roi;Gottkцnig;;;;;;;;;;;x
-tribal_emperor_female_troll_group;Королева-богиня;Dйesse-reine;Gottkцnigin;;;;;;;;;;;x
-tribal_empire_of_troll_group;Империя;Empire de;Imperium von;;;;;;;;;;;x
-tribal_empire_troll_group;Империя;Empire;Imperium;;;;;;;;;;;x
+tribal_emperor_troll_group;Король-бог;;;;;;;;;;;;;x
+tribal_emperor_female_troll_group;Королева-богиня;;;;;;;;;;;;;x
+tribal_empire_of_troll_group;Империя;;;;;;;;;;;;;x
+tribal_empire_troll_group;Империя;;;;;;;;;;;;;x
 # vrykul_group;;;;;;;;;;;;;;x
-tribal_emperor_vrykul_group;Император;Empereur;Kaiser;;;;;;;;;;;x
-tribal_emperor_female_vrykul_group;Императрица;Impйratrice;Kaiserin;;;;;;;;;;;x
-tribal_empire_of_vrykul_group;Империя;Empire de;Kaiserreich von;;;;;;;;;;;x
-tribal_empire_vrykul_group;Империя;Empire;Kaiserreich;;;;;;;;;;;x
-tribal_king_vrykul_group;Король;Roi;Kцnig;;;;;;;;;;;x
-tribal_king_female_vrykul_group;Королева;Reine;Kцnigin;;;;;;;;;;;x
-tribal_king_of_vrykul_group;Королевство;Royaume de;Kцnigreich von;;;;;;;;;;;x
-tribal_king_vrykul_group;Королевство;Royaume;Kцnigreich;;;;;;;;;;;x
-tribal_duke_vrykul_group;Ярл;Jarl;Jarl;;;;;;;;;;;x
-tribal_duke_female_vrykul_group;Ярл;Frue;Frue;;;;;;;;;;;x
-tribal_duchy_of_vrykul_group;Ярлство;Chвtellerie de;Jarltum von;;;;;;;;;;;x
+tribal_emperor_vrykul_group;Император;;;;;;;;;;;;;x
+tribal_emperor_female_vrykul_group;Императрица;;;;;;;;;;;;;x
+tribal_empire_of_vrykul_group;Империя;;;;;;;;;;;;;x
+tribal_empire_vrykul_group;Империя;;;;;;;;;;;;;x
+tribal_king_vrykul_group;Король;;;;;;;;;;;;;x
+tribal_king_female_vrykul_group;Королева;;;;;;;;;;;;;x
+tribal_king_of_vrykul_group;Королевство;;;;;;;;;;;;;x
+tribal_king_vrykul_group;Королевство;;;;;;;;;;;;;x
+tribal_duke_vrykul_group;Ярл;;;;;;;;;;;;;x
+tribal_duke_female_vrykul_group;Ярл;;;;;;;;;;;;;x
+tribal_duchy_of_vrykul_group;Ярлство;;;;;;;;;;;;;x
 # dryad_group;;;;;;;;;;;;;;x
-tribal_count_frostnymph;Страж;Gardien;Wдchter;;;;;;;;;;;x
-tribal_count_female_frostnymph;Стражница;Gardienne;Wдchterin;;;;;;;;;;;x
-tribal_county_of_dryad_group;Обитель;Clairiиre de;Lichtung von;;;;;;;;;;;x
-tribal_county_dryad_group;Обитель;Clairiиre;Lichtung;;;;;;;;;;;x
-tribal_baron_dryad_group;Хранитель;Sylvenier;Jьngling;;;;;;;;;;;x
-tribal_baron_female_dryad_group;Хранительница;Sylveniиre;Jьngling;;;;;;;;;;;x
-tribal_barony_of_dryad_group;Убежище;Refuge de;Zuflucht von;;;;;;;;;;;x
-tribal_barony_dryad_group;Убежище;Refuge;Zuflucht;;;;;;;;;;;x
+tribal_count_frostnymph;Страж;;;;;;;;;;;;;x
+tribal_count_female_frostnymph;Стражница;;;;;;;;;;;;;x
+tribal_county_of_dryad_group;Обитель;;;;;;;;;;;;;x
+tribal_county_dryad_group;Обитель;;;;;;;;;;;;;x
+tribal_baron_dryad_group;Хранитель;;;;;;;;;;;;;x
+tribal_baron_female_dryad_group;Хранительница;;;;;;;;;;;;;x
+tribal_barony_of_dryad_group;Убежище;;;;;;;;;;;;;x
+tribal_barony_dryad_group;Убежище;;;;;;;;;;;;;x

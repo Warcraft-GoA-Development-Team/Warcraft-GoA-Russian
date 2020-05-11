@@ -2429,7 +2429,7 @@ GetAdjective_demonic;демонический;;;;;;;;;;;;;x
 GetAdjective_zealot;фанатик;;;;;;;;;;;;;x
 GetAdjective_castle; репость;;;;;;;;;;;;;x
 GetAdjective_dark;“емный;;;;;;;;;;;;;x
-GetPeasantsType_acolytes;послушник;;;;;;;;;;;;;x
+GetPeasantsType_acolytes;послушники;;;;;;;;;;;;;x
 GetPeasantsType_peasants;кресть€не;;;;;;;;;;;;;x
 GetAdjective_Acolyte;послушник;;;;;;;;;;;;;x
 GetAdjective_Militia;ополчени€;;;;;;;;;;;;;x
