@@ -4,7 +4,7 @@ artifact_common_affixn1_0;Обычное;;;;;;;;;;;;;x
 artifact_uncommon_affixn1_0;Необычное;;;;;;;;;;;;;x
 artifact_rare_affixn1_0;Редкое;;;;;;;;;;;;;x
 artifact_epic_affixn1_0;Эпическое;;;;;;;;;;;;;x
-artifact_legendary_affixn1_0;Legendary;;;;;;;;;;;;;x
+artifact_legendary_affixn1_0;Легендарный;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 artifact_jewelry_stat_diplomacy_affixn2_0; Дипломатии;;;;;;;;;;;;;x
 artifact_jewelry_stat_martial_affixn2_0; Военного навыка;;;;;;;;;;;;;x
@@ -29,115 +29,115 @@ artifact_common_origin_8;[This.GetName] выковал пьяный кузнец;;;;;;;;;;;;;x
 artifact_common_origin_9;символы и руны, усеивающие [This.GetName] не имеют смысла;;;;;;;;;;;;;x
 artifact_common_origin_10;ремесленник, создавший [This.GetName] выковал это произведение из совершенно другого артефакта, но значительно ухудшил качество;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_uncommon_origin_1;this [This.GetName] was never deliberately enchanted, but acquired its magic by chance;;diese [This.GetName] nicht absichtlich verzaubert wurde, sondern zufдllig Magie erlangte;;;;;;;;;;;x
-artifact_uncommon_origin_2;this [This.GetName] was fished out of a lake;;diese [This.GetName] aus einem See gefischt wurde;;;;;;;;;;;x
-artifact_uncommon_origin_3;this [This.GetName] is an underwhelming replica of a legendary original;;diese [This.GetName] ist eine unvollkommene Nachbildung eines legendдren Originals ist;;;;;;;;;;;x
-artifact_uncommon_origin_4;traces of the original owners blood can still be seen on this [This.GetName];;;;;;;;;;;;;x
-artifact_uncommon_origin_5;this [This.GetName] is designed after one worn by a famed hero;;;;;;;;;;;;;x
-artifact_uncommon_origin_6;this [This.GetName] was stolen from a demon;;;;;;;;;;;;;x
-artifact_uncommon_origin_7;this [This.GetName] matches the description of one worn by a hero in a popular children's lullaby;;;;;;;;;;;;;x
-artifact_uncommon_origin_8;this [This.GetName] was found in the city's library along with other debris gathered in memory of an unknown conflict;;;;;;;;;;;;;x
-artifact_uncommon_origin_9;this [This.GetName] has been tainted by some strange magic;;;;;;;;;;;;;x
-artifact_uncommon_origin_10;the appearance of this [This.GetName] has been altered by someone to hide its identity;;;;;;;;;;;;;x
+artifact_uncommon_origin_1;[This.GetName] никогда не зачаровывали, а магические свойства этот артефакт приобрел случайно;;;;;;;;;;;;;x
+artifact_uncommon_origin_2;[This.GetName] выловили из озера;;;;;;;;;;;;;x
+artifact_uncommon_origin_3;[This.GetName] - копия легендарного оригинала;;;;;;;;;;;;;x
+artifact_uncommon_origin_4;на [This.GetName] все еще можно увидеть следы крови прошлых владельцев;;;;;;;;;;;;;x
+artifact_uncommon_origin_5;[This.GetName] выковали по чертежам оригинала, принадлежавшего знаменитому герою;;;;;;;;;;;;;x
+artifact_uncommon_origin_6;[This.GetName] украли у демона;;;;;;;;;;;;;x
+artifact_uncommon_origin_7;описание [This.GetName] совпадает с описанием артефакта героя в популярной детской колыбельной;;;;;;;;;;;;;x
+artifact_uncommon_origin_8;[This.GetName] нашли в городской библиотеке в сломанном состоянии, осколки собрали в память о давней войне;;;;;;;;;;;;;x
+artifact_uncommon_origin_9;[This.GetName] пропитан странной магией;;;;;;;;;;;;;x
+artifact_uncommon_origin_10;внешний вид [This.GetName] был изменен с целью сокрытия изначального вида;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_rare_origin_1;this [This.GetName] once was the a family heirloom of a fallen noble;;;;;;;;;;;;;x
-artifact_rare_origin_2;this [This.GetName] supposed to be cursed, but for some reason became enchanted instead;;;;;;;;;;;;;x
-artifact_rare_origin_3;this [This.GetName] was presented as a reward to the winner of a famous tournament in the distant past ;;;;;;;;;;;;;x
-artifact_rare_origin_4;this [This.GetName] initially supposed to be a mere replica, but accidentally surpassed the original;;;;;;;;;;;;;x
-artifact_rare_origin_5;this [This.GetName] was crafted by an enigmatic individual who wanted to be remembered, but whose name was erased from history;;;;;;;;;;;;;x
-artifact_rare_origin_6;this [This.GetName] has passed through much to attain its magical properties;;;;;;;;;;;;;x
-artifact_rare_origin_7;the magical properties of a [This.GetName] such as this intrigue the mind. It was constructed from the finest parts of many different artifacts that were worn by many different heroes;;;;;;;;;;;;;x
-artifact_rare_origin_8;originally fashioned for a ruler's burial, this [This.GetName] was instead entrusted to his successor, who began the tradition of passing it on to the worthiest champions of the realm;;;;;;;;;;;;;x
-artifact_rare_origin_9;this [This.GetName] was found in the process of plundering the depths of an ancient tomb;;;;;;;;;;;;;x
-artifact_rare_origin_10;a tyrant, who took enormous pride in his appearance, was wearing this [This.GetName] the day he was murdered by his own servants;;;;;;;;;;;;;x
+artifact_rare_origin_1;[This.GetName] являлся семейной реликвией павшего дворянина;;;;;;;;;;;;;x
+artifact_rare_origin_2;[This.GetName] должен быть проклят, но вместо этого зачарован;;;;;;;;;;;;;x
+artifact_rare_origin_3;[This.GetName] когда-то был дарован в качестве приза победителю знаменитого турнира;;;;;;;;;;;;;x
+artifact_rare_origin_4;[This.GetName] изначально являлся копией, но в процессе изготовления превзошел оригинал;;;;;;;;;;;;;x
+artifact_rare_origin_5;[This.GetName] создал загадочный человек, который хотел, чтобы его запомнили, но его имя было стерто из истории;;;;;;;;;;;;;x
+artifact_rare_origin_6;[This.GetName] долго перековывали, чтобы привить текущие магические свойства;;;;;;;;;;;;;x
+artifact_rare_origin_7;магические свойства [This.GetName] интригуют разум. Этот артефакт выкован из обломков множества разнообразных артефактов, принадлежавших героям;;;;;;;;;;;;;x
+artifact_rare_origin_8;[This.GetName] был предназначен для захоронения вместе с умершим правителем, но был передан его наследнику, который начал традицию передачи этого артефакта самым достойным чемпионам;;;;;;;;;;;;;x
+artifact_rare_origin_9;[This.GetName] был найден в процессе исследования древней гробницы;;;;;;;;;;;;;x
+artifact_rare_origin_10;тиран, гордившийся своим внешним видом, носил [This.GetName] в день, когда его убили собственные слуги;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_epic_origin_1;this [This.GetName] fell from the sky;;;;;;;;;;;;;x
-artifact_epic_origin_2;the origins of this [This.GetName] are unknown;;;;;;;;;;;;;x
-artifact_epic_origin_3;this [This.GetName] was the spark that ignited full-scale war between neighboring realms, as they vied to acquire it;;;;;;;;;;;;;x
-artifact_epic_origin_4;this [This.GetName] is the only remaining proof of a mystic creature's existence, which died a long time ago;;;;;;;;;;;;;x
-artifact_epic_origin_5;this [This.GetName] was sold once for 40k;;;;;;;;;;;;;x
-artifact_epic_origin_6;the original owner of this [This.GetName] spent the last years of his life traveling the world in search of esoteric secrets;;;;;;;;;;;;;x
-artifact_epic_origin_7;sometimes this [This.GetName] glows with the essence of several lives that ended too soon;;;;;;;;;;;;;x
-artifact_epic_origin_8;when you gaze too long at this [This.GetName], it also gazes back at you;;;;;;;;;;;;;x
-artifact_epic_origin_9;this [This.GetName] whispers its original owners name from realms beyond;;;;;;;;;;;;;x
-artifact_epic_origin_10;once upon a time a wise hermit has tried to understand the power of this [This.GetName], but has been driven mad by it;;;;;;;;;;;;;x
+artifact_epic_origin_1;[This.GetName] упал с неба;;;;;;;;;;;;;x
+artifact_epic_origin_2;происхождение [This.GetName] неизвестно;;;;;;;;;;;;;x
+artifact_epic_origin_3;[This.GetName] послужил искрой, из которой вспыхнула кровопролитная война между соседними королевствами, сражавшимися за обладание этим артефактом;;;;;;;;;;;;;x
+artifact_epic_origin_4;[This.GetName] являтся последним доказательством существования давно умершего мистического существа;;;;;;;;;;;;;x
+artifact_epic_origin_5;[This.GetName] когда-то продали за 40 тысяч золотых;;;;;;;;;;;;;x
+artifact_epic_origin_6;изначальный владелец [This.GetName] провел последние годы своей жизни путешествуя по миру в поисках ответов на разнообразные тайны;;;;;;;;;;;;;x
+artifact_epic_origin_7;иногда [This.GetName] светится сущностью жизней, которые были прерваны слишком рано;;;;;;;;;;;;;x
+artifact_epic_origin_8;когда вы слишком долго вглядываетесь в [This.GetName], этот артефакт вглядывается в вас;;;;;;;;;;;;;x
+artifact_epic_origin_9;из [This.GetName] раздается шепот, называющий имя существа из другого мира, создавшего этот артефакт;;;;;;;;;;;;;x
+artifact_epic_origin_10;однажды один мудрец пытался постичь силу [This.GetName], но сошел от полученных знаний с ума;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_legendary_origin_1;this [This.GetName] belongs to those who are dead. All who have worn it have died, and all who wear it yet shall follow;;;;;;;;;;;;;x
-artifact_legendary_origin_2;many a hero has wielded this [This.GetName] through many an age, and the tales sung of it can be heard from one end of the world to the other;;;;;;;;;;;;;x
-artifact_legendary_origin_3;this [This.GetName] was crafted with a technique millennia beyond its time. Few craftsmens have been able to replicate the quality;;;;;;;;;;;;;x
-artifact_legendary_origin_4;all who chance to behold this [This.GetName], desire it. Those who possess it must shed blood to keep it. And those who deem themselves above its allure are the most endangered by it;;;;;;;;;;;;;x
-artifact_legendary_origin_5;this [This.GetName] was destroyed aeons ago..;;;;;;;;;;;;;x
+artifact_legendary_origin_1;[This.GetName] принадлежал мертвецу. Все предыдущие владельцы мертвы, а те, кто владеет артефактом сейчас, также избежат этой судьбы;;;;;;;;;;;;;x
+artifact_legendary_origin_2;многие держали в руке [This.GetName] на протяжении поколений. Легенды об их деяниях можно услышать во всех уголках мира;;;;;;;;;;;;;x
+artifact_legendary_origin_3;[This.GetName] выковали с применением техники, которая превосходит существующие на тысячелетия. Немногие мастера способны создать нечто подобное;;;;;;;;;;;;;x
+artifact_legendary_origin_4;любой, кто хоть раз видел [This.GetName], возжелал этот артефакт себе. Владельцу предстоит не раз проливать кровь, чтобы сохранить артефакт у себя;;;;;;;;;;;;;x
+artifact_legendary_origin_5;[This.GetName] уничтожили тысячелетия назад..;;;;;;;;;;;;;x
 artifact_legendary_origin_6;the very sight of this [This.GetName] was enough to settle disputes that would otherwise lead to war;;;;;;;;;;;;;x
-artifact_legendary_origin_7;no mortals hands crafted this [This.GetName];;;;;;;;;;;;;x
-artifact_legendary_origin_8;this [This.GetName] has existed since before time began;;;;;;;;;;;;;x
-artifact_legendary_origin_9;this [This.GetName] holds the secret to existence for those who can decipher its intricate design;;;;;;;;;;;;;x
-artifact_legendary_origin_10;materials from what this [This.GetName] was crafted do not exist in this world;;;;;;;;;;;;;x
+artifact_legendary_origin_7;[This.GetName] не мог выковать смертный;;;;;;;;;;;;;x
+artifact_legendary_origin_8;[This.GetName] существовал еще в начале времен;;;;;;;;;;;;;x
+artifact_legendary_origin_9;[This.GetName] хранит тайны для тех, кто может расшифровать его замысловатый дизайн;;;;;;;;;;;;;x
+artifact_legendary_origin_10;[This.GetName] выковали из материалов, которые не существуют в этом мире;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_1;Average;;Brьchiger;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_2;Broken;;Zerbrochener;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_3;Busted;;Beschдdigter;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_4;Cheap;;Billiger;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_5;Common;;Verkommener;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_6;Damaged;;Versehrter;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_7;Mediocre;;MittelmдЯiger;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_8;Plain;;Verschlissener;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_9;Rustic;;Bдuerlicher;;;;;;;;;;;x
-artifact_jewelry_common_affixn1_10;Simple;;Verrotteter;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_1;Average;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_2;Broken;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_3;Busted;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_4;Cheap;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_5;Common;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_6;Damaged;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_7;Mediocre;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_8;Plain;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_9;Rustic;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_10;Simple;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_1;Shining;;Glдnzender ;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_2;Delicate;;Feiner;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_3;Fancy;;Schicker;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_4;Glimmering;;Schimmernder;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_5;Glittering;;Glitzernder;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_6;Swan's;;Des Schwans;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_7;Maiden's;;Reiner;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_8;Notable;;Bemerkenswerter;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_9;Odorous;;Duftender;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_diplomacy_10;Pristine;;Unverfдlschter;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_1;Shining;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_2;Delicate;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_3;Fancy;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_4;Glimmering;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_5;Glittering;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_6;Swan's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_7;Maiden's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_8;Notable;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_9;Odorous;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_10;Pristine;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_1;Aggressor's;;Peinigender;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_2;Battle;;Kriegerischer;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_3;Boar's;;Des Ebers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_4;Gorilla's;;Des Gorillas;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_5;Plunderer's;;Des Plьnderers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_6;Raider's;;Des Rдubers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_7;Savage's;;Des Wilden;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_8;Squire's;;Des Knappen;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_9;Soldier's;;Des Soldaten;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_martial_10;Warrior's;;Des Kriegers;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_1;Aggressor's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_2;Battle;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_3;Boar's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_4;Gorilla's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_5;Plunderer's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_6;Raider's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_7;Savage's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_8;Squire's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_9;Soldier's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_10;Warrior's;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_1;Mercantile;;Kaufmдnnischer;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_2;Caretaker's;;Des Verwalters;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_3;Carpenter's;;Des Tischlers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_4;Craftsman's;;Des Handwerkers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_5;Energising;;Anregender;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_6;Expensive;;Kostspieliger;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_7;Grandma's;;GroЯmutters;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_8;Gardener's;;Des Gдrtners;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_9;Trader's;;Des Hдndlers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_stewardship_10;Noble;;Wunderbarer;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_1;Mercantile;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_2;Caretaker's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_3;Carpenter's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_4;Craftsman's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_5;Energising;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_6;Expensive;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_7;Grandma's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_8;Gardener's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_9;Trader's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_10;Noble;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_1;Acrobat's;;Des Akrobaten;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_2;Bat's;;Tдnzerischer;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_3;Dancer's;;Des Tдnzers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_4;Darkened;;Verdunkelter;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_5;Fox's;;Des Fuchses;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_6;Stolen;;Gestohlener;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_7;Hyena's;;Der Hyдnen;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_8;Lynx's;;Des Luchses;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_9;Mongoose's;;Des Mungos;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_intrigue_10;Rogue's;;Des Schurken;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_1;Acrobat's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_2;Bat's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_3;Dancer's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_4;Darkened;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_5;Fox's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_6;Stolen;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_7;Hyena's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_8;Lynx's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_9;Mongoose's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_10;Rogue's;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_1;Blessed;;Gesegneter;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_2;Consecrated;;Geweihter;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_3;Student's;;Des Schьlers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_4;Fanatic's;;Des Fanatikers;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_5;Grandpa's;;GroЯvaters;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_6;Inscribed;;Beschriebener;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_7;Old;;Alter;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_8;Pure;;Reiner;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_9;Shiny;;Glдnzender;;;;;;;;;;;x
-artifact_jewelry_uncommon_affixn1_learning_10;Snake's;;Der Schlange;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_1;Blessed;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_2;Consecrated;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_3;Student's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_4;Fanatic's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_5;Grandpa's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_6;Inscribed;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_7;Old;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_8;Pure;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_9;Shiny;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_10;Snake's;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 artifact_jewelry_rare_affixn1_diplomacy_1;Pulsing;;Pulsierender;;;;;;;;;;;x
 artifact_jewelry_rare_affixn1_diplomacy_2;Aristocratic;;Aristokratischer;;;;;;;;;;;x
