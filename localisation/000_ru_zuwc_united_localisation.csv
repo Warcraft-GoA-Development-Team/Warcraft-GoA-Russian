@@ -2845,167 +2845,43 @@ EVTDESC_WCUND_375_wickergolem;Множество меха, плоти, костей и древесины украшают
 GetMonstrousUndeadName_Abomination;Поганище;;;;;;;;;;;;;x
 GetMonstrousUndeadName_WickerGolem;Сшитый голем;;;;;;;;;;;;;x
 GetMonstrousUndeadNameDesc_Abomination;ужасное создание, сшитое из множества конечностей и частей тела разных существ.;;;;;;;;;;;;;x
-GetMonstrousUndeadNameDesc_WickerGolem;могучение создание, созданное из неживого материала - плоти, шерсти и костей, и воскрешенное с помощью древней магии смерти.;;;;;;;;;;;;;x
+GetMonstrousUndeadNameDesc_WickerGolem;могучее создание, созданное из неживого материала - плоти, шерсти и костей, и воскрешенное с помощью древней магии смерти.;;;;;;;;;;;;;x
 EVTDESC_WCPOD_5013_wickerman;Ваши дни в живом теле подошли к концу. Вас ожидает новая жизнь и новая возможность привязать свою душу к ужасному созданию, не скованному ограничениями и слабостями плоти.;;;;;;;;;;;;;x
 EVTDESC_WCPOD_5013_wicker_golem;Ваши дни в живом теле подошли к концу. Вас ожидает новая жизнь и новая возможность привязать свою душу к ужасному голему, значительно повышая вашу физическую силу и превращая себя в настоящую машину войны.;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_110;Пока смерть не разлучит нас;;;;;;;;;;;;;x
+EVTDESC_WCCRS_110;Recently, the illness, that has befallen [target_sick_spouse.GetFirstName] has been growing worse with each passing day. Knowing well that [target_sick_spouse.GetSheHe] might not last another week, you have sought many solutions, be it magical or alchemical, but nothing seems to help alleviate [target_sick_spouse.GetHerHis] condition. The grief over your inevitable loss overcomes you, and in desperation you cry out in hopes that something or someone will hear your pleas. To your surprise, a shadowy figure emerges and makes you a promise that death will never part you and your spouse... for a price. It offers you unimaginable power and eternal life in exchange for loyalty and you realize this might be the only way to keep your beloved at your side. Conflicting thoughts cross your mind, but you ultimately realise that if death can part you both...;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_110;... then it might as well keep you together, too.;;;;;;;;;;;;;x
+EVTOPTB_WCCRS_110;... then accept the fact and refuse the creature's offer.;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_111;Пока смерть не разлучит нас;;;;;;;;;;;;;x
+EVTDESC_WCCRS_111;Your illness has been progressing in a steady pace and you've already been coming to terms that you might not survive. However, one day you notice [target_worried_spouse.GetFirstName] entering your chambers and immediately recognize that [target_worried_spouse.GetSheHe]'s unusually cheerful. Suddenly, you see a horrific spectre looming above. "Don't be startled, dear. I have found a solution for your illness. You no longer have to worry about leaving me alone here... We'll be together forever." You attempt to flee, but you notice that dark magic is binding you. You hear your spouse chanting something in an unrecognisable language and after a brief moment of darkness, you come back to your senses, although you notice that something has changed. You are dead, but at the same time you are not. As you struggle to understand your situation, you notice that your significant one also became afflicted.;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_111;Я никогда не просил[Root.GetEndA] об этом...;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_120;Друстварский кризис;;;;;;;;;;;;;x
+EVTDESC_WCCRS_120;Disturbing news have reached us from Drustvar. The ruling elite has gone dark and no one is entirely sure what is happening in the region. The food supplies to the rest of Kul Tiras were suddenly cut and people apparently started disappearing, while rumors abound of shadowy covens lurking in the darkest recesses of Drustvar's forests, corrupting the land and its populace. Many believe that the strange occurences are caused by an ancient curse which has befallen the ruling house of Drustvar. To counter whatever this new threat might be an inquisition comprised of many battle-hardened champions from the Admiralty and beyond has been called to action. They call themselves the Order of Embers.;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_120;Уничтожить их всех.;;;;;;;;;;;;;x
+EVTOPTB_WCCRS_120;Будем надеяться, что ситуация разрешится быстро.;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_130;Вторжение друстов;;;;;;;;;;;;;x
+EVTDESC_WCCRS_130;With Drustvar completely under control of the agents of Thros, the hopes of the inhabitants of Kul Tiras grow dim. As the local populace of Drustvar continues to fall prey to the foul presence permeating the land, the corrupted elite has managed to gather enough power to summon their dark master to the material plane. The ominous island of Fate's End stirs as the ancient drust king, Gorak Tul has re-entered Azeroth and now has set his sights upon the outlanders inhabiting Kul Tiras, which he regards as an infestation upon the ancestral land of the drust.;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_130;Будь то в Тирнасе или в Тирасе, они никогда не познают ни мира, ни покоя.;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_140;Падение Боралуса;;;;;;;;;;;;;x
+EVTDESC_WCCRS_140;The jewel of Kul Tiras has fallen to the relentless onslaught of the vengeful drust. Thousands of citizens were slaughtered or raised into undeath while nearly all of Boralus' riches were pillaged by the savage barbarians. The flames that have engulfed the once proud capital can be seen from seaside cities in the Eastern Kingdoms. Many wonder what fate awaits the islands, now that the victory of the drust seems inevitable, and the continental powers are already expecting potential future aggression from the recent conquerors of Kul Tiras.;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_140;Сокрушительный удар по чужеземцам.;;;;;;;;;;;;;x
+EVTOPTB_WCCRS_140;Фрос поглотит все.;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_141;Падение Боралуса;;;;;;;;;;;;;x
+EVTDESC_WCCRS_141;Our invincible forces have descended upon Boralus. Despite the best attempts at defense, the inhabitants of the city were no match to our mighty warriors and as soon as we broke through their ranks, we stormed the streets of their stronghold and began the slaughter. Our deathshapers raised the fallen against the remaining defenders, while our troops pillaged everything they found valuable. It is safe to say, that, by the end of the day, nothing will remain of Boralus other than a painful memory for the outlanders and a glorious victory for our people.;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_141;Убить их всех!;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_150;Терноманты;;;;;;;;;;;;;x
+EVTDESC_WCCRS_150;With the renewed aggression of the agents of Thros, their ancient opposition has emerged from the shadows. Considering the ilk of Gorak Tul as a mockery to everything the ancient drust stood for, the druidic Thornspeakers have managed to slip away from Kul Tiras and established relations with their like-minded kin near Tal'doren, hoping to preserve the centuries-old teachings for new generations of uncorrupted drust and other followers of the Old Way alike.;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_150;Приятно слышать, что среди них еще есть несколько достойных личностей.;;;;;;;;;;;;;x
+EVTOPTB_WCCRS_150;Эти глупцы недостойны называть себя истинными друстами.;;;;;;;;;;;;;x
+gorak_tul;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+gorak_tul_desc;Gorak Tul was the king of the drust and a staunch enemy of the Kul Tirans. He drew into the macabre powers of Thros, becoming a powerful deathshaper.;;;;;;;;;;;;;x
+ulfar;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+ulfar_desc;Ulfar was the drust's High Thornspeaker, leader of druids dedicated to peaceful coexistence with humans, which put him at odds with the xenophobic majority of his kin.;;;;;;;;;;;;;x
+summon_gorak_tul;Призвать войска Горак Тула;;;;;;;;;;;;;x
+summon_gorak_tul_desc;With our hold over Drustvar secure, we are now able to summon the mighty armies of Thros and their King, Gorak Tul into the material plane. With his return, the vengeance of the ancient drust can finally be unleashed upon the living of Kul Tiras.;;;;;;;;;;;;;x
+summon_gorak_tul_tooltip;§Y[From.GetBestName]§! призовет войско Горак Тула.;;;;;;;;;;;;;x
+heartsbane_coven_formed;Ковен Мертвых Сердец был создан;;;;;;;;;;;;;x
+drust_opinion;[drust.GetName] мнение;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

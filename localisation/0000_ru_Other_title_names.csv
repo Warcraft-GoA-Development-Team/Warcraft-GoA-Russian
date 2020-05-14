@@ -378,6 +378,12 @@ k_plunder_isle;Остров Грабежа;;;;;;;;;;;;;x
 k_plunder_isle_adj;Грабеж;;;;;;;;;;;;;x
 k_quelthalas;Кель'Талас;;;;;;;;;;;;;x
 k_quelthalas_adj;Талассий;;;;;;;;;;;;;x
+k_drustvar;Друствар;;;;;;;;;;;;;x
+k_drustvar_adj;Друствар;;;;;;;;;;;;;x
+d_order_of_embers;Орден Пылающих Углей;;;;;;;;;;;;;x
+d_order_of_embers_adj;Пылающеуголь;;;;;;;;;;;;;x
+d_thornspeakers;Терноманты;;;;;;;;;;;;;x
+d_thornspeakers_adj;Терномант;;;;;;;;;;;;;x
 d_throsic;Культ Фрос;;;;;;;;;;;;;x
 d_throsic_adj;Фрос;;;;;;;;;;;;;x
 b_jorg_townsend;Йорг;;;;;;;;;;;;;x
