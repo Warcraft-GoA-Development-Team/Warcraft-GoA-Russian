@@ -43,19 +43,19 @@ king_shathyar_group;Верховный генерал;;;;;;;;;;;;;x
 king_female_shathyar_group;Верховный генерал;;;;;;;;;;;;;x
 duke_shathyar_group;Генерал;;;;;;;;;;;;;x
 duke_female_shathyar_group;Генерал;;;;;;;;;;;;;x
-# naga_group;;;;;;;;;;;;;;x
-emperor_naga_group;Император;;;;;;;;;;;;;x
-emperor_female_naga_group;Императрица;;;;;;;;;;;;;x
-empire_of_naga_group;Империя;;;;;;;;;;;;;x
-empire_naga_group;Империя;;;;;;;;;;;;;x
-king_naga_group;Военачальник;;;;;;;;;;;;;x
-king_female_naga_group;Морская ведьма;;;;;;;;;;;;;x
-kingdom_of_naga_group;Верховное племя;;;;;;;;;;;;;x
-kingdom_naga_group;Верховный клан;;;;;;;;;;;;;x
-duchy_naga_group;Клан;;;;;;;;;;;;;x
-duchy_of_naga_group;Племя;;;;;;;;;;;;;x
-county_of_naga_group;Вождество;;;;;;;;;;;;;x
-county_naga_group;Вождество;;;;;;;;;;;;;x
+# naga;;;;;;;;;;;;;;x
+emperor_naga;Император;;;;;;;;;;;;;x
+emperor_female_naga;Императрица;;;;;;;;;;;;;x
+empire_of_naga;Империя;;;;;;;;;;;;;x
+empire_naga;Империя;;;;;;;;;;;;;x
+king_naga;Военачальник;;;;;;;;;;;;;x
+king_female_naga;Морская ведьма;;;;;;;;;;;;;x
+kingdom_of_naga;Верховное племя;;;;;;;;;;;;;x
+kingdom_naga;Верховный клан;;;;;;;;;;;;;x
+duchy_naga;Клан;;;;;;;;;;;;;x
+duchy_of_naga;Племя;;;;;;;;;;;;;x
+county_of_naga;Вождество;;;;;;;;;;;;;x
+county_naga;Вождество;;;;;;;;;;;;;x
 # aqir_group;;;;;;;;;;;;;;x
 emperor_aqir_group;Император;;;;;;;;;;;;;x
 emperor_female_aqir_group;Императрица;;;;;;;;;;;;;x
@@ -153,17 +153,17 @@ count_tauren_group;Вождь;;;;;;;;;;;;;x
 count_female_tauren_group;Предводительница;;;;;;;;;;;;;x
 county_of_tauren_group;Вождество;;;;;;;;;;;;;x
 county_tauren_group;Вождество;;;;;;;;;;;;;x
-# satyr_group;;;;;;;;;;;;;;x
-emperor_satyr_group;Император;;;;;;;;;;;;;x
-emperor_female_satyr_group;Императрица;;;;;;;;;;;;;x
-empire_of_satyr_group;Империя;;;;;;;;;;;;;x
-empire_satyr_group;Империя;;;;;;;;;;;;;x
-kingdom_of_satyr_group;Верховное племя;;;;;;;;;;;;;x
-kingdom_satyr_group;Верховный клан;;;;;;;;;;;;;x
-duchy_satyr_group;Клан;;;;;;;;;;;;;x
-duchy_of_satyr_group;Племя;;;;;;;;;;;;;x
-county_of_satyr_group;Вождество;;;;;;;;;;;;;x
-county_satyr_group;Вождество;;;;;;;;;;;;;x
+# satyr;;;;;;;;;;;;;;x
+emperor_satyr;Император;;;;;;;;;;;;;x
+emperor_female_satyr;Императрица;;;;;;;;;;;;;x
+empire_of_satyr;Империя;;;;;;;;;;;;;x
+empire_satyr;Империя;;;;;;;;;;;;;x
+kingdom_of_satyr;Верховное племя;;;;;;;;;;;;;x
+kingdom_satyr;Верховный клан;;;;;;;;;;;;;x
+duchy_satyr;Клан;;;;;;;;;;;;;x
+duchy_of_satyr;Племя;;;;;;;;;;;;;x
+county_of_satyr;Вождество;;;;;;;;;;;;;x
+county_satyr;Вождество;;;;;;;;;;;;;x
 # forsaken;;;;;;;;;;;;;;x
 duke_forsaken;Темный лорд;;;;;;;;;;;;;x
 duke_female_forsaken;Темная леди;;;;;;;;;;;;;
