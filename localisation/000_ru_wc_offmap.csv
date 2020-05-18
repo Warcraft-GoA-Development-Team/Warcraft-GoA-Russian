@@ -78,3 +78,5 @@ united_old_gods_sacrifice_prisoner_decision_desc;Принести персонажа по имени [Ro
 power_united_old_gods_sacrifice_prisoner_decision_tooltip;Сила: §YПринести в жертву [Root.GetMainOldGodName]у§!\nДает возможность через нажатие §Gправой кнопки мыши§! на портретах ваших пленников принести их в жертву [Root.GetMainOldGodName]у, получив взамен §Y[Root.Society.GetCurrency]§!. Определенные пленники, а также цели заданий, принесут большее удовлетворение [Root.Society.GetName]. Но помните о том, что чрезмерно большое количество жертвоприношений могут привлечь постороннее внимание к вашему сообществу.;;;;;;;;;;;;;x
 request_elementium_offmap;Попросить у [Root.Offmap.Ruler.GetFirstName]а элементиум;;;;;;;;;;;;;x
 request_elementium_offmap_desc;Попросить [Root.Offmap.Ruler.GetFirstName]а использовать свои темные силы, чтобы из земли выросли элементиевые шпили.;;;;;;;;;;;;;x
+request_healing_offmap;Попросить исцеление у [Root.Offmap.Ruler.GetFirstName]а;;;;;;;;;;;;;x
+request_healing_offmap_desc;Попросить [Root.Offmap.Ruler.GetFirstName]а использовать свои темные силы чтобы исцелить ваше тело.;;;;;;;;;;;;;x

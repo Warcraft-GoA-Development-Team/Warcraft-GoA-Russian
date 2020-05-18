@@ -678,6 +678,7 @@ RULE_STATIC_PORTRAITS_ENABLED;Включено;;;;;;;;;;;;;x
 RULE_STATIC_PORTRAITS_ENABLED_DESC;Статичные портреты для исторических персонажей §Gвключены§!.;;;;;;;;;;;;;x
 RULE_STATIC_PORTRAITS_DISABLED;Отключено;;;;;;;;;;;;;x
 RULE_STATIC_PORTRAITS_DISABLED_DESC;Статичные потртеты для исторических персонажей §Rотключены§!.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
 writing_whispers;Слышит шепот;;;;;;;;;;;;;x
 writing_whispers_desc;Этот персонаж слышит шепот Древних Богов;;;;;;;;;;;;;x
 EVTDESC_WCCSO.10200;Нашептывания ваших хозяев в последнее время становятся все интенсивнее. Они передают сверхъестественные знания в ваш разум, но эти знания слишком велики для вас и вы не м ожете их осознать. Вам нужно сфокусироваться на каком-то фрагменте и записать, но для начала вам нужны письменные принадлежности.;;;;;;;;;;;;;x
@@ -731,3 +732,7 @@ ulduar_closed_down;Ульдуар закрыт.;;;;;;;;;;;;;x
 ulduar_closed_down_desc;Ульдуар был закрыт по невыясненным причинам.;;;;;;;;;;;;;x
 create_blood_knights_order;Создать орден Рыцарей Крови;;;;;;;;;;;;;x
 create_blood_knights_order_desc;A long time ago, the elves suffered and have been threatened by enemies. Now, this order of elven paladins will help all of elfkind.;;;;;;;;;;;;;x
+EVTDESC_WCOME.500;You can feel the power of your Master pulsating throughout your body. His limitless energies will easily be able to purge your earthly ailments and heal your body. Beg your Master for aid and receive his favor!;;;;;;;;;;;;;x
+EVTOPTA_WCOME.500;Исцели мои раны!;;;;;;;;;;;;;x
+EVTOPTB_WCOME.500;Исцели мои недуги!;;;;;;;;;;;;;x
+EVTOPTC_WCOME.500;Heal my impairment!;;;;;;;;;;;;;x
