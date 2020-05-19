@@ -2894,6 +2894,19 @@ end_of_legion;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 end_of_legion_desc;Правитель, известный как [This.GetFirstNameWithNick], возглавил [This.GetHisHer] бесстрашные войска в победоносной войне против демонических орд Пылающего Легиона.;;;;;;;;;;;;;x
 end_of_black_empire;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 end_of_black_empire_desc;Правитель, известный как [This.GetFirstNameWithNick], возглавил [This.GetHisHer] бесстрашные войска в победоносной войне против безликих орд Темной Империи.;;;;;;;;;;;;;x
+laid_eggs;Отложенные яйца;;;;;;;;;;;;;x
+laid_eggs_desc;Этот персонаж получает эти бонусы и минусы за каждого ребенка в зависимости от формы правления.;;;;;;;;;;;;;x
+GetPeasantsType_workers;рабочие;;;;;;;;;;;;;x
+GetPeasantType_peon;батрак;;;;;;;;;;;;;x
+GetPeasantType_acolyte;аколит;;;;;;;;;;;;;x
+GetPeasantsType_peasant;крестьянин;;;;;;;;;;;;;x
+GetPeasantsType_worker;рабочий;;;;;;;;;;;;;x
+GetCattlesType_pigs;свиньи;;;;;;;;;;;;;x
+GetCattlesType_livestock;домашний скот;;;;;;;;;;;;;x
+song_of_swarm_cooldown;Недавно был спета Песня Роя;;;;;;;;;;;;;x
+song_of_swarm_modifier;Песнь Роя;;;;;;;;;;;;;x
+song_of_swarm;Песнь Роя;;;;;;;;;;;;;x
+song_of_swarm_desc;Вы споете Песнь Роя, наполнив всех обитателей улья желанием сражаться. Ваша воля - это их воля, и улей без колебаний подчинится ей.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

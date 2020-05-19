@@ -61,6 +61,14 @@ emperor_aqir_group;Император;;;;;;;;;;;;;x
 emperor_female_aqir_group;Императрица;;;;;;;;;;;;;x
 empire_of_aqir_group;Империя;;;;;;;;;;;;;x
 empire_aqir_group;Империя;;;;;;;;;;;;;x
+duke_aqir_group;Повелитель роя;;;;;;;;;;;;;x
+duke_female_aqir_group;Повелительница роя;;;;;;;;;;;;;x
+duchy_of_aqir_group;Рой;;;;;;;;;;;;;x
+duchy_aqir_group;Рой;;;;;;;;;;;;;x
+count_aqir_group;Повелитель улья;;;;;;;;;;;;;x
+count_female_aqir_group;Повелительница роя;;;;;;;;;;;;;x
+county_of_aqir_group;Большой улей;;;;;;;;;;;;;x
+county_aqir_group;Большой улей;;;;;;;;;;;;;x
 # tirassian;;;;;;;;;;;;;;x
 emperor_tirassian;Великий лорд-адмирал;;;;;;;;;;;;;x
 emperor_female_tirassian;Верховный лорд-адмирал;;;;;;;;;;;;;x
