@@ -731,8 +731,8 @@ EVTOPTB_WCUTF.3;Спи спокойно, брат мой.;;;;;;;;;;;;;x
 ulduar_closed_down;Ульдуар закрыт.;;;;;;;;;;;;;x
 ulduar_closed_down_desc;Ульдуар был закрыт по невыясненным причинам.;;;;;;;;;;;;;x
 create_blood_knights_order;Создать орден Рыцарей Крови;;;;;;;;;;;;;x
-create_blood_knights_order_desc;A long time ago, the elves suffered and have been threatened by enemies. Now, this order of elven paladins will help all of elfkind.;;;;;;;;;;;;;x
-EVTDESC_WCOME.500;You can feel the power of your Master pulsating throughout your body. His limitless energies will easily be able to purge your earthly ailments and heal your body. Beg your Master for aid and receive his favor!;;;;;;;;;;;;;x
+create_blood_knights_order_desc;Долгие годы эльфы подвергались угрозе полного уничтожения со стороны врагов. Этот новый орден паладинов возмет на себя задачу по защите всех эльфов Кель'Таласа.;;;;;;;;;;;;;x
+EVTDESC_WCOME.500;Вы чувствуете, как в вашем теле пульсирует сила вашего повелителя. Его безграничное могущество способно исцелить вас. Вам следует обратиться к нему с мольбой исцелить вас!;;;;;;;;;;;;;x
 EVTOPTA_WCOME.500;Исцели мои раны!;;;;;;;;;;;;;x
 EVTOPTB_WCOME.500;Исцели мои недуги!;;;;;;;;;;;;;x
-EVTOPTC_WCOME.500;Heal my impairment!;;;;;;;;;;;;;x
+EVTOPTC_WCOME.500;Исцели мои болезни!;;;;;;;;;;;;;x

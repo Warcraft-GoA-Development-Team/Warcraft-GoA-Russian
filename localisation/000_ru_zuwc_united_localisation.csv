@@ -446,7 +446,7 @@ EVTDESC_WCFEL_1005;Азерот вновь находится под угрозой уничтожения. Демоны Пылающ
 EVTOPTA_WCFEL_1005_case_01;Азерот падет!;;;;;;;;;;;;;x
 EVTOPTA_WCFEL_1005_case_02;Пылающий Легион нужно остановить… немедленно!;;;;;;;;;;;;;x
 EVTTITLE_WCCLS_1010;Разгром Пылающего Легиона;;;;;;;;;;;;;x
-EVTDESC_WCFEL_1010;Наступательные силы Легиона были остановлены и почти полностью уничтожены. Лишь несколько кучек демонов продолжают войну в Азероте, но они больше не так опасны. Предводитель этого вторжения, [Root.GetTitledFirstName], исчез и вряд ли сможет возглавить вторжение вновь. Но, без сомнения, орды демонов Пылающего Легиона вновь попытаются еще раз вторгнуться в этот мир.;;;;;;;;;;;;;x
+EVTDESC_WCFEL_1010;Наступательные силы Легиона были остановлены и почти полностью уничтожены. Лишь несколько кучек демонов продолжают войну в Азероте, но они больше не так опасны. Предводитель этого вторжения, [target_legion_overlord.GetTitledFirstName], исчез и вряд ли сможет возглавить вторжение вновь. Но, без сомнения, орды демонов Пылающего Легиона вновь попытаются еще раз вторгнуться в этот мир.;;;;;;;;;;;;;x
 EVTOPTA_WCFEL_1010_case_01;Азерот спасен!;;;;;;;;;;;;;x
 EVTOPTA_WCFEL_1010_case_02;Легион еще вернется.;;;;;;;;;;;;;x
 has_access_to_powerful_source_of_magic_tooltip;Имеет доступ к §YМогущественному Источнику Магии§!;;;;;;;;;;;;;x
@@ -2883,10 +2883,17 @@ summon_gorak_tul_tooltip;§Y[From.GetBestName]§! призовет войско Горак Тула.;;;;;
 heartsbane_coven_formed;Ковен Мертвых Сердец был создан;;;;;;;;;;;;;x
 drust_opinion;[drust.GetName] мнение;;;;;;;;;;;;;x
 EVTTITLE_WCORD_501;Создание ордена Рыцарей Крови;;;;;;;;;;;;;x
-EVTDESC_WCORD_501;After many centuries of fighting against trolls and other foes, the high elves established a new Empire from the bones of their enemies for all world to envy. Quel'Thalas, the eversummer land, now is threatened by new enemies. Trolls seeking vengeance for their bretheren, vile undead trying to complete their master's plan, evil demons trying to destroy Azeroth and awakened Old Gods. All trying to destroy the new home of the elves, even xenophobic humans want to see Quel'Thalas burn. No longer able to wait passively, [From.GetFirstName] created the Blood Knights' Order, an order of elven paladins that will help defend Quel'Thalas and the Sunwell against any outside threat. All around the realm paladins bring their weapons and faith to Silvermoon city and join the ranks of the Blood Knights. The Light shines above Silvermoon city.;;;;;;;;;;;;;x
+EVTDESC_WCORD_501;После столетий непрекращающихся войн с троллями и прочими врагами, высшие эльфы создали новую империю на костях своих врагов, равной которой не видел свет. Над Кель'Таласом, землей вечной Весны, ныне нависла новая угроза. Тролли, жаждущие возмездия за своих сородичей, злобная нежить, пытающаяся исполнить волю своего повелителя, коварные демоны, пытающиеся уничтожить Азерот и пробудшиеся Древние Боги. Все враги, в том числе и ксенофобные люди, хотят, как Кель’Талас сгорит в пепелище. Не смирившись с этим, [From.GetFirstName] принял[From.GetEndA] решение создать орден эльфийских паладинов Рыцарей Крови, которые посвятят свою жизнь защите королевства и Солнечного Колодца от внешних угроз. Паладины со всего Кель’Таласа стекаются в Луносвет, чтобы вступить в ряды Рыцарей Крови. Свет воссиял над Луносветом.;;;;;;;;;;;;;x
 nick_the_sunblade;Солнечный Клинок;;;;;;;;;;;;;x
 EVTOPTA_WCORD_501;Да пребудет с ними Свет.;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+wastewander_opinion;[wastewander.GetName] мнение;;;;;;;;;;;;;x
+has_castle_or_city_tooltip;Владеет §Yзамком§! или §Yгородом§!;;;;;;;;;;;;;x
+end_of_scourge;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+end_of_scourge_desc;Правитель, известный как [This.GetFirstNameWithNick], возглавил [This.GetHisHer] бесстрашные войска в победоносной войне против орд нежити Плети.;;;;;;;;;;;;;x
+end_of_legion;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+end_of_legion_desc;Правитель, известный как [This.GetFirstNameWithNick], возглавил [This.GetHisHer] бесстрашные войска в победоносной войне против демонических орд Пылающего Легиона.;;;;;;;;;;;;;x
+end_of_black_empire;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+end_of_black_empire_desc;Правитель, известный как [This.GetFirstNameWithNick], возглавил [This.GetHisHer] бесстрашные войска в победоносной войне против безликих орд Темной Империи.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
