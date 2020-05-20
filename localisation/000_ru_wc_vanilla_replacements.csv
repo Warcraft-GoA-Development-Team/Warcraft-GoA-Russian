@@ -347,7 +347,10 @@ depopulated_2_desc;Население этого округа значительно сократилось. Прежняя числе
 depopulated_3_desc;Население этого округа почти полностью уничтожено. Пройдёт много лет, прежде чем прежняя численность восстановится.;;;;;;;;;;;;;x
 emperor_title_queen_mother_female;Вдовствующая верховная королева;;;;;;;;;;;;;x
 focus_hunting_desc;[This.GetTitledFirstName] путешествует по стране, заводя друзей и наслаждаясь охотой на самых удивительных существ Азерота.;;;;;;;;;;;;;x
-EVTOPTB_RIP_30207;[Root.Religion.GetHighGodNameCap], почему ты не даешь мне умереть?!;Pourquoi [Root.Get_le_HighGod] me prive-t-il de la mort ?!;[Root.Religion.GetHighGodNameCap], warum gцnnst du mir den Tod nicht?!;;[Root.Religion.GetHighGodNameCap], їpor quй me niegas la muerte?;;;;;x;;;;
-monk_desc;Этот мужчина, исключенный из порядка наследования, будет жить до конца своих дней в [From.GetHouseOfWorship].;Cet homme passe ses journйes а prier. Il a renoncй а toute forme d'hйritage classique.;Dieser Mann lebt in einem [From.GetHouseOfWorship] und ist von der normalen Erbfolge ausgeschlossen.;;Este hombre agota sus ъltimos dнas en un monasterio, descalificado de la herencia normal.;;;;;;;;;x
-nun_desc;Эта женщина, исключенная из порядка наследования, будет жить до конца своих дней в [From.GetHouseOfWorship].;Cette femme passe ses journйes а prier. Elle a renoncй а tout hйritage classique.;Diese Frau lebt in einem [From.GetHouseOfWorship] und ist von der normalen Erbfolge ausgeschlossen.;;Esta mujer agota sus ъltimos dнas en un monasterio, descalificado de la herencia normal.;;;;;;;;;x
-
+EVTOPTB_RIP_30207;[Root.Religion.GetHighGodNameCap], почему ты не даешь мне умереть?!;;;;;;;;;;;;x
+monk_desc;Этот мужчина, исключенный из порядка наследования, будет жить до конца своих дней в [From.GetHouseOfWorship].;;;;;;;;;;;;;x
+nun_desc;Эта женщина, исключенная из порядка наследования, будет жить до конца своих дней в [From.GetHouseOfWorship].;;;;;;;;;;;;;x
+EVTDESC_WoL_12010;Ещё один день при дворе, и опять нескончаемая череда проблем, которые Вы должны решить. Опять какой-то [Root.GetPeasantType] ноет о больных [Root.GetCattlesType] и соседе, который якобы отравил их. Вы чувствуете пустоту и уныние. Это совсем не та жизнь, которую Вы себе представляли.;;;;;;;;;;;;;x
+EVTOPTA_WoL_12010;Во имя [This.Religion.GetRandomGodName], хватит стенать об этих треклятых [Root.GetCattlesType]!;;;;;;;;;;;;;x
+EVTOPTA_WoL_7021;Слава тебе, [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
+EVTDESC_TOG_1060;Мятежники, исповедующие [Root.GetReligionFullName], восстали в округе [Root.GetName]. Их воинствующий лидер - [Root.Religion.GetPriestTitle]. Если бунт не остановить, он может распространиться, как пожар!;;;;;;;;;;x
