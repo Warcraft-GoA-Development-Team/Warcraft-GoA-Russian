@@ -2419,32 +2419,32 @@ GetMineral_saronite;—аронит;;;;;;;;;;;;;x
 GetMineral_black;„ерное железо;;;;;;;;;;;;;x
 GetMineral_elementium;Ёлементиум;;;;;;;;;;;;;x
 GetMineral_stone; амень;;;;;;;;;;;;;x
-GetAdjectiveCap_Undead;нежить;;;;;;;;;;;;;x
-GetAdjectiveCap_Demonic;демонический;;;;;;;;;;;;;x
-GetAdjectiveCap_Zealot;фанатик;;;;;;;;;;;;;x
+GetAdjectiveCap_Undead;нежити;;;;;;;;;;;;;x
+GetAdjectiveCap_Demonic;демонов;;;;;;;;;;;;;x
+GetAdjectiveCap_Zealot;фанатиков;;;;;;;;;;;;;x
 GetAdjectiveCap_Castle; репостные;;;;;;;;;;;;;x
 GetAdjectiveCap_Dark;“емный;;;;;;;;;;;;;x
-GetAdjective_undead;нежить;;;;;;;;;;;;;x
-GetAdjective_demonic;демонический;;;;;;;;;;;;;x
-GetAdjective_zealot;фанатик;;;;;;;;;;;;;x
-GetAdjective_castle; репость;;;;;;;;;;;;;x
+GetAdjective_undead;нежити;;;;;;;;;;;;;x
+GetAdjective_demonic;демонов;;;;;;;;;;;;;x
+GetAdjective_zealot;фанатиков;;;;;;;;;;;;;x
+GetAdjective_castle; репостные;;;;;;;;;;;;;x
 GetAdjective_dark;“емный;;;;;;;;;;;;;x
 GetPeasantsType_acolytes;послушники;;;;;;;;;;;;;x
 GetPeasantsType_peasants;кресть€не;;;;;;;;;;;;;x
-GetAdjective_Acolyte;послушник;;;;;;;;;;;;;x
+GetAdjective_Acolyte;послушников;;;;;;;;;;;;;x
 GetAdjective_Militia;ополчени€;;;;;;;;;;;;;x
-GetAdjective_Peon;батрак;;;;;;;;;;;;;x
+GetAdjective_Peon;батраков;;;;;;;;;;;;;x
 GetPeasantsType_peons;батраки;;;;;;;;;;;;;x
-GetAdjectiveCap_Wolf;волк;;;;;;;;;;;;;x
-GetAdjectiveCap_Raptor;раптор;;;;;;;;;;;;;x
-GetAdjectiveCap_Panther;пантера;;;;;;;;;;;;;x
-GetAdjectiveCap_Horse;лошадь;;;;;;;;;;;;;x
-GetAdjective_wolf;волк;;;;;;;;;;;;;x
-GetAdjective_raptor;раптор;;;;;;;;;;;;;x
-GetAdjective_panther;пантера;;;;;;;;;;;;;x
-GetAdjective_horse;лошадь;;;;;;;;;;;;;x
-GetAdjectiveCap_City;город;;;;;;;;;;;;;x
-GetAdjective_city;город;;;;;;;;;;;;;x
+GetAdjectiveCap_Wolf;волков;;;;;;;;;;;;;x
+GetAdjectiveCap_Raptor;€щеров;;;;;;;;;;;;;x
+GetAdjectiveCap_Panther;пантер;;;;;;;;;;;;;x
+GetAdjectiveCap_Horse;лошадей;;;;;;;;;;;;;x
+GetAdjective_wolf;волков;;;;;;;;;;;;;x
+GetAdjective_raptor;€щеров;;;;;;;;;;;;;x
+GetAdjective_panther;пантер;;;;;;;;;;;;;x
+GetAdjective_horse;лошадей;;;;;;;;;;;;;x
+GetAdjectiveCap_City;√ородские;;;;;;;;;;;;;x
+GetAdjective_city;√ородские;;;;;;;;;;;;;x
 GetGuardPurpose_Law;, посто€нно на защите от преступников и бунтарей.;;;;;;;;;;;;;x
 GetGuardPurpose_Deviant;, посто€нно на защите от захватчиков и отступников.;;;;;;;;;;;;;x
 GetMarketplaceCap_Dark_Quarter;“емный квартал;;;;;;;;;;;;;x
