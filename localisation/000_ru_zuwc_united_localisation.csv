@@ -2415,20 +2415,20 @@ GetMineralCap_Saronite;Саронитовые;;;;;;;;;;;;;x
 GetMineralCap_Black;Черножелезные;;;;;;;;;;;;;x
 GetMineralCap_Elementium;Элементиевые;;;;;;;;;;;;;x
 GetMineralCap_Stone;Каменные;;;;;;;;;;;;;x
-GetMineral_saronite;Саронит;;;;;;;;;;;;;x
-GetMineral_black;Черное железо;;;;;;;;;;;;;x
-GetMineral_elementium;Элементиум;;;;;;;;;;;;;x
-GetMineral_stone;Камень;;;;;;;;;;;;;x
+GetMineral_saronite;саронита;;;;;;;;;;;;;x
+GetMineral_black;черного железа;;;;;;;;;;;;;x
+GetMineral_elementium;элементиума;;;;;;;;;;;;;x
+GetMineral_stone;камня;;;;;;;;;;;;;x
 GetAdjectiveCap_Undead;нежити;;;;;;;;;;;;;x
 GetAdjectiveCap_Demonic;демонов;;;;;;;;;;;;;x
 GetAdjectiveCap_Zealot;фанатиков;;;;;;;;;;;;;x
-GetAdjectiveCap_Castle;Крепостные;;;;;;;;;;;;;x
-GetAdjectiveCap_Dark;Темный;;;;;;;;;;;;;x
+GetAdjectiveCap_Castle;крепостные;;;;;;;;;;;;;x
+GetAdjectiveCap_Dark;темные;;;;;;;;;;;;;x
 GetAdjective_undead;нежити;;;;;;;;;;;;;x
 GetAdjective_demonic;демонов;;;;;;;;;;;;;x
 GetAdjective_zealot;фанатиков;;;;;;;;;;;;;x
-GetAdjective_castle;Крепостные;;;;;;;;;;;;;x
-GetAdjective_dark;Темный;;;;;;;;;;;;;x
+GetAdjective_castle;крепостное;;;;;;;;;;;;;x
+GetAdjective_dark;темные;;;;;;;;;;;;;x
 GetPeasantsType_acolytes;послушники;;;;;;;;;;;;;x
 GetPeasantsType_peasants;крестьяне;;;;;;;;;;;;;x
 GetAdjective_Acolyte;послушников;;;;;;;;;;;;;x
@@ -2512,10 +2512,10 @@ RULE_POLITICAL_FACTIONS_SMALL;Маленькие;;;;;;;;;;;;;x
 RULE_POLITICAL_FACTIONS_SMALL_DESC;ИИ не присоединяется к фракциям, размер которых больше 100 и которые имеют больше 5 данников.;;;;;;;;;;;;;x
 faction_action_cooldown;Пока нельзя предпринять это действие;;;;;;;;;;;;;x
 EVTDESC_WCPLF_106;[Root.GetTitledFirstNameWithNick], нынешний лидер [e_horde.GetFullBaseName], больше не заинтересован в том, чтобы поддерживать остальных членов [e_horde.GetFullBaseName].\n\n[Root.GetSheHeCap] объявил о роспуске всей фракции. Все послы были отозваны, и бывшие союзники остались без военной поддержки [e_horde.GetFullBaseName].;;;;;;;;;;;;;x
-GetLeaveDisbandCap_Disband;распустить;;;;;;;;;;;;;x
-GetLeaveDisbandCap_Leave;покинуть;;;;;;;;;;;;;x
-GetLeaveDisband_disband;распустить;;;;;;;;;;;;;x
-GetLeaveDisband_leave;покинуть;;;;;;;;;;;;;x
+GetLeaveDisbandCap_Disband;Распустить;;;;;;;;;;;;;x
+GetLeaveDisbandCap_Leave;Покинуть;;;;;;;;;;;;;x
+GetLeaveDisband_disband;решили распустить;;;;;;;;;;;;;x
+GetLeaveDisband_leave;решили покинуть;;;;;;;;;;;;;x
 found_horde_political_faction;Создать Орду;;;;;;;;;;;;;x
 found_alliance_political_faction;Создать Альянс;;;;;;;;;;;;;x
 found_horde_political_faction_desc;Основать Орду, чтобы независимые правители смогли присоединиться к вам как союзники или как вассалы.;;;;;;;;;;;;;x
@@ -2526,8 +2526,8 @@ join_in_horde_political_faction_desc;Вы отправили письмо с просьбой о вступлении
 join_in_alliance_political_faction_desc;Вы отправили письмо с просьбой о вступлении в Альянс.;;;;;;;;;;;;;x
 leave_horde_political_faction;[Root.GetLeaveDisbandCap] Орду;;;;;;;;;;;;;x
 leave_alliance_political_faction;[Root.GetLeaveDisbandCap] Альянс;;;;;;;;;;;;;x
-leave_horde_political_faction_desc;Вы [Root.GetLeaveDisband] Орду, отказаваясь от защиты и помощи ваших союзников. Если вы лидер Орды — вы НЕ потеряете этот титул.;;;;;;;;;;;;;x
-leave_alliance_political_faction_desc;Вы [Root.GetLeaveDisband] Альянс, отказываясь от защиты и помощи ваших союзников. Если вы лидер Альянса — вы НЕ потеряете этот титул.;;;;;;;;;;;;;x
+leave_horde_political_faction_desc;Вы [Root.GetLeaveDisband] Орду, отказавшись от защиты и помощи ваших союзников. Если вы лидер Орды — вы НЕ потеряете этот титул.;;;;;;;;;;;;;x
+leave_alliance_political_faction_desc;Вы [Root.GetLeaveDisband] Альянс, отказавшись от защиты и помощи ваших союзников. Если вы лидер Альянса — вы НЕ потеряете этот титул.;;;;;;;;;;;;;x
 invite_in_horde_political_faction;Пригласить в Орду;;;;;;;;;;;;;x
 invite_in_alliance_political_faction;Пригласить в Альянс;;;;;;;;;;;;;x
 invite_in_horde_political_faction_desc;Вы пригласили §Y[Root.GetTitledName]§! присоединиться к Орде.;;;;;;;;;;;;;x
