@@ -421,8 +421,8 @@ GetCCSocietyRankUpTooltip_Rank3;§YHarmony§! не менее 6000 и как минимум великий 
 GetSOESocietyRankUpTooltip_Rank1;§YDevotion§! не менее 1000 и как минимум жрец-подмастерье.;;;;;;;;;;;;;x
 GetSOESocietyRankUpTooltip_Rank2;§YDevotion§! не менее 3000 и как минимум умелый жрец.;;;;;;;;;;;;;x
 GetSOESocietyRankUpTooltip_Rank3;§YDevotion§! не менее 6000 и как минимум великий жрец.;;;;;;;;;;;;;x
-ancient_group;Древо.;;;;;;;;;;;;;x
-protector;Сторожевое Древо;;;;;;;;;;;;;x
+ancient_group;Древо;;;;;;;;;;;;;x
+protector;Защитник;;;;;;;;;;;;;x
 ancient_lore;Древо Мудрости;;;;;;;;;;;;;x
 ancient_war;Древо Войны;;;;;;;;;;;;;x
 ancient_wind;Древо Ветра;;;;;;;;;;;;;x

@@ -345,9 +345,10 @@ wc_ret_cul_vrykul;Таны;;;;;;;;;;;;;x
 wc_ret_cul_vulpera;Торговцы-наводчики;;;;;;;;;;;;;x
 wc_ret_cul_giant;Гигантские крушители;;;;;;;;;;;;;x
 wc_ret_cul_titanforged;Легион кованных титанами;;;;;;;;;;;;;x
+wc_ret_cul_forsaken;Темные Следопыты;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Religious;;;;;;;;;;;;;;x
-wc_ret_rel_scourge;Рой нежити;;;;;;;;;;;;;x
+wc_ret_rel_scourge;Гаргульи;;;;;;;;;;;;;x
 wc_ret_rel_scourge2;Ледяные змеи;;;;;;;;;;;;;x
 wc_ret_rel_scourge3;Оживленные гиганты;;;;;;;;;;;;;x
 wc_ret_rel_scourge4;Рыцари Смерти;;;;;;;;;;;;;x

@@ -403,7 +403,9 @@ e_wastewander_adj;Скиталь;;;;;;;;;;;;;x
 d_darkmoon_island;Остров Новолуния;;;;;;;;;;;;;x
 d_darkmoon_island_adj;Новолун;;;;;;;;;;;;;x
 d_blood_knights_order;Рыцари Крови;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+e_gorian_empire;Горианская империя;;;;;;;;;;;;;x
+e_gorian_empire_adj;Гориан;;;;;;;;;;;;;x
+NEW_GORIA_NAME;Новая Гория;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
