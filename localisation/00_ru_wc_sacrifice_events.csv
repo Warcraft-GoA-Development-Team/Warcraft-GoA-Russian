@@ -1,0 +1,6 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+EVTDESC_WCSCRFC_1_V1;§Y[GetMainOldGodName]§! предоставил мне §G[local_received_offmap_old_gods_currency_insanity_from_sacrifices_total_variable.GetValue]§! §YБезумия§! в благодарность за то, что мной было предоставлено ему в жертву население округа §Y[target_sacrifice_location.GetName]§!!;;;;;;;;;;;;;x
+EVTDESC_WCSCRFC_1_V2;После взятия §Y[target_sacrifice_location.GetName]§! ваши войска начали приносить жертвы §Y[target_sacrificer_unit_owner.Religion.GetHighGodName]§!у!. Улицы наполнены кровью, а крики невинных сливаются в единую симфонию ужаса. Безумие пришло в эти земли;;;;;;;;;;;;;x
+EVTOPT_WCSCRFC_1;Слава [target_sacrificer_unit_owner.Religion.GetHighGodName]у!;;;;;;;;;;;;;x
+EVTDESC_WCSCRFC_2;После взятия §Y[target_sacrifice_location.GetName]§!, войска §Y[target_sacrificer_unit_owner.GetFirstName]§! начали приносить жертвы §Y[target_sacrificer_unit_owner.Religion.GetHighGodName]§!!;;;;;;;;;;;;;x
+EVTOPT_WCSCRFC_2;Проклятие на [target_sacrificer_unit_owner.GetHerHim] голову!;;;;;;;;;;;;;x
