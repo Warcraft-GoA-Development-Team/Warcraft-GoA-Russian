@@ -406,9 +406,33 @@ d_blood_knights_order;Рыцари Крови;;;;;;;;;;;;;x
 e_gorian_empire;Горианская империя;;;;;;;;;;;;;x
 e_gorian_empire_adj;Гориан;;;;;;;;;;;;;x
 NEW_GORIA_NAME;Новая Гория;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+PROV356;Андилиен;;;;;;;;;;;;;x
+c_andilien_estate_adj;Андилиен;;;;;;;;;;;;;x
+b_andilien_estate;Андилиен;;;;;;;;;;;;;x
+b_andilien_estate_adj;Андилиен;;;;;;;;;;;;;x
+PROV357;Бемларис;;;;;;;;;;;x;;
+c_sanctum_of_the_sun_adj;Бемларис;;;;;;;;;;;;;x
+b_sanctum_of_the_sun;Бемларис;;;;;;;;;;;;;x
+b_sanctum_of_the_sun_adj;Бемларис;;;;;;;;;;;;;x
+PROV368;Квалдрис;;;;;;;;;;;x;;
+c_east_sanctum_adj;Квалдрис;;;;;;;;;;;;;x
+b_east_sanctum;Квалдрис;;;;;;;;;;;;;x
+b_east_sanctum_adj;Квалдрис;;;;;;;;;;;;;x
+PROV376;Кеталис;;;;;;;;;;;x;;
+c_north_sanctum_adj;Кеталис;;;;;;;;;;;;;x
+b_north_sanctum;Кеталис;;;;;;;;;;;;;x
+b_north_sanctum_adj;Кеталис;;;;;;;;;;;;;x
+b_sanctum_of_the_moon;Нарилата;;;;;;;;;;;;;x
+b_sanctum_of_the_moon_adj;Нарилата;;;;;;;;;;;;;x
+b_west_sanctum;Бема'тас;;;;;;;;;;;;;x
+b_west_sanctum_adj;Бема'тас;;;;;;;;;;;;;x
+PROV371;Солнечный Парус;;;;;;;;;;;x;;
+c_sunsail_anchorage_adj;Солнечнопарус;;;;;;;;;;;;;x
+b_sunsail_anchorage;Солнечный Парус;;;;;;;;;;;;;x
+b_sunsail_anchorage_adj;Солнечнопарус;;;;;;;;;;;;;x
+PROV261;Зул;;;;;;;;;;;x
+c_altar_of_zul_adj;Зул;;;;;;;;;;;;;x
+PROV773;Джалан'и;;;;;;;;;;;x
+c_drakkari_arena_adj;Джалан'ий;;;;;;;;;;;;;x
+PROV769;Ка'кона;;;;;;;;;;;x
+c_low_fields_adj;Ка'кон;;;;;;;;;;;;;x

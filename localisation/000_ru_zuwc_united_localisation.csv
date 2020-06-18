@@ -2503,13 +2503,13 @@ RULE_ADOPTION_DISABLED;Отклюено;;;;;;;;;;;;;x
 RULE_ADOPTION_DISABLED_DESC;Событии усыновления отключены.;;;;;;;;;;;;;x
 RULE_POLITICAL_FACTIONS;§RWarCraft§!: Политические фракции;;;;;;;;;;;;;x
 RULE_POLITICAL_FACTIONS_MEDIUM;Средние;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_MEDIUM_DESC;ИИ не присоединяется к фракциям, размер которых больше 200 и которые имеют больше 10 данников.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_MEDIUM_DESC;ИИ не присоединяется к фракциям, размер которых больше 250 владений и которые имеют больше 7 данников.;;;;;;;;;;;;;x
 RULE_POLITICAL_FACTIONS_LARGE;Большие;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_LARGE_DESC;ИИ не присоединяется к фракциям, размер которых больше 300 и которые имеют больше 15 данников.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_LARGE_DESC;ИИ не присоединяется к фракциям, размер которых больше 350 владений и которые имеют больше 10 данников.;;;;;;;;;;;;;x
 RULE_POLITICAL_FACTIONS_DISABLED;Отключено;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_DISABLED_DESC;Политические фракции (Альянс и Орда) не могут быть созданы. ИИ не присоединяется к историческим фракциям, размер которых больше 100 и которые имеют больше 5 данников.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_DISABLED_DESC;Политические фракции (Альянс и Орда) не могут быть созданы. ИИ не присоединяется к историческим фракциям, размер которых больше 150 владений и которые имеют больше 5 данников.;;;;;;;;;;;;;x
 RULE_POLITICAL_FACTIONS_SMALL;Маленькие;;;;;;;;;;;;;x
-RULE_POLITICAL_FACTIONS_SMALL_DESC;ИИ не присоединяется к фракциям, размер которых больше 100 и которые имеют больше 5 данников.;;;;;;;;;;;;;x
+RULE_POLITICAL_FACTIONS_SMALL_DESC;ИИ не присоединяется к фракциям, размер которых больше 150 владений и которые имеют больше 5 данников.;;;;;;;;;;;;;x
 faction_action_cooldown;Пока нельзя предпринять это действие;;;;;;;;;;;;;x
 EVTDESC_WCPLF_106;[Root.GetTitledFirstNameWithNick], нынешний лидер [e_horde.GetFullBaseName], больше не заинтересован в том, чтобы поддерживать остальных членов [e_horde.GetFullBaseName].\n\n[Root.GetSheHeCap] объявил о роспуске всей фракции. Все послы были отозваны, и бывшие союзники остались без военной поддержки [e_horde.GetFullBaseName].;;;;;;;;;;;;;x
 GetLeaveDisbandCap_Disband;Распустить;;;;;;;;;;;;;x
@@ -2983,6 +2983,17 @@ light_elune_branch_OPTION;Я буду сердцем Элуны.;;;;;;;;;;;;;x
 dark_elune_branch_OPTION;Я буду дланью Элуны.;;;;;;;;;;;;;x
 impregnate_deci;Оплодотворить;;;;;;;;;;;;;x
 impregnate_deci_desc;§Y[From.GetBestName]§! оплодотворит §Y[Root.GetBestName]§!.;;;;;;;;;;;;;x
+WAR_NAME_TOTAL_INVASION_OF;$ORDER$$FIRST_ADJ$ Великое вторжение в $OTHER_TITLE$;;;;;;;;;;;;;x
+EVTDESC_WCIMM_20;Вы все чаще стали замечать, что ваши придворные в последнее время все чаще критикуют вас. Это неудивительно, учитывая, сколько лет вы находитесь у власти. Ваши подданные, как, впрочем, и вы сами, устали от вашей власти.;;;;;;;;;;;;;x
+EVTOPTA_WCIMM_20;Проходят годы, ничего не меняется.;;;;;;;;;;;;;x
+ruled_too_long_modifier;Правит слишком долго;;;;;;;;;;;;;x
+RULE_RULED_TOO_LONG_PENALTY;§RWarCraft§!: Штрафы за долгое правление;;;;;;;;;;;;;x
+RULE_RULED_TOO_LONG_PENALTY_ON;Включены;;;;;;;;;;;;;x
+RULE_RULED_TOO_LONG_PENALTY_ON_DESC;Правители будут получать §R-15 к мнению вассалов§! и §R-15% к защите от заговоров§! за каждые 50 лет правления.;;;;;;;;;;;;;x
+RULE_RULED_TOO_LONG_PENALTY_AI;Только ИИ;;;;;;;;;;;;;x
+RULE_RULED_TOO_LONG_PENALTY_AI_DESC;Правители-ИИ будут получать §R-15 к мнению вассалов§! и §R-15% к защите от заговоров§! за каждые 50 лет правления.;;;;;;;;;;;;;x
+RULE_RULED_TOO_LONG_PENALTY_OFF;Отключены;;;;;;;;;;;;;x
+RULE_RULED_TOO_LONG_PENALTY_OFF_DESC;Штрафы за долгое правление отключены.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
