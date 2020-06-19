@@ -2994,6 +2994,7 @@ RULE_RULED_TOO_LONG_PENALTY_AI;Только ИИ;;;;;;;;;;;;;x
 RULE_RULED_TOO_LONG_PENALTY_AI_DESC;Правители-ИИ будут получать §R-15 к мнению вассалов§! и §R-15% к защите от заговоров§! за каждые 50 лет правления.;;;;;;;;;;;;;x
 RULE_RULED_TOO_LONG_PENALTY_OFF;Отключены;;;;;;;;;;;;;x
 RULE_RULED_TOO_LONG_PENALTY_OFF_DESC;Штрафы за долгое правление отключены.;;;;;;;;;;;;;x
+GetRelHeadTitle_throsic;[d_throsic.GetRulerTitle];;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
