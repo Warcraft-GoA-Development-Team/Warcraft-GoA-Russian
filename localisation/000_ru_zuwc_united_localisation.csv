@@ -1819,13 +1819,13 @@ title_shadow_council_member_1_desc;Теневой советник назначается лидером Совета Т
 title_shadow_council_member_2_desc;Теневой советник назначается лидером Совета Теней и может быть убран только, если законы совета были полностью упразднены или правитель не под влиянием лидера Совета Теней.;;;;;;;;;;;;;x
 title_shadow_council_member_3_desc;Теневой советник назначается лидером Совета Теней и может быть убран только, если законы совета были полностью упразднены или правитель не под влиянием лидера Совета Теней.;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH;§RWarcraft§!: Сила Вторжений;;;;;;;;;;;;;x
-RULE_INVADERS_STRENGTH_X0_5;x0.5;;;;;;;;;;;;;x
+RULE_INVADERS_STRENGTH_X0_5;0.5x;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_X0_5_DESC;Все появляющиеся войска вторжений Орды, Легиона, Плети, Черной Империи и Киражей будут умножены на 0.5.\n§RВлияет на игроков и ИИ§!;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_DEFAULT;Стандартное;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_DEFAULT_DESC;Стандартные появляющиеся войска.;;;;;;;;;;;;;x
-RULE_INVADERS_STRENGTH_X1_5;x1.5;;;;;;;;;;;;;x
+RULE_INVADERS_STRENGTH_X1_5;1.5x;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_X1_5_DESC;Все появляющиеся войска вторжений Орды, Легиона, Плети, Черной Империи и Киражей будут умножены на 1.5.\n§RВлияет на игроков и ИИ§!;;;;;;;;;;;;;x
-RULE_INVADERS_STRENGTH_X2;x2;;;;;;;;;;;;;x
+RULE_INVADERS_STRENGTH_X2;2x;;;;;;;;;;;;;x
 RULE_INVADERS_STRENGTH_X2_DESC;Все появляющиеся войска вторжений Орды, Легиона, Плети, Черной Империи и Киражей будут умножены на 2.\n§RВлияет на игроков и ИИ§!;;;;;;;;;;;;;x
 reborn_black_empire;Возродить Черную Империю;;;;;;;;;;;;;x
 reborn_black_empire_desc;Возродить Черную Империю, темную цивилизацию, основанную Древними Богами после того, как они прибыли на древний Азерот.;;;;;;;;;;;;;x
@@ -1934,7 +1934,7 @@ GetRelHeadTitle_voidfarer;[d_voidfarer.GetRulerTitle];;;;;;;;;;;;;x
 GetRelHeadTitle_forsaken_cult;[d_forsaken_cult.GetRulerTitle];;;;;;;;;;;;;x
 created_religious_head_tooltip;Религиозный глава существует\n;;;;;;;;;;;;;x
 EVTTITLE_WCREL_10;Первый [target_religious_head.GetTitle];;;;;;;;;;;;;x
-EVTDESC_WCREL_10;[target_reformer.GetTitledFirstName] объявил о начале новой эры. Под покровительством могучей империи, [target_reformer.Religion.GetName] религия обрела единого религиозного лидера. Первый [target_religious_head.GetTitle], [target_religious_head.GetFirstName], был выбран лично [target_reformer.GetTitledFirstName]. После пышной церемонии с преподнесением регалий, [target_religious_head.GetTitledFirstName] поклялся верой и правдой служить [target_religious_head.PrimaryTitle.GetFullBaseName] и [target_reformer.Religion.GetHighGodName].;;;;;;;;;;;;;x
+EVTDESC_WCREL_10;[target_reformer.GetTitledFirstName] объявил[From.GetEndA] о начале новой эры. Под покровительством могучей империи, [target_reformer.Religion.GetName] религия обрела единого религиозного лидера. Первый [target_religious_head.GetTitle], [target_religious_head.GetFirstName], был выбран лично [target_reformer.GetTitledFirstName]. После пышной церемонии с преподнесением регалий, [target_religious_head.GetTitledFirstName] поклялся верой и правдой служить [target_religious_head.PrimaryTitle.GetFullBaseName] и [target_reformer.Religion.GetHighGodName].;;;;;;;;;;;;;x
 EVTOPTA_WCREL_10_your_religion;Хвала [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
 EVTOPTA_WCREL_10_reformed;Теперь они выглядят более цивилизованными.;;;;;;;;;;;;;x
 EVTOPTA_WCREL_10_unreformed;Они предали своих предков!;;;;;;;;;;;;;x
@@ -1943,19 +1943,19 @@ string_scorched_earth;Выжженная Земля;;;;;;;;;;;;;x
 string_underground;Пещеры;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION;§RWarcraft§!: Фабрикация Претензий;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_DEFAULT;Стандартный;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_DEFAULT_DESC;Скорость изготовления претензий с помощью задания «Сфабриковать претензии» не меняется.;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_DEFAULT_DESC;Скорость изготовления претензий с помощью задания "Сфабриковать претензии" не меняется.;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_FASTER_25;Быстрее;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_FASTER_25_DESC;Скорость изготовления претензий с помощью задания «Сфабриковать претензии» ускоряется в полтора раза.\n§GЭто рекомендованное правило.§!;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_FASTER_25_DESC;Скорость изготовления претензий с помощью задания "Сфабриковать претензии" ускоряется в полтора раза.\n§GЭто рекомендованное правило.§!;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_SLOWER_25;Медленнее;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_SLOWER_25_DESC;Скорость изготовления претензий с помощью задания «Сфабриковать претензии» замедляется в полтора раза.;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_SLOWER_25_DESC;Скорость изготовления претензий с помощью задания "Сфабриковать претензии" замедляется в полтора раза.;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_FASTER_50;Значительно быстрее;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_FASTER_50_DESC;Скорость изготовления претензий с помощью задания «Сфабриковать претензии» ускоряется в полтора раза.;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_FASTER_50_DESC;Скорость изготовления претензий с помощью задания "Сфабриковать претензии" ускоряется в полтора раза.;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_SLOWER_50;Значительно медленнее;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_SLOWER_50_DESC;Скорость изготовления претензий с помощью задания «Сфабриковать претензии» замедляется в полтора раза.;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_SLOWER_50_DESC;Скорость изготовления претензий с помощью задания "Сфабриковать претензии" замедляется в полтора раза.;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_FASTER_100;В два раза быстрее;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_FASTER_100_DESC;Скорость изготовления претензий с помощью задания «Сфабриковать претензии» ускоряется в два раза.;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_FASTER_100_DESC;Скорость изготовления претензий с помощью задания "Сфабриковать претензии" ускоряется в два раза.;;;;;;;;;;;;;x
 RULE_CLAIM_FABRICATION_SLOWER_100;В два раза медленнее;;;;;;;;;;;;;x
-RULE_CLAIM_FABRICATION_SLOWER_100_DESC;Скорость изготовления претензий с помощью задания «Сфабриковать претензии» замедляется в два раза;;;;;;;;;;;;;x
+RULE_CLAIM_FABRICATION_SLOWER_100_DESC;Скорость изготовления претензий с помощью задания "Сфабриковать претензии" замедляется в два раза;;;;;;;;;;;;;x
 text_effect_rot;Может §RГнить§!;;;;;;;;;;;;;x
 text_effect_does_not_rot;НЕ §GГниет§!;;;;;;;;;;;;;x
 text_effect_bloodthirst;§RЖажда Крови§! заменяет §YГниение§!;;;;;;;;;;;;;x
@@ -2331,10 +2331,10 @@ RULE_QIRAJI_INVASION_STRENGTH_X1_5_DESC;Количество появляющихся войск Киражи уве
 RULE_QIRAJI_INVASION_STRENGTH_X2_DESC;Количество появляющихся войск Киражи увеличивается модификатором §G2§!.;;;;;;;;;;;;;x
 RULE_QIRAJI_INVASION_STRENGTH_X0_5_DESC;Количество появляющихся войск Киражи увеличивается модификатором §R0.5§!.;;;;;;;;;;;;;x
 RULE_QIRAJI_INVASION_STRENGTH_X0_25_DESC;Количество появляющихся войск Киражи увеличивается модификатором §R0.25§!.;;;;;;;;;;;;;x
-RULE_INVADERS_STRENGTH_X0_25;x0.25;;;;;;;;;;;;;x
-RULE_INVADERS_STRENGTH_X0_5;x0.5;;;;;;;;;;;;;x
-RULE_INVADERS_STRENGTH_X1_5;x1.5;;;;;;;;;;;;;x
-RULE_INVADERS_STRENGTH_X2;x2;;;;;;;;;;;;;x
+RULE_INVADERS_STRENGTH_X0_25;0.25x;;;;;;;;;;;;;x
+RULE_INVADERS_STRENGTH_X0_5;0.5x;;;;;;;;;;;;;x
+RULE_INVADERS_STRENGTH_X1_5;1.5x;;;;;;;;;;;;;x
+RULE_INVADERS_STRENGTH_X2;2x;;;;;;;;;;;;;x
 ring;Кольца;;;;;;;;;;;;;x
 relic;Реликвия;;;;;;;;;;;;;x
 LIGHT;Свет;;;;;;;;;;;;;x
@@ -2561,17 +2561,17 @@ RULE_STEREOTYPICAL_TRAITS;§RWarCraft§!: Предубеждения;;;;;;;;;;;;;x
 STEREOTYPICAL_TRAITS_ON;Включено;;;;;;;;;;;;;x
 STEREOTYPICAL_TRAITS_ON_DESC;Новые персонажи имеют шанс получить персональные черты в зависимости от их расы, культуры и религии.;;;;;;;;;;;;;x
 RULE_STEREOTYPICAL_TRAITS_MORE_25;Чаще;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_25_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G1.25x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_25_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G1.25§!.;;;;;;;;;;;;;x
 RULE_STEREOTYPICAL_TRAITS_MORE_50;Заметно чаще;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_50_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G1.5x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_50_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G1.5§!.;;;;;;;;;;;;;x
 RULE_STEREOTYPICAL_TRAITS_MORE_100;Регулярно;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_MORE_100_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G2x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_MORE_100_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, повышены на §G2§!.;;;;;;;;;;;;;x
 RULE_STEREOTYPICAL_TRAITS_LESS_100;Реже;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_100_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R2x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_100_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R0.5§!.;;;;;;;;;;;;;x
 RULE_STEREOTYPICAL_TRAITS_LESS_50;Заметно реже;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_50_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R1.5x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_50_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R0.66§!.;;;;;;;;;;;;;x
 RULE_STEREOTYPICAL_TRAITS_LESS_25;Крайне редко;;;;;;;;;;;;;x
-RULE_STEREOTYPICAL_TRAITS_LESS_25_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R1.25x§!.;;;;;;;;;;;;;x
+RULE_STEREOTYPICAL_TRAITS_LESS_25_DESC;Шансы на то, что новые персонажи получат персональные черты в зависимости от расы, культуры и религии, понижены на §R0.8§!.;;;;;;;;;;;;;x
 STEREOTYPICAL_TRAITS_OFF;Отключено;;;;;;;;;;;;;x
 STEREOTYPICAL_TRAITS_OFF_DESC;Раса, культура и религия новых персонажей не влияет на их персональные черты.;;;;;;;;;;;;;x
 EVTTITLE_WCRLM_800;Возвращение Короля;;;;;;;;;;;;;x
@@ -2931,7 +2931,7 @@ form_the_gorian_empire_desc;В давние времена Горианская империя являлась самым м
 has_realm_province_with_5_or_more_settlements_tooltip;Под вашим контролем находится провинция с 5 или более владениями;;;;;;;;;;;;;x
 create_gorian_empire_tt;§Y[Root.GetBestName]§! создаст §Y[e_gorian_empire.GetName]§!;;;;;;;;;;;;;x
 EVTTITLE_WCOE_100;Возрожденные в пурпурном;;;;;;;;;;;;;x
-EVTDESC_WCOE_100;Империя огров когда-то не знала себе равных на Дреноре, до роковой попытки покорения стихий. Сегодня многие огры собрались в великом зале [target_imperator.GetCapital], чтобы обсудить будущее своей угнетенной расы. Старейшины создали Сенат и признали верховенство [target_imperator.GetFirstName], даровав титул "[target_imperator.GetTitle] народа огров". В [target_imperator.GetHerHis] речи, обращенной к представителям кланов, собравшихся в великом зале, [target_imperator.GetSheHe] объявил[Root.GetEndA] начало новой эры для [target_imperator.GetHerHis] народа. \nМы больше не будем влачить свое существование в курганах, словно крысы в норах. МЫ правители Дренора. МЫ создатели империй. МЫ - те, кому предначертано завоевывать миры. Мы одолеем всех, кто противостоит нам! Слава Горианской империи!\nКрики радости раздались в момент, когда в небе вновь развернулось древнее пурпурно-золотое знамя. Горианская империя возродилась. С ее возрождением огры займут свое законное место среди прочих рас Азерота.;;;;;;;;;;;;;x
+EVTDESC_WCOE_100;Империя огров когда-то не знала себе равных на Дреноре, до роковой попытки покорения стихий. Сегодня многие огры собрались в великом зале [target_new_goria.GetName], чтобы обсудить будущее своей угнетенной расы. Старейшины создали Сенат и признали верховенство [target_imperator.GetFirstName], даровав титул "[target_imperator.GetTitle] народа огров". В [target_imperator.GetHerHis] речи, обращенной к представителям кланов, собравшихся в великом зале, [target_imperator.GetSheHe] объявил[Root.GetEndA] начало новой эры для [target_imperator.GetHerHis] народа. \nМы больше не будем влачить свое существование в курганах, словно крысы в норах. МЫ правители Дренора. МЫ создатели империй. МЫ - те, кому предначертано завоевывать миры. Мы одолеем всех, кто противостоит нам! Слава Горианской империи!\nКрики радости раздались в момент, когда в небе вновь развернулось древнее пурпурно-золотое знамя. Горианская империя возродилась. С ее возрождением огры займут свое законное место среди прочих рас Азерота.;;;;;;;;;;;;;x
 EVTOPTA_WCOE_100;За Сенат и народ Новой Гории!;;;;;;;;;;;;;x
 EVTOPTB_WCOE_100;Аве [target_imperator.GetFirstName]!;;;;;;;;;;;;;x
 ogre_group_opinion;[ogre_group.GetGroupName] мнение;;;;;;;;;;;;;x

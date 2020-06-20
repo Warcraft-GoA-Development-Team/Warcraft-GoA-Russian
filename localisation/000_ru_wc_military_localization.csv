@@ -36,7 +36,7 @@ LIGHT_CAVALRY_DEFENSIVE_FIRE;Защита кавалерии;;;;;;;;;;;;;x
 LIGHT_CAVALRY_MORALE;Боевой дух кавалерии;;;;;;;;;;;;;x
 LIGHT_CAVALRY_MODIFIER;Модификатор кавалерии;;;;;;;;;;;;;x
 CU_LIGHT_CAVALRY;Кавалерия;;;;;;;;;;;;;x
-CU_CAVALRY;Ударные войска;;;;;;;;;;;;;
+CU_CAVALRY;Ударные войска;;;;;;;;;;;;;x
 ARCHERS;Стрелковая пехота;;;;;;;;;;;;;x
 ARCHERS_OFFENSIVE_FIRE;Атака стрелковой пехоты;;;;;;;;;;;;;x
 ARCHERS_DEFENSIVE_FIRE;Защита стрелковой пехоты;;;;;;;;;;;;;x
@@ -269,7 +269,7 @@ wc_ret_gen_adv;Искатели приключений;;;;;;;;;;;;;x
 wc_ret_gen_art;Артиллерийский отряд;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Tribal;;;;;;;;;;;;;;x
-wc_ret_tribe_pure;Толпа племенных воинов;;;;;;;;;;;;;
+wc_ret_tribe_pure;Толпа племенных воинов;;;;;;;;;;;;;x
 wc_ret_tribe_inf;Воины;;;;;;;;;;;;;x
 wc_ret_tribe_ran;Охотники;;;;;;;;;;;;;x
 wc_ret_tribe_cav;Всадники;;;;;;;;;;;;;x

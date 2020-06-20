@@ -1,19 +1,19 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
-borrow_money;Занять 300¤;;;;;;;;;;;;x;
-borrow_money_desc;Мы можете взять в долг 300¤ у какого-нибудь богатого правителя или ростовщика.;;;;;;;;;;;;x;
+borrow_money;Занять 300¤;;;;;;;;;;;;;x
+borrow_money_desc;Мы можете взять в долг 300¤ у какого-нибудь богатого правителя или ростовщика.;;;;;;;;;;;;;x
 repay_money;Выплатить долг в 360¤;;;;;;;;;;;;;x
 repay_money_desc;Полностью выплатить долг.;;;;;;;;;;;;;x
 debt_360_gold;Этот персонаж занял 360¤;;;;;;;;;;;;;x
 interest_payment_360_gold;Получает процентные выплаты;;;;;;;;;;;;;x
-EVTDESC_WCECO_100;Вы приказали своим слугам найти ростовщиков, которые могут дать вам в долг золото, для достижения поставленных целей.\n\nВ тот же день они вернулись с новостями.;;;;;;;;;;;;x;
-EVTOPTA_WCECO_100;[target_moneylender.GetFirstName], вы говорите... Отправьте [target_moneylender.GetHerHim] мое письмо!;;;;;;;;;;;;x;
-EVTOPTB_WCECO_100;Местное сообщество ростовщиков... интересно...;;;;;;;;;;;;x;
-EVTDESC_WCECO_110;[GetFromRootCompliment], [Root.GetFirstNameWithNick].\nМогу ли я попросить занять мне часть вашего золота? Обязуюсь вернуть все до последней монеты, а также выплатить проценты.\n\nПодписано,\n[target_borrower.GetTitledName];;;;;;;;;;;;x;
-EVTDESC_WCECO_115;[Root.PrimaryTitle.GetFOA],\nдля меня будет большой честью стать вашим кредитором. Вы можете выплатить долг по мере возможности.\n\nПодписано,\n[target_moneylender.GetTitledName];;;;;;;;;;;;x;
-EVTDESC_WCECO_120;[Root.PrimaryTitle.GetFOA],\nк сожалению, я не могу одолжить вам золото.\n\nПодписано,\n[target_moneylender.GetTitledName];;;;;;;;;;;;x;
-EVTDESC_WCECO_150;Прошло много времени с тех пор, как вы получали последние новости от [target_moneylender.GetTitledFirstName].\n\nВы не знаете, что случилось, но весьма вероятно, что эту сделку можно считать недействительной.;;;;;;;;;;;;x;
-EVTOPTC_WCECO_110;Нет! Оставьте меня в покое!;;;;;;;;;;;;x;
-no_borrowing_letters_next_10_years_tooltip;Вы не будете получать письма с просьбами о займах следующие 10 лет.;;;;;;;;;;;;x;
-ask_for_loan;Занять 300¤;;;;;;;;;;;;x;
-ask_for_loan_desc;Вы можете попробовать занять 300¤ у правителя по имени §Y[Root.GetBestName]§!.;;;;;;;;;;;;x;
-borrowing_bothering_tooltip;Этот персонаж НЕ просил не беспокоить;;;;;;;;;;;;x;
+EVTDESC_WCECO_100;Вы приказали своим слугам найти ростовщиков, которые могут дать вам в долг золото, для достижения поставленных целей.\n\nВ тот же день они вернулись с новостями.;;;;;;;;;;;;;x
+EVTOPTA_WCECO_100;[target_moneylender.GetFirstName], вы говорите... Отправьте [target_moneylender.GetHerHim] мое письмо!;;;;;;;;;;;;;x
+EVTOPTB_WCECO_100;Местное сообщество ростовщиков... интересно...;;;;;;;;;;;;;x
+EVTDESC_WCECO_110;[GetFromRootCompliment], [Root.GetFirstNameWithNick].\nМогу ли я попросить занять мне часть вашего золота? Обязуюсь вернуть все до последней монеты, а также выплатить проценты.\n\nПодписано,\n[target_borrower.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCECO_115;[Root.PrimaryTitle.GetFOA],\nдля меня будет большой честью стать вашим кредитором. Вы можете выплатить долг по мере возможности.\n\nПодписано,\n[target_moneylender.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCECO_120;[Root.PrimaryTitle.GetFOA],\nк сожалению, я не могу одолжить вам золото.\n\nПодписано,\n[target_moneylender.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_WCECO_150;Прошло много времени с тех пор, как вы получали последние новости от [target_moneylender.GetTitledFirstName].\n\nВы не знаете, что случилось, но весьма вероятно, что эту сделку можно считать недействительной.;;;;;;;;;;;;;x
+EVTOPTC_WCECO_110;Нет! Оставьте меня в покое!;;;;;;;;;;;;;x
+no_borrowing_letters_next_10_years_tooltip;Вы не будете получать письма с просьбами о займах следующие 10 лет.;;;;;;;;;;;;;x
+ask_for_loan;Занять 300¤;;;;;;;;;;;;;x
+ask_for_loan_desc;Вы можете попробовать занять 300¤ у правителя по имени §Y[Root.GetBestName]§!.;;;;;;;;;;;;;x
+borrowing_bothering_tooltip;Этот персонаж НЕ просил не беспокоить его по этой теме;;;;;;;;;;;;;x
