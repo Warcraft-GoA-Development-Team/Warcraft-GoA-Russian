@@ -4,3 +4,4 @@ EVTDESC_WCSCRFC_1_V2;После взятия §Y[target_sacrifice_location.GetName]§! ваши в
 EVTOPT_WCSCRFC_1;Слава [target_sacrificer_unit_owner.Religion.GetHighGodName]у!;;;;;;;;;;;;;x
 EVTDESC_WCSCRFC_2;После взятия §Y[target_sacrifice_location.GetName]§!, войска §Y[target_sacrificer_unit_owner.GetFirstName]§! начали приносить жертвы §Y[target_sacrificer_unit_owner.Religion.GetHighGodName]§!!;;;;;;;;;;;;;x
 EVTOPT_WCSCRFC_2;Проклятие на [target_sacrificer_unit_owner.GetHerHim] голову!;;;;;;;;;;;;;x
+EVTDESC_WCSCRFC_3;Ваш вассал - §Y[target_sacrificed_prisoner.GetBestName]§! был принесен в жертву божеству по имени §Y[target_sacrificer.Religion.GetHighGodName]§! правителем, известным как §Y[target_sacrificer.GetBestName]§!!;;;;;;;;;;;;;x
