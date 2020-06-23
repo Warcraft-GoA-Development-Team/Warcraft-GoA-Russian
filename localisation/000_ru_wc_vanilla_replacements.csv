@@ -367,7 +367,7 @@ EVTOPTC_7004;Это бесполезно, [From.GetSheHe] полностью во власти [From.GetHerHis
 RULE_RAIDING_OFF_DESC;Никто не может совершать набеги, кроме искателей приключений.;;;;;;;;;;;;;x
 brew_happiness_potion;Сварить зелье Неуязвимости;;;;;;;;;;;;;x
 hermetics;Союз алхимиков;;;;;;;;;;;;;x
-hermetics_desc;Alchemists believe that there are deeply hidden secrets about this world that only the worthy can uncover. As a member of the Alchemists' Union you will seek the truth in the stars and planets, through diligent experimentation, and by careful interpretation of ancient texts and symbols.;;;;;;;;;;;;;x
+hermetics_desc;Алхимики считают, что мир полон тайн и только достойный может их раскрыть. Будучи последователем искусства алхимии, Вы будете искать истину в звездах и планетах, посредством экспериментов, а также путём тщательной интерпретации древних текстов и символов.;;;;;;;;;;;;;x
 hermetics_rank_4_female;Главный алхимик;;;;;;;;;;;;;x
 hermetics_rank_4_male;Главный алхимик;;;;;;;;;;;;;x
 choose_hermetic_art;Выбрать эзотерическое искусство;;;;;;;;;;;;;x
@@ -389,42 +389,42 @@ divine_summoning_failed_desc;Эт[GetEtaEtot] [GetAgedPerson] не смог[GetNoneE] ве
 EVTDESC_MNM_1622;[From.GetFirstName], м[From.GetOyaOy] коллега по ордену [Root.GetSocietyNameGEN], выступил[From.GetEndA] с идеей ритуала, который может призвать Божественную Сущность. Перспектива просить Дух о знаниях напрямую довольно заманчива, в ордене это восприняли с большим воодушевлением. Ритуал состоится через несколько недель.;;;;;;;;;;;;;x
 EVTDESC_MNM_1622_COURT;[From.GetFirstName], м[From.GetOyaOy] [From.GetRootRelation] и коллега по ордену [Root.GetSocietyNameGEN], выступил[From.GetEndA] с идеей ритуала, который может призвать Божественную Сущность. Перспектива просить Дух о знаниях напрямую довольно заманчива, в ордене это восприняли с большим воодушевлением. Ритуал состоится через несколько недель.;;;;;;;;;;;;;x
 EVTDESCA_MNM_1640_RITUALS;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат по магическим ритуалам! В нём исследуются потенциально новые и полезные способы вызова божественных сущностей. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_ASCENSION;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on ascension! It explores the concept of ascension, and new ways by which this state might be achieved, which in turn might provide a new approach to magic. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_MIND_OF_GOD;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on the Mind of [Root.Religion.GetHighGodName]! It explores the Divine Truth that permeates this world, and might provide a new insight into magic. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_TRANSLATING_HIEROGLYPHICS;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on hieroglyphic translation! It explores the hidden meaning in these ancient texts, which might in turn provide a new insight into magic. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_DISTILLATION;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on distillation! It explores new methods of the process, which might enable the creation of a variety of exciting new alchemical elixirs. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_FERMENTATION;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on fermentation! It explores new approaches to the process, which might enable the creation of a variety of exciting new alchemical elixirs. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_ELIXIR_OF_LIFE;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on the mysterious Elixir of Life! It explores the concept, both as a source for life eternal as well as a cure for all diseases, and it delves into potential methods of creating it. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_PILOSOPHERS_STONE;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on the Philosopher's Stone! It explores the object, and its powers of transmuting cheap metal into gold, as well as how to create it. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_PLANETS;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on the planets! It explores astrology, in particular the movement of the planets, and what this could be interpreted as. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_STARS;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on the stars! It explores astrology, in particular the constellations, and what truths they contain. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_MOON;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on the Moon! It explores astrology, and in particular the movement and importance of this heavenly body. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-EVTDESCA_MNM_1640_SUN;It is finished! I have produced [Root.GetTheoryPaperQuality] paper on the Sun! It explores astrology, and in particular the movement and importance of this heavenly body. Now all that is left is to submit it to my erudite peers, for review.;;;;;;;;;;;;;x
-hermetics_write_theory_paper_power_desc;Enables the decision to write a theorem paper and have it be reviewed by fellow members of the society. If it is accepted, you gain §Y[From.Society.GetCurrency]§!.\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_1441_steal_text;You steal a great text. It will be added to your treasury.\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_1441_steal_ingredient;You steal a ingredient. It will be added to your treasury.\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_ritual_theurgy_tooltip;Does NOT already own a Magnum Opus on ritualistic magic\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_contemplative_theurgy_tooltip;Does NOT already own a Magnum Opus on contemplative magic\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_1600;Focus my efforts on writing on magic.;;;;;;;;;;;;;x
-EVTDESC_MNM_1601;I have made ample headway in recording my knowledge on the subject of magic, but it is still too vast to touch upon everything. It will be necessary to narrow the focus of my efforts even further, and to write on only one of magic's aspects.;;;;;;;;;;;;;x
-EVTDESC_MNM_1604;It is done! It is finished! After a year of sweat and toil I have managed to produce a grand work on ritualistic magic. This tome shall stand the test of ages, ensuring my knowledge and name shall conquer time, itself. It will serve my successors well, and perhaps they will one day be able to add their knowledge to mine.;;;;;;;;;;;;;x
-EVTDESC_MNM_1605;It is done! It is finished! After a year of sweat and toil I have managed to produce a grand work on contemplative magic. This tome shall stand the test of ages, ensuring my knowledge and name shall conquer time, itself. It will serve my successors well, and perhaps they will one day be able to add their knowledge to mine.;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_1;Magnum Opus on Ritualistic Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_1_desc;This Magnum Opus contains many secrets of ritualistic magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_2;Magnum Opus on Ritualistic Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_2_desc;This Magnum Opus of excellent quality contains many secrets of ritualistic magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_3;Magnum Opus on Ritualistic Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_3_desc;This Magnum Opus of extraordinary quality contains many secrets of ritualistic magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_4;Magnum Opus on Ritualistic Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_ritual_4_desc;This masterpiece Magnum Opus contains many secrets of ritualistic magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_1;Magnum Opus on Contemplative Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_1_desc;This Magnum Opus contains many secrets of contemplative magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_2;Magnum Opus on Contemplative Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_2_desc;This Magnum Opus of excellent quality contains many secrets of contemplative magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_3;Magnum Opus on Contemplative Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_3_desc;This Magnum Opus of extraordinary quality contains many secrets of contemplative magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_4;Magnum Opus on Contemplative Magic;;;;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_4_desc;This masterpiece Magnum Opus contains many secrets of contemplative magic, but it has been encrypted with an elaborate cypher, allowing only the brightest to decipher it.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_ASCENSION;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат! В нём исследуется концепция вознесения и новые способы, которыми это состояние может быть достигнуто, что, в свою очередь, может обеспечить новый подход к изучению магии. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_MIND_OF_GOD;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о разуме [Root.GetHighGodNameGEN]! Он исследует Божественную Истину, пронизывающую этот мир, и может дать новое понимание магии. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_TRANSLATING_HIEROGLYPHICS;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат об иероглифах! Он исследует скрытый смысл древних текстов, который, в свою очередь, может обеспечить новый подход к изучению магии. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_DISTILLATION;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о дистилляции! В нём исследуются новые методы, позволяющие создать множество полезных алхимических эликсиров. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_FERMENTATION;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о ферментации! В нём исследуются новые подходы к этому процессу, позволяющие создать множество полезных алхимических эликсиров. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_ELIXIR_OF_LIFE;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат об эликсире жизни! Он исследует концепцию как источника вечной жизни, так и лекарства от всех болезней, и рассматривает возможные способы его создания. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_PILOSOPHERS_STONE;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о философском камне! Он исследует этот чудесный объект, его способность превращать дешевые металлы в золото, а также способы его создания. Осталось только представить эту работу моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_PLANETS;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о планетах! Он исследует движения планет и способы их интерпретации. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_STARS;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о звёздах! Он исследует астрологию в области созвездий, и то, какие истины они содержат. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_MOON;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о Луне! В нём рассматриваются различные аспекты астрологии, в частности траектория движения и важность этого небесного тела. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+EVTDESCA_MNM_1640_SUN;Готово! Я написал[Root.GetEndA] [Root.GetTheoryPaperQuality]ый трактат о Солнце! В нём рассматриваются различные аспекты астрологии, в частности траектория движения и важность этого небесного тела. Осталось только представить его моим коллегам.;;;;;;;;;;;;;x
+hermetics_write_theory_paper_power_desc;Позволяет использовать решение по написанию теоретического доклада и передаче его на рассмотрение своим коллегам по обществу. Если с ним согласятся, Вы получите §Y[From.Society.GetCurrency]§!.\n;;;;;;;;;;;;;x
+EVTOPTA_MNM_1441_steal_text;Вы крадёте великий текст. Он будет добавлен в Вашу сокровищницу.\n;;;;;;;;;;;;;x
+EVTOPTA_MNM_1441_steal_ingredient;Вы крадёте ингредиент. Он будет добавлен в Вашу сокровищницу.\n;;;;;;;;;;;;;x
+hermetics_wrote_magnum_opus_duplicate_ritual_theurgy_tooltip;Убедитесь, что Magnum Opus по ритуальной магии НЕ имеется в наличии\n;;;;;;;;;;;;;x
+hermetics_wrote_magnum_opus_duplicate_contemplative_theurgy_tooltip;Убедитесь, что Magnum Opus по созерцательной магии НЕ имеется в наличии\n;;;;;;;;;;;;;x
+EVTOPTA_MNM_1600;Сосредоточить свои усилия на магии.;;;;;;;;;;;;;x
+EVTDESC_MNM_1601;Я довольно много сделал[Root.GetEndA], чтобы записать свои знания по магии, но эта тема слишком обширна, чтобы охватить её целиком. Мне нужно сузить её и сфокусировать свои усилия лишь на одном из аспектов.;;;;;;;;;;;;;x
+EVTDESC_MNM_1604;Наконец-то! После года тяжелого труда мне удалось закончить грандиозную работу по ритуальной магии. Если этот том выдержит испытание временем и хорошо послужит моим преемникам, возможно, однажды они смогут добавить свои знания к моим.;;;;;;;;;;;;;x
+EVTDESC_MNM_1605;Наконец-то! После года тяжелого и кропотливого труда мне удалось закончить грандиозную работу по созерцательной магии. Если этот том выдержит испытание временем и хорошо послужит моим преемникам, возможно, однажды они смогут добавить свои знания к моим.;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_1;Ритуальная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_1_desc;Этот Magnum Opus раскрывает секреты ритуальной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_2;Ритуальная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_2_desc;Этот Magnum Opus превосходного качества раскрывает секреты ритуальной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_3;Ритуальная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_3_desc;Этот Magnum Opus непревзойдённого качества раскрывает секреты ритуальной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_4;Ритуальная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_ritual_4_desc;Этот шедевральный Magnum Opus раскрывает секреты ритуальной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_1;Созерцательная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_1_desc;Этот Magnum Opus раскрывает секреты созерцательной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_2;Созерцательная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_2_desc;Этот Magnum Opus превосходного качества раскрывает секреты созерцательной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_3;Созерцательная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_3_desc;Этот Magnum Opus непревзойдённого качества раскрывает секреты созерцательной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_4;Созерцательная магия;;;;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_4_desc;Этот шедевральный Magnum Opus раскрывает секреты созерцательной магии, но его текст был подвержен сложному шифрованию, которое далеко не каждому под силу разгадать.;;;;;;;;;;;;;x
 EVTDESCC_MNM_1901;Я уже достаточно хорошо разбираюсь в магии, природе [Root.Religion.GetHighGodName] и божественных духах, но чтобы овладеть истиной и понять её, возможно мне нужно уделить внимание и другим областям знаний?;;;;;;;;;;;;;x
 EVTOPTC_MNM_1901;Меня всегда интересовало искусство магии.;;;;;;;;;;;;;x
 open_mind_good_lea_bonus_desc;Эт[GetEtaEtot] [GetAgedPerson] получил[GetEndA] совет по магии от божественного источника, и похоже он оказался весьма ценным!;;;;;;;;;;;;;x
