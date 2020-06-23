@@ -2995,6 +2995,14 @@ RULE_RULED_TOO_LONG_PENALTY_AI_DESC;Правители-ИИ будут получать §R-15 к мнению в
 RULE_RULED_TOO_LONG_PENALTY_OFF;Отключены;;;;;;;;;;;;;x
 RULE_RULED_TOO_LONG_PENALTY_OFF_DESC;Штрафы за долгое правление отключены.;;;;;;;;;;;;;x
 GetRelHeadTitle_throsic;[d_throsic.GetRulerTitle];;;;;;;;;;;;;x
+String_balance_of_the_cosmic_forces;балансе космических сил;;;;;;;;;;;;;x
+String_origin_of_the_titans;происхождении Титанов;;;;;;;;;;;;;x
+String_primordial_Azeroth_before_the_ordering;изначальном Азероте перед Упорядочиванием;;;;;;;;;;;;;x
+String_troll_biology_and_the_first_races;биологии троллей и первородных расах;;;;;;;;;;;;;x
+String_black_dragon_egg_clutch;является ли хорошой идеей атаковать кладку яиц черного дракона;;;;;;;;;;;;;x
+String_why_Azeroth_was_so_much_better;почему Азерот был намного лучше несколько лет назад;;;;;;;;;;;;;x
+String_Elune_and_deer;как Элуна смогла родить ребенка от оленя;;;;;;;;;;;;;x
+String_items_depend_on_who_enters_first;генерируются ли предметы в комнате, когда в нее кто-то входит;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
