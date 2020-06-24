@@ -158,90 +158,90 @@ bracelet_5_learning_desc;Легендарные наручи.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-sword_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1] двуручный меч;;;;;;;;;;;;;x
+sword_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый двуручный меч;;;;;;;;;;;;;x
 sword_twohanded_1_desc;Обычный двуручный меч.;;;;;;;;;;;;;x
-sword_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1] двуручный меч[GetArtifactWeaponsUncommonAffixN2];;;;;;;;;;;;;x
+sword_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый двуручный меч[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 sword_twohanded_2_desc;Необычный двуручный меч.;;;;;;;;;;;;;x
-sword_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1] двуручный меч[GetArtifactWeaponsRareAffixN2];;;;;;;;;;;;;x
+sword_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый двуручный меч[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 sword_twohanded_3_desc;Редкий двуручный меч.;;;;;;;;;;;;;x
-sword_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1] двуручный меч[GetArtifactWeaponsEpicAffixN2];;;;;;;;;;;;;x
+sword_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый двуручный меч[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 sword_twohanded_4_desc;Эпический двуручный меч.;;;;;;;;;;;;;x
-sword_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1] двуручный меч[GetArtifactWeaponsLegendaryAffixN2];;;;;;;;;;;;;x
+sword_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый двуручный меч[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 sword_twohanded_5_desc;Легендарный двуручный меч.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-sword_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1] одноручный меч;;;;;;;;;;;;;x
+sword_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый одноручный меч;;;;;;;;;;;;;x
 sword_onehanded_1_desc;Обычный одноручный меч.;;;;;;;;;;;;;x
-sword_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1] одноручный меч[GetArtifactWeaponsUncommonAffixN2];;;;;;;;;;;;;x
+sword_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый одноручный меч[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 sword_onehanded_2_desc;Необычный одноручный меч.;;;;;;;;;;;;;x
-sword_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1] одноручный меч[GetArtifactWeaponsRareAffixN2];;;;;;;;;;;;;x
+sword_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый одноручный меч[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 sword_onehanded_3_desc;Редкий одноручный меч.;;;;;;;;;;;;;x
-sword_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1] одноручный меч[GetArtifactWeaponsEpicAffixN2];;;;;;;;;;;;;x
+sword_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый одноручный меч[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 sword_onehanded_4_desc;Эпический одноручный меч.;;;;;;;;;;;;;x
-sword_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1] одноручный меч[GetArtifactWeaponsLegendaryAffixN2];;;;;;;;;;;;;x
+sword_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый одноручный меч[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 sword_onehanded_5_desc;Легендарный одноручный меч.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-axe_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1] двуручный топор;;;;;;;;;;;;;x
+axe_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый двуручный топор;;;;;;;;;;;;;x
 axe_twohanded_1_desc;Обычный двуручный топор.;;;;;;;;;;;;;x
-axe_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1] двуручный топор[GetArtifactWeaponsUncommonAffixN2];;;;;;;;;;;;;x
+axe_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый двуручный топор[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 axe_twohanded_2_desc;Необычный двуручный топор.;;;;;;;;;;;;;x
-axe_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1] двуручный топор[GetArtifactWeaponsRareAffixN2];;;;;;;;;;;;;x
+axe_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый двуручный топор[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 axe_twohanded_3_desc;Редкий двуручный топор.;;;;;;;;;;;;;x
-axe_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1] двуручный топор[GetArtifactWeaponsEpicAffixN2];;;;;;;;;;;;;x
+axe_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый двуручный топор[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 axe_twohanded_4_desc;Эпический двуручный топор.;;;;;;;;;;;;;x
-axe_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1] двуручный топор[GetArtifactWeaponsLegendaryAffixN2];;;;;;;;;;;;;x
+axe_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый двуручный топор[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 axe_twohanded_5_desc;Легендарный двуручный топор.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-axe_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1] одноручный топор;;;;;;;;;;;;;x
+axe_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый одноручный топор;;;;;;;;;;;;;x
 axe_onehanded_1_desc;Обычный одноручный топор.;;;;;;;;;;;;;x
-axe_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1] одноручный топор[GetArtifactWeaponsUncommonAffixN2];;;;;;;;;;;;;x
+axe_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый одноручный топор[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 axe_onehanded_2_desc;Необычный одноручный топор.;;;;;;;;;;;;;x
-axe_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1] одноручный топор[GetArtifactWeaponsRareAffixN2];;;;;;;;;;;;;x
+axe_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый одноручный топор[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 axe_onehanded_3_desc;Редкий одноручный топор.;;;;;;;;;;;;;x
-axe_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1] одноручный топор[GetArtifactWeaponsEpicAffixN2];;;;;;;;;;;;;x
+axe_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый одноручный топор[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 axe_onehanded_4_desc;Эпический одноручный топор.;;;;;;;;;;;;;x
-axe_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1] одноручный топор[GetArtifactWeaponsLegendaryAffixN2];;;;;;;;;;;;;x
+axe_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый одноручный топор[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 axe_onehanded_5_desc;Легендарный одноручный топор.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-mace_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1] двуручная булава;;;;;;;;;;;;;x
+mace_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ая двуручная булава;;;;;;;;;;;;;x
 mace_twohanded_1_desc;Обычная двуручная булава.;;;;;;;;;;;;;x
-mace_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1] двуручная булава[GetArtifactWeaponsUncommonAffixN2];;;;;;;;;;;;;x
+mace_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ая двуручная булава[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 mace_twohanded_2_desc;Необычная двуручная булава.;;;;;;;;;;;;;x
-mace_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1] двуручная булава[GetArtifactWeaponsRareAffixN2];;;;;;;;;;;;;x
+mace_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1]ая двуручная булава[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 mace_twohanded_3_desc;Редкая двуручная булава.;;;;;;;;;;;;;x
-mace_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1] двуручная булава[GetArtifactWeaponsEpicAffixN2];;;;;;;;;;;;;x
+mace_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ая двуручная булава[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 mace_twohanded_4_desc;Эпическая двуручная булава.;;;;;;;;;;;;;x
-mace_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1] двуручная булава[GetArtifactWeaponsLegendaryAffixN2];;;;;;;;;;;;;x
+mace_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ая двуручная булава[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 mace_twohanded_5_desc;Легендарная двуручная булава.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-mace_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1] одноручная булава;;;;;;;;;;;;;x
+mace_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ая одноручная булава;;;;;;;;;;;;;x
 mace_onehanded_1_desc;Обычная одноручная булава.;;;;;;;;;;;;;x
-mace_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1] одноручная булава[GetArtifactWeaponsUncommonAffixN2];;;;;;;;;;;;;x
+mace_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ая одноручная булава[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 mace_onehanded_2_desc;Необычная одноручная булава.;;;;;;;;;;;;;x
-mace_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1] одноручная булава[GetArtifactWeaponsRareAffixN2];;;;;;;;;;;;;x
+mace_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1]ая одноручная булава[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 mace_onehanded_3_desc;Редкая одноручная булава.;;;;;;;;;;;;;x
-mace_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1] одноручная булава[GetArtifactWeaponsEpicAffixN2];;;;;;;;;;;;;x
+mace_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ая одноручная булава[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 mace_onehanded_4_desc;Эпическая одноручная булава.;;;;;;;;;;;;;x
-mace_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1] одноручная булава[GetArtifactWeaponsLegendaryAffixN2];;;;;;;;;;;;;x
+mace_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ая одноручная булава[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 mace_onehanded_5_desc;Легендарная одноручная булава.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-halberd_1;[GetArtifactMeleeWeaponCommonAffixN1] алебарда;;;;;;;;;;;;;x
+halberd_1;[GetArtifactMeleeWeaponCommonAffixN1]ая алебарда;;;;;;;;;;;;;x
 halberd_1_desc;Обычная алебарда.;;;;;;;;;;;;;x
-halberd_2;[GetArtifactMeleeWeaponUncommonAffixN1][GetArtifactWeaponsUncommonAffixN2] алебарда;;;;;;;;;;;;;x
+halberd_2;[GetArtifactMeleeWeaponUncommonAffixN1]ая алебарда[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 halberd_2_desc;Необычная алебарда.;;;;;;;;;;;;;x
-halberd_3;[GetArtifactMeleeWeaponRareAffixN1][GetArtifactWeaponsRareAffixN2] алебарда;;;;;;;;;;;;;x
+halberd_3;[GetArtifactMeleeWeaponRareAffixN1]ая алебарда[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 halberd_3_desc;Редкая алебарда.;;;;;;;;;;;;;x
-halberd_4;[GetArtifactMeleeWeaponEpicAffixN1][GetArtifactWeaponsEpicAffixN2] алебарда;;;;;;;;;;;;;x
+halberd_4;[GetArtifactMeleeWeaponEpicAffixN1]ая алебарда[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 halberd_4_desc;Эпическая алебарда.;;;;;;;;;;;;;x
-halberd_5;[GetArtifactMeleeWeaponLegendaryAffixN1][GetArtifactWeaponsLegendaryAffixN2] алебарда;;;;;;;;;;;;;x
+halberd_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ая алебарда[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 halberd_5_desc;Легендарная алебарда.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-spear_1;[GetArtifactMeleeWeaponCommonAffixN1] копье;;;;;;;;;;;;;x
+spear_1;[GetArtifactMeleeWeaponCommonAffixN1]ое копье;;;;;;;;;;;;;x
 spear_1_desc;Обычное копье.;;;;;;;;;;;;;x
-spear_2;[GetArtifactMeleeWeaponUncommonAffixN1] копье[GetArtifactWeaponsUncommonAffixN2];;;;;;;;;;;;;x
+spear_2;[GetArtifactMeleeWeaponUncommonAffixN1]ое копье[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
 spear_2_desc;Необычное копье.;;;;;;;;;;;;;x
-spear_3;[GetArtifactMeleeWeaponRareAffixN1] копье[GetArtifactWeaponsRareAffixN2];;;;;;;;;;;;;x
+spear_3;[GetArtifactMeleeWeaponRareAffixN1]ое копье[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
 spear_3_desc;Редкое копье.;;;;;;;;;;;;;x
-spear_4;[GetArtifactMeleeWeaponEpicAffixN1] копье[GetArtifactWeaponsEpicAffixN2];;;;;;;;;;;;;x
+spear_4;[GetArtifactMeleeWeaponEpicAffixN1]ое копье[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
 spear_4_desc;Эпическое копье.;;;;;;;;;;;;;x
-spear_5;[GetArtifactMeleeWeaponLegendaryAffixN1] копье[GetArtifactWeaponsLegendaryAffixN2];;;;;;;;;;;;;x
+spear_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ое копье[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 spear_5_desc;Легендарное копье.;;;;;;;;;;;;;x

@@ -67,7 +67,7 @@ artifact_legendary_origin_2;многие держали в руке [This.GetName] на протяжении п
 artifact_legendary_origin_3;[This.GetName] выковали с применением техники, которая превосходит существующие на тысячелетия. Немногие мастера способны создать нечто подобное;;;;;;;;;;;;;x
 artifact_legendary_origin_4;любой, кто хоть раз видел [This.GetName], возжелал этот артефакт себе. Владельцу предстоит не раз проливать кровь, чтобы сохранить артефакт у себя;;;;;;;;;;;;;x
 artifact_legendary_origin_5;[This.GetName] уничтожили тысячелетия назад..;;;;;;;;;;;;;x
-artifact_legendary_origin_6;the very sight of this [This.GetName] was enough to settle disputes that would otherwise lead to war;;;;;;;;;;;;;x
+artifact_legendary_origin_6;одного взгляда на [This.GetName] было достаточно для разрешения споров, которые в противном случае привели бы к войне;;;;;;;;;;;;;x
 artifact_legendary_origin_7;[This.GetName] не мог выковать смертный;;;;;;;;;;;;;x
 artifact_legendary_origin_8;[This.GetName] существовал еще в начале времен;;;;;;;;;;;;;x
 artifact_legendary_origin_9;[This.GetName] хранит тайны для тех, кто может расшифровать его замысловатый дизайн;;;;;;;;;;;;;x
@@ -527,60 +527,60 @@ artifact_jewelry_legendary_affixn2_learning_10; Безграничной Мудрости;;;;;;;;;;;
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_1;Rusty;;Rostig;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_2;Cheap;;Billig;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_3;Average;;Durchschnittlich;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_4;Damaged;;Beschдdigt;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_5;Common;;Gewцhnlich;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_6;Simple;;Einfach;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_7;Mediocre;;MittelmдЯig;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_8;Shoddy;;Schдbig;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_9;Dull;;Stumpf;;;;;;;;;;;x
-artifact_melee_weapon_common_affixn1_10;Unremarkable;;Unscheinbar;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_1;Ржав;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_2;Дешев;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_3;Непримечательн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_4;Поврежденн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_5;Обычн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_6;Прост;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_7;Посредственн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_8;Фальшив;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_9;Затупленн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_10;Перекованн;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_1;Duelist's;;Zeremoniell;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_2;Soldier's;;Schьtzend;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_3;Warrior's;;Kriegerisch;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_4;Decent;;Anstдndig;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_5;Guileful;;Hinterhдltig;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_6;Powerful;;Mдchtig;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_7;Lucky;;Glьcklich;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_8;Shining;;Glдnzend;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_9;Barbaric;;Barbarisch;;;;;;;;;;;x
-artifact_melee_weapon_uncommon_affixn1_10;Well-made;;Hochwertig;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_1;Церемониальн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_2;Военн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_3;Закаленн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_4;Славн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_5;Коварн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_6;Могущественн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_7;Счастлив;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_8;Превосходн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_9;Варварск;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_10;Искусн;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_1;Battle Hardened;;Kampferprobt;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_2;Commander's;;Dornig;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_3;Veteran's;;Scharf;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_4;Brilliant;;Brillant;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_5;Victorious;;Siegreich;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_6;Exceptional;;AuЯergewцhnlich;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_7;Fortunate;;Glьcklich;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_8;Sinister;;Dьster;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_9;Lordly;;Herrschaftlich;;;;;;;;;;;x
-artifact_melee_weapon_rare_affixn1_10;Treacherous;;Verrдterisch;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_1;Надежн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_2;Командирск;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_3;Ветеранск;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_4;Блистательн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_5;Победоносн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_6;Исключительн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_7;Удачлив;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_8;Зловещ;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_9;Роскошн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_10;Вероломн;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_1;Warforged;;Im Krieg geschmiedet;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_2;General's;;Kцniglich;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_3;Champion's;;Ьberragend;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_4;Mighty;;Mдchtig;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_5;Triumphant;;Triumphal;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_6;Superior;;Ьberlegen;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_7;Ancient;;Antik;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_8;Infamous;;Berьchtigt;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_9;Vengeful;;Rachsьchtig;;;;;;;;;;;x
-artifact_melee_weapon_epic_affixn1_10;Fantastic;;Fantastisch;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_1;Закаленн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_2;Генеральск;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_3;Чемпионск;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_4;Могуч;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_5;Триумфальн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_6;Превосходн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_7;Древн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_8;Знаменит;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_9;Мстительн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_10;Фантастическ;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_1;Conqueror's;;Rдchend;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_2;Warmonger's;;Grauenvoll;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_3;Bloodlord's;;Ursprьnglich;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_4;Warlord's;;Tyrannisch;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_5;Avenger's;;Rдchend;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_6;Imperial;;Kaiserlich;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_7;Primordial;;Ursprьnglich;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_8;Tyrannical;;Tyrannisch;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_9;Lost;;Verloren;;;;;;;;;;;x
-artifact_melee_weapon_legendary_affixn1_10;Skyfallen;;Verloren;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_1;Воительск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_2;Наемническ;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_3;Кровав;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_4;Завоевательск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_5;Мстительск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_6;Имперск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_7;Первородн;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_8;Тираническ;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_9;Затерянн;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_10;Небесн;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 artifact_melee_weapon_uncommon_fire_affixn2_1; Огня;;;;;;;;;;;;;x
@@ -649,9 +649,9 @@ artifact_melee_weapon_epic_frost_affixn2_1; Мороза;;;;;;;;;;;;;x
 artifact_melee_weapon_epic_frost_affixn2_2; Льда;;;;;;;;;;;;;x
 artifact_melee_weapon_epic_frost_affixn2_3; Незыблемости;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-artifact_melee_weapon_epic_lightning_affixn2_1; Шока;; des Schock;;;;;;;;;;;x
-artifact_melee_weapon_epic_lightning_affixn2_2; Мерцания;; des Kurzschlusses;;;;;;;;;;;x
-artifact_melee_weapon_epic_lightning_affixn2_3; Заряда;; der Spannung;;;;;;;;;;;x
+artifact_melee_weapon_epic_lightning_affixn2_1; Шока;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_lightning_affixn2_2; Мерцания;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_lightning_affixn2_3; Заряда;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 artifact_melee_weapon_epic_poison_affixn2_1; Токсичности;;;;;;;;;;;;;x
 artifact_melee_weapon_epic_poison_affixn2_2; Вреда;;;;;;;;;;;;;x
