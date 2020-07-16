@@ -171,124 +171,124 @@ c_battlescar;Боевой Шрам;;;;;;;;;;;;;x
 c_battlescar_adj;Боевошрамь;;;;;;;;;;;;;x
 c_battokalor;Батток'Алор;;;;;;;;;;;;;x
 c_battokalor_adj;Батток'Алор;;;;;;;;;;;;;x
-c_baymouth;Baymouth;;;;;;;;;;;;;x
-c_baymouth_adj;Baymouthian;;;;;;;;;;;;;x
-c_bealgun;Bealgun;;;;;;;;;;;;;x
-c_bealgun_adj;Bealgunian;;;;;;;;;;;;;x
-c_beezil;Beezil;;;;;;;;;;;;;x
-c_beezil_adj;Beezilian;;;;;;;;;;;;;x
-c_berufell;Berufell;;;;;;;;;;;;;x
-c_berufell_adj;Berufellian;;;;;;;;;;;;;x
-c_beryl;Beryl;;;;;;;;;;;;;x
-c_beryl_adj;Berylian;;;;;;;;;;;;;x
-c_bhudann;Bhudann;;;;;;;;;;;;;x
-c_bhudann_adj;Bhudannian;;;;;;;;;;;;;x
-c_bhurdak;Bhurdak;;;;;;;;;;;;;x
-c_bhurdak_adj;Bhurdakian;;;;;;;;;;;;;x
-c_bilgetrade;Bilgetrade;;;;;;;;;;;;;x
-c_bilgetrade_adj;Bilgetradean;;;;;;;;;;;;;x
-c_bilgewater;Bilgewater;;;;;;;;;;;;;x
-c_bilgewater_adj;Bilgewaterian;;;;;;;;;;;;;x
-c_binanu;Binanu;;;;;;;;;;;;;x
-c_binanu_adj;Binanian;;;;;;;;;;;;;x
-c_bjorrmr;Bjorrmr;;;;;;;;;;;;;x
-c_bjorrmr_adj;Bjorrmrian;;;;;;;;;;;;;x
-c_black_coast;Black Coast;;;;;;;;;;;;;x
-c_black_coast_adj;Black Coastian;;;;;;;;;;;;;x
-c_blackblood;Blackblood;;;;;;;;;;;;;x
-c_blackblood_adj;Blackbloodian;;;;;;;;;;;;;x
-c_blackchar;Blackchar;;;;;;;;;;;;;x
-c_blackchar_adj;Blackcharian;;;;;;;;;;;;;x
-c_blackfathom;Blackfathom;;;;;;;;;;;;;x
-c_blackfathom_adj;Blackfathomian;;;;;;;;;;;;;x
-c_blackhoof;Blackhoof;;;;;;;;;;;;;x
-c_blackhoof_adj;Blackhoofian;;;;;;;;;;;;;x
-c_blackmaw;Blackmaw;;;;;;;;;;;;;x
-c_blackmaw_adj;Blackmawian;;;;;;;;;;;;;x
-c_blackriver;Blackriver;;;;;;;;;;;;;x
-c_blackriver_adj;Blackriverian;;;;;;;;;;;;;x
-c_blackrock_depths;Blackrock Depths;;;;;;;;;;;;;x
-c_blackrock_depths_adj;Blackrock Depthsian;;;;;;;;;;;;;x
-c_blackrock_pass;Blackrock Pass;;;;;;;;;;;;;x
-c_blackrock_pass_adj;Blackrock Passian;;;;;;;;;;;;;x
-c_blackrock_spire;Blackrock Spire;;;;;;;;;;;;;x
-c_blackrock_spire_adj;Blackrock Spirean;;;;;;;;;;;;;x
-c_blackthorn;Blackthorn;;;;;;;;;;;;;x
-c_blackthorn_adj;Blackthornian;;;;;;;;;;;;;x
-c_blackwald;Blackwald;;;;;;;;;;;;;x
-c_blackwald_adj;Blackwaldian;;;;;;;;;;;;;x
-c_blackwood;Blackwood;;;;;;;;;;;;;x
-c_blackwood_adj;Blackwoodian;;;;;;;;;;;;;x
-c_blackwood_2;Blackwood;;;;;;;;;;;;;x
-c_blackwood_2_adj;Blackwoodian;;;;;;;;;;;;;x
-c_bladefist;Bladefist;;;;;;;;;;;;;x
-c_bladefist_adj;Bladefistian;;;;;;;;;;;;;x
-c_bladescar;Bladescar;;;;;;;;;;;;;x
-c_bladescar_adj;Bladescarian;;;;;;;;;;;;;x
-c_bladewood;Bladewood;;;;;;;;;;;;;x
-c_bladewood_adj;Bladewoodian;;;;;;;;;;;;;x
-c_bleeding_vale;Bleeding Vale;;;;;;;;;;;;;x
-c_bleeding_vale_adj;Bleeding Valean;;;;;;;;;;;;;x
-c_bloodcurse;Bloodcurse;;;;;;;;;;;;;x
-c_bloodcurse_adj;Bloodcursean;;;;;;;;;;;;;x
-c_bloodfen;Bloodfen;;;;;;;;;;;;;x
-c_bloodfen_adj;Bloodfenian;;;;;;;;;;;;;x
-c_bloodhoof;Bloodhoof;;;;;;;;;;;;;x
-c_bloodhoof_adj;Bloodhoofian;;;;;;;;;;;;;x
-c_bloodmoon_isle;Bloodmoon Isle;;;;;;;;;;;;;x
-c_bloodmoon_isle_adj;Bloodmoon Islean;;;;;;;;;;;;;x
-c_bloodpost;Bloodpost;;;;;;;;;;;;;x
-c_bloodpost_adj;Bloodpostian;;;;;;;;;;;;;x
-c_bloodspore;Bloodspore;;;;;;;;;;;;;x
-c_bloodspore_adj;Bloodsporean;;;;;;;;;;;;;x
-c_bloodtalon;Bloodtalon;;;;;;;;;;;;;x
-c_bloodtalon_adj;Bloodtalonian;;;;;;;;;;;;;x
-c_bloodtooth;Bloodtooth;;;;;;;;;;;;;x
-c_bloodtooth_adj;Bloodtoothian;;;;;;;;;;;;;x
-c_bluedome;Bluedome;;;;;;;;;;;;;x
-c_bluedome_adj;Bluedomean;;;;;;;;;;;;;x
-c_bluefen;Bluefen;;;;;;;;;;;;;x
-c_bluefen_adj;Bluefenian;;;;;;;;;;;;;x
-c_bogpaddle;Bogpaddle;;;;;;;;;;;;;x
-c_bogpaddle_adj;Bogpaddlean;;;;;;;;;;;;;x
-c_bogplain;Bogplain;;;;;;;;;;;;;x
-c_bogplain_adj;Bogplainian;;;;;;;;;;;;;x
-c_bonanza;Bonanza;;;;;;;;;;;;;x
-c_bonanza_adj;Bonanzan;;;;;;;;;;;;;x
-c_bone_pit;Bone Pit;;;;;;;;;;;;;x
-c_bone_pit_adj;Bone Pitian;;;;;;;;;;;;;x
-c_bonefields;Bonefields;;;;;;;;;;;;;x
-c_bonefields_adj;Bonefieldsian;;;;;;;;;;;;;x
-c_bonetrail;Bonetrail;;;;;;;;;;;;;x
-c_bonetrail_adj;Bonetrailian;;;;;;;;;;;;;x
-c_boralus;Boralus;;;;;;;;;;;;;x
-c_boralus_adj;Boralusian;;;;;;;;;;;;;x
-c_bors_breath;Bor's Breath;;;;;;;;;;;;;x
-c_bors_breath_adj;Bors Breathian;;;;;;;;;;;;;x
-c_borual;Borual;;;;;;;;;;;;;x
-c_borual_adj;Borualian;;;;;;;;;;;;;x
-c_bough_shadow;Bough Shadow;;;;;;;;;;;;;x
-c_bough_shadow_adj;Bough Shadowian;;;;;;;;;;;;;x
-c_boulder_hills;Boulder Hills;;;;;;;;;;;;;x
-c_boulder_hills_adj;Boulder Hillsian;;;;;;;;;;;;;x
-c_bouldercrag;Bouldercrag;;;;;;;;;;;;;x
-c_bouldercrag_adj;Bouldercragian;;;;;;;;;;;;;x
-c_boulderslide;Boulderslide;;;;;;;;;;;;;x
-c_boulderslide_adj;Boulderslidean;;;;;;;;;;;;;x
-c_brackenwall;Brackenwall;;;;;;;;;;;;;x
-c_brackenwall_adj;Brackenwallian;;;;;;;;;;;;;x
-c_brambleblade;Brambleblade;;;;;;;;;;;;;x
-c_brambleblade_adj;Bramblebladean;;;;;;;;;;;;;x
-c_bramblescar;Bramblescar;;;;;;;;;;;;;x
-c_bramblescar_adj;Bramblescarian;;;;;;;;;;;;;x
-c_brennadam;Brennadam;;;;;;;;;;;;;x
-c_brennadam_adj;Brennadamian;;;;;;;;;;;;;x
-c_briaback;Briaback;;;;;;;;;;;;;x
-c_briaback_adj;Briabackian;;;;;;;;;;;;;x
-c_bridgeport;Bridgeport;;;;;;;;;;;;;x
-c_bridgeport_adj;Bridgeportian;;;;;;;;;;;;;x
-c_brightdale;Brightdale;;;;;;;;;;;;;x
-c_brightdale_adj;Brightdalean;;;;;;;;;;;;;x
+c_baymouth;Залив Жерла;;;;;;;;;;;;;x
+c_baymouth_adj;Заливожерл;;;;;;;;;;;;;x
+c_bealgun;Раскопки Бейлгуна;;;;;;;;;;;;;x
+c_bealgun_adj;Раскобейлгун;;;;;;;;;;;;;x
+c_beezil;Место крушения дирижабля;;;;;;;;;;;;;x
+c_beezil_adj;крушенодирижабл;;;;;;;;;;;;;x
+c_berufell;Беруфелл;;;;;;;;;;;;;x
+c_berufell_adj;Беруфелл;;;;;;;;;;;;;x
+c_beryl;Берилл;;;;;;;;;;;;;x
+c_beryl_adj;Берилл;;;;;;;;;;;;;x
+c_bhudann;Буданн;;;;;;;;;;;;;x
+c_bhudann_adj;Буданн;;;;;;;;;;;;;x
+c_bhurdak;Бурдак;;;;;;;;;;;;;x
+c_bhurdak_adj;Бурдак;;;;;;;;;;;;;x
+c_bilgetrade;Трюмные Воды;;;;;;;;;;;;;x
+c_bilgetrade_adj;Трюмновод;;;;;;;;;;;;;x
+c_bilgewater;Трюмные Воды;;;;;;;;;;;;;x
+c_bilgewater_adj;Трюмноводь;;;;;;;;;;;;;x
+c_binanu;Деревня Бинан;;;;;;;;;;;;;x
+c_binanu_adj;Бинан;;;;;;;;;;;;;x
+c_bjorrmr;Бьоррмр;;;;;;;;;;;;;x
+c_bjorrmr_adj;Бьоррмр;;;;;;;;;;;;;x
+c_black_coast;Темное побережье;;;;;;;;;;;;;x
+c_black_coast_adj;Темнопобер;;;;;;;;;;;;;x
+c_blackblood;Багряная Кровь;;;;;;;;;;;;;x
+c_blackblood_adj;Багрянокровь;;;;;;;;;;;;;x
+c_blackchar;Обугленная пещера;;;;;;;;;;;;;x
+c_blackchar_adj;Обугленнопещер;;;;;;;;;;;;;x
+c_blackfathom;Непроглядная Пучина;;;;;;;;;;;;;x
+c_blackfathom_adj;Непрогляднопучин;;;;;;;;;;;;;x
+c_blackhoof;Черное Копыто;;;;;;;;;;;;;x
+c_blackhoof_adj;Чернокопыт;;;;;;;;;;;;;x
+c_blackmaw;Черночрев;;;;;;;;;;;;;x
+c_blackmaw_adj;Черночрев;;;;;;;;;;;;;x
+c_blackriver;Черноречье;;;;;;;;;;;;;x
+c_blackriver_adj;Черноречь;;;;;;;;;;;;;x
+c_blackrock_depths;Глубины Черной горы;;;;;;;;;;;;;x
+c_blackrock_depths_adj;Глубинычерногор;;;;;;;;;;;;;x
+c_blackrock_pass;Перевал Черной горы;;;;;;;;;;;;;x
+c_blackrock_pass_adj;Перевалчерного;;;;;;;;;;;;;x
+c_blackrock_spire;Пик Черной горы;;;;;;;;;;;;;x
+c_blackrock_spire_adj;Пикчерногор;;;;;;;;;;;;x
+c_blackthorn;Терновник;;;;;;;;;;;;;x
+c_blackthorn_adj;Терновник;;;;;;;;;;;;;x
+c_blackwald;Черная дубрава;;;;;;;;;;;;;x
+c_blackwald_adj;Чернодубрав;;;;;;;;;;;;;x
+c_blackwood;Чернолесье;;;;;;;;;;;;;x
+c_blackwood_adj;Чернолесь;;;;;;;;;;;;;x
+c_blackwood_2;Чернолесье;;;;;;;;;;;;;x
+c_blackwood_2_adj;Чернолесь;;;;;;;;;;;;;x
+c_bladefist;Острорук;;;;;;;;;;;;;x
+c_bladefist_adj;Острорук;;;;;;;;;;;;;x
+c_bladescar;Иссечень;;;;;;;;;;;;;x
+c_bladescar_adj;Иссечень;;;;;;;;;;;;;x
+c_bladewood;Лес Клинков;;;;;;;;;;;;;x
+c_bladewood_adj;Лесоклинок;;;;;;;;;;;;;x
+c_bleeding_vale;Кровоточащая долина;;;;;;;;;;;;;x
+c_bleeding_vale_adj;Кровотодолин;;;;;;;;;;;;;x
+c_bloodcurse;Проклятые;;;;;;;;;;;;;x
+c_bloodcurse_adj;Проклятый;;;;;;;;;;;;;x
+c_bloodfen;Кровавая Топь;;;;;;;;;;;;;x
+c_bloodfen_adj;Кровотопь;;;;;;;;;;;;;x
+c_bloodhoof;Кровавое Копыто;;;;;;;;;;;;;x
+c_bloodhoof_adj;Кровокопыт;;;;;;;;;;;;;x
+c_bloodmoon_isle;Остров Кровавой Луны;;;;;;;;;;;;;x
+c_bloodmoon_isle_adj;Островкроволун;;;;;;;;;;;;;x
+c_bloodpost;Кровавый Пост;;;;;;;;;;;;;x
+c_bloodpost_adj;Кровавопост;;;;;;;;;;;;;x
+c_bloodspore;Кровоспора;;;;;;;;;;;;;x
+c_bloodspore_adj;Кровоспор;;;;;;;;;;;;;x
+c_bloodtalon;Кровопал;;;;;;;;;;;;;x
+c_bloodtalon_adj;Кровопал;;;;;;;;;;;;;x
+c_bloodtooth;Кровавый Клык;;;;;;;;;;;;;x
+c_bloodtooth_adj;Кровавоклык;;;;;;;;;;;;;x
+c_bluedome;Голубой купол;;;;;;;;;;;;;x
+c_bluedome_adj;Голубокуполь;;;;;;;;;;;;;x
+c_bluefen;Синяя топь;;;;;;;;;;;;;x
+c_bluefen_adj;Синетопь;;;;;;;;;;;;;x
+c_bogpaddle;Веслотопь;;;;;;;;;;;;;x
+c_bogpaddle_adj;Веслотопь;;;;;;;;;;;;;x
+c_bogplain;Болотная равнина;;;;;;;;;;;;;x
+c_bogplain_adj;Болотноравнин;;;;;;;;;;;;;x
+c_bonanza;Бонанза;;;;;;;;;;;;;x
+c_bonanza_adj;Бонанза;;;;;;;;;;;;;x
+c_bone_pit;Костяная яма;;;;;;;;;;;;;x
+c_bone_pit_adj;Костяноям;;;;;;;;;;;;;x
+c_bonefields;Поля Костей;;;;;;;;;;;;;x
+c_bonefields_adj;Полякост;;;;;;;;;;;;;x
+c_bonetrail;Костяная тропа;;;;;;;;;;;;;x
+c_bonetrail_adj;Костянотроп;;;;;;;;;;;;;x
+c_boralus;Боралус;;;;;;;;;;;;;x
+c_boralus_adj;Боралус;;;;;;;;;;;;;x
+c_bors_breath;Дыхание Бора;;;;;;;;;;;;;x
+c_bors_breath_adj;Дыханиебора;;;;;;;;;;;;;x
+c_borual;Боруал;;;;;;;;;;;;;x
+c_borual_adj;Боруал;;;;;;;;;;;;;x
+c_bough_shadow;Тенистая Крона;;;;;;;;;;;;;x
+c_bough_shadow_adj;Тенистокрон;;;;;;;;;;;;;x
+c_boulder_hills;Каменистые холмы;;;;;;;;;;;;;x
+c_boulder_hills_adj;Каменистохолм;;;;;;;;;;;;;x
+c_bouldercrag;Глыбоскал;;;;;;;;;;;;;x
+c_bouldercrag_adj;Глыбоскал;;;;;;;;;;;;;x
+c_boulderslide;Камнепад;;;;;;;;;;;;;x
+c_boulderslide_adj;Камнепад;;;;;;;;;;;;;x
+c_brackenwall;Гиблотопь;;;;;;;;;;;;;x
+c_brackenwall_adj;Гиблотопь;;;;;;;;;;;;;x
+c_brambleblade;Ежевичный Клинок;;;;;;;;;;;;;x
+c_brambleblade_adj;Ежевичноклин;;;;;;;;;;;;;x
+c_bramblescar;Ежевичный овраг;;;;;;;;;;;;;x
+c_bramblescar_adj;Ежевичновраг;;;;;;;;;;;;;x
+c_brennadam;Бреннадам;;;;;;;;;;;;;x
+c_brennadam_adj;Бреннадам;;;;;;;;;;;;;x
+c_briaback;Шипошкур;;;;;;;;;;;;;x
+c_briaback_adj;Шипошкур;;;;;;;;;;;;;x
+c_bridgeport;Бриджпорт;;;;;;;;;;;;;x
+c_bridgeport_adj;Бриджпорт;;;;;;;;;;;;;x
+c_brightdale;Яркий дол;;;;;;;;;;;;;x
+c_brightdale_adj;Яркодол;;;;;;;;;;;;;x
 c_brightwood_grove;Brightwood Grove;;;;;;;;;;;;;x
 c_brightwood_grove_adj;Brightwood Grovean;;;;;;;;;;;;;x
 c_brill;Brill;;;;;;;;;;;;;x
