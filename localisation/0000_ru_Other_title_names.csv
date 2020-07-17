@@ -1,455 +1,455 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
-k_atalai;РђС‚Р°Р»'Р°Р№;;;;;;;;;;;;;x
-d_church_of_the_holy_light;Р¦РµСЂРєРѕРІСЊ РЎРІСЏС‚РѕРіРѕ РЎРІРµС‚Р°;;;;;;;;;;;;;x
-d_church_scarlet_light;РњРѕРЅР°СЃС‚С‹СЂСЊ РђР»РѕРіРѕ РћСЂРґРµРЅР°;;;;;;;;;;;;;x
-d_naaru;Р’РµСЂРЅС‹Рµ РќР°Р°СЂСѓ;;;;;;;;;;;;;x
-d_hand_of_argus;Р”Р»Р°РЅСЊ РђСЂРіСѓСЃР°;;;;;;;;;;;;;x
-d_bloodscalp;РљСЂРѕРІР°РІС‹Р№ РЎРєР°Р»СЊРї;;;;;;;;;;;;;x
-d_skullsplitter;Р”СЂРѕР±РёС‚РµР»Рё Р§РµСЂРµРїРѕРІ;;;;;;;;;;;;;x
-e_horde;РћСЂРґР°;;;;;;;;;;;;;x
-e_horde_adj;РћСЂРґС‹РЅ;;;;;;;;;;;;;x
-e_empire_of_zul;РРјРїРµСЂРёСЏ Р—СѓР»;;;;;;;;;;;;;x
-e_empire_of_zul_adj;Р—СѓР»РёР°РЅ;;;;;;;;;;;;;x
-d_stormreaver;Р‘СѓС€СѓСЋС‰РёР№ РЁС‚РѕСЂРј;;;;;;;;;;;;;x
-d_shattered_hand;РР·СѓРІРµС‡РµРЅРЅР°СЏ Р”Р»Р°РЅСЊ;;;;;;;;;;;;;x
-d_bleeding_hollow;РљСЂРѕРІР°РІР°СЏ Р“Р»Р°Р·РЅРёС†Р°;;;;;;;;;;;;;x
-d_brotherhood_of_the_horse;Р‘СЂР°С‚СЃС‚РІРѕ РљРѕРЅСЏ;;;;;;;;;;;;;x
-e_burning_legion;РџС‹Р»Р°СЋС‰РёР№ Р›РµРіРёРѕРЅ;;;;;;;;;;;;;x
-e_burning_legion_adj;Р›РµРіРёРѕРЅ;;;;;;;;;;;;;x
-d_frostmane;РњРµСЂР·Р»РѕРіСЂРёРІС‹;;;;;;;;;;;;;x
-d_riverpaw;Р РµС‡РЅР°СЏ Р›Р°РїР°;;;;;;;;;;;;;x
-d_redridge;РЎС‚Р°СЏ РљСЂР°СЃРЅРѕРіРѕСЂСЊСЏ;;;;;;;;;;;;;x
-d_drysnout;РЎСѓС…РѕРјРѕСЂРґС‹Рµ;;;;;;;;;;;;;x
-d_mosshide;РњРѕС…РѕС€РєСѓСЂС‹;;;;;;;;;;;;;x
-d_bluegill;РЎРёРЅРµР¶Р°Р±СЂС‹Рµ;;;;;;;;;;;;;x
-d_wildfin;Р”РёРєРёР№ РџР»Р°РІРЅРёРє;;;;;;;;;;;;;x
-d_marsh;Р‘РѕР»РѕС‚РЅС‹Р№ РџР»Р°РІРЅРёРє;;;;;;;;;;;;;x
-d_marsh_adj;Р‘РѕР»РѕС‚РѕРїР»Р°РІРЅРёРє;;;;;;;;;;;;;x
-d_murkgill;Р§РµСЂРЅРѕР¶Р°Р±СЂС‹Рµ;;;;;;;;;;;;;x
-d_drywhisker;РЎСѓС…РѕСѓСЃС‹;;;;;;;;;;;;;x
-d_tunnel_rat;РўСѓРЅРЅРµР»СЊРЅС‹Рµ РљСЂС‹СЃС‹;;;;;;;;;;;;;x
-d_witherbark;РЎСѓС…РѕРєРѕР¶РёРµ;;;;;;;;;;;;;x
-d_vilebranch;РџРѕСЂРѕС‡РЅР°СЏ Р’РµС‚РІСЊ;;;;;;;;;;;;;x
-d_greengill;Р—РµР»РµРЅРѕР¶Р°Р±СЂС‹Рµ;;;;;;;;;;;;;x
-d_vile_fin;Р—Р»РѕР±РЅС‹Р№ РџР»Р°РІРЅРёРє;;;;;;;;;;;;;x
-d_mudsnout;Р“СЂСЏР·РЅРѕСЂС‹Р»С‹;;;;;;;;;;;;;x
-d_blackpaw;Р§РµСЂРЅРѕР»Р°РїС‹;;;;;;;;;;;;;x
-d_caer_darrow;РљР°СЌСЂ Р”Р°СЂСЂРѕСѓ;;;;;;;;;;;;;x
-GNOLL_BAND;Р“РЅРѕР»Р»СЊСЃРєРёР№ РѕС‚СЂСЏРґ;;;;;;;;;;;;;x
-k_orc_blackrock;Р§РµСЂРЅР°СЏ Р“РѕСЂР°;;;;;;;;;;;;;x
-d_shadow_council;РЎРѕРІРµС‚ РўРµРЅРµР№;;;;;;;;;;;;;x
-d_twilights_hammer;РЎСѓРјРµСЂРµС‡РЅС‹Р№ РњРѕР»РѕС‚;;;;;;;;;;;;;x
-d_frostwolf;РЎРµРІРµСЂРЅС‹Рµ Р’РѕР»РєРё;;;;;;;;;;;;;x
-d_dragonmaw;Р”СЂР°РєРѕРЅСЊСЏ РџР°СЃС‚СЊ;;;;;;;;;;;;;x
-d_burning_blade;РџС‹Р»Р°СЋС‰РёР№ РљР»РёРЅРѕРє;;;;;;;;;;;;;x
-d_order_of_the_silver_hand;РћСЂРґРµРЅ РЎРµСЂРµР±СЂСЏРЅРѕР№ Р”Р»Р°РЅРё;;;;;;;;;;;;;x
-d_revantusk;РЎР»РѕРјР°РЅРЅС‹Р№ РљР»С‹Рє;;;;;;;;;;;;;x
-d_guardian_of_tirisfal;РҐСЂР°РЅРёС‚РµР»СЊ РўРёСЂРёСЃС„Р°Р»СЏ;;;;;;;;;;;;;x
-e_trade_coalition;РўРѕСЂРіРѕРІР°СЏ РєРѕР°Р»РёС†РёСЏ;;;;;;;;;;;;;x
-d_blackwater_raiders;РџРёСЂР°С‚С‹ Р§РµСЂРЅРѕРІРѕРґСЊСЏ;;;;;;;;;;;;;x
-k_bilgewater_cartel;РљР°СЂС‚РµР»СЊ РўСЂСЋРјРЅС‹С… Р’РѕРґ;;;;;;;;;;;;;x
-k_steamwheedle_cartel;РљР°СЂС‚РµР»СЊ РҐРёС‚СЂР°СЏ РЁРµСЃС‚РµСЂРµРЅРєР°;;;;;;;;;;;;;x
-k_rustwrench_cartel;РљР°СЂС‚РµР»СЊ Р Р¶Р°РІРѕРіРѕ РљР»СЋС‡Р°;;;;;;;;;;;;;x
-k_greasyshatter_cartel;РўРѕСЂРіРѕРІР°СЏ РєРѕРјРїР°РЅРёСЏ;;;;;;;;;;;;;x
-k_dampwick_cartel;РљР°СЂС‚РµР»СЊ РџСЂРѕРјРѕРєР°С…;;;;;;;;;;;;;x
-d_nethergarde;РЎС‚СЂР°Р¶Рё РџСѓСЃС‚РѕС‚С‹;;;;;;;;;;;;;x
-d_warsong;РџРµСЃРЅРё Р’РѕР№РЅС‹;;;;;;;;;;;;;x
-d_mossflayer;РњРѕС…РѕРґРµСЂС‹;;;;;;;;;;;;;x
-d_coucil_of_tirisfal;РЎРѕРІРµС‚ РўРёСЂРёСЃС„Р°Р»СЏ;;;;;;;;;;;;;x
-d_laughing_skull;Р’РµСЃРµР»С‹Р№ Р§РµСЂРµРї;;;;;;;;;;;;;x
-e_scourge;РџР»РµС‚СЊ;;;;;;;;;;;;;x
-e_alliance;РђР»СЊСЏРЅСЃ;;;;;;;;;;;;;x
-HORDE;РћСЂРґР°;;;;;;;;;;;;;x
-HORDE_ADJ;РћСЂРґС‹РЅ;;;;;;;;;;;;;x
-d_scrollhead;Р РµР·СЊР±РѕРіРѕР»РѕРІС‹Рµ;;;;;;;;;;;;;x
-d_shadowhide;РўРµРјРЅРѕС€РєСѓСЂС‹;;;;;;;;;;;;;x
-d_shadowhide_adj;РўРµРјРЅРѕС€РєСѓСЂ;;;;;;;;;;;;;x
-d_howlings;РЎРІРёСЂРµРїС‹Рµ;;;;;;;;;;;;;x
-d_howlings_adj;РЎРІРёСЂРµРї;;;;;;;;;;;;;x
-d_rageclaws;РЇСЂРѕСЃС‚РЅС‹Р№ РљРѕРіРѕС‚СЊ;;;;;;;;;;;;;x
-d_rageclaws_adj;РЇСЂРѕСЃС‚РЅРѕРєРѕРіРѕС‚СЊ;;;;;;;;;;;;;x
-d_bloodpaws;РљСЂРѕРІРѕР»Р°РїС‹;;;;;;;;;;;;;x
-d_bloodpaws_adj;РљСЂРѕРІР°РІРѕР»Р°Рї;;;;;;;;;;;;;x
-d_snowfalls;РЎС‚Р°СЏ РџРѕР»СЏРЅС‹ РЎРЅРµРіРѕРїР°РґР°;;;;;;;;;;;;;x
-d_snowfalls_adj;РЎРЅРµРіРѕРїР°Рґ;;;;;;;;;;;;;x
-d_burblegobbles;Р‘СѓСЂР±Р»РіСѓР±Р»СЊ;;;;;;;;;;;;;x
-d_burblegobbles_adj;Р‘СѓСЂР±Р»РіСѓР±Р»СЊ;;;;;;;;;;;;;x
-d_gurgleboggles;Р“СѓСЂРіР»Р±СѓРіР»СЊ;;;;;;;;;;;;;x
-d_gurgleboggles_adj;Р“СѓСЂРіР»Р±СѓРіР»СЊ;;;;;;;;;;;;;x
-d_frenzyhearts;Р‘РµС€РµРЅРѕРµ РЎРµСЂРґС†Рµ;;;;;;;;;;;;;x
-d_frenzyhearts_adj;Р‘РµС€РµРЅРѕСЃРµСЂРґ;;;;;;;;;;;;;x
-d_mistwhispers;РЁРµРїРѕС‚ РўСѓРјР°РЅР°;;;;;;;;;;;;;x
-d_mistwhispers_adj;РЁРµРїРѕС‚С‚СѓРјР°РЅ;;;;;;;;;;;;;x
-d_sparktouched;Р—Р°РёРЅРґРµРІРµР»С‹Рµ;;;;;;;;;;;;;x
-d_sparktouched_adj;Р—Р°РёРЅРґРµРІРµР»;;;;;;;;;;;;;x
-d_mosswalkers;РњРѕС…РѕР±СЂРѕРґС‹;;;;;;;;;;;;;x
-d_mosswalkers_adj;РњРѕС…РѕР±СЂРѕРґ;;;;;;;;;;;;;x
-d_winterskorn;РЎРЅРµР¶РµСЃРєРѕСЂРЅС‹;;;;;;;;;;;;;x
-d_winterskorn_adj;РЎРЅРµР¶РµСЃРєРѕСЂРЅ;;;;;;;;;;;;;x
-d_kvaldir;РљРІР°Р»РґРёСЂС‹;;;;;;;;;;;;;x
-d_kvaldir_adj;РљРІР°Р»РґРёСЂ;;;;;;;;;;;;;x
-e_black_empire;РўРµРјРЅР°СЏ РРјРїРµСЂРёСЏ;;;;;;;;;;;;;x
-e_black_empire_adj;РўРµРјРЅРѕРёРјРїРµСЂ;;;;;;;;;;;;;x
-RED_STEPPES;РљСЂР°СЃРЅС‹Рµ СЃС‚РµРїРё;;;;;;;;;;;;;x
-RED_STEPPES_ADJ;РљСЂР°СЃРЅРѕСЃС‚РµРї;;;;;;;;;;;;;x
-REDGORGE;РљСЂР°СЃРЅРѕРµ СѓС‰РµР»СЊРµ;;;;;;;;;;;;;x
-REDGORGE_ADJ;РљСЂР°СЃРЅРѕСѓС‰РµР»СЊ;;;;;;;;;;;;;x
-k_firelands;РљСѓР»СЊС‚ РћРіРЅСЏ;;;;;;;;;;;;;x
-k_firelands_adj;РћРіРЅРµРєСѓР»СЊС‚;;;;;;;;;;;;;x
-d_scarlet_crusade;РђР»С‹Р№ РћСЂРґРµРЅ;;;;;;;;;;;;;x
-d_scarlet_crusade_adj;РћСЂРґРµРЅ;;;;;;;;;;;;;x
-d_argent_dawn;РЎРµСЂРµР±СЂСЏРЅС‹Р№ Р Р°СЃСЃРІРµС‚;;;;;;;;;;;;;x
-d_argent_dawn_adj;РЎСЂРµР±СЂРѕСЂР°СЃСЃРІРµС‚;;;;;;;;;;;;;x
-d_darkspear;Р§РµСЂРЅРѕРµ РљРѕРїСЊРµ;;;;;;;;;;;;;x
-d_darkspear_adj;РўРµРјРЅРѕРєРѕРїРµР№;;;;;;;;;;;;;x
-d_kalu_ak;РљР°Р»Сѓ'Р°Рє;;;;;;;;;;;;;x
-d_kalu_ak_adj;РљР°Р»Сѓ'Р°Рє;;;;;;;;;;;;;x
-d_hozu_mozu;РҐРѕР·Сѓ'РјРѕР·Сѓ;;;;;;;;;;;;;x
-d_hozu_mozu_adj;РҐРѕР·Сѓ'РјРѕР·;;;;;;;;;;;;;x
-d_frostfeather;Р›РµРґСЏРЅРѕРµ РџРµСЂРѕ;;;;;;;;;;;;;x
-d_frostfeather_adj;Р›РµРґСЏРЅРѕРїРµСЂ;;;;;;;;;;;;;x
-d_windfury;РЇСЂРѕСЃС‚СЊ Р’РµС‚СЂР°;;;;;;;;;;;;;x
-d_windfury_adj;Р’РµС‚СЂРѕСЏСЂРѕСЃС‚СЊ;;;;;;;;;;;;;x
-d_cenarion_hold;РљСЂРµРїРѕСЃС‚СЊ РљРµРЅР°СЂРёСЏ;;;;;;;;;;;;;x
-k_blackrock;РўРµРЅРµРіРѕСЂРЅ;;;;;;;;;;;;;x
-k_blackrock_adj;РўРµРЅРµРіРѕСЂРЅ;;;;;;;;;;;;;x
-d_syndicate;РЎРёРЅРґРёРєР°С‚;;;;;;;;;;;;;x
-d_syndicate_adj;РЎРёРЅРґРёРєР°С‚;;;;;;;;;;;;;x
-k_dun_niffelem;Р”СѓРЅ РќРёС„С„РµР»РµРј;;;;;;;;;;;;;x
-k_dun_niffelem_adj;РќРёС„С„РµР»РµРј;;;;;;;;;;;;;x
-e_kolkar;РљРѕР»РєР°СЂ;;;;;;;;;;;;;x
-e_kolkar_adj;РљРѕР»РєР°СЂ;;;;;;;;;;;;;x
-d_woodpaw;Р”СЂРµРІРѕР»Р°РїС‹;;;;;;;;;;;;;x
-d_woodpaw_adj;Р”СЂРµРІРѕР»Р°Рї;;;;;;;;;;;;;x
-d_savage_hill;Р”РёРєРёР№ С…РѕР»Рј;;;;;;;;;;;;;x
-d_savage_hill_adj;Р”РёРєРѕС…РѕР»Рј;;;;;;;;;;;;;x
-e_green_dragonflight;Р—РµР»РµРЅР°СЏ СЃС‚Р°СЏ;;;;;;;;;;;;;x
-e_green_dragonflight_adj;Р—РµР»РµРЅРѕСЃС‚Р°Р№;;;;;;;;;;;;;x
-e_black_dragonflight;Р§РµСЂРЅР°СЏ СЃС‚Р°СЏ;;;;;;;;;;;;;x
-e_black_dragonflight_adj;РћР±СЃРёРґРёР°РЅ;;;;;;;;;;;;;x
-e_red_dragonflight;РљСЂР°СЃРЅР°СЏ СЃС‚Р°СЏ;;;;;;;;;;;;;x
-e_red_dragonflight_adj;Р’РµСЂРјРёР»Р»РёРѕРЅ;;;;;;;;;;;;;x
-e_blue_dragonflight;РЎРёРЅСЏСЏ СЃС‚Р°СЏ;;;;;;;;;;;;;x
-e_blue_dragonflight_adj;Р›Р°Р·СѓСЂ;;;;;;;;;;;;;x
-e_bronze_dragonflight;Р‘СЂРѕРЅР·РѕРІР°СЏ СЃС‚Р°СЏ;;;;;;;;;;;;;x
-e_bronze_dragonflight_adj;Р‘СЂРѕРЅР·;;;;;;;;;;;;;x
-d_silverwing_sentinels;РЎСЂРµР±РѕРєСЂС‹Р»С‹Рµ Р§Р°СЃРѕРІС‹Рµ;;;;;;;;;;;;;x
-d_silverwing_sentinels_adj;РЎСЂРµР±СЂРѕРєСЂС‹Р»;;;;;;;;;;;;;x
-d_cenarion_circle;РљСЂСѓРі РљРµРЅР°СЂРёСЏ;;;;;;;;;;;;;x
-d_cenarion_circle_adj;РљРµРЅР°СЂРёР№;;;;;;;;;;;;;x
-d_wardens;РЎС‚СЂР°Р¶Рё;;;;;;;;;;;;;x
-d_wardens_adj;РЎС‚СЂР°Р¶;;;;;;;;;;;;;x
-k_wildhammer;Р“СЂРёРј Р‘Р°С‚РѕР»;;;;;;;;;;;;;x
-k_wildhammer_adj;Р“СЂРёРјР±Р°С‚РѕР»;;;;;;;;;;;;;x
-d_bloodsail_buccaneers;РџРёСЂР°С‚С‹ РљСЂРѕРІР°РІРѕРіРѕ РџР°СЂСѓСЃР°;;;;;;;;;;;;;x
-d_northsea_freebooters;Р¤Р»РёР±СѓСЃС‚СЊРµСЂС‹ РЎРµРІРµСЂРЅС‹С… РњРѕСЂРµР№;;;;;;;;;;;;;x
-d_spirestone;Р§РµСЂРЅР°СЏ Р’РµСЂС€РёРЅР°;;;;;;;;;;;;;x
-d_smoulderthorn;РўР»РµСЋС‰РёР№ РўРµСЂРЅРѕРІРЅРёРє;;;;;;;;;;;;;x
-k_cenarion_circle;РљСЂСѓРі РљРµРЅР°СЂРёСЏ;;;;;;;;;;;;;x
-k_cenarion_circle_adj;РљРµРЅР°СЂРёР№;;;;;;;;;;;;;x
-k_exodar;Р­РєР·РѕРґР°СЂ;;;;;;;;;;;;;x
-k_exodar_adj;Р­РєР·РѕРґР°СЂ;;;;;;;;;;;;;x
-e_pantheon;РџР°РЅС‚РµРѕРЅ;;;;;;;;;;;;;x
-e_herald_cthun;РРјРїРµСЂРёСЏ Рљ'РўСѓРЅР°;;;;;;;;;;;;;x
-e_herald_nzoth;РРјРїРµСЂРёСЏ Рќ'Р—РѕС‚Р°;;;;;;;;;;;;;x
-e_herald_yoggsaron;РРјРїРµСЂРёСЏ Р™РѕРіРі-РЎР°СЂРѕРЅР°;;;;;;;;;;;;;x
-e_herald_yshaarj;РРјРїРµСЂРёСЏ Р'РЁР°СЂР°РґР¶Р°;;;;;;;;;;;;;x
-e_valarjar;Р§РµСЂС‚РѕРіРё Р”РѕР±Р»РµСЃС‚Рё;;;;;;;;;;;;;x
-d_roughnecks;РЎРѕСЂРІРёРіРѕР»РѕРІС‹;;;;;;;;;;;;;x
-d_roughnecks_adj;РЎРѕСЂРІРёРіРѕР»РѕРІ;;;;;;;;;;;;;x
-d_ravenholdt;Р§РµСЂРЅС‹Р№ Р’РѕСЂРѕРЅ;;;;;;;;;;;;;x
-d_ravenholdt_adj;Р§РµСЂРЅРѕРІРѕСЂРѕРЅ;;;;;;;;;;;;;x
-d_hemets_hunters;РћС…РѕС‚РЅРёРєРё РҐРµРјРёРЅРіР°;;;;;;;;;;;;;x
-d_hemets_hunters_adj;РҐРµРјРёРЅРі;;;;;;;;;;;;;x
-d_bloodsail_pirates;РџРёСЂР°С‚С‹ РљСЂРѕРІР°РІРѕРіРѕ РџР°СЂСѓСЃР°;;;;;;;;;;;;;x
-d_bloodsail_pirates_adj;РљСЂРѕРІРѕРїР°СЂСѓСЃ;;;;;;;;;;;;;x
-d_dogs_of_war;РџСЃС‹ Р’РѕР№РЅС‹;;;;;;;;;;;;;x
-d_dogs_of_war_adj;Р’РѕРёРЅ;;;;;;;;;;;;;x
-d_stormriggers;Р’РѕР»СЊРЅС‹Рµ РіР°СЂРїСѓРЅС‰РёРєРё;;;;;;;;;;;;;x
-d_stormriggers_adj;Р“Р°СЂРїСѓРЅ;;;;;;;;;;;;;x
-d_highborne_company;РћС‚СЂСЏРґ РІС‹СЃРѕРєРѕСЂРѕР¶РґРµРЅРЅС‹С…;;;;;;;;;;;;;x
-d_highborne_company_adj;Р’С‹СЃРѕРєРѕСЂРѕРґ;;;;;;;;;;;;;x
-d_centaur_company;РћС‚СЂСЏРґ РєРµРЅС‚Р°РІСЂРѕРІ;;;;;;;;;;;;;x
-d_centaur_company_adj;РљРµРЅС‚Р°РІСЂ;;;;;;;;;;;;;x
-d_farraki_company;Р¤Р°СЂСЂР°РєРёР№СЃРєРёР№ РѕС‚СЂСЏРґ;;;;;;;;;;;;;x
-d_farraki_company_adj;Р¤Р°СЂСЂР°Рє;;;;;;;;;;;;;x
-d_zandalari_company;Р—Р°РЅРґР°Р»Р°СЂСЃРєРёР№ РѕС‚СЂСЏРґ;;;;;;;;;;;;;x
-d_zandalari_company_adj;Р—Р°РЅРґР°Р»Р°СЂ;;;;;;;;;;;;;x
-d_korkron;РљРѕСЂ'РєСЂРѕРЅ;;;;;;;;;;;;;x
-d_korkron_adj;РљРѕСЂ'РєСЂРѕРЅ;;;;;;;;;;;;;x
-d_taunka_band;РћС‚СЂСЏРґ Р·РёРјРЅРµСЂРѕРіРѕРІ;;;;;;;;;;;;;x
-d_taunka_band_adj;Р—РёРјРЅРµСЂРѕРі;;;;;;;;;;;;;x
-d_vrykul_company;Р”СЂР°РєСѓРґСЉСЏСЂ;;;;;;;;;;;;;x
-d_vrykul_company_adj;Р”СЂР°РєСѓРґСЉСЏСЂ;;;;;;;;;;;;;x
-d_drakkari_band;Р”СЂР°РєРєР°СЂСЂРёР№СЃРєРёР№ РѕС‚СЂСЏРґ;;;;;;;;;;;;;x
-d_drakkari_band_adj;Р”СЂР°РєРєР°СЂРё;;;;;;;;;;;;;x
-d_wolvar_band;РћС‚СЂСЏРґ РІРѕР»С‡РµСЂРѕРІ;;;;;;;;;;;;;x
-d_wolvar_band_adj;Р’РѕР»С‡РµСЂ;;;;;;;;;;;;;x
-d_tuskarr_band;РЈР»Сѓ'Р»РµРї;;;;;;;;;;;;;x
-d_tuskarr_band_adj;РЈР»Сѓ'Р»РµРї;;;;;;;;;;;;;x
-d_northern_company;РЎРµРІРµСЂСЏРЅРµ;;;;;;;;;;;;;x
-d_northern_company_adj;РЎРµРІРµСЂ;;;;;;;;;;;;;x
-d_goblin_northrend_company;РўРљ "Р‘РµР»Р°СЏ С€РµСЃС‚РµСЂРµРЅРєР°";;;;;;;;;;;;;x
-d_goblin_northrend_company_adj;Р‘РµР»РѕРїР°СЂ;;;;;;;;;;;;;x
-d_frost_vrykul_company;РРјРёСЂСЊСЏСЂ;;;;;;;;;;;;;x
-d_frost_vrykul_company_adj;РРјРёСЂСЊСЏСЂ;;;;;;;;;;;;;x
-d_gorloc_band;РћС‚СЂСЏРґ РіРѕСЂР»РѕРєРѕРІ;;;;;;;;;;;;;x
-d_gorloc_band_adj;Р“РѕСЂР»РѕРє;;;;;;;;;;;;;x
-d_snobold_band;РћС‚СЂСЏРґ СЃРЅРѕР±РѕР»СЊРґРѕРІ;;;;;;;;;;;;;x
-d_snobold_band_adj;РЎРЅРѕР±РѕР»СЊРґ;;;;;;;;;;;;;x
-d_goblin_northrend_trade_fleet;РЎРµРІРµСЂРЅС‹Р№ С‚РѕСЂРіРѕРІС‹Р№ С„Р»РѕС‚;;;;;;;;;;;;;x
-d_goblin_northrend_trade_fleet_adj;РЎРµРІРµСЂРЅРѕС‚РѕСЂРі;;;;;;;;;;;;;x
-d_vrykul_fleet;РћРїСѓСЃС‚РѕС€РёС‚РµР»Рё;;;;;;;;;;;;;x
-d_vrykul_fleet_adj;РћРїСѓСЃС‚РѕС€РёС‚РµР»СЊ;;;;;;;;;;;;;x
-d_frozen_sea_fleet;Р¤Р»РѕС‚ Р›РµРґСЏРЅРѕРіРѕ РјРѕСЂСЏ;;;;;;;;;;;;;x
-d_frozen_sea_fleet_adj;Р›РµРґСЏРЅРѕРјРѕСЂ;;;;;;;;;;;;;x
-d_darkshore;РђСѓР±РµСЂРґРёРЅ;;;;;;;;;;;;;x
-d_darkshore_adj;РђСѓР±РµСЂРґРёРЅ;;;;;;;;;;;;;x
-d_azuremyst_isle;Р›Р°Р·СѓСЂРЅР°СЏ Р”С‹РјРєР°;;;;;;;;;;;;;x
-d_azuremyst_isle_adj;Р›Р°Р·СѓСЂРЅРѕРґС‹Рј;;;;;;;;;;;;;x
-k_crystalsong_forest;РҐСЂСѓСЃС‚Р°Р»СЊРЅР°СЏ РџРµСЃРЅСЏ;;;;;;;;;;;;;x
-k_crystalsong_forest_adj;РҐСЂСѓСЃС‚Р°Р»СЊРЅРѕРїРµСЃРЅ;;;;;;;;;;;;;x
-k_sholazar_basin;РЁРѕР»Р°Р·Р°СЂ;;;;;;;;;;;;;x
-k_sholazar_basin_adj;РЁРѕР»Р°Р·Р°СЂ;;;;;;;;;;;;;x
-d_deadwind_pass;РњРµСЂС‚РІС‹Р№ Р’РµС‚РµСЂ;;;;;;;;;;;;;x
-d_deadwind_pass_adj;РњРµСЂС‚РІРѕРІРµС‚РµСЂ;;;;;;;;;;;;;x
-k_durotan;Р”СѓСЂРѕС‚Р°СЂ;;;;;;;;;;;;;x
-k_durotan_adj;Р”СѓСЂРѕС‚Р°СЂ;;;;;;;;;;;;;x
-d_redridge_mountains;РљСЂР°СЃРЅРѕРіРѕСЂСЊРµ;;;;;;;;;;;;;x
-d_redridge_mountains_adj;РљСЂР°СЃРЅРѕРіРѕСЂ;;;;;;;;;;;;;x
-d_swamp_of_sorrows;РђС‚Р°Р»'С…Р°РєРєР°СЂ;;;;;;;;;;;;;x
-d_swamp_of_sorrows_adj;РђС‚Р°Р»'С…Р°РєРєР°СЂ;;;;;;;;;;;;;x
-d_cape_of_stranglethorn;Р’РµРєСЂРёС€Рµ;;;;;;;;;;;;;x
-d_cape_of_stranglethorn_adj;Р’РµРєСЂРёС€;;;;;;;;;;;;;x
-d_burning_steppes;РљСЂР°СЃРЅС‹Р№ РџСѓС‚СЊ;;;;;;;;;;;;;x
-d_burning_steppes_adj;Р РµРґРїР°С‚;;;;;;;;;;;;;x
-d_searing_gorge;Р‘СѓСЂРґР°Рє;;;;;;;;;;;;;x
-d_searing_gorge_adj;Р‘СѓСЂРґР°Рє;;;;;;;;;;;;;x
-d_east_dun_morogh;РҐРµР»СЊРјРѕРІРѕ Р»РѕР¶Рµ;;;;;;;;;;;;;x
-d_east_dun_morogh_adj;РҐРµР»СЊРј;;;;;;;;;;;;;x
-c_helms_bed;РҐРµР»СЊРјРѕРІРѕ Р»РѕР¶Рµ;;;;;;;;;;;;;x
-c_helms_bed_adj;РҐРµР»СЊРј;;;;;;;;;;;;;x
-b_helms_bed;РҐРµР»СЊРјРѕРІРѕ Р»РѕР¶Рµ;;;;;;;;;;;;;x
-b_helms_bed_adj;РҐРµР»СЊРј;;;;;;;;;;;;;x
-d_west_dun_morogh;РЎС‚Р°СЂР°СЏ РќР°РєРѕРІР°Р»СЊРЅСЏ;;;;;;;;;;;;;x
-d_west_dun_morogh_adj;РђРЅРІРёР»РјР°СЂ;;;;;;;;;;;;;x
-d_central_dun_morogh;РЎС‚Р°Р»СЊРіРѕСЂРЅ;;;;;;;;;;;;;x
-d_central_dun_morogh_adj;РЎС‚Р°Р»СЊРіРѕСЂРЅ;;;;;;;;;;;;;x
-PROV157;РљР°РјРЅРµРґСЂРѕР±С‹;;;;;;;;;;;;;x
-c_stonesplinter_valley;РљР°РјРЅРµРґСЂРѕР±С‹;;;;;;;;;;;;;x
-c_stonesplinter_valley_adj;РљР°РјРЅРµРґСЂРѕР±;;;;;;;;;;;;;x
-b_stonesplinter_valley;РљР°РјРЅРµРґСЂРѕР±С‹;;;;;;;;;;;;;x
-b_stonesplinter_valley_adj;РљР°РјРЅРµРґСЂРѕР±;;;;;;;;;;;;;x
-PROV160;РљР°РјРµРЅРЅР°СЏ РїР»РѕС‚РёРЅР°;;;;;;;;;;;;;x
-c_stonewrought_dam;РљР°РјРµРЅРЅР°СЏ РїР»РѕС‚РёРЅР°;;;;;;;;;;;;;x
-c_stonewrought_dam_adj;РџР»РѕС‚РёРЅ;;;;;;;;;;;;;x
-b_stonewrought_dam;РљР°РјРµРЅРЅР°СЏ РїР»РѕС‚РёРЅР°;;;;;;;;;;;;;x
-b_stonewrought_dam_adj;РџР»РѕС‚РёРЅ;;;;;;;;;;;;;x
-d_loch_modan;РўРµР»СЃР°РјР°СЂ;;;;;;;;;;;;;x
-d_loch_modan_adj;РўРµР»СЃР°РјР°СЂ;;;;;;;;;;;;;x
-PROV158;РљСЂРµРЅ'С€РµРЅ;;;;;;;;;;;;;x
-c_hidden_ravine;РљСЂРµРЅ'С€РµРЅ;;;;;;;;;;;;;x
-c_hidden_ravine_adj;РљСЂРµРЅ'С€РµРЅ;;;;;;;;;;;;;x
-d_high_northeron;Р“СЂРѕРјС‚Р°СЂ;;;;;;;;;;;;;x
-d_high_northeron_adj;Р“СЂРѕРјС‚Р°СЂ;;;;;;;;;;;;;x
-PROV176;РўРѕСЂРІР°Р»СЊРґ;;;;;;;;;;;;;x
-c_thorvald_ravine;РўРѕСЂРІР°Р»СЊРґ;;;;;;;;;;;;;x
-c_thorvald_ravine_adj;РўРѕСЂРІР°Р»СЊРґ;;;;;;;;;;;;;x
-b_thorvald_ravine;РўРѕСЂРІР°Р»СЊРґ;;;;;;;;;;;;;x
-b_thorvald_ravine_adj;РўРѕСЂРІР°Р»СЊРґ;;;;;;;;;;;;;x
-d_western_arathi;РЎС‚СЂРѕРјРіР°СЂРґ;;;;;;;;;;;;;x
-d_western_arathi_adj;РЎС‚СЂРѕРј;;;;;;;;;;;;;x
-d_eastern_arathi;Р“Рѕ'С€РµРє;;;;;;;;;;;;;x
-d_eastern_arathi_adj;Р“Рѕ'С€РµРє;;;;;;;;;;;;;x
-d_cult_of_sunwell;РљСѓР»СЊС‚ РЎРѕР»РЅРµС‡РЅРѕРіРѕ РљРѕР»РѕРґС†Р°;;;;;;;;;;;;;x
-d_cult_of_sunwell_adj;РЎРѕР»РЅС†РµРєРѕР»РѕРґРµС†;;;;;;;;;;;;;x
-d_old_ways;Р¦РµСЂРєРѕРІСЊ РёСЃС‚РёРЅРЅС‹С… РџСѓС‚РµР№;;;;;;;;;;;;;x
-d_old_ways_adj;Р”СЂСѓРёРґРёС‡РµСЃ;;;;;;;;;;;;;x
-d_wolf_cult_religion;РљСѓР»СЊС‚ Р’РѕР»РєР°;;;;;;;;;;;;;x
-d_wolf_cult_religion_adj;Р’РѕР»Рє;;;;;;;;;;;;;x
-d_ursine;РњРµРґРІРµР¶РёР№ РєСѓР»СЊС‚;;;;;;;;;;;;;x
-d_ursine_adj;РЈСЂСЃРёРЅ;;;;;;;;;;;;;x
-d_kaldorei_religion;Р–СЂРµС‡РµСЃС‚РІРѕ Р­Р»СѓРЅС‹;;;;;;;;;;;;;x
-d_kaldorei_religion_adj;Р­Р»СѓРЅ;;;;;;;;;;;;;x
-d_cult_of_loa;РљСѓР»СЊС‚ Р›РѕР°;;;;;;;;;;;;;x
-d_cult_of_loa_adj;Р›РѕР°;;;;;;;;;;;;;x
-d_cult_of_hakkar;РљСѓР»СЊС‚ РҐР°РєРєР°СЂР°;;;;;;;;;;;;;x
-d_cult_of_hakkar_adj;РҐР°РєРєР°СЂ;;;;;;;;;;;;;x
-d_spider_philosophy;РЎРѕРІРµС‚ РџР°СѓРєРѕРІ;;;;;;;;;;;;;x
-d_spider_philosophy_adj;РЎРѕРІРµС‚;;;;;;;;;;;;;x
-d_water_deities;Р¦РµСЂРєРѕРІСЊ РџСЂРёР»РёРІРѕРІ;;;;;;;;;;;;;x
-d_water_deities_adj;РџСЂРёР»РёРІ;;;;;;;;;;;;;x
-d_cult_of_the_candle;Р¦РµСЂРєРѕРІСЊ РЎРІРµС‡Рё;;;;;;;;;;;;;x
-d_cult_of_the_candle_adj;Р’РѕСЃРє;;;;;;;;;;;;;x
-d_agamaggan_worship;РљСѓР»СЊС‚ РђРіР°РјР°РіРіР°РЅР°;;;;;;;;;;;;;x
-d_agamaggan_worship_adj;РђРіР°РјР°РіРіР°РЅ;;;;;;;;;;;;;x
-d_theradras_worship;РљСѓР»СЊС‚ РўРµСЂР°РґСЂР°СЃ;;;;;;;;;;;;;x
-d_theradras_worship_adj;РўРµСЂР°РґСЂР°СЃ;;;;;;;;;;;;;x
-d_primitive_shamanism;РЎРІСЏС‰РµРЅРЅС‹Рµ Р›РµСЃР°;;;;;;;;;;;;;x
-d_primitive_shamanism_adj;РЁР°РјР°РЅ;;;;;;;;;;;;;x
-d_orcish_shamanism;РџСЂРµРґСЃРєР°Р·Р°С‚РµР»Рё;;;;;;;;;;;;;x
-d_orcish_shamanism_adj;РЁР°РјР°РЅ;;;;;;;;;;;;;x
-d_shamanism;РЎРѕРІРµС‚ С€Р°РјР°РЅРѕРІ;;;;;;;;;;;;;x
-d_shamanism_adj;РЁР°РјР°РЅ;;;;;;;;;;;;;x
-d_earth_mother_worship;РҐСЂР°Рј Р—РµРјР»Рё;;;;;;;;;;;;;x
-d_earth_mother_worship_adj;Р—РµРјР»СЊ;;;;;;;;;;;;;x
-d_tidemother;РџСЂРёР»РёРІРЅС‹Рµ РњСѓРґСЂРµС†С‹;;;;;;;;;;;;;x
-d_tidemother_adj;РџСЂРёР»РёРІ;;;;;;;;;;;;;x
-d_odyn;Р§РµСЂС‚РѕРіРё Р’СЃРµРѕС‚С†Р°;;;;;;;;;;;;;x
-d_odyn_adj;РћРґРёРЅ;;;;;;;;;;;;;x
-d_helya;РҐСЂР°Рј РјРѕСЂСЃРєРѕР№ Р’РµРґСЊРјС‹;;;;;;;;;;;;;x
-d_helya_adj;РҐРµР»РёСЏ;;;;;;;;;;;;;x
-d_voidfarer;РҐРѕРґРѕРєРё;;;;;;;;;;;;;x
-d_voidfarer_adj;Р‘РµР·РґРЅ;;;;;;;;;;;;;x
-d_forsaken_cult;РљСѓР»СЊС‚ Р—Р°Р±С‹С‚С‹С… РўРµРЅРµР№;;;;;;;;;;;;;x
-d_forsaken_cult_adj;РўРµРЅСЊ;;;;;;;;;;;;;x
-PROV132;РҐРµР»СЊРј;;;;;;;;;;;;;x
-d_lightbound;РћР·Р°СЂРµРЅРЅС‹Рµ;;;;;;;;;;;;;x
-d_lightbound_adj;РћР·Р°СЂРµРЅСЊ;;;;;;;;;;;;;x
-d_drustwar;Р”СЂСѓСЃС‚РІР°СЂ;;;;;;;;;;;;;x
-d_drustwar_adj;Р”СЂСѓСЃС‚РІР°СЂ;;;;;;;;;;;;;x
-PROV2204;РЁРёРїРѕС€РєСѓСЂС‹;;;;;;;;;;;;;x
-c_briaback;РЁРёРїРѕС€РєСѓСЂС‹;;;;;;;;;;;;;x
-c_briaback_adj;РЁРёРїРѕС€РєСѓСЂ;;;;;;;;;;;;;x
-b_briaback;РЁРёРїРѕС€РєСѓСЂС‹;;;;;;;;;;;;;x
-b_briaback_adj;РЁРёРїРѕС€РєСѓСЂ;;;;;;;;;;;;;x
-k_storm_peaks;Р’Р°Р»СЊРєРёСЂРёРѕРЅ;;;;;;;;;;;;;x
-k_storm_peaks_adj;Р’Р°Р»СЊРєРёСЂ;;;;;;;;;;;;;x
-PROV876;РџРѕРґРЅРѕР¶СЊРµ;;;;;;;;;;;;;x
-c_foot_steppes;РџРѕРґРЅРѕР¶СЊРµ;;;;;;;;;;;;;x
-c_foot_steppes_adj;РџРѕРґРЅРѕР¶;;;;;;;;;;;;;x
-PROV874;Р”С‹С…Р°РЅРёРµ Р‘РѕСЂР°;;;;;;;;;;;;;x
-c_bors_breath;Р”С‹С…Р°РЅРёРµ Р‘РѕСЂР°;;;;;;;;;;;;;x
-c_bors_breath_adj;Р‘РѕСЂ;;;;;;;;;;;;;x
-PROV883;Р—РёРјРЅСЏСЏ РґРѕР»РёРЅР°;;;;;;;;;;;;;x
-c_winter_valley;РС„РµР»РіР°Р»СЊРґ;;;;;;;;;;;;;x
-c_winter_valley_adj;РС„РµР»РіР°Р»СЊРґ;;;;;;;;;;;;;x
-e_taunka_wastelands;Р’РµР»РёРєР°СЏ РўСѓРЅРґСЂР°;;;;;;;;;;;;;x
-e_taunka_wastelands_adj;РўСѓРЅРґСЂ;;;;;;;;;;;;;x
-d_tirisgarde;РўРёСЂРёСЃРіР°СЂРґ;;;;;;;;;;;;;x
-d_tirisgarde_adj;РўРёСЂРёСЃРіР°СЂРґ;;;;;;;;;;;;;x
-d_gnomeregan_covert_ops;РЎРµРєСЂРµС‚РЅР°СЏ СЃР»СѓР¶Р±Р° Р“РЅРѕРјСЂРµРіР°РЅР°;;;;;;;;;;;;;x
-d_gnomeregan_covert_ops_adj;Р“РЅРѕРјСЂРµРіР°РЅ;;;;;;;;;;;;;x
-PROV1609;Р¤РµС‚РµСЃСЃРёРЅ;;;;;;;;;;;;;x
-c_uldum;Р¤РµС‚РµСЃСЃРёРЅ;;;;;;;;;;;;;x
-c_uldum_adj;Р¤РµС‚РµСЃСЃРёРЅ;;;;;;;;;;;;;x
-d_uldum;РўРѕР»'РЅР°СЂРёРІ;;;;;;;;;;;;;x
-d_uldum_adj;РўРѕР»'РЅР°СЂРёРІ;;;;;;;;;;;;;x
-k_gilneas_adj;Р“РёР»РЅРµР°СЃ;;;;;;;;;;;;;x
-d_gilneas_adj;Р“РёР»РЅРµР°СЃ;;;;;;;;;;;;;x
-c_gilneas_adj;Р“РёР»РЅРµР°СЃ;;;;;;;;;;;;;x
-k_stromgarde_adj;РЎС‚СЂРѕРј;;;;;;;;;;;;;x
-c_stromgarde_adj;РЎС‚СЂРѕРј;;;;;;;;;;;;;x
-e_kul_tiras_adj;РљСѓР»С‚РёСЂР°СЃ;;;;;;;;;;;;;x
-k_kul_tiras_adj;РљСѓР»С‚РёСЂР°СЃ;;;;;;;;;;;;;x
-e_arathor_empire_adj;РђСЂР°С‚Рё;;;;;;;;;;;;;x
-d_karazhan;РљР°СЂР°Р¶Р°РЅ;;;;;;;;;;;;;x
-d_karazhan_adj;РљР°СЂР°Р¶Р°РЅ;;;;;;;;;;;;;x
-k_stratholme;Р’РѕСЃС‚РѕС‡РЅС‹Р№ Р›РµСЃ;;;;;;;;;;;;;x
-k_stratholme_adj;Р’РѕСЃС‚РѕС‡РЅРѕР»РµСЃ;;;;;;;;;;;;;x
-d_dazaralor;Р—СѓР»РґР°Р·Р°СЂ;;;;;;;;;;;;;x
-c_dazaralor;Р—СѓР»РґР°Р·Р°СЂ;;;;;;;;;;;;;x
-PROV2232;Р—СѓР»РґР°Р·Р°СЂ;;;;;;;;;;;;;x
-d_dazaralor_adj;Р—СѓР»РґР°Р·Р°СЂ;;;;;;;;;;;;;x
-c_dazaralor_adj;Р—СѓР»РґР°Р·Р°СЂ;;;;;;;;;;;;;x
-d_zuldazar;Р‘СѓС…С‚Р° РљРѕСЂРѕР»РµР№;;;;;;;;;;;;;x
-d_zuldazar_adj;РљРѕСЂРѕР»РµРІ;;;;;;;;;;;;;x
-d_defias_brotherhood;Р‘СЂР°С‚СЃС‚РІРѕ РЎРїСЂР°РІРµРґР»РёРІРѕСЃС‚Рё;;;;;;;;;;;;;x
-d_defias_brotherhood_adj;Р‘СЂР°С‚;;;;;;;;;;;;;x
-d_hammerfall;РџР°РІС€РёР№ РњРѕР»РѕС‚;;;;;;;;;;;;;x
-d_hammerfall_adj;РњРѕР»РѕС‚;;;;;;;;;;;;;x
-d_forsaken;РћС‚СЂРµРєС€РёРµСЃСЏ;;;;;;;;;;;;;x
-d_forsaken_adj;РћС‚СЂРµРєС€РёР№;;;;;;;;;;;;;x
-UNDERCITY;РџРѕРґРіРѕСЂРѕРґ;;;;;;;;;;;;;x
-UNDERCITY_ADJ;РџРѕРґРіРѕСЂРѕРґ;;;;;;;;;;;;;x
-b_menethil;Р›РѕСЂРґРµР№РЅ;;;;;;;;;;;;;x
-b_menethil_adj;Р›РѕСЂРґРµР№РЅ;;;;;;;;;;;;;x
-b_legation_quarter;РЎС‚РµРЅС„РѕСЂРґ;;;;;;;;;;;;;x
-b_legation_quarter_adj;РЎС‚РµРЅС„РѕСЂРґ;;;;;;;;;;;;;x
-b_great_cathedral;РђРЅРґРµСЂС‚РѕРЅ;;;;;;;;;;;;;x
-b_great_cathedral_adj;РђРЅРґРµСЂС‚РѕРЅ;;;;;;;;;;;;;x
-d_queldanas_isle;РљРµР»СЊ'Р”Р°РЅР°СЃ;;;;;;;;;;;;;x
-d_queldanas_isle_adj;РљРµР»СЊ'Р”Р°РЅР°СЃ;;;;;;;;;;;;;x
-e_quelthalas;РљРµР»СЊ'РўР°Р»Р°СЃ;;;;;;;;;;;;;x
-e_quelthalas_adj;РўР°Р»Р°СЃСЃРёР№;;;;;;;;;;;;;x
-e_storm_peaks;Р“СЂРѕР·РѕРІР°СЏ РіСЂСЏРґР°;;;;;;;;;;;;;x
-e_storm_peaks_adj;Р“СЂРѕР·РѕРіСЂСЏРґ;;;;;;;;;;;;;x
-k_plunder_isle;РћСЃС‚СЂРѕРІ Р“СЂР°Р±РµР¶Р°;;;;;;;;;;;;;x
-k_plunder_isle_adj;Р“СЂР°Р±РµР¶;;;;;;;;;;;;;x
-k_quelthalas;РљРµР»СЊ'РўР°Р»Р°СЃ;;;;;;;;;;;;;x
-k_quelthalas_adj;РўР°Р»Р°СЃСЃРёР№;;;;;;;;;;;;;x
-k_drustvar;Р”СЂСѓСЃС‚РІР°СЂ;;;;;;;;;;;;;x
-k_drustvar_adj;Р”СЂСѓСЃС‚РІР°СЂ;;;;;;;;;;;;;x
-d_order_of_embers;РћСЂРґРµРЅ РџС‹Р»Р°СЋС‰РёС… РЈРіР»РµР№;;;;;;;;;;;;;x
-d_order_of_embers_adj;РџС‹Р»Р°СЋС‰РµСѓРіРѕР»СЊ;;;;;;;;;;;;;x
-d_thornspeakers;РўРµСЂРЅРѕРјР°РЅС‚С‹;;;;;;;;;;;;;x
-d_thornspeakers_adj;РўРµСЂРЅРѕРјР°РЅС‚;;;;;;;;;;;;;x
-d_throsic;РљСѓР»СЊС‚ Р¤СЂРѕСЃ;;;;;;;;;;;;;x
-d_throsic_adj;Р¤СЂРѕСЃ;;;;;;;;;;;;;x
-b_jorg_townsend;Р™РѕСЂРі;;;;;;;;;;;;;x
-b_jorg_townsend_adj;Р™РѕСЂРі;;;;;;;;;;;;;x
-k_illidari;РР»Р»РёРґР°СЂРё;;;;;;;;;;;;;x
-k_illidari_adj;РР»Р»РёРґР°СЂРёР№;;;;;;;;;;;;;x
-k_blasted_lands;Р’С‹Р¶Р¶РµРЅРЅС‹Рµ Р·РµРјР»Рё;;;;;;;;;;;;;x
-k_blasted_lands_adj;Р’С‹Р¶Р¶РµРЅРЅРѕР·РµРј;;;;;;;;;;;;;x
-d_southsea_freebooters;Р¤Р»РёР±СѓСЃС‚СЊРµСЂС‹ Р®Р¶РЅС‹С… РјРѕСЂРµР№;;;;;;;;;;;;;x
-d_southsea_freebooters_adj;Р¤Р»РёР±СѓСЃС‚СЊРµСЂ;;;;;;;;;;;;;x
-d_coilfang;РљСЂРёРІРѕР№ РљР»С‹Рє;;;;;;;;;;;;;x
-d_coilfang_adj;РљСЂРёРІРѕРєР»С‹Рє;;;;;;;;;;;;;x
-d_sunfury;РЇСЂРѕСЃС‚СЊ РЎРѕР»РЅС†Р°;;;;;;;;;;;;;x
-d_sunfury_adj;РЇСЂРѕСЃС‚СЊСЃРѕР»РЅС†;;;;;;;;;;;;;x
-e_wastewander;РЎРєРёС‚Р°Р»СЊС†С‹ РџСѓСЃС‚С‹РЅРё;;;;;;;;;;;;;x
-e_wastewander_adj;РЎРєРёС‚Р°Р»СЊ;;;;;;;;;;;;;x
-d_darkmoon_island;РћСЃС‚СЂРѕРІ РќРѕРІРѕР»СѓРЅРёСЏ;;;;;;;;;;;;;x
-d_darkmoon_island_adj;РќРѕРІРѕР»СѓРЅ;;;;;;;;;;;;;x
-d_blood_knights_order;Р С‹С†Р°СЂРё РљСЂРѕРІРё;;;;;;;;;;;;;x
-e_gorian_empire;Р“РѕСЂРёР°РЅСЃРєР°СЏ РёРјРїРµСЂРёСЏ;;;;;;;;;;;;;x
-e_gorian_empire_adj;Р“РѕСЂРёР°РЅ;;;;;;;;;;;;;x
-NEW_GORIA_NAME;РќРѕРІР°СЏ Р“РѕСЂРёСЏ;;;;;;;;;;;;;x
-PROV356;РђРЅРґРёР»РёРµРЅ;;;;;;;;;;;;;x
-c_andilien_estate_adj;РђРЅРґРёР»РёРµРЅ;;;;;;;;;;;;;x
-b_andilien_estate;РђРЅРґРёР»РёРµРЅ;;;;;;;;;;;;;x
-b_andilien_estate_adj;РђРЅРґРёР»РёРµРЅ;;;;;;;;;;;;;x
-PROV357;Р‘РµРјР»Р°СЂРёСЃ;;;;;;;;;;;x;;
-c_sanctum_of_the_sun_adj;Р‘РµРјР»Р°СЂРёСЃ;;;;;;;;;;;;;x
-b_sanctum_of_the_sun;Р‘РµРјР»Р°СЂРёСЃ;;;;;;;;;;;;;x
-b_sanctum_of_the_sun_adj;Р‘РµРјР»Р°СЂРёСЃ;;;;;;;;;;;;;x
-PROV368;РљРІР°Р»РґСЂРёСЃ;;;;;;;;;;;x;;
-c_east_sanctum_adj;РљРІР°Р»РґСЂРёСЃ;;;;;;;;;;;;;x
-b_east_sanctum;РљРІР°Р»РґСЂРёСЃ;;;;;;;;;;;;;x
-b_east_sanctum_adj;РљРІР°Р»РґСЂРёСЃ;;;;;;;;;;;;;x
-PROV376;РљРµС‚Р°Р»РёСЃ;;;;;;;;;;;x;;
-c_north_sanctum_adj;РљРµС‚Р°Р»РёСЃ;;;;;;;;;;;;;x
-b_north_sanctum;РљРµС‚Р°Р»РёСЃ;;;;;;;;;;;;;x
-b_north_sanctum_adj;РљРµС‚Р°Р»РёСЃ;;;;;;;;;;;;;x
-b_sanctum_of_the_moon;РќР°СЂРёР»Р°С‚Р°;;;;;;;;;;;;;x
-b_sanctum_of_the_moon_adj;РќР°СЂРёР»Р°С‚Р°;;;;;;;;;;;;;x
-b_west_sanctum;Р‘РµРјР°'С‚Р°СЃ;;;;;;;;;;;;;x
-b_west_sanctum_adj;Р‘РµРјР°'С‚Р°СЃ;;;;;;;;;;;;;x
-PROV371;РЎРѕР»РЅРµС‡РЅС‹Р№ РџР°СЂСѓСЃ;;;;;;;;;;;x;;
-c_sunsail_anchorage_adj;РЎРѕР»РЅРµС‡РЅРѕРїР°СЂСѓСЃ;;;;;;;;;;;;;x
-b_sunsail_anchorage;РЎРѕР»РЅРµС‡РЅС‹Р№ РџР°СЂСѓСЃ;;;;;;;;;;;;;x
-b_sunsail_anchorage_adj;РЎРѕР»РЅРµС‡РЅРѕРїР°СЂСѓСЃ;;;;;;;;;;;;;x
-PROV261;Р—СѓР»;;;;;;;;;;;x
-c_altar_of_zul_adj;Р—СѓР»;;;;;;;;;;;;;x
-PROV773;Р”Р¶Р°Р»Р°РЅ'Рё;;;;;;;;;;;x
-c_drakkari_arena_adj;Р”Р¶Р°Р»Р°РЅ'РёР№;;;;;;;;;;;;;x
-PROV769;РљР°'РєРѕРЅР°;;;;;;;;;;;x
-d_silverpine;РЎРµСЂРµР±СЂСЏРЅС‹Р№ Р±РѕСЂ;;;;;;;;;;;;;x
-d_silverpine_adj;РЎСЂРµР±СЂРѕР±РѕСЂ;;;;;;;;;;;;;x
-c_low_fields_adj;РљР°'РєРѕРЅ;;;;;;;;;;;;;x
-PROV695;Р›РµРґСЏРЅР°СЏ РљРѕСЂРѕРЅР°;;;;;;;;;;;;;x
-k_icecrown;Р›РµРґСЏРЅР°СЏ РљРѕСЂРѕРЅР°;;;;;;;;;;;;;x
-k_icecrown_adj;Р›РµРґСЏРЅРѕРєРѕСЂРѕРЅ;;;;;;;;;;;;;x
-d_icecrown;Р›РµРґСЏРЅР°СЏ РљРѕСЂРѕРЅР°;;;;;;;;;;;;;x
-d_icecrown_adj;Р›РµРґСЏРЅРѕРєРѕСЂРѕРЅ;;;;;;;;;;;;;x
-c_icecrown;Р›РµРґСЏРЅР°СЏ РљРѕСЂРѕРЅР°;;;;;;;;;;;;;x
-c_icecrown_adj;Р›РµРґСЏРЅРѕРєРѕСЂРѕРЅ;;;;;;;;;;;;;x
-b_icecrown;Р›РµРґСЏРЅР°СЏ РљРѕСЂРѕРЅР°;;;;;;;;;;;;;x
-b_icecrown_adj;Р›РµРґСЏРЅРѕРєРѕСЂРѕРЅ;;;;;;;;;;;;;x
-PROV94;Р–Р°РіСѓР°СЂРѕ;;;;;;;;;;;;;x
-PROV2220;РљСЂРѕРІР°РІС‹Р№ РџР°СЂСѓСЃ;;;;;;;;;;;;;x
-c_south_islands;Р–Р°РіСѓР°СЂРѕ;;;;;;;;;;;;;x
-c_forlorn_3;РљСЂРѕРІР°РІС‹Р№ РџР°СЂСѓСЃ;;;;;;;;;;;;;x
-c_south_islands_adj;Р–Р°РіСѓР°СЂ;;;;;;;;;;;;;x
-c_forlorn_3_adj;РљСЂРѕРІР°РІРѕРїР°СЂСѓСЃ;;;;;;;;;;;;;x
+k_atalai;Атал'ай;;;;;;;;;;;;;x
+d_church_of_the_holy_light;Церковь Святого Света;;;;;;;;;;;;;x
+d_church_scarlet_light;Монастырь Алого Ордена;;;;;;;;;;;;;x
+d_naaru;Верные Наару;;;;;;;;;;;;;x
+d_hand_of_argus;Длань Аргуса;;;;;;;;;;;;;x
+d_bloodscalp;Кровавый Скальп;;;;;;;;;;;;;x
+d_skullsplitter;Дробители Черепов;;;;;;;;;;;;;x
+e_horde;Орда;;;;;;;;;;;;;x
+e_horde_adj;Ордын;;;;;;;;;;;;;x
+e_empire_of_zul;Империя Зул;;;;;;;;;;;;;x
+e_empire_of_zul_adj;Зулиан;;;;;;;;;;;;;x
+d_stormreaver;Бушующий Шторм;;;;;;;;;;;;;x
+d_shattered_hand;Изувеченная Длань;;;;;;;;;;;;;x
+d_bleeding_hollow;Кровавая Глазница;;;;;;;;;;;;;x
+d_brotherhood_of_the_horse;Братство Коня;;;;;;;;;;;;;x
+e_burning_legion;Пылающий Легион;;;;;;;;;;;;;x
+e_burning_legion_adj;Легион;;;;;;;;;;;;;x
+d_frostmane;Мерзлогривы;;;;;;;;;;;;;x
+d_riverpaw;Речная Лапа;;;;;;;;;;;;;x
+d_redridge;Стая Красногорья;;;;;;;;;;;;;x
+d_drysnout;Сухомордые;;;;;;;;;;;;;x
+d_mosshide;Мохошкуры;;;;;;;;;;;;;x
+d_bluegill;Синежабрые;;;;;;;;;;;;;x
+d_wildfin;Дикий Плавник;;;;;;;;;;;;;x
+d_marsh;Болотный Плавник;;;;;;;;;;;;;x
+d_marsh_adj;Болотоплавник;;;;;;;;;;;;;x
+d_murkgill;Черножабрые;;;;;;;;;;;;;x
+d_drywhisker;Сухоусы;;;;;;;;;;;;;x
+d_tunnel_rat;Туннельные Крысы;;;;;;;;;;;;;x
+d_witherbark;Сухокожие;;;;;;;;;;;;;x
+d_vilebranch;Порочная Ветвь;;;;;;;;;;;;;x
+d_greengill;Зеленожабрые;;;;;;;;;;;;;x
+d_vile_fin;Злобный Плавник;;;;;;;;;;;;;x
+d_mudsnout;Грязнорылы;;;;;;;;;;;;;x
+d_blackpaw;Чернолапы;;;;;;;;;;;;;x
+d_caer_darrow;Каэр Дарроу;;;;;;;;;;;;;x
+GNOLL_BAND;Гнолльский отряд;;;;;;;;;;;;;x
+k_orc_blackrock;Черная Гора;;;;;;;;;;;;;x
+d_shadow_council;Совет Теней;;;;;;;;;;;;;x
+d_twilights_hammer;Сумеречный Молот;;;;;;;;;;;;;x
+d_frostwolf;Северные Волки;;;;;;;;;;;;;x
+d_dragonmaw;Драконья Пасть;;;;;;;;;;;;;x
+d_burning_blade;Пылающий Клинок;;;;;;;;;;;;;x
+d_order_of_the_silver_hand;Орден Серебряной Длани;;;;;;;;;;;;;x
+d_revantusk;Сломанный Клык;;;;;;;;;;;;;x
+d_guardian_of_tirisfal;Хранитель Тирисфаля;;;;;;;;;;;;;x
+e_trade_coalition;Торговая коалиция;;;;;;;;;;;;;x
+d_blackwater_raiders;Пираты Черноводья;;;;;;;;;;;;;x
+k_bilgewater_cartel;Картель Трюмных Вод;;;;;;;;;;;;;x
+k_steamwheedle_cartel;Картель Хитрая Шестеренка;;;;;;;;;;;;;x
+k_rustwrench_cartel;Картель Ржавого Ключа;;;;;;;;;;;;;x
+k_greasyshatter_cartel;Торговая компания;;;;;;;;;;;;;x
+k_dampwick_cartel;Картель Промоках;;;;;;;;;;;;;x
+d_nethergarde;Стражи Пустоты;;;;;;;;;;;;;x
+d_warsong;Песни Войны;;;;;;;;;;;;;x
+d_mossflayer;Моходеры;;;;;;;;;;;;;x
+d_coucil_of_tirisfal;Совет Тирисфаля;;;;;;;;;;;;;x
+d_laughing_skull;Веселый Череп;;;;;;;;;;;;;x
+e_scourge;Плеть;;;;;;;;;;;;;x
+e_alliance;Альянс;;;;;;;;;;;;;x
+HORDE;Орда;;;;;;;;;;;;;x
+HORDE_ADJ;Ордын;;;;;;;;;;;;;x
+d_scrollhead;Резьбоголовые;;;;;;;;;;;;;x
+d_shadowhide;Темношкуры;;;;;;;;;;;;;x
+d_shadowhide_adj;Темношкур;;;;;;;;;;;;;x
+d_howlings;Свирепые;;;;;;;;;;;;;x
+d_howlings_adj;Свиреп;;;;;;;;;;;;;x
+d_rageclaws;Яростный Коготь;;;;;;;;;;;;;x
+d_rageclaws_adj;Яростнокоготь;;;;;;;;;;;;;x
+d_bloodpaws;Кроволапы;;;;;;;;;;;;;x
+d_bloodpaws_adj;Кроваволап;;;;;;;;;;;;;x
+d_snowfalls;Стая Поляны Снегопада;;;;;;;;;;;;;x
+d_snowfalls_adj;Снегопад;;;;;;;;;;;;;x
+d_burblegobbles;Бурблгубль;;;;;;;;;;;;;x
+d_burblegobbles_adj;Бурблгубль;;;;;;;;;;;;;x
+d_gurgleboggles;Гурглбугль;;;;;;;;;;;;;x
+d_gurgleboggles_adj;Гурглбугль;;;;;;;;;;;;;x
+d_frenzyhearts;Бешеное Сердце;;;;;;;;;;;;;x
+d_frenzyhearts_adj;Бешеносерд;;;;;;;;;;;;;x
+d_mistwhispers;Шепот Тумана;;;;;;;;;;;;;x
+d_mistwhispers_adj;Шепоттуман;;;;;;;;;;;;;x
+d_sparktouched;Заиндевелые;;;;;;;;;;;;;x
+d_sparktouched_adj;Заиндевел;;;;;;;;;;;;;x
+d_mosswalkers;Мохоброды;;;;;;;;;;;;;x
+d_mosswalkers_adj;Мохоброд;;;;;;;;;;;;;x
+d_winterskorn;Снежескорны;;;;;;;;;;;;;x
+d_winterskorn_adj;Снежескорн;;;;;;;;;;;;;x
+d_kvaldir;Квалдиры;;;;;;;;;;;;;x
+d_kvaldir_adj;Квалдир;;;;;;;;;;;;;x
+e_black_empire;Темная Империя;;;;;;;;;;;;;x
+e_black_empire_adj;Темноимпер;;;;;;;;;;;;;x
+RED_STEPPES;Красные степи;;;;;;;;;;;;;x
+RED_STEPPES_ADJ;Красностеп;;;;;;;;;;;;;x
+REDGORGE;Красное ущелье;;;;;;;;;;;;;x
+REDGORGE_ADJ;Красноущель;;;;;;;;;;;;;x
+k_firelands;Культ Огня;;;;;;;;;;;;;x
+k_firelands_adj;Огнекульт;;;;;;;;;;;;;x
+d_scarlet_crusade;Алый Орден;;;;;;;;;;;;;x
+d_scarlet_crusade_adj;Орден;;;;;;;;;;;;;x
+d_argent_dawn;Серебряный Рассвет;;;;;;;;;;;;;x
+d_argent_dawn_adj;Среброрассвет;;;;;;;;;;;;;x
+d_darkspear;Черное Копье;;;;;;;;;;;;;x
+d_darkspear_adj;Темнокопей;;;;;;;;;;;;;x
+d_kalu_ak;Калу'ак;;;;;;;;;;;;;x
+d_kalu_ak_adj;Калу'ак;;;;;;;;;;;;;x
+d_hozu_mozu;Хозу'мозу;;;;;;;;;;;;;x
+d_hozu_mozu_adj;Хозу'моз;;;;;;;;;;;;;x
+d_frostfeather;Ледяное Перо;;;;;;;;;;;;;x
+d_frostfeather_adj;Ледянопер;;;;;;;;;;;;;x
+d_windfury;Ярость Ветра;;;;;;;;;;;;;x
+d_windfury_adj;Ветроярость;;;;;;;;;;;;;x
+d_cenarion_hold;Крепость Кенария;;;;;;;;;;;;;x
+k_blackrock;Тенегорн;;;;;;;;;;;;;x
+k_blackrock_adj;Тенегорн;;;;;;;;;;;;;x
+d_syndicate;Синдикат;;;;;;;;;;;;;x
+d_syndicate_adj;Синдикат;;;;;;;;;;;;;x
+k_dun_niffelem;Дун Ниффелем;;;;;;;;;;;;;x
+k_dun_niffelem_adj;Ниффелем;;;;;;;;;;;;;x
+e_kolkar;Колкар;;;;;;;;;;;;;x
+e_kolkar_adj;Колкар;;;;;;;;;;;;;x
+d_woodpaw;Древолапы;;;;;;;;;;;;;x
+d_woodpaw_adj;Древолап;;;;;;;;;;;;;x
+d_savage_hill;Дикий холм;;;;;;;;;;;;;x
+d_savage_hill_adj;Дикохолм;;;;;;;;;;;;;x
+e_green_dragonflight;Зеленая стая;;;;;;;;;;;;;x
+e_green_dragonflight_adj;Зеленостай;;;;;;;;;;;;;x
+e_black_dragonflight;Черная стая;;;;;;;;;;;;;x
+e_black_dragonflight_adj;Обсидиан;;;;;;;;;;;;;x
+e_red_dragonflight;Красная стая;;;;;;;;;;;;;x
+e_red_dragonflight_adj;Вермиллион;;;;;;;;;;;;;x
+e_blue_dragonflight;Синяя стая;;;;;;;;;;;;;x
+e_blue_dragonflight_adj;Лазур;;;;;;;;;;;;;x
+e_bronze_dragonflight;Бронзовая стая;;;;;;;;;;;;;x
+e_bronze_dragonflight_adj;Бронз;;;;;;;;;;;;;x
+d_silverwing_sentinels;Сребокрылые Часовые;;;;;;;;;;;;;x
+d_silverwing_sentinels_adj;Среброкрыл;;;;;;;;;;;;;x
+d_cenarion_circle;Круг Кенария;;;;;;;;;;;;;x
+d_cenarion_circle_adj;Кенарий;;;;;;;;;;;;;x
+d_wardens;Стражи;;;;;;;;;;;;;x
+d_wardens_adj;Страж;;;;;;;;;;;;;x
+k_wildhammer;Грим Батол;;;;;;;;;;;;;x
+k_wildhammer_adj;Гримбатол;;;;;;;;;;;;;x
+d_bloodsail_buccaneers;Пираты Кровавого Паруса;;;;;;;;;;;;;x
+d_northsea_freebooters;Флибустьеры Северных Морей;;;;;;;;;;;;;x
+d_spirestone;Черная Вершина;;;;;;;;;;;;;x
+d_smoulderthorn;Тлеющий Терновник;;;;;;;;;;;;;x
+k_cenarion_circle;Круг Кенария;;;;;;;;;;;;;x
+k_cenarion_circle_adj;Кенарий;;;;;;;;;;;;;x
+k_exodar;Экзодар;;;;;;;;;;;;;x
+k_exodar_adj;Экзодар;;;;;;;;;;;;;x
+e_pantheon;Пантеон;;;;;;;;;;;;;x
+e_herald_cthun;Империя К'Туна;;;;;;;;;;;;;x
+e_herald_nzoth;Империя Н'Зота;;;;;;;;;;;;;x
+e_herald_yoggsaron;Империя Йогг-Сарона;;;;;;;;;;;;;x
+e_herald_yshaarj;Империя И'Шараджа;;;;;;;;;;;;;x
+e_valarjar;Чертоги Доблести;;;;;;;;;;;;;x
+d_roughnecks;Сорвиголовы;;;;;;;;;;;;;x
+d_roughnecks_adj;Сорвиголов;;;;;;;;;;;;;x
+d_ravenholdt;Черный Ворон;;;;;;;;;;;;;x
+d_ravenholdt_adj;Черноворон;;;;;;;;;;;;;x
+d_hemets_hunters;Охотники Хеминга;;;;;;;;;;;;;x
+d_hemets_hunters_adj;Хеминг;;;;;;;;;;;;;x
+d_bloodsail_pirates;Пираты Кровавого Паруса;;;;;;;;;;;;;x
+d_bloodsail_pirates_adj;Кровопарус;;;;;;;;;;;;;x
+d_dogs_of_war;Псы Войны;;;;;;;;;;;;;x
+d_dogs_of_war_adj;Воин;;;;;;;;;;;;;x
+d_stormriggers;Вольные гарпунщики;;;;;;;;;;;;;x
+d_stormriggers_adj;Гарпун;;;;;;;;;;;;;x
+d_highborne_company;Отряд высокорожденных;;;;;;;;;;;;;x
+d_highborne_company_adj;Высокород;;;;;;;;;;;;;x
+d_centaur_company;Отряд кентавров;;;;;;;;;;;;;x
+d_centaur_company_adj;Кентавр;;;;;;;;;;;;;x
+d_farraki_company;Фарракийский отряд;;;;;;;;;;;;;x
+d_farraki_company_adj;Фаррак;;;;;;;;;;;;;x
+d_zandalari_company;Зандаларский отряд;;;;;;;;;;;;;x
+d_zandalari_company_adj;Зандалар;;;;;;;;;;;;;x
+d_korkron;Кор'крон;;;;;;;;;;;;;x
+d_korkron_adj;Кор'крон;;;;;;;;;;;;;x
+d_taunka_band;Отряд зимнерогов;;;;;;;;;;;;;x
+d_taunka_band_adj;Зимнерог;;;;;;;;;;;;;x
+d_vrykul_company;Дракудъяр;;;;;;;;;;;;;x
+d_vrykul_company_adj;Дракудъяр;;;;;;;;;;;;;x
+d_drakkari_band;Драккаррийский отряд;;;;;;;;;;;;;x
+d_drakkari_band_adj;Драккари;;;;;;;;;;;;;x
+d_wolvar_band;Отряд волчеров;;;;;;;;;;;;;x
+d_wolvar_band_adj;Волчер;;;;;;;;;;;;;x
+d_tuskarr_band;Улу'леп;;;;;;;;;;;;;x
+d_tuskarr_band_adj;Улу'леп;;;;;;;;;;;;;x
+d_northern_company;Северяне;;;;;;;;;;;;;x
+d_northern_company_adj;Север;;;;;;;;;;;;;x
+d_goblin_northrend_company;ТК "Белая шестеренка";;;;;;;;;;;;;x
+d_goblin_northrend_company_adj;Белопар;;;;;;;;;;;;;x
+d_frost_vrykul_company;Имирьяр;;;;;;;;;;;;;x
+d_frost_vrykul_company_adj;Имирьяр;;;;;;;;;;;;;x
+d_gorloc_band;Отряд горлоков;;;;;;;;;;;;;x
+d_gorloc_band_adj;Горлок;;;;;;;;;;;;;x
+d_snobold_band;Отряд снобольдов;;;;;;;;;;;;;x
+d_snobold_band_adj;Снобольд;;;;;;;;;;;;;x
+d_goblin_northrend_trade_fleet;Северный торговый флот;;;;;;;;;;;;;x
+d_goblin_northrend_trade_fleet_adj;Северноторг;;;;;;;;;;;;;x
+d_vrykul_fleet;Опустошители;;;;;;;;;;;;;x
+d_vrykul_fleet_adj;Опустошитель;;;;;;;;;;;;;x
+d_frozen_sea_fleet;Флот Ледяного моря;;;;;;;;;;;;;x
+d_frozen_sea_fleet_adj;Ледяномор;;;;;;;;;;;;;x
+d_darkshore;Аубердин;;;;;;;;;;;;;x
+d_darkshore_adj;Аубердин;;;;;;;;;;;;;x
+d_azuremyst_isle;Лазурная Дымка;;;;;;;;;;;;;x
+d_azuremyst_isle_adj;Лазурнодым;;;;;;;;;;;;;x
+k_crystalsong_forest;Хрустальная Песня;;;;;;;;;;;;;x
+k_crystalsong_forest_adj;Хрустальнопесн;;;;;;;;;;;;;x
+k_sholazar_basin;Шолазар;;;;;;;;;;;;;x
+k_sholazar_basin_adj;Шолазар;;;;;;;;;;;;;x
+d_deadwind_pass;Мертвый Ветер;;;;;;;;;;;;;x
+d_deadwind_pass_adj;Мертвоветер;;;;;;;;;;;;;x
+k_durotan;Дуротар;;;;;;;;;;;;;x
+k_durotan_adj;Дуротар;;;;;;;;;;;;;x
+d_redridge_mountains;Красногорье;;;;;;;;;;;;;x
+d_redridge_mountains_adj;Красногор;;;;;;;;;;;;;x
+d_swamp_of_sorrows;Атал'хаккар;;;;;;;;;;;;;x
+d_swamp_of_sorrows_adj;Атал'хаккар;;;;;;;;;;;;;x
+d_cape_of_stranglethorn;Векрише;;;;;;;;;;;;;x
+d_cape_of_stranglethorn_adj;Векриш;;;;;;;;;;;;;x
+d_burning_steppes;Красный Путь;;;;;;;;;;;;;x
+d_burning_steppes_adj;Редпат;;;;;;;;;;;;;x
+d_searing_gorge;Бурдак;;;;;;;;;;;;;x
+d_searing_gorge_adj;Бурдак;;;;;;;;;;;;;x
+d_east_dun_morogh;Хельмово ложе;;;;;;;;;;;;;x
+d_east_dun_morogh_adj;Хельм;;;;;;;;;;;;;x
+c_helms_bed;Хельмово ложе;;;;;;;;;;;;;x
+c_helms_bed_adj;Хельм;;;;;;;;;;;;;x
+b_helms_bed;Хельмово ложе;;;;;;;;;;;;;x
+b_helms_bed_adj;Хельм;;;;;;;;;;;;;x
+d_west_dun_morogh;Старая Наковальня;;;;;;;;;;;;;x
+d_west_dun_morogh_adj;Анвилмар;;;;;;;;;;;;;x
+d_central_dun_morogh;Стальгорн;;;;;;;;;;;;;x
+d_central_dun_morogh_adj;Стальгорн;;;;;;;;;;;;;x
+PROV157;Камнедробы;;;;;;;;;;;;;x
+c_stonesplinter_valley;Камнедробы;;;;;;;;;;;;;x
+c_stonesplinter_valley_adj;Камнедроб;;;;;;;;;;;;;x
+b_stonesplinter_valley;Камнедробы;;;;;;;;;;;;;x
+b_stonesplinter_valley_adj;Камнедроб;;;;;;;;;;;;;x
+PROV160;Каменная плотина;;;;;;;;;;;;;x
+c_stonewrought_dam;Каменная плотина;;;;;;;;;;;;;x
+c_stonewrought_dam_adj;Плотин;;;;;;;;;;;;;x
+b_stonewrought_dam;Каменная плотина;;;;;;;;;;;;;x
+b_stonewrought_dam_adj;Плотин;;;;;;;;;;;;;x
+d_loch_modan;Телсамар;;;;;;;;;;;;;x
+d_loch_modan_adj;Телсамар;;;;;;;;;;;;;x
+PROV158;Крен'шен;;;;;;;;;;;;;x
+c_hidden_ravine;Крен'шен;;;;;;;;;;;;;x
+c_hidden_ravine_adj;Крен'шен;;;;;;;;;;;;;x
+d_high_northeron;Громтар;;;;;;;;;;;;;x
+d_high_northeron_adj;Громтар;;;;;;;;;;;;;x
+PROV176;Торвальд;;;;;;;;;;;;;x
+c_thorvald_ravine;Торвальд;;;;;;;;;;;;;x
+c_thorvald_ravine_adj;Торвальд;;;;;;;;;;;;;x
+b_thorvald_ravine;Торвальд;;;;;;;;;;;;;x
+b_thorvald_ravine_adj;Торвальд;;;;;;;;;;;;;x
+d_western_arathi;Стромгард;;;;;;;;;;;;;x
+d_western_arathi_adj;Стром;;;;;;;;;;;;;x
+d_eastern_arathi;Го'шек;;;;;;;;;;;;;x
+d_eastern_arathi_adj;Го'шек;;;;;;;;;;;;;x
+d_cult_of_sunwell;Культ Солнечного Колодца;;;;;;;;;;;;;x
+d_cult_of_sunwell_adj;Солнцеколодец;;;;;;;;;;;;;x
+d_old_ways;Церковь истинных Путей;;;;;;;;;;;;;x
+d_old_ways_adj;Друидичес;;;;;;;;;;;;;x
+d_wolf_cult_religion;Культ Волка;;;;;;;;;;;;;x
+d_wolf_cult_religion_adj;Волк;;;;;;;;;;;;;x
+d_ursine;Медвежий культ;;;;;;;;;;;;;x
+d_ursine_adj;Урсин;;;;;;;;;;;;;x
+d_kaldorei_religion;Жречество Элуны;;;;;;;;;;;;;x
+d_kaldorei_religion_adj;Элун;;;;;;;;;;;;;x
+d_cult_of_loa;Культ Лоа;;;;;;;;;;;;;x
+d_cult_of_loa_adj;Лоа;;;;;;;;;;;;;x
+d_cult_of_hakkar;Культ Хаккара;;;;;;;;;;;;;x
+d_cult_of_hakkar_adj;Хаккар;;;;;;;;;;;;;x
+d_spider_philosophy;Совет Пауков;;;;;;;;;;;;;x
+d_spider_philosophy_adj;Совет;;;;;;;;;;;;;x
+d_water_deities;Церковь Приливов;;;;;;;;;;;;;x
+d_water_deities_adj;Прилив;;;;;;;;;;;;;x
+d_cult_of_the_candle;Церковь Свечи;;;;;;;;;;;;;x
+d_cult_of_the_candle_adj;Воск;;;;;;;;;;;;;x
+d_agamaggan_worship;Культ Агамаггана;;;;;;;;;;;;;x
+d_agamaggan_worship_adj;Агамагган;;;;;;;;;;;;;x
+d_theradras_worship;Культ Терадрас;;;;;;;;;;;;;x
+d_theradras_worship_adj;Терадрас;;;;;;;;;;;;;x
+d_primitive_shamanism;Священные Леса;;;;;;;;;;;;;x
+d_primitive_shamanism_adj;Шаман;;;;;;;;;;;;;x
+d_orcish_shamanism;Предсказатели;;;;;;;;;;;;;x
+d_orcish_shamanism_adj;Шаман;;;;;;;;;;;;;x
+d_shamanism;Совет шаманов;;;;;;;;;;;;;x
+d_shamanism_adj;Шаман;;;;;;;;;;;;;x
+d_earth_mother_worship;Храм Земли;;;;;;;;;;;;;x
+d_earth_mother_worship_adj;Земль;;;;;;;;;;;;;x
+d_tidemother;Приливные Мудрецы;;;;;;;;;;;;;x
+d_tidemother_adj;Прилив;;;;;;;;;;;;;x
+d_odyn;Чертоги Всеотца;;;;;;;;;;;;;x
+d_odyn_adj;Один;;;;;;;;;;;;;x
+d_helya;Храм морской Ведьмы;;;;;;;;;;;;;x
+d_helya_adj;Хелия;;;;;;;;;;;;;x
+d_voidfarer;Ходоки;;;;;;;;;;;;;x
+d_voidfarer_adj;Бездн;;;;;;;;;;;;;x
+d_forsaken_cult;Культ Забытых Теней;;;;;;;;;;;;;x
+d_forsaken_cult_adj;Тень;;;;;;;;;;;;;x
+PROV132;Хельм;;;;;;;;;;;;;x
+d_lightbound;Озаренные;;;;;;;;;;;;;x
+d_lightbound_adj;Озарень;;;;;;;;;;;;;x
+d_drustwar;Друствар;;;;;;;;;;;;;x
+d_drustwar_adj;Друствар;;;;;;;;;;;;;x
+PROV2204;Шипошкуры;;;;;;;;;;;;;x
+c_briaback;Шипошкуры;;;;;;;;;;;;;x
+c_briaback_adj;Шипошкур;;;;;;;;;;;;;x
+b_briaback;Шипошкуры;;;;;;;;;;;;;x
+b_briaback_adj;Шипошкур;;;;;;;;;;;;;x
+k_storm_peaks;Валькирион;;;;;;;;;;;;;x
+k_storm_peaks_adj;Валькир;;;;;;;;;;;;;x
+PROV876;Подножье;;;;;;;;;;;;;x
+c_foot_steppes;Подножье;;;;;;;;;;;;;x
+c_foot_steppes_adj;Поднож;;;;;;;;;;;;;x
+PROV874;Дыхание Бора;;;;;;;;;;;;;x
+c_bors_breath;Дыхание Бора;;;;;;;;;;;;;x
+c_bors_breath_adj;Бор;;;;;;;;;;;;;x
+PROV883;Зимняя долина;;;;;;;;;;;;;x
+c_winter_valley;Ифелгальд;;;;;;;;;;;;;x
+c_winter_valley_adj;Ифелгальд;;;;;;;;;;;;;x
+e_taunka_wastelands;Великая Тундра;;;;;;;;;;;;;x
+e_taunka_wastelands_adj;Тундр;;;;;;;;;;;;;x
+d_tirisgarde;Тирисгард;;;;;;;;;;;;;x
+d_tirisgarde_adj;Тирисгард;;;;;;;;;;;;;x
+d_gnomeregan_covert_ops;Секретная служба Гномрегана;;;;;;;;;;;;;x
+d_gnomeregan_covert_ops_adj;Гномреган;;;;;;;;;;;;;x
+PROV1609;Фетессин;;;;;;;;;;;;;x
+c_uldum;Фетессин;;;;;;;;;;;;;x
+c_uldum_adj;Фетессин;;;;;;;;;;;;;x
+d_uldum;Тол'нарив;;;;;;;;;;;;;x
+d_uldum_adj;Тол'нарив;;;;;;;;;;;;;x
+k_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+d_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+c_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+k_stromgarde_adj;Стром;;;;;;;;;;;;;x
+c_stromgarde_adj;Стром;;;;;;;;;;;;;x
+e_kul_tiras_adj;Култирас;;;;;;;;;;;;;x
+k_kul_tiras_adj;Култирас;;;;;;;;;;;;;x
+e_arathor_empire_adj;Арати;;;;;;;;;;;;;x
+d_karazhan;Каражан;;;;;;;;;;;;;x
+d_karazhan_adj;Каражан;;;;;;;;;;;;;x
+k_stratholme;Восточный Лес;;;;;;;;;;;;;x
+k_stratholme_adj;Восточнолес;;;;;;;;;;;;;x
+d_dazaralor;Зулдазар;;;;;;;;;;;;;x
+c_dazaralor;Зулдазар;;;;;;;;;;;;;x
+PROV2232;Зулдазар;;;;;;;;;;;;;x
+d_dazaralor_adj;Зулдазар;;;;;;;;;;;;;x
+c_dazaralor_adj;Зулдазар;;;;;;;;;;;;;x
+d_zuldazar;Бухта Королей;;;;;;;;;;;;;x
+d_zuldazar_adj;Королев;;;;;;;;;;;;;x
+d_defias_brotherhood;Братство Справедливости;;;;;;;;;;;;;x
+d_defias_brotherhood_adj;Брат;;;;;;;;;;;;;x
+d_hammerfall;Павший Молот;;;;;;;;;;;;;x
+d_hammerfall_adj;Молот;;;;;;;;;;;;;x
+d_forsaken;Отрекшиеся;;;;;;;;;;;;;x
+d_forsaken_adj;Отрекший;;;;;;;;;;;;;x
+UNDERCITY;Подгород;;;;;;;;;;;;;x
+UNDERCITY_ADJ;Подгород;;;;;;;;;;;;;x
+b_menethil;Лордейн;;;;;;;;;;;;;x
+b_menethil_adj;Лордейн;;;;;;;;;;;;;x
+b_legation_quarter;Стенфорд;;;;;;;;;;;;;x
+b_legation_quarter_adj;Стенфорд;;;;;;;;;;;;;x
+b_great_cathedral;Андертон;;;;;;;;;;;;;x
+b_great_cathedral_adj;Андертон;;;;;;;;;;;;;x
+d_queldanas_isle;Кель'Данас;;;;;;;;;;;;;x
+d_queldanas_isle_adj;Кель'Данас;;;;;;;;;;;;;x
+e_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+e_quelthalas_adj;Талассий;;;;;;;;;;;;;x
+e_storm_peaks;Грозовая гряда;;;;;;;;;;;;;x
+e_storm_peaks_adj;Грозогряд;;;;;;;;;;;;;x
+k_plunder_isle;Остров Грабежа;;;;;;;;;;;;;x
+k_plunder_isle_adj;Грабеж;;;;;;;;;;;;;x
+k_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+k_quelthalas_adj;Талассий;;;;;;;;;;;;;x
+k_drustvar;Друствар;;;;;;;;;;;;;x
+k_drustvar_adj;Друствар;;;;;;;;;;;;;x
+d_order_of_embers;Орден Пылающих Углей;;;;;;;;;;;;;x
+d_order_of_embers_adj;Пылающеуголь;;;;;;;;;;;;;x
+d_thornspeakers;Терноманты;;;;;;;;;;;;;x
+d_thornspeakers_adj;Терномант;;;;;;;;;;;;;x
+d_throsic;Культ Фрос;;;;;;;;;;;;;x
+d_throsic_adj;Фрос;;;;;;;;;;;;;x
+b_jorg_townsend;Йорг;;;;;;;;;;;;;x
+b_jorg_townsend_adj;Йорг;;;;;;;;;;;;;x
+k_illidari;Иллидари;;;;;;;;;;;;;x
+k_illidari_adj;Иллидарий;;;;;;;;;;;;;x
+k_blasted_lands;Выжженные земли;;;;;;;;;;;;;x
+k_blasted_lands_adj;Выжженнозем;;;;;;;;;;;;;x
+d_southsea_freebooters;Флибустьеры Южных морей;;;;;;;;;;;;;x
+d_southsea_freebooters_adj;Флибустьер;;;;;;;;;;;;;x
+d_coilfang;Кривой Клык;;;;;;;;;;;;;x
+d_coilfang_adj;Кривоклык;;;;;;;;;;;;;x
+d_sunfury;Ярость Солнца;;;;;;;;;;;;;x
+d_sunfury_adj;Яростьсолнц;;;;;;;;;;;;;x
+e_wastewander;Скитальцы Пустыни;;;;;;;;;;;;;x
+e_wastewander_adj;Скиталь;;;;;;;;;;;;;x
+d_darkmoon_island;Остров Новолуния;;;;;;;;;;;;;x
+d_darkmoon_island_adj;Новолун;;;;;;;;;;;;;x
+d_blood_knights_order;Рыцари Крови;;;;;;;;;;;;;x
+e_gorian_empire;Горианская империя;;;;;;;;;;;;;x
+e_gorian_empire_adj;Гориан;;;;;;;;;;;;;x
+NEW_GORIA_NAME;Новая Гория;;;;;;;;;;;;;x
+PROV356;Андилиен;;;;;;;;;;;;;x
+c_andilien_estate_adj;Андилиен;;;;;;;;;;;;;x
+b_andilien_estate;Андилиен;;;;;;;;;;;;;x
+b_andilien_estate_adj;Андилиен;;;;;;;;;;;;;x
+PROV357;Бемларис;;;;;;;;;;;x;;
+c_sanctum_of_the_sun_adj;Бемларис;;;;;;;;;;;;;x
+b_sanctum_of_the_sun;Бемларис;;;;;;;;;;;;;x
+b_sanctum_of_the_sun_adj;Бемларис;;;;;;;;;;;;;x
+PROV368;Квалдрис;;;;;;;;;;;x;;
+c_east_sanctum_adj;Квалдрис;;;;;;;;;;;;;x
+b_east_sanctum;Квалдрис;;;;;;;;;;;;;x
+b_east_sanctum_adj;Квалдрис;;;;;;;;;;;;;x
+PROV376;Кеталис;;;;;;;;;;;x;;
+c_north_sanctum_adj;Кеталис;;;;;;;;;;;;;x
+b_north_sanctum;Кеталис;;;;;;;;;;;;;x
+b_north_sanctum_adj;Кеталис;;;;;;;;;;;;;x
+b_sanctum_of_the_moon;Нарилата;;;;;;;;;;;;;x
+b_sanctum_of_the_moon_adj;Нарилата;;;;;;;;;;;;;x
+b_west_sanctum;Бема'тас;;;;;;;;;;;;;x
+b_west_sanctum_adj;Бема'тас;;;;;;;;;;;;;x
+PROV371;Солнечный Парус;;;;;;;;;;;x;;
+c_sunsail_anchorage_adj;Солнечнопарус;;;;;;;;;;;;;x
+b_sunsail_anchorage;Солнечный Парус;;;;;;;;;;;;;x
+b_sunsail_anchorage_adj;Солнечнопарус;;;;;;;;;;;;;x
+PROV261;Зул;;;;;;;;;;;x
+c_altar_of_zul_adj;Зул;;;;;;;;;;;;;x
+PROV773;Джалан'и;;;;;;;;;;;x
+c_drakkari_arena_adj;Джалан'ий;;;;;;;;;;;;;x
+PROV769;Ка'кона;;;;;;;;;;;x
+d_silverpine;Серебряный бор;;;;;;;;;;;;;x
+d_silverpine_adj;Сребробор;;;;;;;;;;;;;x
+c_low_fields_adj;Ка'кон;;;;;;;;;;;;;x
+PROV695;Ледяная Корона;;;;;;;;;;;;;x
+k_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+k_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+d_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+d_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+c_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+c_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+b_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+b_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+PROV94;Жагуаро;;;;;;;;;;;;;x
+PROV2220;Кровавый Парус;;;;;;;;;;;;;x
+c_south_islands;Жагуаро;;;;;;;;;;;;;x
+c_forlorn_3;Кровавый Парус;;;;;;;;;;;;;x
+c_south_islands_adj;Жагуар;;;;;;;;;;;;;x
+c_forlorn_3_adj;Кровавопарус;;;;;;;;;;;;;x

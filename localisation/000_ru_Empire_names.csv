@@ -1,41 +1,41 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
-e_ahnqiraj;РђРЅ'РљРёСЂР°Р¶;;;;;;;;;;;;;x
-e_ahnqiraj_adj;РђРЅ'РљРёСЂР°Р¶;;;;;;;;;;;;;x
-e_amani;РђРјР°РЅРё;;;;;;;;;;;;;x
-e_amani_adj;РђРјР°РЅРёР№;;;;;;;;;;;;;x
-e_arathor_empire;РђСЂР°С‚РѕСЂ;;;;;;;;;;;;;x
-e_arathor_empire_adj;РђСЂР°С‚РѕСЂ;;;;;;;;;;;;;x
-e_azeroth;РђР·РµСЂРѕС‚;;;;;;;;;;;;;x
-e_azeroth_adj;РђР·РµСЂРѕС‚;;;;;;;;;;;;;x
-e_drakkari;Р”СЂР°РєРєР°СЂРё;;;;;;;;;;;;;x
-e_drakkari_adj;Р”СЂР°РєРєР°СЂРёР№;;;;;;;;;;;;;x
-e_eldrethalas;Р­Р»СЊРґСЂРµ'РўР°Р»Р°СЃ;;;;;;;;;;;;;x
-e_eldrethalas_adj;Р­Р»СЊРґСЂРµ'РўР°Р»Р°СЃ;;;;;;;;;;;;;x
-e_great_barrens;Р’РµР»РёРєРёРµ РЎС‚РµРїРё;;;;;;;;;;;;;x
-e_great_barrens_adj;Р’РµР»РёРєРѕСЃС‚РµРї;;;;;;;;;;;;;x
-e_gurubashi;Р“СѓСЂСѓР±Р°С€Рё;;;;;;;;;;;;;x
-e_gurubashi_adj;Р“СѓСЂСѓР±Р°С€;;;;;;;;;;;;;x
-e_kaldorei;РљР°Р»РґРѕСЂР°Р№;;;;;;;;;;;;;x
-e_kaldorei_adj;РљР°Р»РґРѕСЂР°Р№;;;;;;;;;;;;;x
-e_kezan;РљРµР·Р°РЅ;;;;;;;;;;;;;x
-e_kezan_adj;РљРµР·Р°РЅ;;;;;;;;;;;;;x
-e_khaz_modan;РљР°Р· РњРѕРґР°РЅ;;;;;;;;;;;;;x
-e_khaz_modan_adj;РњРѕРґР°РЅ;;;;;;;;;;;;;x
-e_kul_tiras;РљСѓР»-РўРёСЂР°СЃ;;;;;;;;;;;;;x
-e_kul_tiras_adj;РўРёСЂР°СЃСЃРёР№;;;;;;;;;;;;;x
-e_lordaeron;Р›РѕСЂРґРµСЂРѕРЅ;;;;;;;;;;;;;x
-e_lordaeron_adj;Р›РѕСЂРґРµСЂРѕРЅ;;;;;;;;;;;;;x
-e_quelthalas;РљРµР»СЊ'РўР°Р»Р°СЃ;;;;;;;;;;;;;x
-e_quelthalas_adj;РўР°Р»Р°СЃСЃРёР№;;;;;;;;;;;;;x
-e_storm_peaks;Р“СЂРѕР·РѕРІР°СЏ РіСЂСЏРґР°;;;;;;;;;;;;;x
-e_storm_peaks_adj;Р“СЂРѕР·РѕРіСЂСЏРґ;;;;;;;;;;;;;x
-e_taunka_wastelands;РџСѓСЃС‚РѕС€Рё РўР°СѓРЅРєР°;;;;;;;;;;;;;x
-e_taunka_wastelands_adj;РўР°СѓРЅРє;;;;;;;;;;;;;x
-e_uldum;РЈР»СЊРґСѓРј;;;;;;;;;;;;;x
-e_uldum_adj;РЈР»СЊРґСѓРј;;;;;;;;;;;;;x
-e_utgarde;РЈС‚РіР°СЂРґ;;;;;;;;;;;;;x
-e_utgarde_adj;РЈС‚РіР°СЂРґ;;;;;;;;;;;;;x
-e_zandalari;Р—Р°РЅРґР°Р»Р°СЂ;;;;;;;;;;;;;x
-e_zandalari_adj;Р—Р°РЅРґР°Р»Р°СЂ;;;;;;;;;;;;;x
-e_zulfarrak;Р—СѓР»'Р¤Р°СЂСЂР°Рє;;;;;;;;;;;;;x
-e_zulfarrak_adj;Р¤Р°СЂСЂР°РєРёР№;;;;;;;;;;;;;x
+e_ahnqiraj;Ан'Кираж;;;;;;;;;;;;;x
+e_ahnqiraj_adj;Ан'Кираж;;;;;;;;;;;;;x
+e_amani;Амани;;;;;;;;;;;;;x
+e_amani_adj;Аманий;;;;;;;;;;;;;x
+e_arathor_empire;Аратор;;;;;;;;;;;;;x
+e_arathor_empire_adj;Аратор;;;;;;;;;;;;;x
+e_azeroth;Азерот;;;;;;;;;;;;;x
+e_azeroth_adj;Азерот;;;;;;;;;;;;;x
+e_drakkari;Драккари;;;;;;;;;;;;;x
+e_drakkari_adj;Драккарий;;;;;;;;;;;;;x
+e_eldrethalas;Эльдре'Талас;;;;;;;;;;;;;x
+e_eldrethalas_adj;Эльдре'Талас;;;;;;;;;;;;;x
+e_great_barrens;Великие Степи;;;;;;;;;;;;;x
+e_great_barrens_adj;Великостеп;;;;;;;;;;;;;x
+e_gurubashi;Гурубаши;;;;;;;;;;;;;x
+e_gurubashi_adj;Гурубаш;;;;;;;;;;;;;x
+e_kaldorei;Калдорай;;;;;;;;;;;;;x
+e_kaldorei_adj;Калдорай;;;;;;;;;;;;;x
+e_kezan;Кезан;;;;;;;;;;;;;x
+e_kezan_adj;Кезан;;;;;;;;;;;;;x
+e_khaz_modan;Каз Модан;;;;;;;;;;;;;x
+e_khaz_modan_adj;Модан;;;;;;;;;;;;;x
+e_kul_tiras;Кул-Тирас;;;;;;;;;;;;;x
+e_kul_tiras_adj;Тирассий;;;;;;;;;;;;;x
+e_lordaeron;Лордерон;;;;;;;;;;;;;x
+e_lordaeron_adj;Лордерон;;;;;;;;;;;;;x
+e_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+e_quelthalas_adj;Талассий;;;;;;;;;;;;;x
+e_storm_peaks;Грозовая гряда;;;;;;;;;;;;;x
+e_storm_peaks_adj;Грозогряд;;;;;;;;;;;;;x
+e_taunka_wastelands;Пустоши Таунка;;;;;;;;;;;;;x
+e_taunka_wastelands_adj;Таунк;;;;;;;;;;;;;x
+e_uldum;Ульдум;;;;;;;;;;;;;x
+e_uldum_adj;Ульдум;;;;;;;;;;;;;x
+e_utgarde;Утгард;;;;;;;;;;;;;x
+e_utgarde_adj;Утгард;;;;;;;;;;;;;x
+e_zandalari;Зандалар;;;;;;;;;;;;;x
+e_zandalari_adj;Зандалар;;;;;;;;;;;;;x
+e_zulfarrak;Зул'Фаррак;;;;;;;;;;;;;x
+e_zulfarrak_adj;Фарракий;;;;;;;;;;;;;x
