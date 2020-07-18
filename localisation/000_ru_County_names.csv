@@ -661,8 +661,8 @@ c_fargaze;Fargaze;;;;;;;;;;;;;x
 c_fargaze_adj;Fargazean;;;;;;;;;;;;;x
 c_farshire;Farshire;;;;;;;;;;;;;x
 c_farshire_adj;Farshirean;;;;;;;;;;;;;x
-c_farstrider_enclave;Farstrider Enclave;;;;;;;;;;;;;x
-c_farstrider_enclave_adj;Farstrider Enclavean;;;;;;;;;;;;;x
+c_farstrider_enclave;Обитель Странников;;;;;;;;;;;;;x
+c_farstrider_enclave_adj;Обитель Странн;;;;;;;;;;;;;x
 c_farview;Farview;;;;;;;;;;;;;x
 c_farview_adj;Farviewian;;;;;;;;;;;;;x
 c_farwatch;Farwatch;;;;;;;;;;;;;x
@@ -793,8 +793,8 @@ c_gold_coast;Gold Coast;;;;;;;;;;;;;x
 c_gold_coast_adj;Gold Coastian;;;;;;;;;;;;;x
 c_gold_road;Gold Road;;;;;;;;;;;;;x
 c_gold_road_adj;Gold Roadian;;;;;;;;;;;;;x
-c_golden_strand;Golden Strand;;;;;;;;;;;;;x
-c_golden_strand_adj;Golden Strandian;;;;;;;;;;;;;x
+c_golden_strand; Золотистое взморье;;;;;;;;;;;;;x
+c_golden_strand_adj;Золотисто-взморь;;;;;;;;;;;;;x
 c_goldenbough_pass;Goldenbough Pass;;;;;;;;;;;;;x
 c_goldenbough_pass_adj;Goldenbough Passian;;;;;;;;;;;;;x
 c_goldenmist;Goldenmist;;;;;;;;;;;;;x
@@ -1347,8 +1347,8 @@ c_north_crossroads;North Crossroads;;;;;;;;;;;;;x
 c_north_crossroads_adj;North Crossroadsian;;;;;;;;;;;;;x
 c_north_delta;North Delta;;;;;;;;;;;;;x
 c_north_delta_adj;North Deltan;;;;;;;;;;;;;x
-c_north_sanctum;North Sanctum;;;;;;;;;;;;;x
-c_north_sanctum_adj;North Sanctumian;;;;;;;;;;;;;x
+c_north_sanctum;Северное Святилище;;;;;;;;;;;;;x
+c_north_sanctum_adj;Северно-святиль;;;;;;;;;;;;;x
 c_north_slough;North Slough;;;;;;;;;;;;;x
 c_north_slough_adj;North Sloughian;;;;;;;;;;;;;x
 c_north_tide;North Tide;;;;;;;;;;;;;x
@@ -1703,8 +1703,8 @@ c_silverbrook;Silverbrook;;;;;;;;;;;;;x
 c_silverbrook_adj;Silverbrookian;;;;;;;;;;;;;x
 c_silverfury;Silverfury;;;;;;;;;;;;;x
 c_silverfury_adj;Silverfurian;;;;;;;;;;;;;x
-c_silvermoon;Silvermoon;;;;;;;;;;;;;x
-c_silvermoon_adj;Silvermoonian;;;;;;;;;;;;;x
+c_silvermoon;Луносвет;;;;;;;;;;;;;x
+c_silvermoon_adj;Луносвет;;;;;;;;;;;;;x
 c_silvermyst;Silvermyst;;;;;;;;;;;;;x
 c_silvermyst_adj;Silvermystian;;;;;;;;;;;;;x
 c_silverslopes;Silverslopes;;;;;;;;;;;;;x
@@ -1955,8 +1955,8 @@ c_tethys;Tethys;;;;;;;;;;;;;x
 c_tethys_adj;Tethysian;;;;;;;;;;;;;x
 c_thal_grove;Thal Grove;;;;;;;;;;;;;x
 c_thal_grove_adj;Thal Grovean;;;;;;;;;;;;;x
-c_thalassian_pass;Thalassian Pass;;;;;;;;;;;;;x
-c_thalassian_pass_adj;Thalassian Passian;;;;;;;;;;;;;x
+c_thalassian_pass;Талассийский перевал;;;;;;;;;;;;;x
+c_thalassian_pass_adj;Талассийский перевал;;;;;;;;;;;;;x
 c_thaldarah;Thal'darah;;;;;;;;;;;;;x
 c_thaldarah_adj;Thal'darahian;;;;;;;;;;;;;x
 c_thaurissan;Thaurissan;;;;;;;;;;;;;x
@@ -2195,8 +2195,8 @@ c_windbreak;Windbreak;;;;;;;;;;;;;x
 c_windbreak_adj;Windbreakian;;;;;;;;;;;;;x
 c_windfury;Windfury;;;;;;;;;;;;;x
 c_windfury_adj;Windfurian;;;;;;;;;;;;;x
-c_windrunner;Windrunner;;;;;;;;;;;;;x
-c_windrunner_adj;Windrunnerian;;;;;;;;;;;;;x
+c_windrunner;Шпили Ветрокрылых;;;;;;;;;;;;;x
+c_windrunner_adj;Шпили Ветрокрыл;;;;;;;;;;;;;x
 c_windshear;Windshear;;;;;;;;;;;;;x
 c_windshear_adj;Windshearian;;;;;;;;;;;;;x
 c_windshear_2;Windshear;;;;;;;;;;;;;x
