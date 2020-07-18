@@ -1,12 +1,12 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
 c_aamsk;Аамск;;;;;;;;;;;;;x
-c_aamsk_adj;Аамск;;;;;;;;;;;;;x
+c_aamsk_adj;Аам;;;;;;;;;;;;;x
 c_abanreach;Абанрич;;;;;;;;;;;;;x
 c_abanreach_adj;Абанрич;;;;;;;;;;;;;x
 c_abassi_coast;Побережье Абасси;;;;;;;;;;;;;x
-c_abassi_coast_adj;Побережск;;;;;;;;;;;;;x
+c_abassi_coast_adj;Побереж;;;;;;;;;;;;;x
 c_addle;Эддл;;;;;;;;;;;;;x
-c_addle_adj;Эддл;;;;;;;;;;;;;x
+c_addle_adj;Эддль;;;;;;;;;;;;;x
 c_aderic;Адерик;;;;;;;;;;;;;x
 c_aderic_adj;Адерик;;;;;;;;;;;;;x
 c_aerie_peak;Заоблачный пик;;;;;;;;;;;;;x
@@ -22,7 +22,7 @@ c_agamagor_adj;Агама'гор;;;;;;;;;;;;;x
 c_agamand;Агамонд;;;;;;;;;;;;;x
 c_agamand_adj;Агамонд;;;;;;;;;;;;;x
 c_agneepath;Огненный путь;;;;;;;;;;;;;x
-c_agneepath_adj;Огнепут;;;;;;;;;;;;;x
+c_agneepath_adj;Огнепуть;;;;;;;;;;;;;x
 c_agolwatha;Агол'вата;;;;;;;;;;;;;x
 c_agolwatha_adj;Агол'ват;;;;;;;;;;;;;x
 c_ahnqiraj;Ан'Кираж;;;;;;;;;;;;;x
@@ -42,9 +42,9 @@ c_aldurthar_adj;Алдур'тар;;;;;;;;;;;;;x
 c_allaeis;Аллаис;;;;;;;;;;;;;x
 c_allaeis_adj;Аллаис;;;;;;;;;;;;;x
 c_allenfield;Поля Аллена;;;;;;;;;;;;;x
-c_allenfield_adj;Алленпол;;;;;;;;;;;;;x
+c_allenfield_adj;Алленополь;;;;;;;;;;;;;x
 c_altar_of_zul;Алтарь Зула;;;;;;;;;;;;;x
-c_altar_of_zul_adj;Алтарьзул;;;;;;;;;;;;;x
+c_altar_of_zul_adj;Зулалтарь;;;;;;;;;;;;;x
 c_alterac;Альтерак;;;;;;;;;;;;;x
 c_alterac_adj;Альтерак;;;;;;;;;;;;;x
 c_alterac_valley;Альтеракская долина;;;;;;;;;;;;;x
@@ -52,7 +52,7 @@ c_alterac_valley_adj;Альтеракдолин;;;;;;;;;;;;;x
 c_alther;Альтер;;;;;;;;;;;;;x
 c_alther_adj;Альтер;;;;;;;;;;;;;x
 c_amani_pass;Перевал Амани;;;;;;;;;;;;;x
-c_amani_pass_adj;Переваламанск;;;;;;;;;;;;;x
+c_amani_pass_adj;Переваламань;;;;;;;;;;;;;x
 c_amber_ledge;Янтарная гряда;;;;;;;;;;;;;x
 c_amber_ledge_adj;Янтарногряд;;;;;;;;;;;;;x
 c_ambermill;Янтарная мельница;;;;;;;;;;;;;x
@@ -420,11 +420,11 @@ c_darkmist_adj;Мглистопещер;;;;;;;;;;;;;x
 c_darkmist_2;Мглистая пещера;;;;;;;;;;;;;x
 c_darkmist_2_adj;Мглистопещер;;;;;;;;;;;;;x
 c_darkmoon_island;Остров Новолуния;;;;;;;;;;;;;x
-c_darkmoon_island_adj;Островноволун;;;;;;;;;;;;;x
+c_darkmoon_island_adj;Островноволунь;;;;;;;;;;;;;x
 c_darkshore;Темные берега;;;;;;;;;;;;;x
 c_darkshore_adj;Темноберег;;;;;;;;;;;;;x
 c_darkspear;Черное Копье;;;;;;;;;;;;;x
-c_darkspear_adj;Чернокопье;;;;;;;;;;;;;x
+c_darkspear_adj;Чернокопь;;;;;;;;;;;;;x
 c_darkwood;Мрачный лес;;;;;;;;;;;;;x
 c_darkwood_adj;Мрачнолес;;;;;;;;;;;;;x
 c_darnassus;Дарнас;;;;;;;;;;;;;x
@@ -433,8 +433,8 @@ c_darrarhor;Даррарор;;;;;;;;;;;;;x
 c_darrarhor_adj;Даррарор;;;;;;;;;;;;;x
 c_darrow_hill;Холм Дарроу;;;;;;;;;;;;;x
 c_darrow_hill_adj;Холмдарр;;;;;;;;;;;;;x
-c_darrowshire;Darrowshire;;;;;;;;;;;;;x
-c_darrowshire_adj;Darrowshirean;;;;;;;;;;;;;x
+c_darrowshire;Дарроушир;;;;;;;;;;;;;x
+c_darrowshire_adj;Дарроушир;;;;;;;;;;;;;x
 c_dawning_isles;Dawning Isles;;;;;;;;;;;;;x
 c_dawning_isles_adj;Dawning Islesian;;;;;;;;;;;;;x
 c_dawning_lane;Dawning Lane;;;;;;;;;;;;;x
@@ -1839,8 +1839,8 @@ c_steelgate;Steelgate;;;;;;;;;;;;;x
 c_steelgate_adj;Steelgatean;;;;;;;;;;;;;x
 c_steeljaw;Steeljaw;;;;;;;;;;;;;x
 c_steeljaw_adj;Steeljawian;;;;;;;;;;;;;x
-c_stillwhisper_pond;Stillwhisper Pond;;;;;;;;;;;;;x
-c_stillwhisper_pond_adj;Stillwhisper Pondian;;;;;;;;;;;;;x
+c_stillwhisper_pond;Пруд Тихого Шелеста;;;;;;;;;;;;;x
+c_stillwhisper_pond_adj;Тихо-шелест;;;;;;;;;;;;;x
 c_stonard;Stonard;;;;;;;;;;;;;x
 c_stonard_adj;Stonardian;;;;;;;;;;;;;x
 c_stone_hill;Stone Hill;;;;;;;;;;;;;x

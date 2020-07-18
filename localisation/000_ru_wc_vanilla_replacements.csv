@@ -98,7 +98,7 @@ RESPECT_DESC;Почёт зависит от возраста и престижа. Он влияет на вероятность избр
 CAMPAIGN_FUND_DESC;Вложения в фонд предвыборной кампании повышают Ваш "Почёт" в сенате и делают Вашего кандидата более желаемым кандидатом на титул $RULER_TITLE$. Вы можете свободно регулировать размер инвестиций до тех пор, пока текущий правитель находится на своем посту. Только после его ухода этот фонд будет использован по назначению.;;;;;;;;;;;;;x
 title_state_inquisitor;Государственный банкир;;;;;;;;;;;;;x
 title_state_inquisitor_desc;Государственный банкир отвечает за управление государственным банком и финансами.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9906;Да славится[Root.Religion.GetHighGodNameCap]!;;;;;;;;;;;;;x
+EVTOPTA_MNM_9906;Да славится [Root.Religion.GetHighGodNameCap]!;;;;;;;;;;;;;x
 INTERACTION_REPUBLICS_NEED_REVOKE_REASON;Имеет соответствующий повод для отзыва титула;;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_piety_negative;[From.GetSheHeCap] имеет низкий уровень §Y[From.Religion.GetPietyName]§!;;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_piety_positive;[From.GetSheHeCap] имеет высокий уровень §Y[From.Religion.GetPietyName]§!;;;;;;;;;;;;;x
