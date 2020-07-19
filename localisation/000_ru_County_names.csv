@@ -715,8 +715,8 @@ c_freewind;Freewind;;;;;;;;;;;;;x
 c_freewind_adj;Freewindian;;;;;;;;;;;;;x
 c_frenzyheart;Бешеное Сердце;;;;;;;;;;;;;x
 c_frenzyheart_adj;Бешеносерд;;;;;;;;;;;;;x
-c_frogmarsh;Frogmarsh;;;;;;;;;;;;;x
-c_frogmarsh_adj;Frogmarshian;;;;;;;;;;;;;x
+c_frogmarsh;Жабья Топь;;;;;;;;;;;;;x
+c_frogmarsh_adj;Жабетопь;;;;;;;;;;;;;x
 c_frostfate;Морозная Судьба;;;;;;;;;;;;;x
 c_frostfate_adj;Судьбомороз;;;;;;;;;;;;;x
 c_frostfield;Промерзшее Озеро;;;;;;;;;;;;;x
@@ -757,16 +757,16 @@ c_garm;Гарм;;;;;;;;;;;;;x
 c_garm_adj;Гарм;;;;;;;;;;;;;x
 c_gelkis;Gelkis;;;;;;;;;;;;;x
 c_gelkis_adj;Gelkisian;;;;;;;;;;;;;x
-c_geltozan;Geltozan;;;;;;;;;;;;;x
-c_geltozan_adj;Geltozanian;;;;;;;;;;;;;x
+c_geltozan;Гелтозан;;;;;;;;;;;;;x
+c_geltozan_adj;Гелтозан;;;;;;;;;;;;;x
 c_geruzh;Geruzh;;;;;;;;;;;;;x
 c_geruzh_adj;Geruzhian;;;;;;;;;;;;;x
 c_ghost_forest;Призрачный Лес;;;;;;;;;;;;;x
 c_ghost_forest_adj;Призрачнолес;;;;;;;;;;;;;x
 c_giants_run;Тропа Великанов;;;;;;;;;;;;;x
 c_giants_run_adj;Великанотроп;;;;;;;;;;;;;x
-c_gillijim;Gillijim;;;;;;;;;;;;;x
-c_gillijim_adj;Gillijimian;;;;;;;;;;;;;x
+c_gillijim;Гиллиджим;;;;;;;;;;;;;x
+c_gillijim_adj;Гиллиджим;;;;;;;;;;;;;x
 c_gilneas;Гилнеас;;;;;;;;;;;;;x
 c_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
 c_gjalerbron;Гьялерброн;;;;;;;;;;;;;x
@@ -1063,8 +1063,8 @@ c_kartak;Картак;;;;;;;;;;;;;x
 c_kartak_adj;Картак;;;;;;;;;;;;;x
 c_keltheril;Kel'theril;;;;;;;;;;;;;x
 c_keltheril_adj;Kel'therilian;;;;;;;;;;;;;x
-c_kelvax;Kel'vax;;;;;;;;;;;;;x
-c_kelvax_adj;Kel'vaxian;;;;;;;;;;;;;x
+c_kelvax;Кел'вакс;;;;;;;;;;;;;x
+c_kelvax_adj;Кел'вакc;;;;;;;;;;;;;x
 c_kennings_hills;Kennings Hills;;;;;;;;;;;;;x
 c_kennings_hills_adj;Kennings Hillsian;;;;;;;;;;;;;x
 c_ketedin;Ketedin;;;;;;;;;;;;;x
@@ -1093,8 +1093,8 @@ c_kormek;Kormek;;;;;;;;;;;;;x
 c_kormek_adj;Kormekian;;;;;;;;;;;;;x
 c_koroth;Корот;;;;;;;;;;;;;x
 c_koroth_adj;Корот;;;;;;;;;;;;;x
-c_kraal;Kraal;;;;;;;;;;;;;x
-c_kraal_adj;Kraalian;;;;;;;;;;;;;x
+c_kraal;Краал;;;;;;;;;;;;;x
+c_kraal_adj;Краал;;;;;;;;;;;;;x
 c_kragrak;Kragrak;;;;;;;;;;;;;x
 c_kragrak_adj;Kragrakian;;;;;;;;;;;;;x
 c_krondol;Крондол;;;;;;;;;;;;;x
@@ -1105,16 +1105,16 @@ c_kuloke;Куло'ке;;;;;;;;;;;;;x
 c_kuloke_adj;Куло'кен;;;;;;;;;;;;;x
 c_kumuya;Кум'уа;;;;;;;;;;;;;x
 c_kumuya_adj;Кум'уан;;;;;;;;;;;;;x
-c_kunza_kunza;Kunza-Kunza;;;;;;;;;;;;;x
-c_kunza_kunza_adj;Kunza-Kunzan;;;;;;;;;;;;;x
+c_kunza_kunza;Кунза-Кунза;;;;;;;;;;;;;x
+c_kunza_kunza_adj;Кунза-Кунзай;;;;;;;;;;;;;x
 c_kwegsqoa;Квегсцоа;;;;;;;;;;;;;x
 c_kwegsqoa_adj;Квегсцоан;;;;;;;;;;;;;x
 c_lakeridge;Озерный Тракт;;;;;;;;;;;;;x
 c_lakeridge_adj;Озернотракт;;;;;;;;;;;;;x
 c_lakeshire;Приозерье;;;;;;;;;;;;;x
 c_lakeshire_adj;Приозерье;;;;;;;;;;;;;x
-c_lapidis_island;Lapidis Island;;;;;;;;;;;;;x
-c_lapidis_island_adj;Lapidis Islandian;;;;;;;;;;;;;x
+c_lapidis_island;Остров Лапидиса;;;;;;;;;;;;;x
+c_lapidis_island_adj;Лапидис;;;;;;;;;;;;;x
 c_lardonir;Lar'donir;;;;;;;;;;;;;x
 c_lardonir_adj;Lar'donirian;;;;;;;;;;;;;x
 c_lariss;Lariss;;;;;;;;;;;;;x
@@ -1223,7 +1223,7 @@ c_mojache;Mojache;;;;;;;;;;;;;x
 c_mojache_adj;Mojachean;;;;;;;;;;;;;x
 c_molsen;Molsen;;;;;;;;;;;;;x
 c_molsen_adj;Molsenian;;;;;;;;;;;;;x
-c_molten_cay;Molten Cay;;;;;;;;;;;;;x
+c_molten_cay;Раскаленный Остров;;;;;;;;;;;;;x
 c_molten_cay_adj;Molten Caian;;;;;;;;;;;;;x
 c_moonbrook;Луноречье;;;;;;;;;;;;;x
 c_moonbrook_adj;Луноречей;;;;;;;;;;;;;x
@@ -1275,12 +1275,12 @@ c_nasam;Назам;;;;;;;;;;;;;x
 c_nasam_adj;Назам;;;;;;;;;;;;;x
 c_nasamsand;Пески Назама;;;;;;;;;;;;;x
 c_nasamsand_adj;Назам;;;;;;;;;;;;;x
-c_nathavor;Natha'vor;;;;;;;;;;;;;x
-c_nathavor_adj;Natha'vorian;;;;;;;;;;;;;x
-c_nazwatha;Nazwatha;;;;;;;;;;;;;x
-c_nazwatha_adj;Nazwathan;;;;;;;;;;;;;x
-c_necropolis;Necropolis;;;;;;;;;;;;;x
-c_necropolis_adj;Necropolisian;;;;;;;;;;;;;x
+c_nathavor;Ната'вор;;;;;;;;;;;;;x
+c_nathavor_adj;Ната'вор;;;;;;;;;;;;;x
+c_nazwatha;Назвата;;;;;;;;;;;;;x
+c_nazwatha_adj;Назватай;;;;;;;;;;;;;x
+c_necropolis;Некрополь;;;;;;;;;;;;;x
+c_necropolis_adj;Некрополь;;;;;;;;;;;;;x
 c_neferset;Neferset;;;;;;;;;;;;;x
 c_neferset_adj;Nefersetian;;;;;;;;;;;;;x
 c_nekmani;Нек'Мани;;;;;;;;;;;;;x
@@ -1407,8 +1407,8 @@ c_olriar;Олриар;;;;;;;;;;;;;x
 c_olriar_adj;Олриар;;;;;;;;;;;;;x
 c_olsenfield;Поле Олсена;;;;;;;;;;;;;x
 c_olsenfield_adj;Олсен;;;;;;;;;;;;;x
-c_ominous_island;Ominous Island;;;;;;;;;;;;;x
-c_ominous_island_adj;Ominous Islandian;;;;;;;;;;;;;x
+c_ominous_island;Зловещий Остров;;;;;;;;;;;;;x
+c_ominous_island_adj;Зловещеостров;;;;;;;;;;;;;x
 c_oneiros;Oneiros;;;;;;;;;;;;;x
 c_oneiros_adj;Oneirosian;;;;;;;;;;;;;x
 c_oneqwah;Уанква;;;;;;;;;;;;;x
@@ -1433,8 +1433,8 @@ c_owlwing;Owlwing;;;;;;;;;;;;;x
 c_owlwing_adj;Owlwingian;;;;;;;;;;;;;x
 c_palemane;Palemane;;;;;;;;;;;;;x
 c_palemane_adj;Palemanean;;;;;;;;;;;;;x
-c_paradise_islands;Paradise Islands;;;;;;;;;;;;;x
-c_paradise_islands_adj;Paradise Islandsian;;;;;;;;;;;;;x
+c_paradise_islands;Райские Острова;;;;;;;;;;;;;x
+c_paradise_islands_adj;Рай;;;;;;;;;;;;;x
 c_peleahjin;Пеле'аджин;;;;;;;;;;;;;x
 c_peleahjin_adj;Пеле'аджин;;;;;;;;;;;;;x
 c_phedathi;Phedathi;;;;;;;;;;;;;x
@@ -1445,10 +1445,10 @@ c_phullila;Phullila;;;;;;;;;;;;;x
 c_phullila_adj;Phullilan;;;;;;;;;;;;;x
 c_picktweak;Пиктвик;;;;;;;;;;;;;x
 c_picktweak_adj;Пиктвик;;;;;;;;;;;;;x
-c_pinukue;Pin'ukue;;;;;;;;;;;;;x
-c_pinukue_adj;Pin'ukuean;;;;;;;;;;;;;x
-c_polder_crag;Polder Crag;;;;;;;;;;;;;x
-c_polder_crag_adj;Polder Cragian;;;;;;;;;;;;;x
+c_pinukue;Пин'уку;;;;;;;;;;;;;x
+c_pinukue_adj;Пин'укуй;;;;;;;;;;;;;x
+c_polder_crag;Сухая Скала;;;;;;;;;;;;;x
+c_polder_crag_adj;Сухослаль;;;;;;;;;;;;;x
 c_ponisuk;Ponisuk;;;;;;;;;;;;;x
 c_ponisuk_adj;Ponisukian;;;;;;;;;;;;;x
 c_purgation_isle;Остров Очищения;;;;;;;;;;;;;x
@@ -1483,8 +1483,8 @@ c_ranazjar;Ranazjar;;;;;;;;;;;;;x
 c_ranazjar_adj;Ranazjarian;;;;;;;;;;;;;x
 c_randlish;Рандлиш;;;;;;;;;;;;;x
 c_randlish_adj;Рандлиш;;;;;;;;;;;;;x
-c_rastari;Rastari;;;;;;;;;;;;;x
-c_rastari_adj;Rastarian;;;;;;;;;;;;;x
+c_rastari;Растари;;;;;;;;;;;;;x
+c_rastari_adj;Растарий;;;;;;;;;;;;;x
 c_ratchet;Ratchet;;;;;;;;;;;;;x
 c_ratchet_adj;Ratchetian;;;;;;;;;;;;;x
 c_raven_hill;Вороний Холм;;;;;;;;;;;;;x
@@ -1511,10 +1511,10 @@ c_redpath;Редпат;;;;;;;;;;;;;x
 c_redpath_adj;Редпат;;;;;;;;;;;;;x
 c_redridge_canyons;Каньоны Красногорья;;;;;;;;;;;;;x
 c_redridge_canyons_adj;Красногорь;;;;;;;;;;;;;x
-c_redrock;Redrock;;;;;;;;;;;;;x
-c_redrock_adj;Redrockian;;;;;;;;;;;;;x
-c_redrock_2;Redrock;;;;;;;;;;;;;x
-c_redrock_2_adj;Redrockian;;;;;;;;;;;;;x
+c_redrock;Красная Cкала;;;;;;;;;;;;;x
+c_redrock_adj;Красноскаль;;;;;;;;;;;;;x
+c_redrock_2;Красная Cкала;;;;;;;;;;;;;x
+c_redrock_2_adj;Красноскаль;;;;;;;;;;;;;x
 c_regrowth;Regrowth;;;;;;;;;;;;;x
 c_regrowth_adj;Regrowthian;;;;;;;;;;;;;x
 c_remulos;Remulos;;;;;;;;;;;;;x
@@ -1525,8 +1525,8 @@ c_rest_hollow;Тихая Лощина;;;;;;;;;;;;;x
 c_rest_hollow_adj;Тихолощин;;;;;;;;;;;;;x
 c_revantusk;Сломанный Клык;;;;;;;;;;;;;x
 c_revantusk_adj;Сломанноклык;;;;;;;;;;;;;x
-c_rezan;Rezan;;;;;;;;;;;;;x
-c_rezan_adj;Rezanian;;;;;;;;;;;;;x
+c_rezan;Резан;;;;;;;;;;;;;x
+c_rezan_adj;Резан;;;;;;;;;;;;;x
 c_rhuhnas;Rhuhnas;;;;;;;;;;;;;x
 c_rhuhnas_adj;Rhuhnasian;;;;;;;;;;;;;x
 c_rhunok;Рунок;;;;;;;;;;;;;x
@@ -1553,14 +1553,14 @@ c_rohemdal;Роэмдаль;;;;;;;;;;;;;x
 c_rohemdal_adj;Роэмдаль;;;;;;;;;;;;;x
 c_rondagg;Рондагг;;;;;;;;;;;;;x
 c_rondagg_adj;Рондагг;;;;;;;;;;;;;x
-c_rorkaen;Rorkaen;;;;;;;;;;;;;x
-c_rorkaen_adj;Rorkaenian;;;;;;;;;;;;;x
+c_rorkaen;Роркаен;;;;;;;;;;;;;x
+c_rorkaen_adj;Роркаен;;;;;;;;;;;;;x
 c_rosestone;Камень Роз;;;;;;;;;;;;;x
 c_rosestone_adj;Каменероз;;;;;;;;;;;;;x
 c_rotten_beach;Гнилая Отмель;;;;;;;;;;;;;x
 c_rotten_beach_adj;Гнило-отмель;;;;;;;;;;;;;x
-c_rotting_mire;Rotting Mire;;;;;;;;;;;;;x
-c_rotting_mire_adj;Rotting Mirean;;;;;;;;;;;;;x
+c_rotting_mire;Гниющее Болото;;;;;;;;;;;;;x
+c_rotting_mire_adj;Гниющеболот;;;;;;;;;;;;;x
 c_ruby;Рубиновое Cвятилище;;;;;;;;;;;;;x
 c_ruby_adj;Рубиносвят;;;;;;;;;;;;;x
 c_rugged_slopes;Прочные Cклоны;;;;;;;;;;;;;x
@@ -1607,8 +1607,8 @@ c_satyrnaar;Satyrnaar;;;;;;;;;;;;;x
 c_satyrnaar_adj;Satyrnaarian;;;;;;;;;;;;;x
 c_scalawag_point;Лагерь Скалаваг;;;;;;;;;;;;;x
 c_scalawag_point_adj;Скалаваг;;;;;;;;;;;;;x
-c_scalefang;Scalefang;;;;;;;;;;;;;x
-c_scalefang_adj;Scalefangian;;;;;;;;;;;;;x
+c_scalefang;Чешуйчатый Клык;;;;;;;;;;;;;x
+c_scalefang_adj;Чешуйчатоклык;;;;;;;;;;;;;x
 c_scalpool;Большой Омут;;;;;;;;;;;;;x
 c_scalpool_adj;Омут;;;;;;;;;;;;;x
 c_scarab_wall;Scarab Wall;;;;;;;;;;;;;x
@@ -1633,8 +1633,8 @@ c_sequoia;Sequoia;;;;;;;;;;;;;x
 c_sequoia_adj;Sequoian;;;;;;;;;;;;;x
 c_seradane;Серадан;;;;;;;;;;;;;x
 c_seradane_adj;Серадан;;;;;;;;;;;;;x
-c_sethraliss;Sethraliss;;;;;;;;;;;;;x
-c_sethraliss_adj;Sethralissian;;;;;;;;;;;;;x
+c_sethraliss;Сетралисс;;;;;;;;;;;;;x
+c_sethraliss_adj;Сетралис;;;;;;;;;;;;;x
 c_severe_coast;Суровое Побережье;;;;;;;;;;;;;x
 c_severe_coast_adj;Суровопобережь;;;;;;;;;;;;;x
 c_shadebough;Shadebough;;;;;;;;;;;;;x
@@ -1669,12 +1669,12 @@ c_shaolwatha;Шаол'вата;;;;;;;;;;;;;x
 c_shaolwatha_adj;Шаол'ватан;;;;;;;;;;;;;x
 c_shatterspear;Shatterspear;;;;;;;;;;;;;x
 c_shatterspear_adj;Shatterspearian;;;;;;;;;;;;;x
-c_shatterstone;Shatterstone;;;;;;;;;;;;;x
-c_shatterstone_adj;Shatterstonean;;;;;;;;;;;;;x
+c_shatterstone;Разрушенный Камень;;;;;;;;;;;;;x
+c_shatterstone_adj;Разрушеннокамень;;;;;;;;;;;;;x
 c_shehras;Shehras;;;;;;;;;;;;;x
 c_shehras_adj;Shehrasian;;;;;;;;;;;;;x
-c_shendo;Shen'do;;;;;;;;;;;;;x
-c_shendo_adj;Shen'dian;;;;;;;;;;;;;x
+c_shendo;Шен'до;;;;;;;;;;;;;x
+c_shendo_adj;Шен'дон;;;;;;;;;;;;;x
 c_shield_hill;Заградительный Холм;;;;;;;;;;;;;x
 c_shield_hill_adj;Заградительнохолм;;;;;;;;;;;;;x
 c_shimmer_ridge;Мерцающий Хребет;;;;;;;;;;;;;x
@@ -1687,7 +1687,7 @@ c_shipwreck;Обломки Корабля;;;;;;;;;;;;;x
 c_shipwreck_adj;Корабель;;;;;;;;;;;;;x
 c_shirres;Shirres;;;;;;;;;;;;;x
 c_shirres_adj;Shirresian;;;;;;;;;;;;;x
-c_shoaljai;Shoaljai;;;;;;;;;;;;;x
+c_shoaljai;Шоалджай;;;;;;;;;;;;;x
 c_shoaljai_adj;Shoaljian;;;;;;;;;;;;;x
 c_shobassa;Shobassa;;;;;;;;;;;;;x
 c_shobassa_adj;Shobassan;;;;;;;;;;;;;x
@@ -1715,8 +1715,8 @@ c_silverwind;Silverwind;;;;;;;;;;;;;x
 c_silverwind_adj;Silverwindian;;;;;;;;;;;;;x
 c_silverwing;Silverwing;;;;;;;;;;;;;x
 c_silverwing_adj;Silverwingian;;;;;;;;;;;;;x
-c_sisgone;Sisgone;;;;;;;;;;;;;x
-c_sisgone_adj;Sisgonean;;;;;;;;;;;;;x
+c_sisgone;Сисгон;;;;;;;;;;;;;x
+c_sisgone_adj;Сисгон;;;;;;;;;;;;;x
 c_sishir;Sishir;;;;;;;;;;;;;x
 c_sishir_adj;Sishirian;;;;;;;;;;;;;x
 c_sithenn;Sithenn;;;;;;;;;;;;;x
@@ -1735,8 +1735,8 @@ c_skypeak;Skypeak;;;;;;;;;;;;;x
 c_skypeak_adj;Skypeakian;;;;;;;;;;;;;x
 c_slabchisels_survey;Привал Крепкой Стамески;;;;;;;;;;;;;x
 c_slabchisels_survey_adj;Крепкостамес;;;;;;;;;;;;;x
-c_slisetriss;Slisetriss;;;;;;;;;;;;;x
-c_slisetriss_adj;Slisetrissian;;;;;;;;;;;;;x
+c_slisetriss;Слайстрисс;;;;;;;;;;;;;x
+c_slisetriss_adj;Слайстрис;;;;;;;;;;;;;x
 c_snowblind;Слепящие Снега;;;;;;;;;;;;;x
 c_snowblind_adj;Слепящеснег;;;;;;;;;;;;;x
 c_snowdaril;Snow'daril;;;;;;;;;;;;;x
@@ -1913,7 +1913,7 @@ c_surohi;Сурохи;;;;;;;;;;;;;x
 c_surohi_adj;Сурохин;;;;;;;;;;;;;x
 c_surwich;Сурвич;;;;;;;;;;;;;x
 c_surwich_adj;Сурвич;;;;;;;;;;;;;x
-c_susgu;Susgu;;;;;;;;;;;;;x
+c_susgu;Сусгу;;;;;;;;;;;;;x
 c_susgu_adj;Susgian;;;;;;;;;;;;;x
 c_swale;Swale;;;;;;;;;;;;;x
 c_swale_adj;Swalean;;;;;;;;;;;;;x
@@ -1927,8 +1927,8 @@ c_tahonda;Tahonda;;;;;;;;;;;;;x
 c_tahonda_adj;Tahondan;;;;;;;;;;;;;x
 c_tahret;Tahret;;;;;;;;;;;;;x
 c_tahret_adj;Tahretian;;;;;;;;;;;;;x
-c_talgurub;Tal'gurub;;;;;;;;;;;;;x
-c_talgurub_adj;Tal'gurubian;;;;;;;;;;;;;x
+c_talgurub;Тал'гуруб;;;;;;;;;;;;;x
+c_talgurub_adj;Тал'гуруб;;;;;;;;;;;;;x
 c_talon_den;Talon Den;;;;;;;;;;;;;x
 c_talon_den_adj;Talon Denian;;;;;;;;;;;;;x
 c_talonbranch;Talonbranch;;;;;;;;;;;;;x
@@ -1975,8 +1975,8 @@ c_thistlefur;Thistlefur;;;;;;;;;;;;;x
 c_thistlefur_adj;Thistlefurian;;;;;;;;;;;;;x
 c_thistleshrub;Thistleshrub;;;;;;;;;;;;;x
 c_thistleshrub_adj;Thistleshrubian;;;;;;;;;;;;;x
-c_thok;Thok;;;;;;;;;;;;;x
-c_thok_adj;Thokian;;;;;;;;;;;;;x
+c_thok;Ток;;;;;;;;;;;;;x
+c_thok_adj;Токий;;;;;;;;;;;;;x
 c_thor_modan;Тор Модан;;;;;;;;;;;;;x
 c_thor_modan_adj;Тор Модан;;;;;;;;;;;;;x
 c_thorn_hill;Thorn Hill;;;;;;;;;;;;;x
@@ -2013,8 +2013,8 @@ c_tiverfil;Тиверфел;;;;;;;;;;;;;x
 c_tiverfil_adj;Тиверфел;;;;;;;;;;;;;x
 c_tkashi;Ткаши;;;;;;;;;;;;;x
 c_tkashi_adj;Ткашин;;;;;;;;;;;;;x
-c_tojek;Tojek;;;;;;;;;;;;;x
-c_tojek_adj;Tojekian;;;;;;;;;;;;;x
+c_tojek;Тоджек;;;;;;;;;;;;;x
+c_tojek_adj;Тоджекий;;;;;;;;;;;;;x
 c_tol_barad;Tol Barad;;;;;;;;;;;;;x
 c_tol_barad_adj;Tol Baradian;;;;;;;;;;;;;x
 c_tol_barad_peninsula;Tol Barad Peninsula;;;;;;;;;;;;;x
@@ -2027,14 +2027,14 @@ c_tolnariv;Tol'nariv;;;;;;;;;;;;;x
 c_tolnariv_adj;Tol'narivian;;;;;;;;;;;;;x
 c_toncroa;Тон'кроа;;;;;;;;;;;;;x
 c_toncroa_adj;Тон'кроан;;;;;;;;;;;;;x
-c_torga;Torga;;;;;;;;;;;;;x
-c_torga_adj;Torgan;;;;;;;;;;;;;x
+c_torga;Торга;;;;;;;;;;;;;x
+c_torga_adj;Торгай;;;;;;;;;;;;;x
 c_torwatha;Тор'Вата;;;;;;;;;;;;;x
 c_torwatha_adj;Тор'Вата;;;;;;;;;;;;;x
 c_tower_of_azora;Башня Азоры;;;;;;;;;;;;;x
 c_tower_of_azora_adj;Азор;;;;;;;;;;;;;x
-c_trahumut;Trahumut;;;;;;;;;;;;;x
-c_trahumut_adj;Trahumutian;;;;;;;;;;;;;x
+c_trahumut;Траумут;;;;;;;;;;;;;x
+c_trahumut_adj;Траумут;;;;;;;;;;;;;x
 c_tranquil_gardens;Безмятежные Сады;;;;;;;;;;;;;x
 c_tranquil_gardens_adj;Безмятежносад;;;;;;;;;;;;;x
 c_tranquil_shore;Безмятежный Берег;;;;;;;;;;;;;x
@@ -2049,10 +2049,10 @@ c_tundrid_hills;Холмы Тандрид;;;;;;;;;;;;;x
 c_tundrid_hills_adj;Тандрид;;;;;;;;;;;;;x
 c_tunkalo;Тунка'ло;;;;;;;;;;;;;x
 c_tunkalo_adj;Тунка'лон;;;;;;;;;;;;;x
-c_turtle_rock;Turtle Rock;;;;;;;;;;;;;x
-c_turtle_rock_adj;Turtle Rockian;;;;;;;;;;;;;x
-c_tusk_isle;Tusk Isle;;;;;;;;;;;;;x
-c_tusk_isle_adj;Tusk Islean;;;;;;;;;;;;;x
+c_turtle_rock;Черепаший Камень;;;;;;;;;;;;;x
+c_turtle_rock_adj;Камень;;;;;;;;;;;;;x
+c_tusk_isle;Остров Бивня;;;;;;;;;;;;;x
+c_tusk_isle_adj;Бивней;;;;;;;;;;;;;x
 c_twilight_grove;Сумеречная Роща;;;;;;;;;;;;;x
 c_twilight_grove_adj;Сумеречнорощен;;;;;;;;;;;;;x
 c_tyhmoger;Тумогер;;;;;;;;;;;;;x
@@ -2075,8 +2075,8 @@ c_undernelly;Андернелли;;;;;;;;;;;;;x
 c_undernelly_adj;Андернель;;;;;;;;;;;;;x
 c_ungava;Ungava;;;;;;;;;;;;;x
 c_ungava_adj;Ungavan;;;;;;;;;;;;;x
-c_ungol;Un'gol;;;;;;;;;;;;;x
-c_ungol_adj;Un'golian;;;;;;;;;;;;;x
+c_ungol;Ун'гол;;;;;;;;;;;;;x
+c_ungol_adj;Ун'гол;;;;;;;;;;;;;x
 c_unupe;Уну'пе;;;;;;;;;;;;;x
 c_unupe_adj;Уну'пен;;;;;;;;;;;;;x
 c_upland_forest;Возвышенный Лес;;;;;;;;;;;;;x
@@ -2111,8 +2111,8 @@ c_venture_bay;Бухта Торговцев;;;;;;;;;;;;;x
 c_venture_bay_adj;Торговцебухт;;;;;;;;;;;;;x
 c_verdant_forest;Зеленеющий Лес;;;;;;;;;;;;;x
 c_verdant_forest_adj;Зеленеющелес;;;;;;;;;;;;;x
-c_verdant_wilds;Verdant Wilds;;;;;;;;;;;;;x
-c_verdant_wilds_adj;Verdant Wildsian;;;;;;;;;;;;;x
+c_verdant_wilds;Зеленые Джунгли;;;;;;;;;;;;;x
+c_verdant_wilds_adj;Зеленоджунглей;;;;;;;;;;;;;x
 c_vermillion;Гранатовый Редут;;;;;;;;;;;;;x
 c_vermillion_adj;Гранаторедут;;;;;;;;;;;;;x
 c_verrall_delta;Дельта Вералл;;;;;;;;;;;;;x
@@ -2133,14 +2133,14 @@ c_volcanoths_isle;Остров Вулканота;;;;;;;;;;;;;x
 c_volcanoths_isle_adj;Вулканот;;;;;;;;;;;;;x
 c_voldrune;Волдрун;;;;;;;;;;;;;x
 c_voldrune_adj;Волдрун;;;;;;;;;;;;;x
-c_voldunai;Voldunai;;;;;;;;;;;;;x
+c_voldunai;Волдунаи;;;;;;;;;;;;;x
 c_voldunai_adj;Voldunian;;;;;;;;;;;;;x
 c_volund;Volund;;;;;;;;;;;;;x
 c_volund_adj;Volundian;;;;;;;;;;;;;x
 c_voodress;Вудресс;;;;;;;;;;;;;x
 c_voodress_adj;Вудрес;;;;;;;;;;;;;x
-c_vuzale;Vuzale;;;;;;;;;;;;;x
-c_vuzale_adj;Vuzalean;;;;;;;;;;;;;x
+c_vuzale;Вузале;;;;;;;;;;;;;x
+c_vuzale_adj;Вузалей;;;;;;;;;;;;;x
 c_wagtan;Wag'tan;;;;;;;;;;;;;x
 c_wagtan_adj;Wag'tanian;;;;;;;;;;;;;x
 c_wahkan;Wahkan;;;;;;;;;;;;;x
@@ -2173,12 +2173,12 @@ c_western_strand;Западное Побережье;;;;;;;;;;;;;x
 c_western_strand_adj;Западнопобереж;;;;;;;;;;;;;x
 c_whispering_gardens;Шепчущие Сады;;;;;;;;;;;;;x
 c_whispering_gardens_adj;Шепчущесад;;;;;;;;;;;;;x
-c_whispering_reef;Whispering Reef;;;;;;;;;;;;;x
-c_whispering_reef_adj;Whispering Reefian;;;;;;;;;;;;;x
+c_whispering_reef;Шепщущий Риф;;;;;;;;;;;;;x
+c_whispering_reef_adj;Рифошеп;;;;;;;;;;;;;x
 c_whisperwind;Whisperwind;;;;;;;;;;;;;x
 c_whisperwind_adj;Whisperwindian;;;;;;;;;;;;;x
-c_whistlebloom;Whistlebloom;;;;;;;;;;;;;x
-c_whistlebloom_adj;Whistlebloomian;;;;;;;;;;;;;x
+c_whistlebloom;Свистоцвет;;;;;;;;;;;;;x
+c_whistlebloom_adj;Свистоцвет;;;;;;;;;;;;;x
 c_whitereach;Whitereach;;;;;;;;;;;;;x
 c_whitereach_adj;Whitereachian;;;;;;;;;;;;;x
 c_wild_cape;Дикий Мыс;;;;;;;;;;;;;x
