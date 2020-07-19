@@ -9,7 +9,7 @@ c_addle;Эддл;;;;;;;;;;;;;x
 c_addle_adj;Эддль;;;;;;;;;;;;;x
 c_aderic;Адерик;;;;;;;;;;;;;x
 c_aderic_adj;Адерик;;;;;;;;;;;;;x
-c_aerie_peak;Заоблачный пик;;;;;;;;;;;;;x
+c_aerie_peak;Заоблачный Пик;;;;;;;;;;;;;x
 c_aerie_peak_adj;Заоблачнопик;;;;;;;;;;;;;x
 c_aessina;Эссина;;;;;;;;;;;;;x
 c_aessina_adj;Эссин;;;;;;;;;;;;;x
@@ -21,7 +21,7 @@ c_agamagor;Агама'гор;;;;;;;;;;;;;x
 c_agamagor_adj;Агама'гор;;;;;;;;;;;;;x
 c_agamand;Агамонд;;;;;;;;;;;;;x
 c_agamand_adj;Агамонд;;;;;;;;;;;;;x
-c_agneepath;Огненный путь;;;;;;;;;;;;;x
+c_agneepath;Огненный Путь;;;;;;;;;;;;;x
 c_agneepath_adj;Огнепуть;;;;;;;;;;;;;x
 c_agolwatha;Агол'вата;;;;;;;;;;;;;x
 c_agolwatha_adj;Агол'ват;;;;;;;;;;;;;x
@@ -48,14 +48,14 @@ c_altar_of_zul_adj;Зулалтарь;;;;;;;;;;;;;x
 c_alterac;Альтерак;;;;;;;;;;;;;x
 c_alterac_adj;Альтерак;;;;;;;;;;;;;x
 c_alterac_valley;Альтеракская долина;;;;;;;;;;;;;x
-c_alterac_valley_adj;Альтеракдолин;;;;;;;;;;;;;x
+c_alterac_valley_adj;Альтеракодолин;;;;;;;;;;;;;x
 c_alther;Альтер;;;;;;;;;;;;;x
 c_alther_adj;Альтер;;;;;;;;;;;;;x
 c_amani_pass;Перевал Амани;;;;;;;;;;;;;x
 c_amani_pass_adj;Переваламань;;;;;;;;;;;;;x
-c_amber_ledge;Янтарная гряда;;;;;;;;;;;;;x
+c_amber_ledge;Янтарная Гряда;;;;;;;;;;;;;x
 c_amber_ledge_adj;Янтарногряд;;;;;;;;;;;;;x
-c_ambermill;Янтарная мельница;;;;;;;;;;;;;x
+c_ambermill;Янтарная Мельница;;;;;;;;;;;;;x
 c_ambermill_adj;Янтарномельник;;;;;;;;;;;;;x
 c_amberpine;Янтарная Сосна;;;;;;;;;;;;;x
 c_amberpine_adj;Янтарнососн;;;;;;;;;;;;;x
@@ -84,11 +84,11 @@ c_angrathar_adj;Ангратар;;;;;;;;;;;;;x
 c_anmarkus;Ан'маркус;;;;;;;;;;;;;x
 c_anmarkus_adj;Ан'маркус;;;;;;;;;;;;;x
 c_anvilmar;Старая Наковальня;;;;;;;;;;;;;x
-c_anvilmar_adj;Старыйнаковаль;;;;;;;;;;;;;x
+c_anvilmar_adj;Старонаковаль;;;;;;;;;;;;;x
 c_aparaje;Апарахе;;;;;;;;;;;;;x
 c_aparaje_adj;Апарах;;;;;;;;;;;;;x
 c_arculla;Аркулла;;;;;;;;;;;;;x
-c_arculla_adj;Аркулл;;;;;;;;;;;;;x
+c_arculla_adj;Аркуллан;;;;;;;;;;;;;x
 c_arkkoran;Арккоран;;;;;;;;;;;;;x
 c_arkkoran_adj;Арккоран;;;;;;;;;;;;;x
 c_arnluma;Арнлума;;;;;;;;;;;;;x
@@ -557,130 +557,130 @@ c_dust_plains;Пыльные Равнины;;;;;;;;;;;;;x
 c_dust_plains_adj;Пыльноравнин;;;;;;;;;;;;;x
 c_dustwind;Пыльный Ветер;;;;;;;;;;;;;x
 c_dustwind_adj;Пыльноветер;;;;;;;;;;;;;x
-c_ealnow;Ealnow;;;;;;;;;;;;;x
-c_ealnow_adj;Ealnowian;;;;;;;;;;;;;x
-c_eanorah;Eanorah;;;;;;;;;;;;;x
-c_eanorah_adj;Eanorahian;;;;;;;;;;;;;x
-c_east_coast;East Coast;;;;;;;;;;;;;x
-c_east_coast_adj;East Coastian;;;;;;;;;;;;;x
-c_east_floodplain;East Floodplain;;;;;;;;;;;;;x
-c_east_floodplain_adj;East Floodplainian;;;;;;;;;;;;;x
-c_east_sanctum;East Sanctum;;;;;;;;;;;;;x
-c_east_sanctum_adj;East Sanctumian;;;;;;;;;;;;;x
-c_eastern_cape;Eastern Cape;;;;;;;;;;;;;x
-c_eastern_cape_adj;Eastern Capean;;;;;;;;;;;;;x
-c_eastmoon;Eastmoon;;;;;;;;;;;;;x
-c_eastmoon_adj;Eastmoonian;;;;;;;;;;;;;x
-c_eastpoint;Eastpoint;;;;;;;;;;;;;x
-c_eastpoint_adj;Eastpointian;;;;;;;;;;;;;x
-c_eastspark;Eastspark;;;;;;;;;;;;;x
-c_eastspark_adj;Eastsparkian;;;;;;;;;;;;;x
-c_eastvale;Eastvale;;;;;;;;;;;;;x
-c_eastvale_adj;Eastvalean;;;;;;;;;;;;;x
-c_echnus;Ech'nus;;;;;;;;;;;;;x
-c_echnus_adj;Ech'nusian;;;;;;;;;;;;;x
-c_echo_isle;Echo Isle;;;;;;;;;;;;;x
-c_echo_isle_adj;Echo Islean;;;;;;;;;;;;;x
-c_edj;Edj;;;;;;;;;;;;;x
-c_edj_adj;Edjian;;;;;;;;;;;;;x
-c_egudarm;Egudarm;;;;;;;;;;;;;x
-c_egudarm_adj;Egudarmian;;;;;;;;;;;;;x
-c_eldara;Eldara;;;;;;;;;;;;;x
-c_eldara_adj;Eldaran;;;;;;;;;;;;;x
-c_eldarath;Eldarath;;;;;;;;;;;;;x
-c_eldarath_adj;Eldarathian;;;;;;;;;;;;;x
-c_eldranath;Eldra'nath;;;;;;;;;;;;;x
-c_eldranath_adj;Eldra'nathian;;;;;;;;;;;;;x
-c_eldratir;El'dratir;;;;;;;;;;;;;x
-c_eldratir_adj;El'dratirian;;;;;;;;;;;;;x
-c_eldrethalas;Eldre'thalas;;;;;;;;;;;;;x
-c_eldrethalas_adj;Eldre'thalasian;;;;;;;;;;;;;x
-c_eldrethar;Eldre'thar;;;;;;;;;;;;;x
-c_eldrethar_adj;Eldre'tharian;;;;;;;;;;;;;x
-c_eldritch;Eldritch;;;;;;;;;;;;;x
-c_eldritch_adj;Eldritchian;;;;;;;;;;;;;x
-c_elementium_ravine;Elementium Ravine;;;;;;;;;;;;;x
-c_elementium_ravine_adj;Elementium Ravinean;;;;;;;;;;;;;x
-c_elrendar_coast;Elrendar Coast;;;;;;;;;;;;;x
-c_elrendar_coast_adj;Elrendar Coastian;;;;;;;;;;;;;x
-c_elrendar_crossing;Elrendar Crossing;;;;;;;;;;;;;x
-c_elrendar_crossing_adj;Elrendar Crossingian;;;;;;;;;;;;;x
-c_elunar;Elunar;;;;;;;;;;;;;x
-c_elunar_adj;Elunarian;;;;;;;;;;;;;x
-c_elunar_2;Elunar;;;;;;;;;;;;;x
-c_elunar_2_adj;Elunarian;;;;;;;;;;;;;x
-c_ember_clutch;Ember Clutch;;;;;;;;;;;;;x
-c_ember_clutch_adj;Ember Clutchian;;;;;;;;;;;;;x
-c_emberglade;Emberglade;;;;;;;;;;;;;x
-c_emberglade_adj;Embergladean;;;;;;;;;;;;;x
-c_emberstone;Emberstone;;;;;;;;;;;;;x
-c_emberstone_adj;Emberstonean;;;;;;;;;;;;;x
-c_emerald;Emerald;;;;;;;;;;;;;x
-c_emerald_adj;Emeraldian;;;;;;;;;;;;;x
-c_emeraran;Emer'aran;;;;;;;;;;;;;x
-c_emeraran_adj;Emer'aranian;;;;;;;;;;;;;x
-c_emyilond;Emyilond;;;;;;;;;;;;;x
-c_emyilond_adj;Emyilondian;;;;;;;;;;;;;x
-c_enkilah;En'kilah;;;;;;;;;;;;;x
-c_enkilah_adj;En'kilahian;;;;;;;;;;;;;x
-c_enle;Enle;;;;;;;;;;;;;x
-c_enle_adj;Enlean;;;;;;;;;;;;;x
-c_ermurn;Ermurn;;;;;;;;;;;;;x
-c_ermurn_adj;Ermurnian;;;;;;;;;;;;;x
-c_esossa;Esossa;;;;;;;;;;;;;x
-c_esossa_adj;Esossan;;;;;;;;;;;;;x
-c_estulan;Estulan;;;;;;;;;;;;;x
-c_estulan_adj;Estulanian;;;;;;;;;;;;;x
-c_ethel_rethor;Ethel Rethor;;;;;;;;;;;;;x
-c_ethel_rethor_adj;Ethel Rethorian;;;;;;;;;;;;;x
-c_ethok;E'thok;;;;;;;;;;;;;x
-c_ethok_adj;E'thokian;;;;;;;;;;;;;x
-c_everlook;Everlook;;;;;;;;;;;;;x
-c_everlook_adj;Everlookian;;;;;;;;;;;;;x
-c_faerseton;Faerseton;;;;;;;;;;;;;x
-c_faerseton_adj;Faersetonian;;;;;;;;;;;;;x
-c_fairbreeze;Fairbreeze;;;;;;;;;;;;;x
-c_fairbreeze_adj;Fairbreezean;;;;;;;;;;;;;x
-c_falathim;Falathim;;;;;;;;;;;;;x
-c_falathim_adj;Falathimian;;;;;;;;;;;;;x
-c_falconwing_square;Falconwing Square;;;;;;;;;;;;;x
-c_falconwing_square_adj;Falconwing Squarean;;;;;;;;;;;;;x
-c_faldirs_cove;Faldir's Cove;;;;;;;;;;;;;x
-c_faldirs_cove_adj;Faldirs Covean;;;;;;;;;;;;;x
-c_falfarren;Falfarren;;;;;;;;;;;;;x
-c_falfarren_adj;Falfarrenian;;;;;;;;;;;;;x
-c_fallhaven;Fallhaven;;;;;;;;;;;;;x
-c_fallhaven_adj;Fallhavenian;;;;;;;;;;;;;x
-c_fallowmere;Fallowmere;;;;;;;;;;;;;x
-c_fallowmere_adj;Fallowmerean;;;;;;;;;;;;;x
-c_falthrien;Falthrien;;;;;;;;;;;;;x
-c_falthrien_adj;Falthrienian;;;;;;;;;;;;;x
-c_fang_isle;Fang Isle;;;;;;;;;;;;;x
-c_fang_isle_adj;Fang Islean;;;;;;;;;;;;;x
-c_fargaze;Fargaze;;;;;;;;;;;;;x
-c_fargaze_adj;Fargazean;;;;;;;;;;;;;x
-c_farshire;Farshire;;;;;;;;;;;;;x
-c_farshire_adj;Farshirean;;;;;;;;;;;;;x
+c_ealnow;Илнау;;;;;;;;;;;;;x
+c_ealnow_adj;Илнаун;;;;;;;;;;;;;x
+c_eanorah;Инора;;;;;;;;;;;;;x
+c_eanorah_adj;Иноран;;;;;;;;;;;;;x
+c_east_coast;Восточное Побережье;;;;;;;;;;;;;x
+c_east_coast_adj;Восточнопобереж;;;;;;;;;;;;;x
+c_east_floodplain;Восточное Половодье;;;;;;;;;;;;;x
+c_east_floodplain_adj;Восточнополовод;;;;;;;;;;;;;x
+c_east_sanctum;Восточное Cвятилище;;;;;;;;;;;;;x
+c_east_sanctum_adj;Восточносвят;;;;;;;;;;;;;x
+c_eastern_cape;Восточный Мыс;;;;;;;;;;;;;x
+c_eastern_cape_adj;Восточномыс;;;;;;;;;;;;;x
+c_eastmoon;Восточная Луна;;;;;;;;;;;;;x
+c_eastmoon_adj;Восточнолун;;;;;;;;;;;;;x
+c_eastpoint;Восточная Башня;;;;;;;;;;;;;x
+c_eastpoint_adj;Восточнобашень;;;;;;;;;;;;;x
+c_eastspark;Восточная Искра;;;;;;;;;;;;;x
+c_eastspark_adj;Восточноискров;;;;;;;;;;;;;x
+c_eastvale;Восточная Долина;;;;;;;;;;;;;x
+c_eastvale_adj;Восточнодолин;;;;;;;;;;;;;x
+c_echnus;Эх'Нус;;;;;;;;;;;;;x
+c_echnus_adj;Эх'нус;;;;;;;;;;;;;x
+c_echo_isle;Острова Эха;;;;;;;;;;;;;x
+c_echo_isle_adj;Эхо-остров;;;;;;;;;;;;;x
+c_edj;Эдж;;;;;;;;;;;;;x
+c_edj_adj;Эдж;;;;;;;;;;;;;x
+c_egudarm;Эгударм;;;;;;;;;;;;;x
+c_egudarm_adj;Эгударм;;;;;;;;;;;;;x
+c_eldara;Эльдара;;;;;;;;;;;;;x
+c_eldara_adj;Эльдар;;;;;;;;;;;;;x
+c_eldarath;Эльдарат;;;;;;;;;;;;;x
+c_eldarath_adj;Эльдарат;;;;;;;;;;;;;x
+c_eldranath;Элдра'нат;;;;;;;;;;;;;x
+c_eldranath_adj;Элдра'нат;;;;;;;;;;;;;x
+c_eldratir;Эль'дратир;;;;;;;;;;;;;x
+c_eldratir_adj;Эль'дратир;;;;;;;;;;;;;x
+c_eldrethalas;Эльдре'Талас;;;;;;;;;;;;;x
+c_eldrethalas_adj;Эльдре'талас;;;;;;;;;;;;;x
+c_eldrethar;Эльдре'Тар;;;;;;;;;;;;;x
+c_eldrethar_adj;Эльдре'тар;;;;;;;;;;;;;x
+c_eldritch;Жуть;;;;;;;;;;;;;x
+c_eldritch_adj;Жуть;;;;;;;;;;;;;x
+c_elementium_ravine;Элементиевое Ущелье;;;;;;;;;;;;;x
+c_elementium_ravine_adj;Элементоущель;;;;;;;;;;;;;x
+c_elrendar_coast;Побережье Элрендар;;;;;;;;;;;;;x
+c_elrendar_coast_adj;Элрендаропобережь;;;;;;;;;;;;;x
+c_elrendar_crossing;Мост Элрендар;;;;;;;;;;;;;x
+c_elrendar_crossing_adj;Элрендаромост;;;;;;;;;;;;;x
+c_elunar;Элуна;;;;;;;;;;;;;x
+c_elunar_adj;Элун;;;;;;;;;;;;;x
+c_elunar_2;Элуна;;;;;;;;;;;;;x
+c_elunar_2_adj;Элун;;;;;;;;;;;;;x
+c_ember_clutch;Пылающее Гнездовье;;;;;;;;;;;;;x
+c_ember_clutch_adj;Гнездопылающе;;;;;;;;;;;;;x
+c_emberglade;Тлеющая Поляна;;;;;;;;;;;;;x
+c_emberglade_adj;Тлеющеполян;;;;;;;;;;;;;x
+c_emberstone;Тлеющий Камень;;;;;;;;;;;;;x
+c_emberstone_adj;Тлеющекамень;;;;;;;;;;;;;x
+c_emerald;Изумрудное Святилище;;;;;;;;;;;;;x
+c_emerald_adj;Изумрудносвят;;;;;;;;;;;;;x
+c_emeraran;Эмер'Аран;;;;;;;;;;;;;x
+c_emeraran_adj;Эмер'аран;;;;;;;;;;;;;x
+c_emyilond;Эмилонд;;;;;;;;;;;;;x
+c_emyilond_adj;Эмилонд;;;;;;;;;;;;;x
+c_enkilah;Эн'кила;;;;;;;;;;;;;x
+c_enkilah_adj;Эн'килан;;;;;;;;;;;;;x
+c_enle;Энле;;;;;;;;;;;;;x
+c_enle_adj;Энлен;;;;;;;;;;;;;x
+c_ermurn;Эрмурн;;;;;;;;;;;;;x
+c_ermurn_adj;Эрмурн;;;;;;;;;;;;;x
+c_esossa;Эсосса;;;;;;;;;;;;;x
+c_esossa_adj;Эсоссан;;;;;;;;;;;;;x
+c_estulan;Эстулан;;;;;;;;;;;;;x
+c_estulan_adj;Эстулан;;;;;;;;;;;;;x
+c_ethel_rethor;Этель-Ретор;;;;;;;;;;;;;x
+c_ethel_rethor_adj;Этель-ретор;;;;;;;;;;;;;x
+c_ethok;Э'ток;;;;;;;;;;;;;x
+c_ethok_adj;Э'ток;;;;;;;;;;;;;x
+c_everlook;Круговзор;;;;;;;;;;;;;x
+c_everlook_adj;Круговзор;;;;;;;;;;;;;x
+c_faerseton;Ферсетон;;;;;;;;;;;;;x
+c_faerseton_adj;Ферсетон;;;;;;;;;;;;;x
+c_fairbreeze;Легкий Ветерок;;;;;;;;;;;;;x
+c_fairbreeze_adj;Легковетрен;;;;;;;;;;;;;x
+c_falathim;Фалатим;;;;;;;;;;;;;x
+c_falathim_adj;Фалатим;;;;;;;;;;;;;x
+c_falconwing_square;Площадь Соколиных Крыльев;;;;;;;;;;;;;x
+c_falconwing_square_adj;Соколокрыль;;;;;;;;;;;;;x
+c_faldirs_cove;Бухта Фалдира;;;;;;;;;;;;;x
+c_faldirs_cove_adj;Фалдиробухт;;;;;;;;;;;;;x
+c_falfarren;Фалфаррен;;;;;;;;;;;;;x
+c_falfarren_adj;Фалфаррен;;;;;;;;;;;;;x
+c_fallhaven;Листопадная Бухта;;;;;;;;;;;;;x
+c_fallhaven_adj;Листопаднобухт;;;;;;;;;;;;;x
+c_fallowmere;Болотная Пахота;;;;;;;;;;;;;x
+c_fallowmere_adj;Болотнопхот;;;;;;;;;;;;;x
+c_falthrien;Фалтриен;;;;;;;;;;;;;x
+c_falthrien_adj;Фалтриен;;;;;;;;;;;;;x
+c_fang_isle;Остров Клыка;;;;;;;;;;;;;x
+c_fang_isle_adj;Клыко-остров;;;;;;;;;;;;;x
+c_fargaze;Острый Глаз;;;;;;;;;;;;;x
+c_fargaze_adj;Остроглаз;;;;;;;;;;;;;x
+c_farshire;Далечье;;;;;;;;;;;;;x
+c_farshire_adj;Далечьен;;;;;;;;;;;;;x
 c_farstrider_enclave;Обитель Странников;;;;;;;;;;;;;x
-c_farstrider_enclave_adj;Обитель Странн;;;;;;;;;;;;;x
-c_farview;Farview;;;;;;;;;;;;;x
-c_farview_adj;Farviewian;;;;;;;;;;;;;x
-c_farwatch;Farwatch;;;;;;;;;;;;;x
-c_farwatch_adj;Farwatchian;;;;;;;;;;;;;x
-c_fates_end;Fate's End;;;;;;;;;;;;;x
-c_fates_end_adj;Fates Endian;;;;;;;;;;;;;x
-c_fathom_bay;Fathom Bay;;;;;;;;;;;;;x
-c_fathom_bay_adj;Fathom Baian;;;;;;;;;;;;;x
-c_fehis;Fehis;;;;;;;;;;;;;x
-c_fehis_adj;Fehisian;;;;;;;;;;;;;x
-c_ferry;Ferry;;;;;;;;;;;;;x
-c_ferry_adj;Ferrian;;;;;;;;;;;;;x
-c_fersodra;Fersodra;;;;;;;;;;;;;x
-c_fersodra_adj;Fersodran;;;;;;;;;;;;;x
-c_ferstikla;Ferstikla;;;;;;;;;;;;;x
-c_ferstikla_adj;Ferstiklan;;;;;;;;;;;;;x
-c_fikinnun;Fikinnun;;;;;;;;;;;;;x
-c_fikinnun_adj;Fikinnunian;;;;;;;;;;;;;x
+c_farstrider_enclave_adj;Обителестраннин;;;;;;;;;;;;;x
+c_farview;Дальний Взор;;;;;;;;;;;;;x
+c_farview_adj;Дальновзор;;;;;;;;;;;;;x
+c_farwatch;Наблюдательный Пункт;;;;;;;;;;;;;x
+c_farwatch_adj;Наблюдательнопункт;;;;;;;;;;;;;x
+c_fates_end;Предел Судьбы;;;;;;;;;;;;;x
+c_fates_end_adj;Судьбопредель;;;;;;;;;;;;;x
+c_fathom_bay;Бездонный Залив;;;;;;;;;;;;;x
+c_fathom_bay_adj;Бездоннозалив;;;;;;;;;;;;;x
+c_fehis;Фехис;;;;;;;;;;;;;x
+c_fehis_adj;Фехис;;;;;;;;;;;;;x
+c_ferry;Паром;;;;;;;;;;;;;x
+c_ferry_adj;Паром;;;;;;;;;;;;;x
+c_fersodra;Ферсодра;;;;;;;;;;;;;x
+c_fersodra_adj;Ферсодран;;;;;;;;;;;;;x
+c_ferstikla;Ферстикла;;;;;;;;;;;;;x
+c_ferstikla_adj;Ферстиклан;;;;;;;;;;;;;x
+c_fikinnun;Фикиннун;;;;;;;;;;;;;x
+c_fikinnun_adj;Фикиннун;;;;;;;;;;;;;x
 c_fir_valley;Fir Valley;;;;;;;;;;;;;x
 c_fir_valley_adj;Fir Valleian;;;;;;;;;;;;;x
 c_fire_scar;Fire Scar;;;;;;;;;;;;;x
