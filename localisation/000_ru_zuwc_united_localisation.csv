@@ -3016,16 +3016,37 @@ EVTOPTB_WCADD_1100;Я нанесу [target_crystal_owner.GetHerHim] визит!;;;;;;;;;;;;;
 EVTDESC_WCADD_2000;Сегодня вы пробудились с облегчением. Вы чувствуете магию, пронизывающую вас. Вам удалось преодолеть магическое истощение.;;;;;;;;;;;;;x
 EVTDESC_WCADD_1150;В отличие от ваших сородичей, вы не страдаете от магической зависимости. Означает ли это, что вы избежали этого проклятия? И почему? С вами пребывает благословение [Root.Religion.GetHighGodName] или это заслуга вашей силы воли?;;;;;;;;;;;;;x
 EVTOPTB_WCCRS_130;Если бы только я был Гораком.;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+EVTTITLE_WCDAC_5030;Голос из-за моря;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5030;Час Сумерек близок! Древние Боги решили, что вы сыграете одну из ключевых ролей в его приближении.\n\nГолос одного из Древних Богов призывает вас к направиться к его темнице, расположенной на таинственном континенте за морем. Ваш культ должен исполнить свое предназначение, освободив Древних Богов от оков, созданных Титанами.\n\nОтплыв на поиски этого таинственного континента, вы встретите там свою судьбу!;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5030;Он раздается с запада!;;;;;;;;;;;;;x
+EVTOPTB_WCDAC_5030;Он раздается с севера!;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5035_kalimdor;After a long journey, your ship has finally made landfall on the lifeless, sandy shores of a new and mysterious continent. The surrounding area is dark and gloomy, but you can hear your master's voice more clearly than ever.\n\nAs soon as you stepped on the sand of southwestern Kalimdor, you felt the sensation of something massive swarming under your feet. You could feel the dark presence deep in the bowels of earth and the whispers emitting from the ground.\n\nSoon, you will journey into the lands to break the bonds of the titans and free your Master, but first, you need to prepare your forces.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5035_northrend;After a long journey your ship has finally made landfall on the lifeless frozen shore of a new and mysterious island. The surrounding area is dark and gloomy, but you can hear your master's voice more clearly than ever.\n\nAs soon as you stepped onto this island, you felt the sensation of something massive moving deep under your feet. You could feel the dark presence deep in the bowels of earth and the whispers emitting from the ground.\n\nSoon, you will sail north to break the bonds of the titans and free your Master, but first, you need to prepare your forces.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5035;Мы должны построить здесь перевалочную базу.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5040_kalimdor;Вы привели своих последователей в комплекс пещер, расположенный глубоко под Танарисом и начали там строительство базы Сумеречного Молота.\n\nПещеры защитят вас от солнца и лишнего внимания со стороны местных обитателей.\n\nБледные орки, следующие за вами, весьма рады снова оказаться под землей, или, возможно, именно близость вашего Повелителя приводит их экстаз.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5040_northrend;Исследуя остров, вы обнаружили заброшенный комплекс Титанов.\n\nВы решили осквернить его, построив внутри него базы Сумеречного Молота.\n\nВы приказали бледным орка начать строительство. Ваши последователи приступили к исполнению вашей воли, подстрекаемые ненавистью к Титаном и фанатичной преданностью вашему Повелителю.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5040;Влияние Сумеречного Молота начнет распространяться отсюда.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5041_first_kill;Стражники обнаружили одного из ваших последователей мертвым сегодня утром. При ближайшем рассмотрении трупа вы поняли, что он был убит не результате потасовки, вышедшей из-под контроля, а от кинжала убийцы. Удар был нанесен с точностью мастера, но еще более пугающим является тот факт, что вы часто видели похожие порезы, когда являлись членом Совета Теней.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5041_later_kills;Этим утром стражники обнаружили еще один труп в вашем лагере. На его горле вы видите такой же порез, какой был у предыдущего. Несомненно, это сделала Гарона. Если ее нападения продолжатся, успешность вашей миссии может быть поставлена под вопрос.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5041;Я узнаю этот клинок... Гарона.;;;;;;;;;;;;;x
+EVTOPTB_WCDAC_5041;Я должен остановить ее.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5042;Проведя некоторое время в раздумьях, вы наконец-то придумали план по захвату Гароны. Несмотря на все ее мастерство, есть одна вещь, которая сделает ее уязвимой. Она всегда жаждала выследить и убить вас. Взяв на себя роль приманки, вы поможете своим последователям загнать в угол и схватить Гарону.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5042;Ничто не сможет помешать моему Повелителю.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5043;Ваш план удался. После долгих странствий ваш удалось заманить Гарону в ловушку и окружить ее. Вы вышли из этой ситуации невредимым. Гарона стала вашей пленницей, и теперь вашей миссии ничто не угрожает.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5043;У меня есть на тебя планы.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5044;Во времена, когда вы входили в Совет Теней, вы часто видели, как Гул'дан мог заставить Гарону исполнить его волю, сказав лишь одно слово. В прошлом, он использовал магию, чтобы связать ее разум со своей волей, когда Гарона была еще маленькой девочкой. Немногие из ныне живущих помнят заклинание, способное подчинить ее. К счастью, вы являетесь одним из них, так как являетесь величайшим учеником Гул'дана. Вы проникаете в разум Гароны и произносите заклинание.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5044;Внемли и повинуйся мне.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5045;Все приготовления завершены, и ваша миссия подошла к концу. Ваши последователи готовы отправиться в сердце тьмы вместе с вами. Многие из них погибнут во время долгих странствий, но это не имеет значения. Лишь самые достойные выживут и сумеют узреть Час Сумерек.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5045;Близится время Сумерек.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5046_kalimdor;Your party has arrived at the lifeless sand of Silithus.\n\nThe surrounding area is dark and gloomy, everything around you suggesting the presence of an Old God.\n\nAs soon as you stepped on the sand of Silithus proper, you felt the sensation of something swarming beneath your feet. Through this feeling, you were able to hear the whispers of C'Thun, who has ordered you to continue travelling to a ruined temple-city, whose towers could be seen far ahead, blurring into the hot air of a dead desert.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_5046_northrend;Your party has arrived at the lifeless frozen shores of Storm Peaks.\n\nThe area around is dark and gloomy, everything around you suggesting the presence of an Old God.\n\nAs soon as you stepped on the frozen snows of Northrend, you felt something deep beneath your feet. Through this feeling, you were able to hear the whispers of Yogg-Saron, who has ordered you to continue travelling to the walls of a titanic complex, whose towers could be seen far ahead, towering above the mountain peaks.;;;;;;;;;;;;;x
+EVTOPTA_WCDAC_5046;Оковы будут разбиты.;;;;;;;;;;;;;x
+#Temporarily unused loc;;;;;;;;;;;;;;
+# EVTDESC_WCDAC_5047_kalimdor;This desert was far from lifeless. Underneath the sand and in the air, billions of huge insects, creations of C'Thun, are swarming. They were enthusiastic about the imminent awakening of their lord. As we approached the huge temple city, their numbers grew. It is under these ruins that the Old God sleeps.;;;;;;;;;;;;;x
+# EVTDESC_WCDAC_5047_northrend;This wasteland was far from lifeless. Inside the titan complex and in the halls below it, thousands of warriors made from stone and iron dwelt, the creations of titans and their servants. They are slumbering, put in this passive state by the power of the Old God. You entered the city unopposed and made it into the depths of the complex, down to Yogg-Saron's prison.;;;;;;;;;;;;;x
+# EVTOPTA_WCDAC_5047;Начать приготовления к ритуалу!;;;;;;;;;;;;;x
+# EVTDESC_WCDAC_5048;You can feel the overwhelming power of your master under your feet as you enter the prison chamber. His voice is no longer weak, but strong like thunder during a storm. You eagerly prepare the ritual as everyone gathers to take part in it. They are driven into an euphoric state by his proximity and howl wildly like animals. The ritual will start soon.;;;;;;;;;;;;;x
+# EVTOPTA_WCDAC_5048;Узрите восхождение Повелителя!;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
