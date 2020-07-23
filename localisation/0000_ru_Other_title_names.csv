@@ -23,7 +23,7 @@ d_drysnout;Сухомордые;;;;;;;;;;;;;x
 d_mosshide;Мохошкуры;;;;;;;;;;;;;x
 d_bluegill;Синежабрые;;;;;;;;;;;;;x
 d_wildfin;Дикий Плавник;;;;;;;;;;;;;x
-d_marsh;Болотоплавниковые;;;;;;;;;;;;;x
+d_marsh;Болотный Плавник;;;;;;;;;;;;;x
 d_marsh_adj;Болотоплавник;;;;;;;;;;;;;x
 d_murkgill;Черножабрые;;;;;;;;;;;;;x
 d_drywhisker;Сухоусы;;;;;;;;;;;;;x
@@ -44,7 +44,7 @@ d_dragonmaw;Драконья Пасть;;;;;;;;;;;;;x
 d_burning_blade;Пылающий Клинок;;;;;;;;;;;;;x
 d_order_of_the_silver_hand;Орден Серебряной Длани;;;;;;;;;;;;;x
 d_revantusk;Сломанный Клык;;;;;;;;;;;;;x
-d_guardian_of_tirisfal;Страж Тирисфаля;;;;;;;;;;;;;x
+d_guardian_of_tirisfal;Хранитель Тирисфаля;;;;;;;;;;;;;x
 e_trade_coalition;Торговая коалиция;;;;;;;;;;;;;x
 d_blackwater_raiders;Пираты Черноводья;;;;;;;;;;;;;x
 k_bilgewater_cartel;Картель Трюмных Вод;;;;;;;;;;;;;x
@@ -56,7 +56,7 @@ d_nethergarde;Стражи Пустоты;;;;;;;;;;;;;x
 d_warsong;Песня Войны;;;;;;;;;;;;;x
 d_mossflayer;Моходеры;;;;;;;;;;;;;x
 d_coucil_of_tirisfal;Совет Тирисфаля;;;;;;;;;;;;;x
-d_laughing_skull;Смеющийся Череп;;;;;;;;;;;;;x
+d_laughing_skull;Веселый Череп;;;;;;;;;;;;;x
 e_scourge;Плеть;;;;;;;;;;;;;x
 e_alliance;Альянс;;;;;;;;;;;;;x
 HORDE;Орда;;;;;;;;;;;;;x
@@ -100,7 +100,7 @@ d_scarlet_crusade;Алый Орден;;;;;;;;;;;;;x
 d_scarlet_crusade_adj;Орден;;;;;;;;;;;;;x
 d_argent_dawn;Серебряный Рассвет;;;;;;;;;;;;;x
 d_argent_dawn_adj;Среброрассвет;;;;;;;;;;;;;x
-d_darkspear;Темное Копье;;;;;;;;;;;;;x
+d_darkspear;Черное Копье;;;;;;;;;;;;;x
 d_darkspear_adj;Темнокопей;;;;;;;;;;;;;x
 d_kalu_ak;Калу'ак;;;;;;;;;;;;;x
 d_kalu_ak_adj;Калу'ак;;;;;;;;;;;;;x
@@ -142,7 +142,7 @@ d_wardens_adj;Страж;;;;;;;;;;;;;x
 k_wildhammer;Грим Батол;;;;;;;;;;;;;x
 k_wildhammer_adj;Гримбатол;;;;;;;;;;;;;x
 d_bloodsail_buccaneers;Пираты Кровавого Паруса;;;;;;;;;;;;;x
-d_northsea_freebooters;Флибустьеры Северного моря;;;;;;;;;;;;;x
+d_northsea_freebooters;Флибустьеры Северных Морей;;;;;;;;;;;;;x
 d_spirestone;Черная Вершина;;;;;;;;;;;;;x
 d_smoulderthorn;Тлеющий Терновник;;;;;;;;;;;;;x
 k_cenarion_circle;Круг Кенария;;;;;;;;;;;;;x

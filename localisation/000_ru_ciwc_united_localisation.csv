@@ -5,7 +5,7 @@ eastern_kingdoms_south_trade_route;Азеротский торговый путь;;;;;;;;;;;;;x
 eastern_kingdoms_north_trade_route;Лордеронский торговый путь;;;;;;;;;;;;;x
 eastern_kingdoms_west_sea_trade_route;Торговый путь Восточного моря;;;;;;;;;;;;;x
 kalimdor_trade_route;Торговый путь Золотой дороги;;;;;;;;;;;;;x
-kalimdor_east_sea_trade_route;Калдорейский морской торговый путь;;;;;;;;;;;;;x
+kalimdor_east_sea_trade_route;Калдорайский морской торговый путь;;;;;;;;;;;;;x
 great_sea_trade_route;Торговый путь Великого моря;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 eastern_kingdoms_north_trade_route_tooltip;Можно строить §YТорговые посты§! только в определенных округах вдоль §YЛордеронского торгового пути§!\n        Откройте режим карты §YТорговые зоны§! чтобы найти подходящие округа;;;;;;;;;;;;;x
@@ -21,7 +21,7 @@ text_effect_minor_trade_route;Это §Rмалый§! торговый путь;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 tr_culture_none;Придорожная таверна;;;;;;;;;;;;;x
 tr_culture_group_goblin;Башня дирижаблей;;;;;;;;;;;;;x
-tr_culture_group_night_elf;Комнаты для отдыха;;;;;;;;;;;;;x
+tr_culture_group_night_elf;Комнаты отдыха;;;;;;;;;;;;;x
 tr_culture_group_high_elf_human_draenei;Ювелирная лавка;;;;;;;;;;;;;x
 tr_culture_group_tauren;Загон для кодо;;;;;;;;;;;;;x
 tr_culture_group_tuskarr;Пруды для черепах;;;;;;;;;;;;;x
