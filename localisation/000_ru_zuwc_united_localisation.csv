@@ -3043,4 +3043,65 @@ EVTOPTA_WCDAC_5046;Оковы будут разбиты.;;;;;;;;;;;;;x
 # EVTOPTA_WCDAC_5047;Начать приготовления к ритуалу!;;;;;;;;;;;;;x
 # EVTDESC_WCDAC_5048;Войдя в темнице, вы ощутили подавляющее могущество вашего Повелителя глубоко под землей. Его голос усилился, напоминая гром во время бури. Вы начинаете приготовления к ритуалу, когда все собрались вокруг вас, чтобы принять участие в нем. Ваши последователи словно обезумели от близости Древнего Бога и дико воют, словно животные. Ритуал скоро начнется.;;;;;;;;;;;;;x
 # EVTOPTA_WCDAC_5048;Узрите восхождение Повелителя!;;;;;;;;;;;;;x
+DYN1_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Лотаров. Этот дом получил известность во времена Торадина, правившего небольшим племенем в Нагорье Арати. Торадин являлся умелым стратегом, который объединил все людские племена путем завоеваний и дипломатии, создав империю Аратор. Он также являлся владельцем легендарного меча Стром'кар и основателем Строма. После начала упадка Аратора, потомки Торадина направились юг, основав там королевство Штормград. Последний представитель этого рода - Андуин Лотар являлся Верховным главнокомандующим Альянс до своей гибели во время войны против орочей Орды.;;;;;;;;;;;;;x
+DYN2_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Троллебоев. История этого рода берет свое начало в племени, обитавшем в Альтеракских горах под руководством Игнея Троллебоя, который присягнул на верность королю Торадину и стал генералом империи Аратор. После падения империи Троллебои стали королями Стромгарда. Один из самых прославленных представителей этого рода, Данат Троллебой, входил в экспедицию, направившейся в Запределье, являясь заместителем командующего. В конечном счете, он стал комендантом Оплота Чести Альянса. Эта династия известна многими деяниями, но в основном из-за таланта к убийству троллей.;;;;;;;;;;;;;x
+DYN3_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Бронзобородов. Первое упоминание этого клана затерялось в истории, но получил известность во времена правления тана Мадорана Бронзоборода, последовавшего после смерти последнего Верховного короля дворфов. Хрупкий мир между кланами перерос в гражданскую войну за Стальгорн, в которой клан Бронзобородов одержал победу. Правление Бронзобородов привело к процветанию Стальгорна: дворфы заключили союз с людьми, а также восстановили связи с кланом Громового Молота.;;;;;;;;;;;;;x
+DYN4_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Северных Волков. Клан был основан за 800 лет до Первой Войны, но сведения о его ранней истории крайне малы. За одиннадцать лет до Первой Войны во главе клана встал вождь Гарад, передавший свои идеалы семьи и единства своим трем сыновьям. Дуротан был выбран в качестве наследника и поддержал эти традиции, выступив против истребления дренеев и Договора Крови с Манноротом. Сын Дуротана, Го'эль, спустя много лет после гибели своего отца, создал новую Орду на Азероте, продолжив соблюдение многовековых традиций и идеалов клана, передававшихся из поколения в поколение.;;;;;;;;;;;;;x
+DYN5_DESC;With a score of $SCORE$ you$FAILED$ beat House Sunstrider, the first known member being Dath'Remar. Born into wealth and power, he was obsessed with magic, causing the night elves to exile him and his kin after the War of the Ancients and thus he led his people across the sea, founding Quel'Thalas and the Sunwell. His descendant, Anasterian ruled for around 2,800 years, as well as during the Troll Wars. Anasterian's death caused the downward spiral of the dynasty. His son, Kael'thas, took up the mantle of leadership and attempted to salvage what was left of the Kingdom after the Scourge invasion.;;;;;;;;;;;;;x
+DYN6_DESC;With a score of $SCORE$ you$FAILED$ beat House Anvilmar, the descendants of the last High King of all dwarves who ruled the kingdom with justice and wisdom, Modimus Anvilmar. As their society grew too large within the confines of their great mountain, three powerful factions rose among their people: the Bronzebeard, Wildhammer and Dark Iron clans. This divide eventually led to the downfall of the Anvilmar dynasty. When Modimus passed away of old age, his son would not have enough time to be officially coronated before the dwarven civil war had broken out between the three clans.;;;;;;;;;;;;;x
+DYN7_DESC;With a score of $SCORE$ you$FAILED$ beat House Shadowsong. Despite having no noble blood, this family rose to some relevant prominence during the War of the Ancients, with Jarod Shadowsong being a Captain of the Suramar Guard and later the Commander of the Kaldorei Resistance. In the meantime, his sister Maiev was a senior priestess in the Sisters of Elune. After the conflict, she volunteered to become the leader of a newly-formed elite force, the Watchers. The Shadowsong family only reached their prestigious position within Kaldorei society with blood, toil, tears, and sweat.;;;;;;;;;;;;;x
+DYN8_DESC;With a score of $SCORE$ you$FAILED$ beat House Bloodhoof. This family's first historical records begins in the Barrens, where Cairne Bloodhoof was born and raised. The Bloodhoof tribe had nearly been driven to extinction by the Centaurs, until the Orcs of Thrall's new Horde went ashore. During Cairne's rule, the Bloodhoof tribe settled Mulgore and founded an alliance with the Horde. After Cairne's death, his son, as noble and wise as his father, took the reigns of the tribe, leading it with a sense of honour unrivaled by most other dynasties on Azeroth.;;;;;;;;;;;;;x
+DYN9_DESC;With a score of $SCORE$ you$FAILED$ beat House Dragonflayer. The Dragonflayer Clan came to prominence under King Ymiron, famed for his tactical skills that gave the vrykul the upper hand against their ancient rivals, the jalgar, in their struggle for domination of what is known as the Howling Fjord. Total victory was at hand with the jalgar almost extinct, but a tragedy, that struck the vrykul once before, the curse of flesh, appeared once again. The women afflicted with the curse began giving birth to small, malformed children which struck fear into all the vrykul clans..;;;;;;;;;;;;;x
+DYN10_DESC;With a score of $SCORE$ you$FAILED$ beat House Vashj. This Highborn family is fairly well known from Lestharia's leadership of Vashj'ir, which is named in honour of the prosperity she brought to the lands under the reign of Queen Azshara. The Vashj dynasty is also quite known from Lestharia's daughter, Lady Vashj, who rapidly was promoted to became one of Queen Azshara's handmaidens. After the War of the Ancients, however, her beautiful appearance was defiled by the transformation into a Naga, leaving her reputation tarnished after the Great Sundering.;;;;;;;;;;;;;x
+DYN11_DESC;With a score of $SCORE$ you$FAILED$ beat House Stormpike. This dwarven clan's origin is not well known, though it is safe to assume that they appeared some time after the War of Three Hammers as subjects of the ruling Bronzebeard clan. They are a well respected clan and are known for their fine and discerning tastes and riches. Under Vanndar Stormpike's leadership, they would lead an expedition into Alterac valley to defend it from the savage Frostwolves while also keeping an eye out for relics of their past and their profitable mining endeavours.;;;;;;;;;;;;;x
+DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House Mechagon. In the distant past, this family founded the monarchy of Gnomeregan. The last king of the gnomes, King Mechagon, however, abandoned his people with a small entourage in search of a mystical land of forgotten technology, which they later settled and named after him. Under his rule in Mechagon, his people have managed to remove a large problem of their society, an aging population, through partially turning themselves into mechanical versions of themselves.;;;;;;;;;;;;;x
+DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House Maraudine. A centaur clan founded by Maraudos, their first Khan, the fourth alleged offspring of Zaetar, son of Cenarius and Theradras, the Crown Princess of the Stonemother Therazane. Being one of the five main centaur clans, the Maraudine have settled in the Valley of Spears, the entrance to the temple of Maraudon and the tomb of Zaetar. They have occupied and maintained the temple of Maraudon, the shrine of their first ancient khan and their procreators, where only the mightiest of the tribe are chosen to guard the tomb.;;;;;;;;;;;;;x
+DYN14_DESC;With a score of $SCORE$ you$FAILED$ beat House Agamand, once a rich family that settled in the Tirisfal Glades. They formerly possessed the Agamand Mills and large swaths of lands surrounding them, even having their own family crypt as well as some prestigious weapons as family heirlooms. Their downfall came by the hand of the Scourge and Devlin Agamand, who allowed the Scourge access to the mills. Deciding to hold fast to their home, even with their youngest brother's betrayal, it proved to be in vain as most of them were later arisen to the Scourge's servitude.;;;;;;;;;;;;;x
+DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Ellerian, one of Stormwind's smallest noble families. This house began their humble beginnings on the fertile lands in Westfall, originally only owning small chunks of lands within its borders. Through the marriage of Tiffin Ellerian and King Varian Wrynn, a match pre-arranged at Tiffin's birth, the house managed to secure their spot in the Stormwind House of Nobles. The most notable achievement of this family is marrying into the royal family and producing an heir to the Throne, although not of their dynasty.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
