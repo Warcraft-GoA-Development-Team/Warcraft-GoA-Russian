@@ -1,0 +1,82 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+title_old_gods_cthun; ;;;;;;;;;;;;;x
+title_old_gods_nzoth; ;;;;;;;;;;;;;x
+title_old_gods_yoggsaron; ;;;;;;;;;;;;;x
+title_old_gods_yshaarj; ;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+cthun;К'Тун;;;;;;;;;;;;;x
+nzoth;Н'Зот;;;;;;;;;;;;;x
+yoggsaron;Йогг-Сарон;;;;;;;;;;;;;x
+yshaarj;И'Шарадж;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+TXT_insanity;Безумие;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+old_god_dead;Мертв;;;;;;;;;;;;;x
+old_god_dead_desc;Не мёртво то, что в вечности пребудет, Со смертью времени и смерть умрёт.;;;;;;;;;;;;;x
+old_god_imprisoned;Находится в заточении;;;;;;;;;;;;;x
+old_god_imprisoned_desc;Древний Бог находится в заточении и его способность влиять на мир ограничена.;;;;;;;;;;;;;x
+old_god_partly_imprisoned;Частично пленен;;;;;;;;;;;;;x
+old_god_partly_imprisoned_desc;Древний Бог частично пленен, но может влиять на мир своими темными силами.;;;;;;;;;;;;;x
+old_god_partly_free;Частично освобожден;;;;;;;;;;;;;x
+old_god_partly_free_desc;Древний Бог начал вырываться на свободу. Его влияние на мир огромно, и, если его не остановить, вскоре он полностью освободится и попытается возродить Темную Империю.;;;;;;;;;;;;;x
+old_god_free;Освобожден;;;;;;;;;;;;;x
+old_god_free_desc;Древний Бог вырвался из своей темницы и полностью освободился. Темная Империя возродилась, и расам смертных грозит гибель, если они не объединятся, дабы остановить его.;;;;;;;;;;;;;x
+old_god_full_power;Темная Империя восстановлена;;;;;;;;;;;;;x
+old_god_full_power_desc;Древний Бог возродил Темную империю. Он находится на пике своего могущества и никто не способен остановить его.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+old_god_plotting;Плетет заговоры;;;;;;;;;;;;;x
+old_god_plotting_desc;В настоящее время Древний Бог скрывается и плетет заговор с целью начать катаклизм на Азероте.;;;;;;;;;;;;;x
+old_god_working;Катаклизм;;;;;;;;;;;;;x
+old_god_working_desc;В настоящее время Древний Бог активно пытается завоевать Азерот. Он призвал всех своих слуг и высвободил легионы.;;;;;;;;;;;;;x
+old_god_black_empire;Правит Темной Империей;;;;;;;;;;;;;x
+old_god_black_empire_desc;Темная империя была воссоздана, и Древний Бог сосредоточился на том, чтобы править ею и завоевывать своих врагов.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+likes_qiraji;Киражи;;;;;;;;;;;;;x
+likes_night_elves;Ночные эльфы;;;;;;;;;;;;;x
+likes_naga;Наги;;;;;;;;;;;;;x
+likes_druids;Друиды;;;;;;;;;;;;;x
+likes_mystery_of_the_makers;[mystery_of_the_makers.GetName];;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+offmap_sacrifice;Жертвоприношение [Root.Offmap.Ruler.GetFirstName]у;;;;;;;;;;;;;x
+offmap_sacrifice_desc;Принести этого персонажа в жертву[From.GetMainOldGodName]у.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+likes_nerubian;Нерубы;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+EMPEROR_LIKES_LABEL;Древнему Богу нравятся;;;;;;;;;;;;;x
+EMPEROR_DISLIKES_LABEL;Древнему Богу не нравятся;;;;;;;;;;;;;x
+OFFMAP_LIKES_TOOLTIP;Древнему Богу нравятся $CURRENT|Y$;;;;;;;;;;;;;x
+OFFMAP_LIKES_AND_DISLIKES_DESC;§LУ Древних Богов разные интересы и вкусы. Это оказывает значительное влияние на ваши действия, направленные на увеличение Безумия. Древний Бог рассматривает как ваши личные качества (например, культуру), так и ваши отдельные пожертвования (например, нерубы для Йогг-Сарона)...§!;;;;;;;;;;;;;x
+OFFMAP_DISLIKES_TOOLTIP;Древнему Богу не нравятся $CURRENT|Y$;;;;;;;;;;;;;x
+OFFMAP_RULER_DESC;§YДревний Бог $NAME$§!\nВозраст: $AGE|Y$\nКультура: $CULTURE|Y$\nРелигия: $RELIGION|Y$;;;;;;;;;;;;;x
+OFFMAP_BOONS_DESC;Если вы хорошо служите вашему господину, вы можете попросить любое из множества благословений Древнего Бога, если он сочтет вас достойным. Вы получите благословение в обмен на §YБезумие§!.;;;;;;;;;;;;;x
+OFFMAP_GIFTS_DESC;Вы можете предложить вашему господину дары в знак своего преклонения перед ним. Жертвоприношения позволят вам увеличить §YБезумие§!.;;;;;;;;;;;;;x
+OFFMAP_BOONS;§YПопросил благословение§!;;;;;;;;;;;;;x
+OFFMAP_GIFTS;§YПредложил жертву§!;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+old_god_dead_effect_desc;;;;;;;;;;;;;;x
+old_god_imprisoned_effect_desc;;;;;;;;;;;;;;x
+old_god_partly_imprisoned_effect_desc;;;;;;;;;;;;;;x
+old_god_free_effect_desc;;;;;;;;;;;;;;x
+old_god_plotting_effect_desc;;;;;;;;;;;;;;x
+old_god_working_effect_desc;;;;;;;;;;;;;;x
+old_god_black_empire_effect_desc;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+request_army_offmap;Попросить войска у [Root.Offmap.Ruler.GetFirstName]а;;;;;;;;;;;;;x
+request_army_offmap_desc;Попросить у Древнего Бога войско кошмарных существ.;;;;;;;;;;;;;x
+request_general_offmap;Попросить генерала [Root.Offmap.Ruler.GetFirstName]а;;;;;;;;;;;;;x
+request_general_offmap_desc;Попросить у Древнего Бога могучее существо, которое возглавит ваши войска.;;;;;;;;;;;;;x
+request_power_offmap;Попросить могущество у [Root.Offmap.Ruler.GetFirstName]а;;;;;;;;;;;;;x
+request_power_offmap_desc;Попросить у Древнего Бога силу, которая поможет вам сокрушить его врагов.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+GetMainOldGodNameCthun;К'Тун;;;;;;;;;;;;;x
+GetMainOldGodNameNzoth;Н'Зот;;;;;;;;;;;;;x
+GetMainOldGodNameYoggSaron;Йогг-Сарон;;;;;;;;;;;;;x
+GetMainOldGodNameYshaarj;И'Шарадж;;;;;;;;;;;;;x
+gain_old_god_offmap_currency_tooltip;§Y[This.GetMainOldGodName]§! вознаградит персонажа по имени §Y[This.GetTitledFirstName]§! §GБезумием§!;;;;;;;;;;;;;x
+united_old_gods_sacrifice_prisoner_decision;Принести в жертву [From.GetMainOldGodName]у;;;;;;;;;;;;;x
+united_old_gods_sacrifice_prisoner_decision_desc;Принести персонажа по имени [Root.GetTitledFirstName] в жертву [From.GetMainOldGodName]у.;;;;;;;;;;;;;x
+power_united_old_gods_sacrifice_prisoner_decision_tooltip;Сила: §YПринести в жертву [Root.GetMainOldGodName]у§!\nДает возможность через нажатие §Gправой кнопки мыши§! на портретах ваших пленников принести их в жертву [Root.GetMainOldGodName]у, получив взамен §Y[Root.Society.GetCurrency]§!. Определенные пленники, а также цели заданий, принесут большее удовлетворение [Root.Society.GetName]. Но помните о том, что чрезмерно большое количество жертвоприношений могут привлечь постороннее внимание к вашему сообществу.;;;;;;;;;;;;;x
+request_elementium_offmap;Попросить у [Root.Offmap.Ruler.GetFirstName]а элементиум;;;;;;;;;;;;;x
+request_elementium_offmap_desc;Попросить [Root.Offmap.Ruler.GetFirstName]а использовать свои темные силы, чтобы из земли выросли элементиевые шпили.;;;;;;;;;;;;;x
+request_healing_offmap;Попросить исцеление у [Root.Offmap.Ruler.GetFirstName]а;;;;;;;;;;;;;x
+request_healing_offmap_desc;Попросить [Root.Offmap.Ruler.GetFirstName]а использовать свои темные силы чтобы исцелить ваше тело.;;;;;;;;;;;;;x

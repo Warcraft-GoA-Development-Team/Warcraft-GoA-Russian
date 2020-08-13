@@ -1,0 +1,98 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+# Other;;;;;;;;;;;;;;x
+FIRELORD_TITLE;Мажордом;;;;;;;;;;;;;x
+MASTER_TITLE;Мастер;;;;;;;;;;;;;x
+MASTER_FOA;Мастер;;;;;;;;;;;;;x
+ARCHBISHOP_TITLE;Архиепископ;;;;;;;;;;;;;x
+YOUR_HOLINESS_FOA;Ваше Святейшество;;;;;;;;;;;;;x
+GRAND_INQUISITOR_TITLE;Великий инквизитор;;;;;;;;;;;;;x
+SIR_TITLE;Сэр;;;;;;;;;;;;;x
+SIR_FOA;Достопочтенный сэр;;;;;;;;;;;;;x
+XXX_CARTEL;Картель [Root.GetOnlyDynastyName];;;;;;;;;;;;;x
+title_guardian_of_tirisfal;Магус;;;;;;;;;;;;;x
+title_guardian_of_tirisfal_female;Магна;;;;;;;;;;;;;x
+title_trade_prince;Торговый принц;;;;;;;;;;;;;x
+title_trade_prince_female;Торговая принцесса;;;;;;;;;;;;;x
+LICH_KING_TITLE;Король-лич;;;;;;;;;;;;;x
+LICH_QUEEN_TITLE;Королева-лич;;;;;;;;;;;;;x
+QUARTERMASTER_TITLE;Интендант;;;;;;;;;;;;;x
+QUARTERMASTER_FOA;Интендант;;;;;;;;;;;;;x
+LORD_TITLE;Лорд;;;;;;;;;;;;;x
+LADY_TITLE;Леди;;;;;;;;;;;;;x
+TWILIGHT_VICEROY_TITLE;Сумеречный наместник;;;;;;;;;;;;;x
+TWILIGHT_VICEROY_FEM_TITLE;Сумеречная наместница;;;;;;;;;;;;;x
+GRAND_CRUSADER_TITLE;Великий крестоносец;;;;;;;;;;;;;x
+WARCHIEF_TITLE;Вождь;;;;;;;;;;;;;x
+COMMANDER_TITLE;Командующий;;;;;;;;;;;;;x
+LEADER_TITLE;Предводитель;;;;;;;;;;;;;x
+LEADER_FEM_TITLE;Предводительница;;;;;;;;;;;;;x
+FLEET_MASTER_TITLE;Командир флота;;;;;;;;;;;;;x
+FLEET_MASTER_FEM_TITLE;Командир флота;;;;;;;;;;;;;x
+CAPTAIN_TITLE;Капитан;;;;;;;;;;;;;x
+CAPTAIN_FEM_TITLE;Капитан;;;;;;;;;;;;;x
+CAPTAIN_FOA;Капитан;;;;;;;;;;;;;x
+WARMASTER_TITLE;Воевода;;;;;;;;;;;;;x
+WARMASTER_FEM_TITLE;Воевода;;;;;;;;;;;;;x
+BOSS_TITLE;Босс;;;;;;;;;;;;;x
+BOSS_FEM_TITLE;Босс;;;;;;;;;;;;;x
+MASTER_HUNTER_TITLE;Егерьмейстер;;;;;;;;;;;;;x
+MASTER_HUNTER_FEM_TITLE;Егерьмейстер;;;;;;;;;;;;;x
+GRAND_MAGISTER_TITLE;Верховный магистр;;;;;;;;;;;;;x
+GRAND_MAGISTER_FEM_TITLE;Верховный магистр;;;;;;;;;;;;;x
+HIGH_THORNSPEAKER_TITLE;Верховный терномант;;;;;;;;;;;;;x
+HIGH_THORNSPEAKER_FEM_TITLE;Верховный терномант;;;;;;;;;;;;;x
+ALPHA_PRIME_TITLE;Альфа-Вожак;;;;;;;;;;;;;x
+ALPHA_PRIME_FEM_TITLE;Альфа-Вожак;;;;;;;;;;;;;x
+HIGH_URSA_TITLE;Верховный Урса;;;;;;;;;;;;;x
+HIGH_URSA_FEM_TITLE;Верховная Урса;;;;;;;;;;;;;x
+HIGH_PRIEST_TITLE;Верховный жрец;;;;;;;;;;;;;x
+HIGH_PRIEST_FEM_TITLE;Верховная жрица;;;;;;;;;;;;;x
+HIGH_PROPHET_TITLE;Верховный пророк;;;;;;;;;;;;;x
+HIGH_PROPHET_FEM_TITLE;Верховная пророчица;;;;;;;;;;;;;x
+BLOOD_PROPHET_TITLE;Кровавый пророк;;;;;;;;;;;;;x
+BLOOD_PROPHET_FEM_TITLE;Кровавая пророчица;;;;;;;;;;;;;x
+GRAND_VIZIER_TITLE;Великий визирь;;;;;;;;;;;;;x
+GRAND_VIZIER_FEM_TITLE;Великий визирь;;;;;;;;;;;;;x
+HIGH_ORACLE_TITLE;Верховный оракул;;;;;;;;;;;;;x
+HIGH_ORACLE_FEM_TITLE;Верховный оракул;;;;;;;;;;;;;x
+GRAND_WAX_PRIEST_TITLE;Великий жрец воска;;;;;;;;;;;;;x
+GRAND_WAX_PRIEST_FEM_TITLE;Великая жрица воска;;;;;;;;;;;;;x
+HIGH_THORNWARLOCK_TITLE;Верховный терноплет;;;;;;;;;;;;;x
+HIGH_THORNWARLOCK_FEM_TITLE;Верховный терноплет;;;;;;;;;;;;;x
+HIGH_EARTHCALLER_TITLE;Верховный заклинатель земли;;;;;;;;;;;;;x
+HIGH_EARTHCALLER_FEM_TITLE;Верховная заклинательница земли;;;;;;;;;;;;;x
+HIGH_SEER_TITLE;Верховный провидец;;;;;;;;;;;;;x
+HIGH_SEER_FEM_TITLE;Верховная провидица;;;;;;;;;;;;;x
+HIGH_SMAMAN_TITLE;Верховный шаман;;;;;;;;;;;;;x
+HIGH_SMAMAN_FEM_TITLE;Верховный шаман;;;;;;;;;;;;;x
+HIGH_SKYCHASER_TITLE;Верховный небесный охотник;;;;;;;;;;;;;x
+HIGH_SKYCHASER_FEM_TITLE;Верховная небесная охотница;;;;;;;;;;;;;x
+HIGH_SEA_PRIEST_TITLE;Верховный жрец моря;;;;;;;;;;;;;x
+HIGH_SEA_PRIEST_FEM_TITLE;Верховная жрица моря;;;;;;;;;;;;;x
+DARK_ARCHBISHOP_TITLE;Темный архиепископ;;;;;;;;;;;;;x
+GRAND_VINDICATOR_TITLE;Верховный воздаятель;;;;;;;;;;;;;x
+GRAND_VINDICATOR_FEM_TITLE;Верховная воздаятельница;;;;;;;;;;;;;x
+GRAND_EXARCH_TITLE;Великий экзарх;;;;;;;;;;;;;x
+CHIEFTAIN_TITLE;Вождь;;;;;;;;;;;;;x
+CHIEFTAIN_FEM_TITLE;Предводительница;;;;;;;;;;;;;x
+MAGISTER_TITLE;Магистр;;;;;;;;;;;;;x
+MAGISTER_FEM_TITLE;Магистр;;;;;;;;;;;;;x
+OVERLORD_TITLE;Властитель;;;;;;;;;;;;;x
+OVERLORD_FEMALE_TITLE;Властительница;;;;;;;;;;;;;x
+HERALD_TITLE;Вестник;;;;;;;;;;;;;x
+HERALD_FEM_TITLE;Вестница;;;;;;;;;;;;;x
+HIGHFATHER_TITLE;Верховный отец;;;;;;;;;;;;;x
+HIGHFATHER_FEM_TITLE;Верховная мать;;;;;;;;;;;;;x
+KINGPIN_TITLE;Король воров;;;;;;;;;;;;;x
+KINGPIN_FEM_TITLE;Королева воров;;;;;;;;;;;;;x
+REGENT_LORD_TITLE;Лорд-регент;;;;;;;;;;;;;x
+REGENT_LORD_TITLE_FEM;Леди-регент;;;;;;;;;;;;;x
+OVERSEER_TITLE;Надзиратель;;;;;;;;;;;;;x
+OVERSEER_FEM_TITLE;Надзирательница;;;;;;;;;;;;;x
+HIGH_GENERAL_TITLE;Верховный генерал;;;;;;;;;;;;;x
+HIGHLORD_TITLE;Верховный лорд;;;;;;;;;;;;;x
+GRAND_MARSHAL_TITLE;Великий Маршал;;;;;;;;;;;;;x
+BANSHEE_QUEEN_TITLE;Королева банши;;;;;;;;;;;;;x
+BANSHEE_KING_TITLE;Король банши;;;;;;;;;;;;;x
+HIGH_DEATHSHAPER_TITLE;Верховный смертоплет;;;;;;;;;;;;;x
+HIGH_DEATHSHAPER_FEM_TITLE;Верховный смертоплет;;;;;;;;;;;;;x

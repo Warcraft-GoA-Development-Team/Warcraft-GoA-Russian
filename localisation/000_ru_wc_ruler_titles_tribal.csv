@@ -1,0 +1,62 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+# Common;;;;;;;;;;;;;;x
+tribal_emperor;Император;;;;;;;;;;;;;x
+tribal_emperor_female;Императрица;;;;;;;;;;;;;x
+tribal_empire_of;Империя;;;;;;;;;;;;;x
+tribal_empire;Империя;;;;;;;;;;;;;x
+tribal_king;Верховный вождь;;;;;;;;;;;;;x
+tribal_king_female;Верховная предводительница;;;;;;;;;;;;;x
+tribal_kingdom_of;Верховное племя;;;;;;;;;;;;;x
+tribal_kingdom;Верховный клан;;;;;;;;;;;;;x
+tribal_duke;Вождь;;;;;;;;;;;;;x
+tribal_duke_female;Предводительница;;;;;;;;;;;;;x
+tribal_duchy_of;Племя;;;;;;;;;;;;;x
+tribal_duchy;Клан;;;;;;;;;;;;;x
+tribal_count;Предводитель;;;;;;;;;;;;;x
+tribal_count_female;Предводительница;;;;;;;;;;;;;x
+tribal_county_of;Вождество;;;;;;;;;;;;;x
+tribal_county;Вождество;;;;;;;;;;;;;x
+tribal_baron;Вождь;;;;;;;;;;;;;x
+tribal_baron_female;Предводительница;;;;;;;;;;;;;x
+tribal_barony_of;Земли племени;;;;;;;;;;;;;x
+tribal_barony;Земли племени;;;;;;;;;;;;;x
+# troll_group;;;;;;;;;;;;;;x
+tribal_emperor_troll_group;Король-бог;;;;;;;;;;;;;x
+tribal_emperor_female_troll_group;Королева-богиня;;;;;;;;;;;;;x
+tribal_empire_of_troll_group;Империя;;;;;;;;;;;;;x
+tribal_empire_troll_group;Империя;;;;;;;;;;;;;x
+# vrykul_group;;;;;;;;;;;;;;x
+tribal_emperor_vrykul_group;Император;;;;;;;;;;;;;x
+tribal_emperor_female_vrykul_group;Императрица;;;;;;;;;;;;;x
+tribal_empire_of_vrykul_group;Империя;;;;;;;;;;;;;x
+tribal_empire_vrykul_group;Империя;;;;;;;;;;;;;x
+tribal_king_vrykul_group;Король;;;;;;;;;;;;;x
+tribal_king_female_vrykul_group;Королева;;;;;;;;;;;;;x
+tribal_king_of_vrykul_group;Королевство;;;;;;;;;;;;;x
+tribal_king_vrykul_group;Королевство;;;;;;;;;;;;;x
+tribal_duke_vrykul_group;Ярл;;;;;;;;;;;;;x
+tribal_duke_female_vrykul_group;Ярл;;;;;;;;;;;;;x
+tribal_duchy_of_vrykul_group;Ярлство;;;;;;;;;;;;;x
+# dryad_group;;;;;;;;;;;;;;x
+tribal_count_frostnymph;Страж;;;;;;;;;;;;;x
+tribal_count_female_frostnymph;Стражница;;;;;;;;;;;;;x
+tribal_county_of_dryad_group;Обитель;;;;;;;;;;;;;x
+tribal_county_dryad_group;Обитель;;;;;;;;;;;;;x
+tribal_baron_dryad_group;Хранитель;;;;;;;;;;;;;x
+tribal_baron_female_dryad_group;Хранительница;;;;;;;;;;;;;x
+tribal_barony_of_dryad_group;Убежище;;;;;;;;;;;;;x
+tribal_barony_dryad_group;Убежище;;;;;;;;;;;;;x
+# drust;;;;;;;;;;;;;;x
+tribal_king_drust;Горак;;;;;;;;;;;;;
+tribal_king_female_drust;Горака;;;;;;;;;;;;;
+tribal_kingdom_of_drust;Горакство;;;;;;;;;;;;;
+tribal_kingdom_drust;Горакство;;;;;;;;;;;;;
+tribal_duke_drust;Ингра;;;;;;;;;;;;;x
+tribal_duke_female_drust;Ингра;;;;;;;;;;;;;x
+tribal_duchy_of_drust;Ингрство;;;;;;;;;;;;;x
+tribal_duchy_drust;Ингрство;;;;;;;;;;;;;x
+# ogre_group;;;;;;;;;;;;;;x
+tribal_emperor_ogre_group;Император;;;;;;;;;;;;;x
+tribal_emperor_female_ogre_group;Императрица;;;;;;;;;;;;;x
+tribal_empire_of_ogre_group;Империя;;;;;;;;;;;;;x
+tribal_empire_ogre_group;Империя;;;;;;;;;;;;;x

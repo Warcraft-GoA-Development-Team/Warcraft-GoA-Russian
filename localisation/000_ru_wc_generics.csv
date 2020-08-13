@@ -1,0 +1,238 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+tp_school_1;Архивы;;;;;;;;;;;;;x
+tp_school_2;Архивы;;;;;;;;;;;;;x
+tp_school_desc;Архивы;;;;;;;;;;;;;x
+tp_school_2_desc;Читальня [Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;;x
+hospital_building_1;Лачуга целителя;;;;;;;;;;;;;x
+hospital_building_2;Хижина целителя;;;;;;;;;;;;;x
+hospital_building_3;Госпиталь;;;;;;;;;;;;;x
+hospital_building_4;Лечебный комплекс;;;;;;;;;;;;;x
+hospital_building_5;Священный целительский комплекс;;;;;;;;;;;;;x
+hospital_building_1_desc;Лачуга целителя;;;;;;;;;;;;;x
+hospital_building_2_desc;Хижина целителя;;;;;;;;;;;;;x
+hospital_building_3_desc;Госпиталь;;;;;;;;;;;;;x
+hospital_building_4_desc;Лечебный комплекс;;;;;;;;;;;;;x
+hospital_building_5_desc;Священный целительский комплекс;;;;;;;;;;;;;x
+leper_colony_1;Карантинный комплекс;;;;;;;;;;;;;x
+chapel_1;Приют;;;;;;;;;;;;;x
+translation_house_1;Посольство;;;;;;;;;;;;;x
+pilgrims_inn_1;Купальня;;;;;;;;;;;;;x
+pharmacology_laboratory_1;Алхимическая лаборатория;;;;;;;;;;;;;x
+medical_academy_1;Академия жрецов;;;;;;;;;;;;;x
+leper_colony_building_desc;Карантинный комплекс;;;;;;;;;;;;;x
+chapel_building_desc;Карантинный комплекс;;;;;;;;;;;;;x
+translation_house_building_desc;Посольство;;;;;;;;;;;;;x
+pilgrims_inn_building_desc;Купальня;;;;;;;;;;;;;x
+pharmacology_laboratory_building_desc;Алхимическая лаборатория;;;;;;;;;;;;;x
+medical_academy_building_desc;Академия жрецов;;;;;;;;;;;;;x
+fp_mansion_1;Малый зал гильдии;;;;;;;;;;;;;x
+fp_mansion_2;Зал гильдии;;;;;;;;;;;;;x
+fp_mansion_3;Колоссальный зал гильдии;;;;;;;;;;;;;x
+fp_mansion_4;Штаб-квартира гильдии;;;;;;;;;;;;;x
+fp_mansion_1_desc;Малый зал гильдии;;;;;;;;;;;;;x
+fp_mansion_2_desc;Зал гильдии;;;;;;;;;;;;;x
+fp_mansion_3_desc;Колоссальный зал гильдии;;;;;;;;;;;;;x
+fp_mansion_4_desc;Штаб-квартира гильдии;;;;;;;;;;;;;x
+tb_market_town_1;Разрозненные семьи;;;;;;;;;;;;;x
+tb_market_town_2;Племенная колония;;;;;;;;;;;;;x
+tb_market_town_3;Племенное поселение;;;;;;;;;;;;;x
+tb_market_town_4;Племенной городок;;;;;;;;;;;;;x
+tb_market_town_1_desc;Разрозненные семьи;;;;;;;;;;;;;x
+tb_market_town_2_desc;Племенная колония;;;;;;;;;;;;;x
+tb_market_town_3_desc;Племенное поселение;;;;;;;;;;;;;x
+tb_market_town_4_desc;Племенной городок;;;;;;;;;;;;;x
+tb_hillfort_1;Хижина воина;;;;;;;;;;;;;x
+tb_hillfort_2;Зал воеводы;;;;;;;;;;;;;x
+tb_hillfort_3;Укрепление вождя;;;;;;;;;;;;;x
+tb_hillfort_4;Крепость завоевателя;;;;;;;;;;;;;x
+tb_hillfort_1_desc;Хижина воина;;;;;;;;;;;;;x
+tb_hillfort_2_desc;Зал воеводы;;;;;;;;;;;;;x
+tb_hillfort_3_desc;Укрепление вождя;;;;;;;;;;;;;x
+tb_hillfort_4_desc;Крепость завоевателя;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+tr_sahara_1;Торговый пост;;;;;;;;;;;;;x
+tr_sahara_1_desc;Малый торговый пост, в котором странствующие торговцы могут купить или продать различные товары.;;;;;;;;;;;;;x
+tr_sahara_2;Рынок;;;;;;;;;;;;;x
+tr_sahara_2_desc;Торговый пост, выросший в большой рынок, привлекающий больше торговцев и разнообразные товары.;;;;;;;;;;;;;x
+tr_sahara_3;Торговый город;;;;;;;;;;;;;x
+tr_sahara_3_desc;Важный торговый центр, в котором можно найти товары, которые не встречаются ни в другом уголке мира.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+trade_offices_1;Малое торговое представительство;;;;;;;;;;;;;x
+trade_offices_2;Торговое представительство;;;;;;;;;;;;;x
+trade_offices_3;Большое торговое представительство;;;;;;;;;;;;;x
+tr_silk_road_office_1_desc;Это простое, но эффективное торговое представительство, из которого контролируется вся торговля, проходящяя через этот торговый пост.;;;;;;;;;;;;;x
+tr_silk_road_office_2_desc;Торговое представительство было перестроено и теперь получило постоянное здание на этой части торгового маршрута.;;;;;;;;;;;;;x
+tr_silk_road_office_3_desc;Эта обширный комплекс торгового представительства, из которого не только контролируется поток товаров на этом торговом пути, но и приносит славу своему владельцу.;;;;;;;;;;;;;x
+mercenary_garrison_1;Малый гарнизон наемников;;;;;;;;;;;;;x
+mercenary_garrison_2;Средний гарнизон наемников;;;;;;;;;;;;;x
+mercenary_garrison_3;Большой гарнизон наемников;;;;;;;;;;;;;x
+tr_silk_road_garrison_1_desc;Небольшая группа наемников постоянно охраняет этот пост от внешних угроз.;;;;;;;;;;;;;x
+tr_silk_road_garrison_2_desc;Множество наемников постоянно охраняют этот пост от внешних угроз.;;;;;;;;;;;;;x
+tr_silk_road_garrison_3_desc;Большое количество наемников постоянно охраняет этот пост от внешних угроз.;;;;;;;;;;;;;x
+radhanite_quarter_1;Малый картель;;;;;;;;;;;;;x
+radhanite_quarter_1_desc;Торговый пост, принадлежащий малому торговому картелю.;;;;;;;;;;;;;x
+radhanite_quarter_2;Картель;;;;;;;;;;;;;x
+radhanite_quarter_2_desc;Укрепленный торговый пост, принадлежащий торговому картелю.;;;;;;;;;;;;;x
+radhanite_quarter_3;Большой картель;;;;;;;;;;;;;x
+radhanite_quarter_3_desc;Укрепленный торговый пост, принадлежащий большому торговому картелю, ведущему свою деятельность во всех уголках мира.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ca_wall_q_1;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ca_wall_q_2;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ca_wall_q_3;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ca_wall_q_4;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ca_wall_q_5;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ca_wall_q_desc;Деревянный частокол, который может быть поднят или опущен в зависимости от ситуации.;;;;;;;;;;;;;x
+ca_wall_1;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ca_wall_2;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ca_wall_3;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ca_wall_4;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ca_wall_5;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ca_wall_desc;Эти [Root.Holder.GetMineral] стены окружают крепость и могут отразить любую попытку штурма.;;;;;;;;;;;;;x
+ca_barracks_1;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
+ca_barracks_2;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
+ca_barracks_3;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
+ca_barracks_4;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
+ca_barracks_5;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
+ca_barracks_6;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
+ca_barracks_1_desc;Эти здания являются местом сбора ополчения замка [Root.Holder.GetCastleAdjective].;;;;;;;;;;;;;x
+ca_stable_1;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
+ca_stable_2;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
+ca_stable_3;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
+ca_stable_4;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
+ca_stable_5;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
+ca_stable_6;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
+ca_stable_1_desc;В этих конюшнях расположены все скакуны [Root.Holder.GetStableType] ополчения.;;;;;;;;;;;;;x
+ca_town_1;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
+ca_town_2;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
+ca_town_3;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
+ca_town_4;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
+ca_town_5;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
+ca_town_6;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
+ca_town_desc;Вокруг замка выросло поселение, а [Root.Holder.GetPeasantsType] в момент опасности стекаются в замок.;;;;;;;;;;;;;x
+ca_keep_1;Укрепление;;;;;;;;;;;;;x
+ca_keep_2;Укрепление;;;;;;;;;;;;;x
+ca_keep_3;Укрепление;;;;;;;;;;;;;x
+ca_keep_4;Укрепление;;;;;;;;;;;;;x
+ca_keep_5;Укрепление;;;;;;;;;;;;;x
+ca_keep_6;Укрепление;;;;;;;;;;;;;x
+ca_keep_1_desc;[Root.Holder.GetCastleAdjective] укрепления служат резиденцией для обитателей замка.;;;;;;;;;;;;;x
+ca_militia_barracks_1;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ca_militia_barracks_2;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ca_militia_barracks_3;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ca_militia_barracks_4;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ca_militia_barracks_desc;Стрельбище, в котором ополченцы овладевают искусством лука и меча.;;;;;;;;;;;;;x
+ca_training_grounds_1;Тренировочная площадка;;;;;;;;;;;;;x
+ca_training_grounds_2;Тренировочная площадка;;;;;;;;;;;;;x
+ca_training_grounds_3;Тренировочная площадка;;;;;;;;;;;;;x
+ca_training_grounds_1_desc;Тренировочные площадки -  место, в котором ополченцы тренируются и готовятся к следующей войне.;;;;;;;;;;;;;x
+ca_shipyard_1;[Root.Holder.GetCastleAdjectiveCap] верфи;;;;;;;;;;;;;x
+ca_shipyard_2;[Root.Holder.GetCastleAdjectiveCap] верфи;;;;;;;;;;;;;x
+ca_shipyard_3;[Root.Holder.GetCastleAdjectiveCap] верфи;;;;;;;;;;;;;x
+ca_shipyard_4;[Root.Holder.GetCastleAdjectiveCap] верфи;;;;;;;;;;;;;x
+shipyard_desc;Здесь трудятся умелые кораблестроители, строя всевозможные морские суда.;;;;;;;;;;;;;x
+wcca_aviary_1;Полетный комплекс;;;;;;;;;;;;;x
+wcca_aviary_2;Полетный комплекс;;;;;;;;;;;;;x
+wcca_aviary_3;Полетный комплекс;;;;;;;;;;;;;x
+wcca_aviary_4;Полетный комплекс;;;;;;;;;;;;;x
+wcca_aviary_5;Полетный комплекс;;;;;;;;;;;;;x
+wcca_aviary_6;Полетный комплекс;;;;;;;;;;;;;x
+wcca_aviary_1_desc;Огромное количество крылатых созданий обитают здесь и тренируются в искусстве войны.;;;;;;;;;;;;;x
+ct_wall_q_1;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ct_wall_q_2;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ct_wall_q_3;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ct_wall_q_4;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ct_wall_q_5;[Root.Holder.GetMineralCap] укрепления;;;;;;;;;;;;;x
+ct_wall_1;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ct_wall_2;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ct_wall_3;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ct_wall_4;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ct_wall_5;[Root.Holder.GetMineralCap] стены;;;;;;;;;;;;;x
+ct_wall_desc;Эти [Root.Holder.GetMineral] стены окружают поселение и могут отразить любую попытку штурма;;;;;;;;;;;;;x
+ct_rep_arsenal_1;Арсенал;;;;;;;;;;;;;x
+ct_rep_arsenal_2;Арсенал;;;;;;;;;;;;;x
+ct_rep_arsenal_3;Арсенал;;;;;;;;;;;;;x
+ct_rep_arsenal_desc;Укрепленные верфи и арсеналы сосредоточены на побережье столицы республики;;;;;;;;;;;;;x
+ct_training_grounds_1;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ct_training_grounds_2;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ct_training_grounds_3;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ct_training_grounds_4;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ct_training_grounds_5;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ct_training_grounds_6;Тренировочные площадки [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+ct_training_grounds_1_desc;Здесь собирается и вооружается городское ополчение;;;;;;;;;;;;;x
+ct_barracks_1;Место сбора ополчения;;;;;;;;;;;;;x
+ct_barracks_2;Место сбора ополчения;;;;;;;;;;;;;x
+ct_barracks_3;Место сбора ополчения;;;;;;;;;;;;;x
+ct_barracks_4;Место сбора ополчения;;;;;;;;;;;;;x
+ct_barracks_5;Место сбора ополчения;;;;;;;;;;;;;x
+ct_barracks_6;Место сбора ополчения;;;;;;;;;;;;;x
+ct_barracks_desc;This range lets the city inhabitants practise their archery and provides skilled bowmen for the militia.;;;;;;;;;;;;;x
+ct_guard_1;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
+ct_guard_2;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
+ct_guard_3;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
+ct_guard_4;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
+ct_guard_5;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
+ct_guard_6;[Root.Holder.GetCityAdjectiveCap] стража;;;;;;;;;;;;;x
+ct_guard_1_desc;В этом здании проживает [Root.Holder.GetCityAdjective] стража [Root.Holder.GetGuardPurpose];;;;;;;;;;;;;x
+ct_marketplace_1;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
+ct_marketplace_2;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
+ct_marketplace_3;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
+ct_marketplace_4;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
+ct_marketplace_5;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
+ct_marketplace_6;[Root.Holder.GetMarketplaceCap];;;;;;;;;;;;;x
+ct_marketplace_desc;Центр города [Root.Holder.GetMarketplacePurpose];;;;;;;;;;;;;x
+ct_port_1;Гавань;;;;;;;;;;;;;x
+ct_port_2;Гавань;;;;;;;;;;;;;x
+ct_port_3;Гавань;;;;;;;;;;;;;x
+ct_port_4;Гавань;;;;;;;;;;;;;x
+ct_port_5;Гавань;;;;;;;;;;;;;x
+ct_port_1_desc;Порт, обслуживающий корабли, которые загружают или разгружают грузы.;;;;;;;;;;;;;x
+ct_university_1;[Root.Holder.GetUniversityCap];;;;;;;;;;;;;x
+ct_university_2;[Root.Holder.GetUniversityCap];;;;;;;;;;;;;x
+ct_university_3;[Root.Holder.GetUniversityCap];;;;;;;;;;;;;x
+ct_university_1_desc;Место, где получает более продвинутое образование [Root.Holder.GetUniversityPurpose];;;;;;;;;;;;;x
+tp_wall_desc;[Root.Holder.GetMineral] стены, окружающие [Root.Holder.GetHouseOfWorship], которые способны помочь отразить любую атаку.;;;;;;;;;;;;;x
+tp_monastery_4;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;;x
+tp_monastery_5;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;;x
+tp_monastery_6;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;;x
+tp_monastery_desc;[Root.Holder.GetHouseOfWorship] служит как [Root.Holder.GetSpiritual] центр местного [Root.Holder.GetCommunity].;;;;;;;;;;;;;x
+tp_barracks_1;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+tp_barracks_2;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+tp_barracks_3;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+tp_barracks_4;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+tp_barracks_5;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+tp_barracks_6;Казармы [Root.Holder.GetMilitiaTypeCap];;;;;;;;;;;;;x
+tp_barracks_1_desc;В час нужды, [Root.Holder.GetPeasantsType] призываются в [Root.Holder.GetHouseOfWorship] ополчение и размещаются в этом сооружении.;;;;;;;;;;;;;x
+tp_elite_barracks_1_desc;Это набожные воины принесли клятву защищать этот [Root.Holder.GetHouseOfWorship] ценой своих жизней.;;;;;;;;;;;;;x
+tp_town_desc;Это поселение набожных [Root.Holder.GetPeasantsType] создано вокруг [Root.Holder.GetHouseOfWorship].;;;;;;;;;;;;;x
+tp_shipyard_1;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
+tp_shipyard_2;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
+tp_shipyard_3;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
+tp_shipyard_4;[Root.Holder.GetHouseOfWorshipCap] верфь;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+tr_banana_plantation_1;Малая банановая плантация;;;;;;;;;;;;;x
+tr_banana_plantation_2;Банановая плантация;;;;;;;;;;;;;x
+tr_banana_plantation_3;Большая банановая плантация;;;;;;;;;;;;;x
+tr_banana_plantation_1_desc;Малое поле, на котором выращивают бананы.;;;;;;;;;;;;;x
+tr_banana_plantation_2_desc;Возделанные плантации, на котором можно выращивать большее количество бананов.;;;;;;;;;;;;;x
+tr_banana_plantation_3_desc;Производство в этом большом комплексе плантаций не имеет равных. Здесь производят огромное количество бананов.;;;;;;;;;;;;;x
+tr_banana_rum_distillery;Ромовая фабрика;;;;;;;;;;;;;x
+tr_banana_rum_distillery_desc;Место, в котором производят и продают банановый ром высокого качества.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+wcfo_tower_1;Разведывательные башни;;;;;;;;;;;;;x
+wcfo_tower_2;Заставы;;;;;;;;;;;;;x
+wcfo_tower_1_desc;Легкие деревянные разведывательные башни, построенные для надзора за вражескими войсками.;;;;;;;;;;;;;x
+wcfo_tower_2_desc;Укрепленная застава, защищающая округ от вражеских налетчиков.;;;;;;;;;;;;;x
+wcfo_patrols_1;Легкий гарнизон;;;;;;;;;;;;;x
+wcfo_patrols_2;Тяжелый гарнизон;;;;;;;;;;;;x
+wcfo_patrols_1_desc;В этом форте размещен пеший гарнизон, защищающий окружающие земли.;;;;;;;;;;;;;x
+wcfo_patrols_2_desc;Тяжелые войска, размещенный для улучшения обороны окрестных земель.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x

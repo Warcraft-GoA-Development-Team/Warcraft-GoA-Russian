@@ -1,0 +1,135 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+k_ahnqiraj;Ан'Кираж;;;;;;;;;;;;;x
+k_ahnqiraj_adj;Ан'Кираж;;;;;;;;;;;;;x
+k_alterac;Альтерак;;;;;;;;;;;;;x
+k_alterac_adj;Альтерак;;;;;;;;;;;;;x
+k_ashenvale;Ясеневый лес;;;;;;;;;;;;;x
+k_ashenvale_adj;Ясеневолес;;;;;;;;;;;;;x
+k_azshara;Азшара;;;;;;;;;;;;;x
+k_azshara_adj;Азшар;;azsharer;;;;;;;;;;;x
+k_azuremyst;Лазурная Дымка;;;;;;;;;;;;;x
+k_azuremyst_adj;Лазурнодым;;;;;;;;;;;;;x
+k_barrens;Степи;;;;;;;;;;;;;x
+k_barrens_adj;Степ;;;;;;;;;;;;;x
+k_black_morass;Черные Топи;;;;;;;;;;;;;x
+k_black_morass_adj;Чернотоп;;;;;;;;;;;;;x
+k_blackrock;Черная Гора;;;;;;;;;;;;;x
+k_blackrock_adj;Черногор;;;;;;;;;;;;;x
+k_booty_bay;Пиратская Бухта;;;;;;;;;;;;;x
+k_booty_bay_adj;Пиратскобухт;;;;;;;;;;;;;x
+k_borean_tundra;Борейская Тундра;;;;;;;;;;;;;x
+k_borean_tundra_adj;Борей;;;;;;;;;;;;;x
+k_crystalsong_forest;Лес Хрустальной Песни;;;;;;;;;;;;;x
+k_crystalsong_forest_adj;Хрустальнолес;;;;;;;;;;;;;x
+k_dalaran;Даларан;;;;;;;;;;;;;x
+k_dalaran_adj;Даларан;;;;;;;;;;;;;x
+k_darkshore;Темные берега;;;;;;;;;;;;;x
+k_darkshore_adj;Темнобереж;;;;;;;;;;;;;x
+k_desolace;Пустоши;;;;;;;;;;;;;x
+k_desolace_adj;Пустош;;;;;;;;;;;;;x
+k_dragonblight;Драконий Погост;;;;;;;;;;;;;x
+k_dragonblight_adj;Драконопогост;;;;;;;;;;;;;x
+k_draktharon;Драк'Тарон;;;;;;;;;;;;;x
+k_draktharon_adj;Драк'Тарон;;;;;;;;;;;;;x
+k_dun_niffelem;Дун Ниффелем;;;;;;;;;;;;;x
+k_dun_niffelem_adj;Дун Ниффелем;;;;;;;;;;;;;x
+k_durotan;Дуротан;;;;;;;;;;;;;x
+k_durotan_adj;Дуротан;;;;;;;;;;;;;x
+k_dustwallow;Пылевые топи;;;;;;;;;;;;;x
+k_dustwallow_adj;Пылетопь;;;;;;;;;;;;;x
+k_feralas;Фералас;;;;;;;;;;;;;x
+k_feralas_adj;Фералас;;;;;;;;;;;;;x
+k_frostmane;Мерзлогривы;;;;;;;;;;;;;x
+k_frostmane_adj;Мерзлогрив;;;;;;;;;;;;;x
+k_gilneas;Гилнеас;;;;;;;;;;;;;x
+k_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+k_gnomeregan;Гномреган;;;;;;;;;;;;;x
+k_gnomeregan_adj;Гномреган;;;;;;;;;;;;;x
+k_grizzly_hills;Седые холмы;;;;;;;;;;;;;x
+k_grizzly_hills_adj;Седохолм;;;;;;;;;;;;;x
+k_gurubashi;Гурубаши;;;;;;;;;;;;;x
+k_gurubashi_adj;Гурубаш;;;;;;;;;;;;;x
+k_hillsbrad;Хилсбрад;;;;;;;;;;;;;x
+k_hillsbrad_adj;Хилсбрад;;;;;;;;;;;;;x
+k_hinterlands;Внутренние земли;;;;;;;;;;;;;x
+k_hinterlands_adj;Внутрезем;;;;;;;;;;;;;x
+k_howling_fjord;Ревущий фьорд;;;;;;;;;;;;;x
+k_howling_fjord_adj;Ревущефьорд;;;;;;;;;;;;;x
+k_hyjal;Хиджал;;;;;;;;;;;;;x
+k_hyjal_adj;Хиджал;;;;;;;;;;;;;x
+k_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+k_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+k_ironforge;Стальгорн;;;;;;;;;;;;;x
+k_ironforge_adj;Стальгорн;;;;;;;;;;;;;x
+k_isle_of_conquest;Остров Завоеваний;;;;;;;;;;;;;x
+k_isle_of_conquest_adj;Островзавоеван;;;;;;;;;;;;;x
+k_kezan;Кезан;;;;;;;;;;;;;x
+k_kezan_adj;Кезан;;;;;;;;;;;;;x
+k_kul_tiras;Кул-Тирас;;;;;;;;;;;;;x
+k_kul_tiras_adj;Кул-Тирас;;;;;;;;;;;;;x
+k_lordaeron;Лордерон;;;;;;;;;;;;;x
+k_lordaeron_adj;Лордерон;;;;;;;;;;;;;x
+k_mechagon;Мехагон;;;;;;;;;;;;;x
+k_mechagon_adj;Мехагон;;;;;;;;;;;;;x
+k_moonglade;Лунная поляна;;;;;;;;;;;;;x
+k_moonglade_adj;Луннополян;;;;;;;;;;;;;x
+k_morlosaran;Морлос'Аран;;;;;;;;;;;;;x
+k_morlosaran_adj;Морлос'Аран;;;;;;;;;;;;;x
+k_mulgore;Мулгор;;;;;;;;;;;;;x
+k_mulgore_adj;Мулгор;;;;;;;;;;;;;x
+k_neferset;Неферсет;;;;;;;;;;;;;x
+k_neferset_adj;Неферсет;;;;;;;;;;;;;x
+k_orsis;Орсис;;;;;;;;;;;;;x
+k_orsis_adj;Орсис;;;;;;;;;;;;;x
+k_plunder_isle;Остров Грабежа;;;;;;;;;;;;;x
+k_plunder_isle_adj;Островграбеж;;;;;;;;;;;;;x
+k_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+k_quelthalas_adj;Талассий;;;;;;;;;;;;;x
+k_ramkahen;Рамкахен;;;;;;;;;;;;;x
+k_ramkahen_adj;Рамкахен;;;;;;;;;;;;;x
+k_sholazar_basin;Низина Шолазар;;;;;;;;;;;;;x
+k_sholazar_basin_adj;Шолазар;;;;;;;;;;;;;x
+k_silithus;Силитус;;;;;;;;;;;;;x
+k_silithus_adj;Силитус;;;;;;;;;;;;;x
+k_south_islands;Южные острова;;;;;;;;;;;;;x
+k_south_islands_adj;Южноостров;;;;;;;;;;;;;x
+k_stonetalon;Когтистые горы;;;;;;;;;;;;;x
+k_stonetalon_adj;Когтегор;;;;;;;;;;;;;x
+k_storm_peaks;Грозовая гряда;;;;;;;;;;;;;x
+k_storm_peaks_adj;Грозогряд;;;;;;;;;;;;;x
+k_stormwind;Штормград;;;;;;;;;;;;;x
+k_stormwind_adj;Штормград;;;;;;;;;;;;;x
+k_stratholme;Стратхольм;;;;;;;;;;;;;x
+k_stratholme_adj;Стратхольм;;;;;;;;;;;;;x
+k_stromgarde;Стромгард;;;;;;;;;;;;;x
+k_stromgarde_adj;Стромгард;;;;;;;;;;;;;x
+k_tanaris;Танарис;;;;;;;;;;;;;x
+k_tanaris_adj;Танарис;;;;;;;;;;;;;x
+k_tel_abim;Тель'Абим;;;;;;;;;;;;;x
+k_tel_abim_adj;Тель Абим;;;;;;;;;;;;;x
+k_thousand_needles;Тысяча Игл;;;;;;;;;;;;;x
+k_thousand_needles_adj;Тысячеигл;;;;;;;;;;;;;x
+k_tol_barad;Тол Барад;;;;;;;;;;;;;x
+k_tol_barad_adj;Толбарад;;;;;;;;;;;;;x
+k_tranquillien;Транквиллион;;;;;;;;;;;;;x
+k_tranquillien_adj;Транквиллион;;;;;;;;;;;;;x
+k_ulduar;Ульдуар;;;;;;;;;;;;;x
+k_ulduar_adj;Ульдуар;;;;;;;;;;;;;x
+k_vermillion;Вермиллион;;;;;;;;;;;;;x
+k_vermillion_adj;Вермиллион;;;;;;;;;;;;;x
+k_voldun;Вол'дун;;;;;;;;;;;;;x
+k_voldun_adj;Волдун;;;;;;;;;;;;;x
+k_wetlands;Болотина;;;;;;;;;;;;;x
+k_wetlands_adj;Болотин;;;;;;;;;;;;;x
+k_wildhammer;Неистовый Молот;;;;;;;;;;;;;x
+k_wildhammer_adj;Неистовомолот;;;;;;;;;;;;;x
+k_winterspring;Зимние Ключи;;;;;;;;;;;;;x
+k_winterspring_adj;Зимнеключ;;;;;;;;;;;;;x
+k_zandalar;Зандалар;;;;;;;;;;;;;x
+k_zandalar_adj;Зандалар;;;;;;;;;;;;;x
+k_zulaman;Зул'Аман;;;;;;;;;;;;;x
+k_zulaman_adj;Зул'аман;;;;;;;;;;;;;x
+k_zuldrak;Зул'Драк;;;;;;;;;;;;;x
+k_zuldrak_adj;Зул'драк;;;;;;;;;;;;;x
+k_zulfarrak;Зул'Фаррак;;;;;;;;;;;;;x
+k_zulfarrak_adj;Зул'фаррак;;;;;;;;;;;;;x

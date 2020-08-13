@@ -1,0 +1,7 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+DW_prolong_life_power_tooltip;[DW_prolong_life_power_has_mystics_dlc];;;;;;;;;;;;;x
+devil_worshipers_dark_healing_power_tooltip;[devil_worshipers_dark_healing_power_has_mystics_dlc];;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+DW_prolong_life_power_has_mystics_dlc_true_key;Сила: §YПоглотить жизненную силу§!\nКликнув §Gправой кнопкой мыши§! на портретах своих детей, Вы можете попытаться поглотить их жизненную силу в обмен на §Y[Root.Society.GetCurrency]§!.;;;;;;;;;;;;;x
+devil_worshipers_dark_healing_power_has_mystics_dlc_true_key;Сила: §YТемное исцеление§!\nКликнув §Gправой кнопкой мыши§! на своём портрете, Вы можете совершить тёмный ритуал, чтобы вылечить себя в обмен на §Y[Root.Society.GetCurrency]§!.;;;;;;;;;;;x
+;;;;;;;;;;;;;;

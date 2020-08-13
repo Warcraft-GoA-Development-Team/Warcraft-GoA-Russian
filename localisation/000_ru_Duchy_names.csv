@@ -1,0 +1,587 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+d_aerie_peak;Заоблачный Пик;;;;;;;;;;;;;x
+d_aerie_peak_adj;Заоблачнопик;;;;;;;;;;;;;x
+d_aessina;Эссина;;;;;;;;;;;;;x
+d_aessina_adj;Эссин;;;;;;;;;;;;;x
+d_ahnqiraj;Ан'кираж;;;;;;;;;;;;;x
+d_ahnqiraj_adj;Ан'кираж;;;;;;;;;;;;;x
+d_akhenet;Ахенет;;;;;;;;;;;;;x
+d_akhenet_adj;Ахенет;;;;;;;;;;;;;x
+d_alterac;Альтерак;;;;;;;;;;;;;x
+d_alterac_adj;Альтерак;;;;;;;;;;;;;x
+d_amber_ledge;Янтарная Гряда;;;;;;;;;;;;;x
+d_amber_ledge_adj;Янтарногряд;;;;;;;;;;;;;x
+d_ambermill;Янтарная Мельница;;;;;;;;;;;;;x
+d_ambermill_adj;Янтарномельник;;;;;;;;;;;;;x
+d_andorhal;Андорал;;;;;;;;;;;;;x
+d_andorhal_adj;Андораль;;;;;;;;;;;;;x
+d_ashvane;Эшвейн;;;;;;;;;;;;;x
+d_ashvane_adj;Эшвейн;;;;;;;;;;;;;x
+d_asova;Ашова;;;;;;;;;;;;;x
+d_asova_adj;Ашов;;;;;;;;;;;;;x
+d_assmel;Асмель;;;;;;;;;;;;;x
+d_assmel_adj;Асмель;;;;;;;;;;;;;x
+d_astranaar;Астранаар;;;;;;;;;;;;;x
+d_astranaar_adj;Астранаар;;;;;;;;;;;;;x
+d_atulaman;Атул'Аман;;;;;;;;;;;;;x
+d_atulaman_adj;Атул'Аман;;;;;;;;;;;;;x
+d_azuremyst_isle;Остров Лазурной Дымки;;;;;;;;;;;;;x
+d_azuremyst_isle_adj;Лазурнодым;;;;;;;;;;;;;x
+d_badland;Бесплодные земли;;;;;;;;;;;;;x
+d_badland_adj;Бесплоднозем;;;;;;;;;;;;;x
+d_balor;Балор;;;;;;;;;;;;;x
+d_balor_adj;Балор;;;;;;;;;;;;;x
+d_bambala;Бамбала;;;;;;;;;;;;;x
+d_bambala_adj;Бамбал;;;;;;;;;;;;;x
+d_baymouth;Устье залива;;;;;;;;;;;;;x
+d_baymouth_adj;Беймут;;;;;;;;;;;;;x
+d_black_morass;Черные Топи;;;;;;;;;;;;;x
+d_black_morass_adj;Чернотоп;;;;;;;;;;;;;x
+d_blackmaw;Черночрево;;;;;;;;;;;;;x
+d_blackmaw_adj;Черночрев;;;;;;;;;;;;;x
+d_blackrock_mountain;Черная Гора;;;;;;;;;;;;;x
+d_blackrock_mountain_adj;Черногор;;;;;;;;;;;;;x
+d_blackwald;Черная Дубрава;;;;;;;;;;;;;x
+d_blackwald_adj;Чернодубрав;;;;;;;;;;;;;x
+d_blackwood;Чернолесье;;;;;;;;;;;;;x
+d_blackwood_adj;Чернолес;;;;;;;;;;;;;x
+d_bloodspore;Кровавая Спора;;;;;;;;;;;;;x
+d_bloodspore_adj;Кровоспор;;;;;;;;;;;;;x
+d_bluedome;Голубой Купол;;;;;;;;;;;;;x
+d_bluedome_adj;Голубокупол;;;;;;;;;;;;;x
+d_bogpaddle;Веслотопь;;;;;;;;;;;;;x
+d_bogpaddle_adj;Веслотопь;;;;;;;;;;;;;x
+d_bonetrail;Костяное Ущелье;;;;;;;;;;;;;x
+d_bonetrail_adj;Костяноущель;;;;;;;;;;;;;x
+d_booty_bay;Пиратская Бухта;;;;;;;;;;;;;x
+d_booty_bay_adj;Пиратскобухт;;;;;;;;;;;;;x
+d_borean_strand;Борейская Прядь;;;;;;;;;;;;;x
+d_borean_strand_adj;Борейскопряд;;;;;;;;;;;;;x
+d_brackenwall;Гиблотопь;;;;;;;;;;;;;x
+d_brackenwall_adj;Гиблотопь;;;;;;;;;;;;;x
+d_brightwood;Светлая Роща;;;;;;;;;;;;;x
+d_brightwood_adj;Светлорощь;;;;;;;;;;;;;x
+d_brill;Брилл;;;;;;;;;;;;;x
+d_brill_adj;Брилл;;;;;;;;;;;;;x
+d_brunnhildar;Брунхильдар;;;;;;;;;;;;;x
+d_brunnhildar_adj;Брунхильдар;;;;;;;;;;;;;x
+d_bulwark;Бастион;;;;;;;;;;;;;x
+d_bulwark_adj;Бастион;;;;;;;;;;;;;x
+d_burning_steppes;Пылающие Cтепи;;;;;;;;;;;;;x
+d_burning_steppes_adj;Пылающестеп;;;;;;;;;;;;;x
+d_bwonalor;Бвон'алор;;;;;;;;;;;;;x
+d_bwonalor_adj;Бвон'алор;;;;;;;;;;;;;x
+d_cape_of_stranglethorn;Мыс Тернистой долины;;;;;;;;;;;;;x
+d_cape_of_stranglethorn_adj;Тернодоль;;;;;;;;;;;;;x
+d_caverns_of_time;Пещеры Времени;;;;;;;;;;;;;x
+d_caverns_of_time_adj;Времяпещер;;;;;;;;;;;;;x
+d_central_dun_morogh;Центральный Дун Морог;;;;;;;;;;;;;x
+d_central_dun_morogh_adj;Дунморог;;;;;;;;;;;;;x
+d_channel_islands;Острова канала;;;;;;;;;;;;;x
+d_channel_islands_adj;Островоканал;;;;;;;;;;;;;x
+d_cifonill;Кифонилл;;;;;;;;;;;;;x
+d_cifonill_adj;Кифонилл;;;;;;;;;;;;;x
+d_cleftlands;Расселина;;;;;;;;;;;;;x
+d_cleftlands_adj;Расселин;;;;;;;;;;;;;x
+d_cocheta;Кохета;;;;;;;;;;;;;x
+d_cocheta_adj;Кохет;;;;;;;;;;;;;x
+d_coldarra;Хладарра;;;;;;;;;;;;;x
+d_coldarra_adj;Хладарр;;;;;;;;;;;;;x
+d_constellas;Констеллас;;;;;;;;;;;;;x
+d_constellas_adj;Констелл;;;;;;;;;;;;;x
+d_crossroads;Перекресток;;;;;;;;;;;;;x
+d_crossroads_adj;Перекресток;;;;;;;;;;;;;x
+d_crowvale;Воронья Долина;;;;;;;;;;;;;x
+d_crowvale_adj;Воронодол;;;;;;;;;;;;;x
+d_crystalvale;Хрустальная Долина;;;;;;;;;;;;;x
+d_crystalvale_adj;Хрустальнодол;;;;;;;;;;;;;x
+d_dalaran;Даларан;;;;;;;;;;;;;x
+d_dalaran_adj;Даларан;;;;;;;;;;;;;x
+d_darkmist;Мглистая пещера;;;;;;;;;;;;;x
+d_darkmist_adj;Мглистопещер;;;;;;;;;;;;;x
+d_darkmoon_island;Остров Новолуния;;;;;;;;;;;;;x
+d_darkmoon_island_adj;Новолун;;;;;;;;;;;;;x
+d_darkshore;Темные берега;;;;;;;;;;;;;x
+d_darkshore_adj;Темнобереж;;;;;;;;;;;;;x
+d_darkspear_islands;Острова Черного Копья;;;;;;;;;;;;;x
+d_darkspear_islands_adj;Темнокопей;;;;;;;;;;;;;x
+d_darrowshire;Дарроушир;;;;;;;;;;;;;x
+d_darrowshire_adj;Дарроушир;;;;;;;;;;;;;x
+d_dazaralor;Дазар'алор;;;;;;;;;;;;;x
+d_dazaralor_adj;Дазар'алор;;;;;;;;;;;;;x
+d_deadwind_pass;Перевал Мертвого ветра;;;;;;;;;;;;;x
+d_deadwind_pass_adj;Мертвоветер;;;;;;;;;;;;;x
+d_deep_elem;Серебряный рудник;;;;;;;;;;;;;x
+d_deep_elem_adj;Элем;;;;;;;;;;;;;x
+d_dhurrah;Дхуррах;;;;;;;;;;;;;x
+d_dhurrah_adj;Дхуррах;;;;;;;;;;;;;x
+d_dordanil;Дор'данил;;;;;;;;;;;;;x
+d_dordanil_adj;Дор'данил;;;;;;;;;;;;;x
+d_downs;Курганы;;;;;;;;;;;;;x
+d_downs_adj;Курган;;;;;;;;;;;;;x
+d_dragonwastes;Драконьи пустоши;;;;;;;;;;;;;x
+d_dragonwastes_adj;Драконопустош;;;;;;;;;;;;;x
+d_drakmabwa;Драк'Мабва;;;;;;;;;;;;;x
+d_drakmabwa_adj;Драк'Мабв;;;;;;;;;;;;;x
+d_draksotra;Драк'Сотра;;;;;;;;;;;;;x
+d_draksotra_adj;Драк'Сотр;;;;;;;;;;;;;x
+d_draktharon;Драк'Тарон;;;;;;;;;;;;;x
+d_draktharon_adj;Драк'тарон;;;;;;;;;;;;;x
+d_dreadmist;Багровый Туман;;;;;;;;;;;;;x
+d_dreadmist_adj;Багровотуман;;;;;;;;;;;;;x
+d_drognur;Дрогнур;;;;;;;;;;;;;x
+d_drognur_adj;Дрогнур;;;;;;;;;;;;;x
+d_drustwar;Друствар;;;;;;;;;;;;;x
+d_drustwar_adj;Друствар;;;;;;;;;;;;;x
+d_drygulch;Сухая лощина;;;;;;;;;;;;;x
+d_drygulch_adj;Сухолощин;;;;;;;;;;;;;x
+d_dryslope;Сухой склон;;;;;;;;;;;;;x
+d_dryslope_adj;Сухосклон;;;;;;;;;;;;;x
+d_dulzin;Дул'зин;;;;;;;;;;;;;x
+d_dulzin_adj;Дул'зин;;;;;;;;;;;;;x
+d_dun_algaz;Дун Альгаз;;;;;;;;;;;;;x
+d_dun_algaz_adj;Дун Альгаз;;;;;;;;;;;;;x
+d_dun_modr;Дун Модр;;;;;;;;;;;;;x
+d_dun_modr_adj;Дун Модр;;;;;;;;;;;;;x
+d_dun_niffelem;Дун Ниффелем;;;;;;;;;;;;;x
+d_dun_niffelem_adj;Ниффелем;;;;;;;;;;;;;x
+d_durnholde;Дарнхольд;;;;;;;;;;;;;x
+d_durnholde_adj;Дарнхольд;;;;;;;;;;;;;x
+d_duskmist_shore;Сумеречный берег;;;;;;;;;;;;;x
+d_duskmist_shore_adj;Сумеречноберег;;;;;;;;;;;;;x
+d_east_dun_morogh;Восточный Дун Морог;;;;;;;;;;;;;x
+d_east_dun_morogh_adj;Дун Морог;;;;;;;;;;;;;x
+d_eastern_arathi;Восточное Арати;;;;;;;;;;;;;x
+d_eastern_arathi_adj;Восточноарат;;;;;;;;;;;;;x
+d_eastvale;Восточная долина;;;;;;;;;;;;;x
+d_eastvale_adj;Восточнодоль;;;;;;;;;;;;;x
+d_eastwind;Восточный Ветер;;;;;;;;;;;;;x
+d_eastwind_adj;Восточноветр;;;;;;;;;;;;;x
+d_echo_isles;Острова Эха;;;;;;;;;;;;;x
+d_echo_isles_adj;Эхоостров;;;;;;;;;;;;;x
+d_edj;Эдж;;;;;;;;;;;;;x
+d_edj_adj;Эдж;;;;;;;;;;;;;x
+d_eldarath;Эльдарат;;;;;;;;;;;;;x
+d_eldarath_adj;Эльдарат;;;;;;;;;;;;;x
+d_eldrethalas;Эльдре'Талас;;;;;;;;;;;;;x
+d_eldrethalas_adj;Эльдре'Талас;;;;;;;;;;;;;x
+d_elwynn;Элвинн;;;;;;;;;;;;;x
+d_elwynn_adj;Элвинн;;;;;;;;;;;;;x
+d_far_highlands;Дальние нагорья;;;;;;;;;;;;;x
+d_far_highlands_adj;Дальненагор;;;;;;;;;;;;;x
+d_freehold;Вольная гавань;;;;;;;;;;;;;x
+d_freehold_adj;Вольногавань;;;;;;;;;;;;;x
+d_frenzyheart;Бешеное Сердце;;;;;;;;;;;;;x
+d_frenzyheart_adj;Бешеносерд;;;;;;;;;;;;;x
+d_frostfire;Ледяной огонь;;;;;;;;;;;;;x
+d_frostfire_adj;Огнелед;;;;;;;;;;;;;x
+d_frosthold;Ледяная крепость;;;;;;;;;;;;;x
+d_frosthold_adj;Ледянокреп;;;;;;;;;;;;;x
+d_frostsaber;Ледопард;;;;;;;;;;;;;x
+d_frostsaber_adj;Ледопард;;;;;;;;;;;;;x
+d_giants_run;Тропа великанов;;;;;;;;;;;;;x
+d_giants_run_adj;Великотроп;;;;;;;;;;;;;x
+d_gilneas;Гилнеас;;;;;;;;;;;;;x
+d_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+d_gjalerbron;Гьялерброн;;;;;;;;;;;;x;
+d_gjalerbron_adj;Гьялерброн;;;;;;;;;;;;;x
+d_glaive_isle;Остров глефы;;;;;;;;;;;;;x
+d_glaive_isle_adj;Глефоостров;;;;;;;;;;;;;x
+d_gnomeregan;Гномреган;;;;;;;;;;;;;x
+d_gnomeregan_adj;Гномреган;;;;;;;;;;;;;x
+d_golden_strand;Золотистое взморье;;;;;;;;;;;;;x
+d_golden_strand_adj;Золотовзмор;;;;;;;;;;;;;x
+d_greatwood;Великий лес;;;;;;;;;;;;;x
+d_greatwood_adj;Грейтвуд;;;;;;;;;;;;;x
+d_greenrush;Зеленая лихорадка;;;;;;;;;;;;;x
+d_greenrush_adj;Зеленолихорад;;;;;;;;;;;;;x
+d_grim_batol;Грим Батол;;;;;;;;;;;;;x
+d_grim_batol_adj;Грим Батол;;;;;;;;;;;;;x
+d_grizzlemaw;Седая пасть;;;;;;;;;;;;;x
+d_grizzlemaw_adj;Седопаст;;;;;;;;;;;;;x
+d_gundrak;Гундрак;;;;;;;;;;;;;x
+d_gundrak_adj;Гундрак;;;;;;;;;;;;;x
+d_haldarr;Халдарр;;;;;;;;;;;;;x
+d_haldarr_adj;Халдарр;;;;;;;;;;;;;x
+d_halgrind;Халгринд;;;;;;;;;;;;;x
+d_halgrind_adj;Халгринд;;;;;;;;;;;;;x
+d_hearthglen;Дольный Очаг;;;;;;;;;;;;;x
+d_hearthglen_adj;Хартглен;;;;;;;;;;;;;x
+d_hebdrakkar;Хеб'драккар;;;;;;;;;;;;;x
+d_hebdrakkar_adj;Хеб'драккар;;;;;;;;;;;;;x
+d_high_northeron;Высокий Нортерон;;;;;;;;;;;;;x
+d_high_northeron_adj;Нортерон;;;;;;;;;;;;;x
+d_hiji;Хиджи;;;;;;;;;;;;;x
+d_hiji_adj;Хидж;;;;;;;;;;;;;x
+d_hildor;Хил'дор;;;;;;;;;;;;;x
+d_hildor_adj;Хил'дор;;;;;;;;;;;;;x
+d_hillsbrad;Хилсбрад;;;;;;;;;;;;;x
+d_hillsbrad_adj;Хилсбрад;;;;;;;;;;;;;x
+d_holmslatr;Хольмслатр;;;;;;;;;;;;;x
+d_holmslatr_adj;Хольмслатр;;;;;;;;;;;;;x
+d_hotfield;Хотфилд;;;;;;;;;;;;;x
+d_hotfield_adj;Хотфилд;;;;;;;;;;;;;x
+d_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+d_icecrown_adj;Льдянокорон;;;;;;;;;;;;;x
+d_indule;Инду'ле;;;;;;;;;;;;;x
+d_indule_adj;Инду'лей;;;;;;;;;;;;;x
+d_irontree;Железнолесье;;;;;;;;;;;;;x
+d_irontree_adj;Железнолес;;;;;;;;;;;;;x
+d_isildien;Исильдиен;;;;;;;;;;;;;x
+d_isildien_adj;Исильдиен;;;;;;;;;;;;;x
+d_isle_of_conquest;Остров Завоеваний;;;;;;;;;;;;;x
+d_isle_of_conquest_adj;Островзавоеван;;;;;;;;;;;;;x
+d_isle_of_giants;Остров Великанов;;;;;;;;;;;;;x
+d_isle_of_giants_adj;Островвеликан;;;;;;;;;;;;;x
+d_jaedenar;Джеденар;;;;;;;;;;;;;x
+d_jaedenar_adj;Джеденар;;;;;;;;;;;;;x
+d_jagtar;Джаг'Тар;;;;;;;;;;;;;x
+d_jagtar_adj;Джаг'тар;;;;;;;;;;;;;x
+d_jahaqua;Джахакуа;;;;;;;;;;;;;x
+d_jahaqua_adj;Джахак;;;;;;;;;;;;;x
+d_jinkalak;Джин'Калак;;;;;;;;;;;;;x
+d_jinkalak_adj;Джин'калак;;;;;;;;;;;;;x
+d_jinthaalor;Джинта'Алор;;;;;;;;;;;;;x
+d_jinthaalor_adj;Джинта'алор;;;;;;;;;;;;;x
+d_jinthakalar;Джинта'Калар;;;;;;;;;;;;;x
+d_jinthakalar_adj;Джинта'калар;;;;;;;;;;;;;x
+d_jotunheim;Йотунхейм;;;;;;;;;;;;;x
+d_jotunheim_adj;Йотунхейм;;;;;;;;;;;;;x
+d_jozaes;Джозаез;;;;;;;;;;;;;x
+d_jozaes_adj;Джозаез;;;;;;;;;;;;;x
+d_junkwatt;Хламватт;;;;;;;;;;;;;x
+d_junkwatt_adj;Хламватт;;;;;;;;;;;;;x
+d_kaldoran;Калдоран;;;;;;;;;;;;;x
+d_kaldoran_adj;Калдоран;;;;;;;;;;;;;x
+d_kalidar;Калидар;;;;;;;;;;;;;x
+d_kalidar_adj;Калидар;;;;;;;;;;;;;x
+d_keel_harbor;Килевая Гавань;;;;;;;;;;;;;x
+d_keel_harbor_adj;Килегаван;;;;;;;;;;;;;x
+d_kharanos;Каранос;;;;;;;;;;;;;x
+d_kharanos_adj;Каранос;;;;;;;;;;;;;x
+d_khartut;Хартут;;;;;;;;;;;;;x
+d_khartut_adj;Хартут;;;;;;;;;;;;;x
+d_khintaset;Кинтасет;;;;;;;;;;;;;x
+d_khintaset_adj;Кинтасет;;;;;;;;;;;;;x
+d_krensen;Крен'сен;;;;;;;;;;;;;x
+d_krensen_adj;Кренсен;;;;;;;;;;;;;x
+d_lardonir;Лар'донир;;;;;;;;;;;;;x
+d_lardonir_adj;Лар'донир;;;;;;;;;;;;;x
+d_legash;Легаши;;;;;;;;;;;;;x
+d_legash_adj;Легаши;;;;;;;;;;;;;x
+d_lethlor;Летлор;;;;;;;;;;;;;x
+d_lethlor_adj;Летлор;;;;;;;;;;;;;x
+d_lifewarden;Хранитель жизни;;;;;;;;;;;;;x
+d_lifewarden_adj;Хранитель;;;;;;;;;;;;;x
+d_living_wood;Живой Лес;;;;;;;;;;;;;x
+d_living_wood_adj;Живолес;;;;;;;;;;;;;x
+d_loch_modan;Лок Модан;;;;;;;;;;;;;x
+d_loch_modan_adj;Лок Модан;;;;;;;;;;;;;x
+d_lohdi;Ло'ди;;;;;;;;;;;;;x
+d_lohdi_adj;Ло'ди;;;;;;;;;;;;;x
+d_lordaeron;Лордерон;;;;;;;;;;;;;x
+d_lordaeron_adj;Лордерон;;;;;;;;;;;;;x
+d_lordamere;Лордамер;;;;;;;;;;;;;x
+d_lordamere_adj;Лордамер;;;;;;;;;;;;;x
+d_lordanel;Лор'данел;;;;;;;;;;;;;x
+d_lordanel_adj;Лод'данел;;;;;;;;;;;;;x
+d_loretharan;Лорет'аран;;;;;;;;;;;;;x
+d_loretharan_adj;Лорет'аран;;;;;;;;;;;;;x
+d_lost_isles;Затерянные острова;;;;;;;;;;;;;x
+d_lost_isles_adj;Затерянноостров;;;;;;;;;;;;;x
+d_low_northeron;Нижний Нортерон;;;;;;;;;;;;;x
+d_low_northeron_adj;Нижненортерон;;;;;;;;;;;;;x
+d_ludei;Лу'дей;;;;;;;;;;;;;x
+d_ludei_adj;Лу'дий;;;;;;;;;;;;;x
+d_magmoth;Магмот;;;;;;;;;;;;;x
+d_magmoth_adj;Магмот;;;;;;;;;;;;;x
+d_magram;Маграм;;;;;;;;;;;;;x
+d_magram_adj;Маграм;;;;;;;;;;;;;x
+d_maraudon;Мародон;;;;;;;;;;;;;x
+d_maraudon_adj;Мародон;;;;;;;;;;;;;x
+d_mazthoril;Мазторил;;;;;;;;;;;;;x
+d_mazthoril_adj;Мазторил;;;;;;;;;;;;;x
+d_mirage;Мираж;;;;;;;;;;;;;x
+d_mirage_adj;Мираж;;;;;;;;;;;;;x
+d_moonrest;Сады Лунного Покоя;;;;;;;;;;;;;x
+d_moonrest_adj;Мунрест;;;;;;;;;;;;;x
+d_mugamba;Мугамба;;;;;;;;;;;;;x
+d_mugamba_adj;Мугамб;;;;;;;;;;;;;x
+d_murcevin;Муркевин;;;;;;;;;;;;;x
+d_murcevin_adj;Муркевин;;;;;;;;;;;;;x
+d_nazmir;Назмир;;;;;;;;;;;;;x
+d_nazmir_adj;Назмир;;;;;;;;;;;;;x
+d_nazwatha;Назвата;;;;;;;;;;;;;x
+d_nazwatha_adj;Назвата;;;;;;;;;;;;;x
+d_neferset;Неферсет;;;;;;;;;;;;;x
+d_neferset_adj;Неферсет;;;;;;;;;;;;;x
+d_nesingwary;Эрнестуэй;;;;;;;;;;;;;x
+d_nesingwary_adj;Эрнестуэй;;;;;;;;;;;;;x
+d_new_tinkertown;Новый Город механиков;;;;;;;;;;;;;x
+d_new_tinkertown_adj;Тинкертаун;;;;;;;;;;;;;x
+d_nifflevar;Ниффлвар;;;;;;;;;;;;;x
+d_nifflevar_adj;Ниффлвар;;;;;;;;;;;;;x
+d_night_run;Ночной бег;;;;;;;;;;;;;x
+d_night_run_adj;Найтран;;;;;;;;;;;;;x
+d_nighthaven;Ночная Гавань;;;;;;;;;;;;;x
+d_nighthaven_adj;Ночногаван;;;;;;;;;;;;;x
+d_nightsong;Ночная Песня;;;;;;;;;;;;;x
+d_nightsong_adj;Найтсонг;;;;;;;;;;;;;x
+d_nittawosew;Ниттавосев;;;;;;;;;;;;;x
+d_nittawosew_adj;Ниттавосев;;;;;;;;;;;;;x
+d_njord;Ньорд;;;;;;;;;;;;;x
+d_njord_adj;Ньорд;;;;;;;;;;;;;x
+d_nordrassil;Нордрассил;;;;;;;;;;;;;x
+d_nordrassil_adj;Нордрассил;;;;;;;;;;;;;x
+d_northfold;Северный удел;;;;;;;;;;;;;x
+d_northfold_adj;Северноудел;;;;;;;;;;;;;x
+d_oomsk;Ум;;;;;;;;;;;;;x
+d_oomsk_adj;Ум;;;;;;;;;;;;;x
+d_ordilaran;Ордил'Аран;;;;;;;;;;;;;x
+d_ordilaran_adj;Ордил'аран;;;;;;;;;;;;;x
+d_orgrimmar;Оргриммар;;;;;;;;;;;;;x
+d_orgrimmar_adj;Оргриммар;;;;;;;;;;;;;x
+d_orsis;Орсис;;;;;;;;;;;;;x
+d_orsis_adj;Орсис;;;;;;;;;;;;;x
+d_overlook_cliffs;Отвесные скалы;;;;;;;;;;;;;x
+d_overlook_cliffs_adj;Отвесноскал;;;;;;;;;;;;;x
+d_paradise_islands;Райские острова;;;;;;;;;;;;;x
+d_paradise_islands_adj;Райскоостров;;;;;;;;;;;;;x
+d_plunder_isle;Остров грабежа;;;;;;;;;;;;;x
+d_plunder_isle_adj;Островграбеж;;;;;;;;;;;;;x
+d_ponisuk;Понисук;;;;;;;;;;;;;x
+d_ponisuk_adj;Понисук;;;;;;;;;;;;;x
+d_quagmire;Трясина;;;;;;;;;;;;;x
+d_quagmire_adj;Трясин;;;;;;;;;;;;;x
+d_queldanas_isle;Остров Кель'Данас;;;;;;;;;;;;;x
+d_queldanas_isle_adj;Кель'Данас;;;;;;;;;;;;;x
+d_raincoast;Дождливый берег;;;;;;;;;;;;;x
+d_raincoast_adj;Дождеберег;;;;;;;;;;;;;x
+d_ramkahen;Рамкахен;;;;;;;;;;;;;x
+d_ramkahen_adj;Рамкахен;;;;;;;;;;;;;x
+d_ratchet;Кабестан;;;;;;;;;;;;;x
+d_ratchet_adj;Кабестан;;;;;;;;;;;;;x
+d_raven_hill;Вороний холм;;;;;;;;;;;;;x
+d_raven_hill_adj;Воронохолм;;;;;;;;;;;;;x
+d_ravenwind;Вороний ветер;;;;;;;;;;;;;x
+d_ravenwind_adj;Врановетер;;;;;;;;;;;;;x
+d_raynewood;Ночные леса;;;;;;;;;;;;;x
+d_raynewood_adj;Ночнолес;;;;;;;;;;;;;x
+d_razorfen;Курганы Иглошкурых;;;;;;;;;;;;;x
+d_razorfen_adj;Иглошкур;;;;;;;;;;;;;x
+d_red_cloud;Красное облако;;;;;;;;;;;;;x
+d_red_cloud_adj;Краснооблак;;;;;;;;;;;;;x
+d_redhelm;Красный шлем;;;;;;;;;;;;;x
+d_redhelm_adj;Редхелм;;;;;;;;;;;;;x
+d_redridge_mountains;Красногорье;;;;;;;;;;;;;x
+d_redridge_mountains_adj;Красногор;;;;;;;;;;;;;x
+d_redrock;Красные скалы;;;;;;;;;;;;;x
+d_redrock_adj;Красноскал;;;;;;;;;;;;;x
+d_regrowth;Восстановление;;;;;;;;;;;;;x
+d_regrowth_adj;Регровт;;;;;;;;;;;;;x
+d_rustbolt;Ржавоболт;;;;;;;;;;;;;x
+d_rustbolt_adj;Ржавоболт;;;;;;;;;;;;;x
+d_sargeron;Саргерон;;;;;;;;;;;;;x
+d_sargeron_adj;Саргерон;;;;;;;;;;;;;x
+d_sarkoth;Саркот;;;;;;;;;;;;;x
+d_sarkoth_adj;Саркот;;;;;;;;;;;;;x
+d_sartheris;Сартерис;;;;;;;;;;;;;x
+d_sartheris_adj;Сартерис;;;;;;;;;;;;;x
+d_scarab_wall;Стена Скарабея;;;;;;;;;;;;;x
+d_scarab_wall_adj;Стенаскарабей;;;;;;;;;;;;;x
+d_searing_gorge;Тлеющее ущелье;;;;;;;;;;;;;x
+d_searing_gorge_adj;Тлеющеущель;;;;;;;;;;;;;x
+d_seething_shore;Бурлящий берег;;;;;;;;;;;;;x
+d_seething_shore_adj;Бурлящеберег;;;;;;;;;;;;;x
+d_segenam;Сегенам;;;;;;;;;;;;;x
+d_segenam_adj;Сегенам;;;;;;;;;;;;;x
+d_sentinel_hill;Сторожевой холм;;;;;;;;;;;;;x
+d_sentinel_hill_adj;Сторожехолм;;;;;;;;;;;;;x
+d_seradane;Серадан;;;;;;;;;;;;;x
+d_seradane_adj;Серадан;;;;;;;;;;;;;x
+d_shaibi;Шаиби;;;;;;;;;;;;;x
+d_shaibi_adj;Шаиб;;;;;;;;;;;;;x
+d_shalandis;Шаландис;;;;;;;;;;;;;x
+d_shalandis_adj;Шаландис;;;;;;;;;;;;;x
+d_shatterspear;Пронзающее копье;;;;;;;;;;;;;x
+d_shatterspear_adj;Пронзающеекопей;;;;;;;;;;;;;x
+d_shindun;Шиндун;;;;;;;;;;;;;x
+d_shindun_adj;Шиндун;;;;;;;;;;;;;x
+d_shobassa;Шобасса;;;;;;;;;;;;;x
+d_shobassa_adj;Шобасс;;;;;;;;;;;;;x
+d_sildinas;Силдинас;;;;;;;;;;;;;x
+d_sildinas_adj;Силдинас;;;;;;;;;;;;;x
+d_silentreach;Тихий простор;;;;;;;;;;;;;x
+d_silentreach_adj;Тихопростор;;;;;;;;;;;;;x
+d_silvermoon;Луносвет;;;;;;;;;;;;;x
+d_silvermoon_adj;Луносвет;;;;;;;;;;;;;x
+d_silverpine;Серебряный бор;;;;;;;;;;;;;x
+d_silverpine_adj;Сребробор;;;;;;;;;;;;;x
+d_silverwind;Приют Серебряного Ветра;;;;;;;;;;;;;x
+d_silverwind_adj;Среброветер;;;;;;;;;;;;;x
+d_skalmarnes;Скалмарнес;;;;;;;;;;;;;x
+d_skalmarnes_adj;Скалмарнес;;;;;;;;;;;;;x
+d_skypeak;Небесный пик;;;;;;;;;;;;;x
+d_skypeak_adj;Небеснопик;;;;;;;;;;;;;x
+d_snowblind;Слепящие снега;;;;;;;;;;;;;x
+d_snowblind_adj;Слепоснег;;;;;;;;;;;;;x
+d_snowdrift;Снежный вихрь;;;;;;;;;;;;;x
+d_snowdrift_adj;Снежновихрь;;;;;;;;;;;;;x
+d_solarsal;Соларсаль;;;;;;;;;;;;;x
+d_solarsal_adj;Соларсаль;;;;;;;;;;;;;x
+d_solstice;Солнцестояние;;;;;;;;;;;;;x
+d_solstice_adj;Солнцестоян;;;;;;;;;;;;;x
+d_southbreak;Южный берег;;;;;;;;;;;;;x
+d_southbreak_adj;Южноберег;;;;;;;;;;;;;x
+d_spears_isles;Острова Копья;;;;;;;;;;;;;x
+d_spears_isles_adj;Островкопей;;;;;;;;;;;;;x
+d_splursh;Брызгунья;;;;;;;;;;;;;x
+d_splursh_adj;Брызгун;;;;;;;;;;;;;x
+d_stardust;Звездная Пыль;;;;;;;;;;;;;x
+d_stardust_adj;Звезднопыль;;;;;;;;;;;;;x
+d_starfall;Звездопад;;;;;;;;;;;;;x
+d_starfall_adj;Звездопад;;;;;;;;;;;;;x
+d_stonard;Каменор;;;;;;;;;;;;;x
+d_stonard_adj;Каменор;;;;;;;;;;;;;x
+d_stone_hill;Каменный холм;;;;;;;;;;;;;x
+d_stone_hill_adj;Каменнохолм;;;;;;;;;;;;;x
+d_stonetalon;Когтистые горы;;;;;;;;;;;;;x
+d_stonetalon_adj;Когтистогор;;;;;;;;;;;;;x
+d_stonewatch;Каменная Стража;;;;;;;;;;;;;x
+d_stonewatch_adj;Каменностраж;;;;;;;;;;;;;x
+d_stonewrought;Каменная плотина;;;;;;;;;;;;;x
+d_stonewrought_adj;Каменноплотин;;;;;;;;;;;;;x
+d_stormrage;Ярость Бури;;;;;;;;;;;;;x
+d_stormrage_adj;Яростьбурь;;;;;;;;;;;;;x
+d_stormsong;Долина штормов;;;;;;;;;;;;;x
+d_stormsong_adj;Долинашторм;;;;;;;;;;;;;x
+d_stormwind;Штормград;;;;;;;;;;;;;x
+d_stormwind_adj;Штормград;;;;;;;;;;;;;x
+d_stormwright;Уступ Ваятеля бурь;;;;;;;;;;;;;x
+d_stormwright_adj;Stormwrightian;;;;;;;;;;;;;x
+d_strand_of_ancients;Берег Древних;;;;;;;;;;;;;x
+d_strand_of_ancients_adj;Берегдревн;;;;;;;;;;;;;x
+d_stratholme;Стратхольм;;;;;;;;;;;;;x
+d_stratholme_adj;Стратхольм;;;;;;;;;;;;;x
+d_sungraze_peak;Пик солнечного света;;;;;;;;;;;;;x
+d_sungraze_peak_adj;Sungraze Peakian;;;;;;;;;;;;;x
+d_sunnyglade;Солнечная поляна;;;;;;;;;;;;;x
+d_sunnyglade_adj;Солнцеполян;;;;;;;;;;;;;x
+d_sunstrider_isle;Остров Солнечного Скитальца;;;;;;;;;;;;;x
+d_sunstrider_isle_adj;Островскитал;;;;;;;;;;;;;x
+d_swamp_of_sorrows;Болото Печали;;;;;;;;;;;;;x
+d_swamp_of_sorrows_adj;Болотопечал;;;;;;;;;;;;;x
+d_sytror;Ситрор;;;;;;;;;;;;;x
+d_sytror_adj;Ситрор;;;;;;;;;;;;;x
+d_tainted_forest;Осверненный лес;;;;;;;;;;;;;x
+d_tainted_forest_adj;Осквернолес;;;;;;;;;;;;;x
+d_talonbranch;Поляна Когтистой Ветви;;;;;;;;;;;;;x
+d_talonbranch_adj;Когтистоветв;;;;;;;;;;;;;x
+d_taurajo;Таурахо;;;;;;;;;;;;;x
+d_taurajo_adj;Таурах;;;;;;;;;;;;;x
+d_tel_abim;Тел Абим;;;;;;;;;;;;;x
+d_tel_abim_adj;Телабим;;;;;;;;;;;;;x
+d_tethris_aran;Тефрис-Аран;;;;;;;;;;;;;x
+d_tethris_aran_adj;Тефрис-Аран;;;;;;;;;;;;;x
+d_thalassian_pass;Талассийский перевал;;;;;;;;;;;;;x
+d_thalassian_pass_adj;Талассийперевал;;;;;;;;;;;;;x
+d_theramore;Терамор;;;;;;;;;;;;;x
+d_theramore_adj;Терамор;;;;;;;;;;;;;x
+d_thethiru;Фетиру;;;;;;;;;;;;;x
+d_thethiru_adj;Фетир;;;;;;;;;;;;;x
+d_thimil;Фимил;;;;;;;;;;;;;x
+d_thimil_adj;Фимил;;;;;;;;;;;;;x
+d_thistleshrub;Терновник;;;;;;;;;;;;;x
+d_thistleshrub_adj;Терновник;;;;;;;;;;;;;x
+d_thorvald;Торвальд;;;;;;;;;;;;;x
+d_thorvald_adj;Торвальд;;;;;;;;;;;;;x
+d_thunder_bluff;Громовой Утес;;;;;;;;;;;;;x
+d_thunder_bluff_adj;Громоутес;;;;;;;;;;;;;x
+d_tiragarde;Тирагард;;;;;;;;;;;;;x
+d_tiragarde_adj;Тирагард;;;;;;;;;;;;;x
+d_tol_barad;Тол Барад;;;;;;;;;;;;;x
+d_tol_barad_adj;Толбарад;;;;;;;;;;;;;x
+d_torwatha;Тор'Вата;;;;;;;;;;;;;x
+d_torwatha_adj;Тор'ват;;;;;;;;;;;;;x
+d_tranquillien;Транквиллион;;;;;;;;;;;;;x
+d_tranquillien_adj;Транквиллион;;;;;;;;;;;;;x
+d_transborea;Трансборея;;;;;;;;;;;;;x
+d_transborea_adj;Трансборей;;;;;;;;;;;;;x
+d_tunkalo;Тунка'ло;;;;;;;;;;;;;x
+d_tunkalo_adj;Тункаль;;;;;;;;;;;;;x
+d_turtle_rock;Черепашья скала;;;;;;;;;;;;;x
+d_turtle_rock_adj;Черепашоскаль;;;;;;;;;;;;;x
+d_twilight_grove;Сумеречная роща;;;;;;;;;;;;;x
+d_twilight_grove_adj;Сумрачнорощ;;;;;;;;;;;;;x
+d_tyrs_hand;Длань Тира;;;;;;;;;;;;;x
+d_tyrs_hand_adj;Дланьтир;;;;;;;;;;;;;x
+d_ulduar;Ульдуар;;;;;;;;;;;;;x
+d_ulduar_adj;Ульдуар;;;;;;;;;;;;;x
+d_uldum;Ульдум;;;;;;;;;;;;;x
+d_uldum_adj;Ульдум;;;;;;;;;;;;;x
+d_undermine;Шахта;;;;;;;;;;;;;x
+d_undermine_adj;Шахт;;;;;;;;;;;;;x
+d_uplands;Высокогорье;;;;;;;;;;;;;x
+d_uplands_adj;Высокогор;;;;;;;;;;;;;x
+d_utgarde;Утгард;;;;;;;;;;;;;x
+d_utgarde_adj;Утгард;;;;;;;;;;;;;x
+d_valkyrion;Валькирион;;;;;;;;;;;;;x
+d_valkyrion_adj;Валькирион;;;;;;;;;;;;;x
+d_verdant_wilds;Зеленые дебри;;;;;;;;;;;;;x
+d_verdant_wilds_adj;Зеленодебр;;;;;;;;;;;;;x
+d_vermillion;Вермилион;;;;;;;;;;;;;x
+d_vermillion_adj;Вермилион;;;;;;;;;;;;;x
+d_verrall;Вералл;;;;;;;;;;;;;x
+d_verrall_adj;Вералл;;;;;;;;;;;;;x
+d_wahkan;Вахкан;;;;;;;;;;;;;x
+d_wahkan_adj;Вахкан;;;;;;;;;;;;;x
+d_waterspring;Родниковое поле;;;;;;;;;;;;;x
+d_waterspring_adj;Родникополь;;;;;;;;;;;;;x
+d_webwinder;Паутинник;;;;;;;;;;;;;x
+d_webwinder_adj;Паутинн;;;;;;;;;;;;;x
+d_west_dun_morogh;Западный Дун Морог;;;;;;;;;;;;;x
+d_west_dun_morogh_adj;Дунморог;;;;;;;;;;;;;x
+d_western_arathi;Западное Арати;;;;;;;;;;;;;x
+d_western_arathi_adj;Западноарат;;;;;;;;;;;;;x
+d_western_hills;Западные холмы;;;;;;;;;;;;;x
+d_western_hills_adj;Западнохолм;;;;;;;;;;;;;x
+d_westfall;Западный Край;;;;;;;;;;;;;x
+d_westfall_adj;Западнокрай;;;;;;;;;;;;;x
+d_wetlands;Болотина;;;;;;;;;;;;;x
+d_wetlands_adj;Болотин;;;;;;;;;;;;;x
+d_whispering_gardens;Шепчущие сады;;;;;;;;;;;;;x
+d_whispering_gardens_adj;Шептосад;;;;;;;;;;;;;x
+d_whispering_reef;Шепчущий риф;;;;;;;;;;;;;x
+d_whispering_reef_adj;Шепториф;;;;;;;;;;;;;x
+d_wildgrowth;Буйный рост;;;;;;;;;;;;;x
+d_wildgrowth_adj;Буйнорост;;;;;;;;;;;;;x
+d_windshear;Пронизывающий ветер;;;;;;;;;;;;;x
+d_windshear_adj;Пронизветер;;;;;;;;;;;;;x
+d_wintergarde;Стражи Зимы;;;;;;;;;;;;;x
+d_wintergarde_adj;Винтергард;;;;;;;;;;;;;x
+d_wintergrasp;Озеро ледяных оков;;;;;;;;;;;;;x
+d_wintergrasp_adj;Ледянооков;;;;;;;;;;;;;x
+d_wyrmbog;Драконьи топи;;;;;;;;;;;;;x
+d_wyrmbog_adj;Драконотоп;;;;;;;;;;;;;x
+d_wyrmrest;Драконий покой;;;;;;;;;;;;;x
+d_wyrmrest_adj;Драконопогост;;;;;;;;;;;;;x
+d_ymirheim;Имирхейм;;;;;;;;;;;;;x
+d_ymirheim_adj;Имирхейм;;;;;;;;;;;;;x
+d_zebahari;Зеб'ахари;;;;;;;;;;;;;x
+d_zebahari_adj;Зеб'ахар;;;;;;;;;;;;;x
+d_zolnanji;Золнанджи;;;;;;;;;;;;;x
+d_zolnanji_adj;Золнанж;;;;;;;;;;;;;x
+d_zulaman;Зул'аман;;;;;;;;;;;;;x
+d_zulaman_adj;Зул'аман;;;;;;;;;;;;;x
+d_zuldare;Зул'дар;;;;;;;;;;;;;x
+d_zuldare_adj;Зул'дар;;;;;;;;;;;;;x
+d_zuldazar;Зулдазар;;;;;;;;;;;;;x
+d_zuldazar_adj;Зулдазар;;;;;;;;;;;;;x
+d_zulfarrak;Зул'фаррак;;;;;;;;;;;;;x
+d_zulfarrak_adj;Зул'фаррак;;;;;;;;;;;;;x
+d_zulgurub;Зул'Гуруб;;;;;;;;;;;;;x
+d_zulgurub_adj;Зул'гуруб;;;;;;;;;;;;;x
+d_zulkunda;Зул'Кунда;;;;;;;;;;;;;x
+d_zulkunda_adj;Зул'кунд;;;;;;;;;;;;;x
+d_zulmamwe;Зул'Мамве;;;;;;;;;;;;;x
+d_zulmamwe_adj;Зул'мамв;;;;;;;;;;;;;x

@@ -1,0 +1,247 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN;§RWarCraft§!: Генерация случайных артефактов на старте игры ;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_DEFAULT;По умолчанию;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_DEFAULT_DESC;На старте игры генерируется стандартное количество случайных артефактов.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X1_5_DESC;Количество случайных артефактов, сгенерированных на старте игры - §G1.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X2_DESC;Количество случайных артефактов, сгенерированных на старте игры - §G2§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X0_5_DESC;Количество случайных артефактов, сгенерированных на старте игры - §R0.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_X0_25_DESC;Количество случайных артефактов, сгенерированных на старте игры - §R0.25§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_OFF;Отключена;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_OFF_DESC;Генерация случайных артефактов на старте игры отключена.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_1;[GetArtifactJewelryCommonAffixN1] ожерелье;;;;;;;;;;;;;x
+amulet_1_desc;Обычное ожерелье.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_2_diplomacy;[GetArtifactJewelryUncommonDiplomacyAffixN1] ожерелье[GetArtifactJewelryUncommonDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_2_diplomacy_desc;Необычное ожерелье.;;;;;;;;;;;;;x
+amulet_2_martial;[GetArtifactJewelryUncommonMartialAffixN1] ожерелье[GetArtifactJewelryUncommonMartialAffixN2];;;;;;;;;;;;;x
+amulet_2_martial_desc;Необычное ожерелье.;;;;;;;;;;;;;x
+amulet_2_stewardship;[GetArtifactJewelryUncommonStewardshipAffixN1] ожерелье[GetArtifactJewelryUncommonStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_2_stewardship_desc;Необычное ожерелье.;;;;;;;;;;;;;x
+amulet_2_intrigue;[GetArtifactJewelryUncommonIntrigueAffixN1] ожерелье[GetArtifactJewelryUncommonIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_2_intrigue_desc;Необычное ожерелье.;;;;;;;;;;;;;x
+amulet_2_learning;[GetArtifactJewelryUncommonLearningAffixN1] ожерелье[GetArtifactJewelryUncommonLearningAffixN2];;;;;;;;;;;;;x
+amulet_2_learning_desc;Необычное ожерелье.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_3_diplomacy;[GetArtifactJewelryRareDiplomacyAffixN1] ожерелье[GetArtifactJewelryRareDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_3_diplomacy_desc;Редкое ожерелье.;;;;;;;;;;;;;x
+amulet_3_martial;[GetArtifactJewelryRareMartialAffixN1] ожерелье[GetArtifactJewelryRareMartialAffixN2];;;;;;;;;;;;;x
+amulet_3_martial_desc;Редкое ожерелье.;;;;;;;;;;;;;x
+amulet_3_stewardship;[GetArtifactJewelryRareStewardshipAffixN1] ожерелье[GetArtifactJewelryRareStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_3_stewardship_desc;Редкое ожерелье.;;;;;;;;;;;;;x
+amulet_3_intrigue;[GetArtifactJewelryRareIntrigueAffixN1] ожерелье[GetArtifactJewelryRareIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_3_intrigue_desc;Редкое ожерелье.;;;;;;;;;;;;;x
+amulet_3_learning;[GetArtifactJewelryRareLearningAffixN1] ожерелье[GetArtifactJewelryRareLearningAffixN2];;;;;;;;;;;;;x
+amulet_3_learning_desc;Редкое ожерелье.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_4_diplomacy;[GetArtifactJewelryEpicDiplomacyAffixN1] ожерелье[GetArtifactJewelryEpicDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_4_diplomacy_desc;Эпическое ожерелье.;;;;;;;;;;;;;x
+amulet_4_martial;[GetArtifactJewelryEpicMartialAffixN1] ожерелье[GetArtifactJewelryEpicMartialAffixN2];;;;;;;;;;;;;x
+amulet_4_martial_desc;Эпическое ожерелье.;;;;;;;;;;;;;x
+amulet_4_stewardship;[GetArtifactJewelryEpicStewardshipAffixN1] ожерелье[GetArtifactJewelryEpicStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_4_stewardship_desc;Эпическое ожерелье.;;;;;;;;;;;;;x
+amulet_4_intrigue;[GetArtifactJewelryEpicIntrigueAffixN1] ожерелье[GetArtifactJewelryEpicIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_4_intrigue_desc;Эпическое ожерелье.;;;;;;;;;;;;;x
+amulet_4_learning;[GetArtifactJewelryEpicLearningAffixN1] ожерелье[GetArtifactJewelryEpicLearningAffixN2];;;;;;;;;;;;;x
+amulet_4_learning_desc;Эпическое ожерелье.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+amulet_5_diplomacy;[GetArtifactJewelryLegendaryDiplomacyAffixN1] ожерелье[GetArtifactJewelryLegendaryDiplomacyAffixN2];;;;;;;;;;;;;x
+amulet_5_diplomacy_desc;Легендарное ожерелье.;;;;;;;;;;;;;x
+amulet_5_martial;[GetArtifactJewelryLegendaryMartialAffixN1] ожерелье[GetArtifactJewelryLegendaryMartialAffixN2];;;;;;;;;;;;;x
+amulet_5_martial_desc;Легендарное ожерелье.;;;;;;;;;;;;;x
+amulet_5_stewardship;[GetArtifactJewelryLegendaryStewardshipAffixN1] ожерелье[GetArtifactJewelryLegendaryStewardshipAffixN2];;;;;;;;;;;;;x
+amulet_5_stewardship_desc;Легендарное ожерелье.;;;;;;;;;;;;;x
+amulet_5_intrigue;[GetArtifactJewelryLegendaryIntrigueAffixN1] ожерелье[GetArtifactJewelryLegendaryIntrigueAffixN2];;;;;;;;;;;;;x
+amulet_5_intrigue_desc;Легендарное ожерелье.;;;;;;;;;;;;;x
+amulet_5_learning;[GetArtifactJewelryLegendaryLearningAffixN1] ожерелье[GetArtifactJewelryLegendaryLearningAffixN2];;;;;;;;;;;;;x
+amulet_5_learning_desc;Легендарное ожерелье.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_1;[GetArtifactJewelryCommonAffixN1] кольцо;;;;;;;;;;;;;x
+ring_1_desc;Обычное кольцо.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_2_diplomacy;[GetArtifactJewelryUncommonDiplomacyAffixN1] кольцо[GetArtifactJewelryUncommonDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_2_diplomacy_desc;Необычное кольцо.;;;;;;;;;;;;;x
+ring_2_martial;[GetArtifactJewelryUncommonMartialAffixN1] кольцо[GetArtifactJewelryUncommonMartialAffixN2];;;;;;;;;;;;;x
+ring_2_martial_desc;Необычное кольцо.;;;;;;;;;;;;;x
+ring_2_stewardship;[GetArtifactJewelryUncommonStewardshipAffixN1] кольцо[GetArtifactJewelryUncommonStewardshipAffixN2];;;;;;;;;;;;;x
+ring_2_stewardship_desc;Необычное кольцо.;;;;;;;;;;;;;x
+ring_2_intrigue;[GetArtifactJewelryUncommonIntrigueAffixN1] кольцо[GetArtifactJewelryUncommonIntrigueAffixN2];;;;;;;;;;;;;x
+ring_2_intrigue_desc;Необычное кольцо.;;;;;;;;;;;;;x
+ring_2_learning;[GetArtifactJewelryUncommonLearningAffixN1] кольцо[GetArtifactJewelryUncommonLearningAffixN2];;;;;;;;;;;;;x
+ring_2_learning_desc;Необычное кольцо.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_3_diplomacy;[GetArtifactJewelryRareDiplomacyAffixN1] кольцо[GetArtifactJewelryRareDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_3_diplomacy_desc;Редкое кольцо.;;;;;;;;;;;;;x
+ring_3_martial;[GetArtifactJewelryRareMartialAffixN1] кольцо[GetArtifactJewelryRareMartialAffixN2];;;;;;;;;;;;;x
+ring_3_martial_desc;Редкое кольцо.;;;;;;;;;;;;;x
+ring_3_stewardship;[GetArtifactJewelryRareStewardshipAffixN1] кольцо[GetArtifactJewelryRareStewardshipAffixN2];;;;;;;;;;;;;x
+ring_3_stewardship_desc;Редкое кольцо.;;;;;;;;;;;;;x
+ring_3_intrigue;[GetArtifactJewelryRareIntrigueAffixN1] кольцо[GetArtifactJewelryRareIntrigueAffixN2];;;;;;;;;;;;;x
+ring_3_intrigue_desc;Редкое кольцо.;;;;;;;;;;;;;x
+ring_3_learning;[GetArtifactJewelryRareLearningAffixN1] кольцо[GetArtifactJewelryRareLearningAffixN2];;;;;;;;;;;;;x
+ring_3_learning_desc;Редкое кольцо.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_4_diplomacy;[GetArtifactJewelryEpicDiplomacyAffixN1] кольцо[GetArtifactJewelryEpicDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_4_diplomacy_desc;Эпическое кольцо.;;;;;;;;;;;;;x
+ring_4_martial;[GetArtifactJewelryEpicMartialAffixN1] кольцо[GetArtifactJewelryEpicMartialAffixN2];;;;;;;;;;;;;x
+ring_4_martial_desc;Эпическое кольцо.;;;;;;;;;;;;;x
+ring_4_stewardship;[GetArtifactJewelryEpicStewardshipAffixN1] кольцо[GetArtifactJewelryEpicStewardshipAffixN2];;;;;;;;;;;;;x
+ring_4_stewardship_desc;Эпическое кольцо.;;;;;;;;;;;;;x
+ring_4_intrigue;[GetArtifactJewelryEpicIntrigueAffixN1] кольцо[GetArtifactJewelryEpicIntrigueAffixN2];;;;;;;;;;;;;x
+ring_4_intrigue_desc;Эпическое кольцо.;;;;;;;;;;;;;x
+ring_4_learning;[GetArtifactJewelryEpicLearningAffixN1] кольцо[GetArtifactJewelryEpicLearningAffixN2];;;;;;;;;;;;;x
+ring_4_learning_desc;Эпическое кольцо.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+ring_5_diplomacy;[GetArtifactJewelryLegendaryDiplomacyAffixN1] кольцо[GetArtifactJewelryLegendaryDiplomacyAffixN2];;;;;;;;;;;;;x
+ring_5_diplomacy_desc;Легендарное кольцо.;;;;;;;;;;;;;x
+ring_5_martial;[GetArtifactJewelryLegendaryMartialAffixN1] кольцо[GetArtifactJewelryLegendaryMartialAffixN2];;;;;;;;;;;;;x
+ring_5_martial_desc;Легендарное кольцо.;;;;;;;;;;;;;x
+ring_5_stewardship;[GetArtifactJewelryLegendaryStewardshipAffixN1] кольцо[GetArtifactJewelryLegendaryStewardshipAffixN2];;;;;;;;;;;;;x
+ring_5_stewardship_desc;Легендарное кольцо.;;;;;;;;;;;;;x
+ring_5_intrigue;[GetArtifactJewelryLegendaryIntrigueAffixN1] кольцо[GetArtifactJewelryLegendaryIntrigueAffixN2];;;;;;;;;;;;;x
+ring_5_intrigue_desc;Легендарное кольцо.;;;;;;;;;;;;;x
+ring_5_learning;[GetArtifactJewelryLegendaryLearningAffixN1] кольцо[GetArtifactJewelryLegendaryLearningAffixN2];;;;;;;;;;;;;x
+ring_5_learning_desc;Легендарное кольцо.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_1;[GetArtifactJewelryCommonAffixN1] наручи;;;;;;;;;;;;;x
+bracelet_1_desc;Обычные наручи.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_2_diplomacy;[GetArtifactJewelryUncommonDiplomacyAffixN1] наручи[GetArtifactJewelryUncommonDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_2_diplomacy_desc;Необычные наручи.;;;;;;;;;;;;;x
+bracelet_2_martial;[GetArtifactJewelryUncommonMartialAffixN1] наручи[GetArtifactJewelryUncommonMartialAffixN2];;;;;;;;;;;;;x
+bracelet_2_martial_desc;Необычные наручи.;;;;;;;;;;;;;x
+bracelet_2_stewardship;[GetArtifactJewelryUncommonStewardshipAffixN1] наручи[GetArtifactJewelryUncommonStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_2_stewardship_desc;Необычные наручи.;;;;;;;;;;;;;x
+bracelet_2_intrigue;[GetArtifactJewelryUncommonIntrigueAffixN1] наручи[GetArtifactJewelryUncommonIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_2_intrigue_desc;Необычные наручи.;;;;;;;;;;;;;x
+bracelet_2_learning;[GetArtifactJewelryUncommonLearningAffixN1] наручи[GetArtifactJewelryUncommonLearningAffixN2];;;;;;;;;;;;;x
+bracelet_2_learning_desc;Необычные наручи.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_3_diplomacy;[GetArtifactJewelryRareDiplomacyAffixN1] наручи[GetArtifactJewelryRareDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_3_diplomacy_desc;Редкие наручи.;;;;;;;;;;;;;x
+bracelet_3_martial;[GetArtifactJewelryRareMartialAffixN1] наручи[GetArtifactJewelryRareMartialAffixN2];;;;;;;;;;;;;x
+bracelet_3_martial_desc;Редкие наручи.;;;;;;;;;;;;;x
+bracelet_3_stewardship;[GetArtifactJewelryRareStewardshipAffixN1] наручи[GetArtifactJewelryRareStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_3_stewardship_desc;Редкие наручи.;;;;;;;;;;;;;x
+bracelet_3_intrigue;[GetArtifactJewelryRareIntrigueAffixN1] наручи[GetArtifactJewelryRareIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_3_intrigue_desc;Редкие наручи.;;;;;;;;;;;;;x
+bracelet_3_learning;[GetArtifactJewelryRareLearningAffixN1] наручи[GetArtifactJewelryRareLearningAffixN2];;;;;;;;;;;;;x
+bracelet_3_learning_desc;Редкие наручи.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_4_diplomacy;[GetArtifactJewelryEpicDiplomacyAffixN1] наручи[GetArtifactJewelryEpicDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_4_diplomacy_desc;Эпические наручи.;;;;;;;;;;;;;x
+bracelet_4_martial;[GetArtifactJewelryEpicMartialAffixN1] наручи[GetArtifactJewelryEpicMartialAffixN2];;;;;;;;;;;;;x
+bracelet_4_martial_desc;Эпические наручи.;;;;;;;;;;;;;x
+bracelet_4_stewardship;[GetArtifactJewelryEpicStewardshipAffixN1] наручи[GetArtifactJewelryEpicStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_4_stewardship_desc;Эпические наручи.;;;;;;;;;;;;;x
+bracelet_4_intrigue;[GetArtifactJewelryEpicIntrigueAffixN1] наручи[GetArtifactJewelryEpicIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_4_intrigue_desc;Эпические наручи.;;;;;;;;;;;;;x
+bracelet_4_learning;[GetArtifactJewelryEpicLearningAffixN1] наручи[GetArtifactJewelryEpicLearningAffixN2];;;;;;;;;;;;;x
+bracelet_4_learning_desc;Эпические наручи.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bracelet_5_diplomacy;[GetArtifactJewelryLegendaryDiplomacyAffixN1] наручи[GetArtifactJewelryLegendaryDiplomacyAffixN2];;;;;;;;;;;;;x
+bracelet_5_diplomacy_desc;Легендарные наручи.;;;;;;;;;;;;;x
+bracelet_5_martial;[GetArtifactJewelryLegendaryMartialAffixN1] наручи[GetArtifactJewelryLegendaryMartialAffixN2];;;;;;;;;;;;;x
+bracelet_5_martial_desc;Легендарные наручи.;;;;;;;;;;;;;x
+bracelet_5_stewardship;[GetArtifactJewelryLegendaryStewardshipAffixN1] наручи[GetArtifactJewelryLegendaryStewardshipAffixN2];;;;;;;;;;;;;x
+bracelet_5_stewardship_desc;Легендарные наручи.;;;;;;;;;;;;;x
+bracelet_5_intrigue;[GetArtifactJewelryLegendaryIntrigueAffixN1] наручи[GetArtifactJewelryLegendaryIntrigueAffixN2];;;;;;;;;;;;;x
+bracelet_5_intrigue_desc;Легендарные наручи.;;;;;;;;;;;;;x
+bracelet_5_learning;[GetArtifactJewelryLegendaryLearningAffixN1] наручи[GetArtifactJewelryLegendaryLearningAffixN2];;;;;;;;;;;;;x
+bracelet_5_learning_desc;Легендарные наручи.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+sword_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый двуручный меч;;;;;;;;;;;;;x
+sword_twohanded_1_desc;Обычный двуручный меч.;;;;;;;;;;;;;x
+sword_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый двуручный меч[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+sword_twohanded_2_desc;Необычный двуручный меч.;;;;;;;;;;;;;x
+sword_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый двуручный меч[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+sword_twohanded_3_desc;Редкий двуручный меч.;;;;;;;;;;;;;x
+sword_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый двуручный меч[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+sword_twohanded_4_desc;Эпический двуручный меч.;;;;;;;;;;;;;x
+sword_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый двуручный меч[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+sword_twohanded_5_desc;Легендарный двуручный меч.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+sword_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый одноручный меч;;;;;;;;;;;;;x
+sword_onehanded_1_desc;Обычный одноручный меч.;;;;;;;;;;;;;x
+sword_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый одноручный меч[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+sword_onehanded_2_desc;Необычный одноручный меч.;;;;;;;;;;;;;x
+sword_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый одноручный меч[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+sword_onehanded_3_desc;Редкий одноручный меч.;;;;;;;;;;;;;x
+sword_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый одноручный меч[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+sword_onehanded_4_desc;Эпический одноручный меч.;;;;;;;;;;;;;x
+sword_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый одноручный меч[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+sword_onehanded_5_desc;Легендарный одноручный меч.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+axe_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый двуручный топор;;;;;;;;;;;;;x
+axe_twohanded_1_desc;Обычный двуручный топор.;;;;;;;;;;;;;x
+axe_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый двуручный топор[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+axe_twohanded_2_desc;Необычный двуручный топор.;;;;;;;;;;;;;x
+axe_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый двуручный топор[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+axe_twohanded_3_desc;Редкий двуручный топор.;;;;;;;;;;;;;x
+axe_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый двуручный топор[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+axe_twohanded_4_desc;Эпический двуручный топор.;;;;;;;;;;;;;x
+axe_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый двуручный топор[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+axe_twohanded_5_desc;Легендарный двуручный топор.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+axe_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ый одноручный топор;;;;;;;;;;;;;x
+axe_onehanded_1_desc;Обычный одноручный топор.;;;;;;;;;;;;;x
+axe_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ый одноручный топор[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+axe_onehanded_2_desc;Необычный одноручный топор.;;;;;;;;;;;;;x
+axe_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1]ый одноручный топор[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+axe_onehanded_3_desc;Редкий одноручный топор.;;;;;;;;;;;;;x
+axe_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ый одноручный топор[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+axe_onehanded_4_desc;Эпический одноручный топор.;;;;;;;;;;;;;x
+axe_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ый одноручный топор[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+axe_onehanded_5_desc;Легендарный одноручный топор.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+mace_twohanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ая двуручная булава;;;;;;;;;;;;;x
+mace_twohanded_1_desc;Обычная двуручная булава.;;;;;;;;;;;;;x
+mace_twohanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ая двуручная булава[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+mace_twohanded_2_desc;Необычная двуручная булава.;;;;;;;;;;;;;x
+mace_twohanded_3;[GetArtifactMeleeWeaponRareAffixN1]ая двуручная булава[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+mace_twohanded_3_desc;Редкая двуручная булава.;;;;;;;;;;;;;x
+mace_twohanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ая двуручная булава[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+mace_twohanded_4_desc;Эпическая двуручная булава.;;;;;;;;;;;;;x
+mace_twohanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ая двуручная булава[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+mace_twohanded_5_desc;Легендарная двуручная булава.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+mace_onehanded_1;[GetArtifactMeleeWeaponCommonAffixN1]ая одноручная булава;;;;;;;;;;;;;x
+mace_onehanded_1_desc;Обычная одноручная булава.;;;;;;;;;;;;;x
+mace_onehanded_2;[GetArtifactMeleeWeaponUncommonAffixN1]ая одноручная булава[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+mace_onehanded_2_desc;Необычная одноручная булава.;;;;;;;;;;;;;x
+mace_onehanded_3;[GetArtifactMeleeWeaponRareAffixN1]ая одноручная булава[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+mace_onehanded_3_desc;Редкая одноручная булава.;;;;;;;;;;;;;x
+mace_onehanded_4;[GetArtifactMeleeWeaponEpicAffixN1]ая одноручная булава[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+mace_onehanded_4_desc;Эпическая одноручная булава.;;;;;;;;;;;;;x
+mace_onehanded_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ая одноручная булава[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+mace_onehanded_5_desc;Легендарная одноручная булава.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+halberd_1;[GetArtifactMeleeWeaponCommonAffixN1]ая алебарда;;;;;;;;;;;;;x
+halberd_1_desc;Обычная алебарда.;;;;;;;;;;;;;x
+halberd_2;[GetArtifactMeleeWeaponUncommonAffixN1]ая алебарда[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+halberd_2_desc;Необычная алебарда.;;;;;;;;;;;;;x
+halberd_3;[GetArtifactMeleeWeaponRareAffixN1]ая алебарда[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+halberd_3_desc;Редкая алебарда.;;;;;;;;;;;;;x
+halberd_4;[GetArtifactMeleeWeaponEpicAffixN1]ая алебарда[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+halberd_4_desc;Эпическая алебарда.;;;;;;;;;;;;;x
+halberd_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ая алебарда[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+halberd_5_desc;Легендарная алебарда.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+spear_1;[GetArtifactMeleeWeaponCommonAffixN1]ое копье;;;;;;;;;;;;;x
+spear_1_desc;Обычное копье.;;;;;;;;;;;;;x
+spear_2;[GetArtifactMeleeWeaponUncommonAffixN1]ое копье[GetArtifactMeleeWeaponUncommonAffixN2];;;;;;;;;;;;;x
+spear_2_desc;Необычное копье.;;;;;;;;;;;;;x
+spear_3;[GetArtifactMeleeWeaponRareAffixN1]ое копье[GetArtifactMeleeWeaponRareAffixN2];;;;;;;;;;;;;x
+spear_3_desc;Редкое копье.;;;;;;;;;;;;;x
+spear_4;[GetArtifactMeleeWeaponEpicAffixN1]ое копье[GetArtifactMeleeWeaponEpicAffixN2];;;;;;;;;;;;;x
+spear_4_desc;Эпическое копье.;;;;;;;;;;;;;x
+spear_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ое копье[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
+spear_5_desc;Легендарное копье.;;;;;;;;;;;;;x

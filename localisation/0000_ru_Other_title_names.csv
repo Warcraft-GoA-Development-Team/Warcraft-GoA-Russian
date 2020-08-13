@@ -1,0 +1,455 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+k_atalai;Атал'ай;;;;;;;;;;;;;x
+d_church_of_the_holy_light;Церковь Святого Света;;;;;;;;;;;;;x
+d_church_scarlet_light;Монастырь Алого Ордена;;;;;;;;;;;;;x
+d_naaru;Верные Наару;;;;;;;;;;;;;x
+d_hand_of_argus;Длань Аргуса;;;;;;;;;;;;;x
+d_bloodscalp;Кровавый Скальп;;;;;;;;;;;;;x
+d_skullsplitter;Дробители Черепов;;;;;;;;;;;;;x
+e_horde;Орда;;;;;;;;;;;;;x
+e_horde_adj;Ордын;;;;;;;;;;;;;x
+e_empire_of_zul;Империя Зул;;;;;;;;;;;;;x
+e_empire_of_zul_adj;Зулиан;;;;;;;;;;;;;x
+d_stormreaver;Бушующий Шторм;;;;;;;;;;;;;x
+d_shattered_hand;Изувеченная Длань;;;;;;;;;;;;;x
+d_bleeding_hollow;Кровавая Глазница;;;;;;;;;;;;;x
+d_brotherhood_of_the_horse;Братство Коня;;;;;;;;;;;;;x
+e_burning_legion;Пылающий Легион;;;;;;;;;;;;;x
+e_burning_legion_adj;Легион;;;;;;;;;;;;;x
+d_frostmane;Мерзлогривы;;;;;;;;;;;;;x
+d_riverpaw;Речная Лапа;;;;;;;;;;;;;x
+d_redridge;Стая Красногорья;;;;;;;;;;;;;x
+d_drysnout;Сухомордые;;;;;;;;;;;;;x
+d_mosshide;Мохошкуры;;;;;;;;;;;;;x
+d_bluegill;Синежабрые;;;;;;;;;;;;;x
+d_wildfin;Дикий Плавник;;;;;;;;;;;;;x
+d_marsh;Болотный Плавник;;;;;;;;;;;;;x
+d_marsh_adj;Болотоплавник;;;;;;;;;;;;;x
+d_murkgill;Черножабрые;;;;;;;;;;;;;x
+d_drywhisker;Сухоусы;;;;;;;;;;;;;x
+d_tunnel_rat;Туннельные Крысы;;;;;;;;;;;;;x
+d_witherbark;Сухокожие;;;;;;;;;;;;;x
+d_vilebranch;Порочная Ветвь;;;;;;;;;;;;;x
+d_greengill;Зеленожабрые;;;;;;;;;;;;;x
+d_vile_fin;Злобный Плавник;;;;;;;;;;;;;x
+d_mudsnout;Грязнорылы;;;;;;;;;;;;;x
+d_blackpaw;Чернолапы;;;;;;;;;;;;;x
+d_caer_darrow;Каэр Дарроу;;;;;;;;;;;;;x
+GNOLL_BAND;Гнолльский отряд;;;;;;;;;;;;;x
+k_orc_blackrock;Черная Гора;;;;;;;;;;;;;x
+d_shadow_council;Совет Теней;;;;;;;;;;;;;x
+d_twilights_hammer;Сумеречный Молот;;;;;;;;;;;;;x
+d_frostwolf;Северные Волки;;;;;;;;;;;;;x
+d_dragonmaw;Драконья Пасть;;;;;;;;;;;;;x
+d_burning_blade;Пылающий Клинок;;;;;;;;;;;;;x
+d_order_of_the_silver_hand;Орден Серебряной Длани;;;;;;;;;;;;;x
+d_revantusk;Сломанный Клык;;;;;;;;;;;;;x
+d_guardian_of_tirisfal;Хранитель Тирисфаля;;;;;;;;;;;;;x
+e_trade_coalition;Торговая коалиция;;;;;;;;;;;;;x
+d_blackwater_raiders;Пираты Черноводья;;;;;;;;;;;;;x
+k_bilgewater_cartel;Картель Трюмных Вод;;;;;;;;;;;;;x
+k_steamwheedle_cartel;Картель Хитрая Шестеренка;;;;;;;;;;;;;x
+k_rustwrench_cartel;Картель Ржавого Ключа;;;;;;;;;;;;;x
+k_greasyshatter_cartel;Торговая компания;;;;;;;;;;;;;x
+k_dampwick_cartel;Картель Промоках;;;;;;;;;;;;;x
+d_nethergarde;Стражи Пустоты;;;;;;;;;;;;;x
+d_warsong;Песня Войны;;;;;;;;;;;;;x
+d_mossflayer;Моходеры;;;;;;;;;;;;;x
+d_coucil_of_tirisfal;Совет Тирисфаля;;;;;;;;;;;;;x
+d_laughing_skull;Веселый Череп;;;;;;;;;;;;;x
+e_scourge;Плеть;;;;;;;;;;;;;x
+e_alliance;Альянс;;;;;;;;;;;;;x
+HORDE;Орда;;;;;;;;;;;;;x
+HORDE_ADJ;Ордын;;;;;;;;;;;;;x
+d_scrollhead;Резьбоголовые;;;;;;;;;;;;;x
+d_shadowhide;Темношкуры;;;;;;;;;;;;;x
+d_shadowhide_adj;Темношкур;;;;;;;;;;;;;x
+d_howlings;Свирепые;;;;;;;;;;;;;x
+d_howlings_adj;Свиреп;;;;;;;;;;;;;x
+d_rageclaws;Яростный Коготь;;;;;;;;;;;;;x
+d_rageclaws_adj;Яростнокоготь;;;;;;;;;;;;;x
+d_bloodpaws;Кровавая Лапа;;;;;;;;;;;;;x
+d_bloodpaws_adj;Кроваволап;;;;;;;;;;;;;x
+d_snowfalls;Стая Поляны Снегопада;;;;;;;;;;;;;x
+d_snowfalls_adj;Снегопад;;;;;;;;;;;;;x
+d_burblegobbles;Бурблгубль;;;;;;;;;;;;;x
+d_burblegobbles_adj;Бурблгубль;;;;;;;;;;;;;x
+d_gurgleboggles;Гурглбугль;;;;;;;;;;;;;x
+d_gurgleboggles_adj;Гурглбугль;;;;;;;;;;;;;x
+d_frenzyhearts;Бешеное Сердце;;;;;;;;;;;;;x
+d_frenzyhearts_adj;Бешеносерд;;;;;;;;;;;;;x
+d_mistwhispers;Шепот Тумана;;;;;;;;;;;;;x
+d_mistwhispers_adj;Шепоттуман;;;;;;;;;;;;;x
+d_sparktouched;Заиндевелые;;;;;;;;;;;;;x
+d_sparktouched_adj;Заиндевел;;;;;;;;;;;;;x
+d_mosswalkers;Мохоброды;;;;;;;;;;;;;x
+d_mosswalkers_adj;Мохоброд;;;;;;;;;;;;;x
+d_winterskorn;Снежескорны;;;;;;;;;;;;;x
+d_winterskorn_adj;Снежескорн;;;;;;;;;;;;;x
+d_kvaldir;Квалдиры;;;;;;;;;;;;;x
+d_kvaldir_adj;Квалдир;;;;;;;;;;;;;x
+e_black_empire;Темная Империя;;;;;;;;;;;;;x
+e_black_empire_adj;Темноимпер;;;;;;;;;;;;;x
+RED_STEPPES;Красные степи;;;;;;;;;;;;;x
+RED_STEPPES_ADJ;Красностеп;;;;;;;;;;;;;x
+REDGORGE;Красное ущелье;;;;;;;;;;;;;x
+REDGORGE_ADJ;Красноущель;;;;;;;;;;;;;x
+k_firelands;Культ Огня;;;;;;;;;;;;;x
+k_firelands_adj;Огнекульт;;;;;;;;;;;;;x
+d_scarlet_crusade;Алый Орден;;;;;;;;;;;;;x
+d_scarlet_crusade_adj;Орден;;;;;;;;;;;;;x
+d_argent_dawn;Серебряный Рассвет;;;;;;;;;;;;;x
+d_argent_dawn_adj;Среброрассвет;;;;;;;;;;;;;x
+d_darkspear;Черное Копье;;;;;;;;;;;;;x
+d_darkspear_adj;Темнокопей;;;;;;;;;;;;;x
+d_kalu_ak;Калу'ак;;;;;;;;;;;;;x
+d_kalu_ak_adj;Калу'ак;;;;;;;;;;;;;x
+d_hozu_mozu;Хозу'мозу;;;;;;;;;;;;;x
+d_hozu_mozu_adj;Хозу'моз;;;;;;;;;;;;;x
+d_frostfeather;Ледяное Перо;;;;;;;;;;;;;x
+d_frostfeather_adj;Ледянопер;;;;;;;;;;;;;x
+d_windfury;Ярость Ветра;;;;;;;;;;;;;x
+d_windfury_adj;Ветроярость;;;;;;;;;;;;;x
+d_cenarion_hold;Крепость Кенария;;;;;;;;;;;;;x
+k_blackrock;Тенегорн;;;;;;;;;;;;;x
+k_blackrock_adj;Тенегорн;;;;;;;;;;;;;x
+d_syndicate;Синдикат;;;;;;;;;;;;;x
+d_syndicate_adj;Синдикат;;;;;;;;;;;;;x
+k_dun_niffelem;Дун Ниффелем;;;;;;;;;;;;;x
+k_dun_niffelem_adj;Ниффелем;;;;;;;;;;;;;x
+e_kolkar;Колкар;;;;;;;;;;;;;x
+e_kolkar_adj;Колкар;;;;;;;;;;;;;x
+d_woodpaw;Древолапы;;;;;;;;;;;;;x
+d_woodpaw_adj;Древолап;;;;;;;;;;;;;x
+d_savage_hill;Дикий холм;;;;;;;;;;;;;x
+d_savage_hill_adj;Дикохолм;;;;;;;;;;;;;x
+e_green_dragonflight;Зеленая стая;;;;;;;;;;;;;x
+e_green_dragonflight_adj;Зеленостай;;;;;;;;;;;;;x
+e_black_dragonflight;Черная стая;;;;;;;;;;;;;x
+e_black_dragonflight_adj;Обсидиан;;;;;;;;;;;;;x
+e_red_dragonflight;Красная стая;;;;;;;;;;;;;x
+e_red_dragonflight_adj;Вермиллион;;;;;;;;;;;;;x
+e_blue_dragonflight;Синяя стая;;;;;;;;;;;;;x
+e_blue_dragonflight_adj;Лазур;;;;;;;;;;;;;x
+e_bronze_dragonflight;Бронзовая стая;;;;;;;;;;;;;x
+e_bronze_dragonflight_adj;Бронз;;;;;;;;;;;;;x
+d_silverwing_sentinels;Сребокрылые Часовые;;;;;;;;;;;;;x
+d_silverwing_sentinels_adj;Среброкрыл;;;;;;;;;;;;;x
+d_cenarion_circle;Круг Кенария;;;;;;;;;;;;;x
+d_cenarion_circle_adj;Кенарий;;;;;;;;;;;;;x
+d_wardens;Стражи;;;;;;;;;;;;;x
+d_wardens_adj;Страж;;;;;;;;;;;;;x
+k_wildhammer;Грим Батол;;;;;;;;;;;;;x
+k_wildhammer_adj;Гримбатол;;;;;;;;;;;;;x
+d_bloodsail_buccaneers;Пираты Кровавого Паруса;;;;;;;;;;;;;x
+d_northsea_freebooters;Флибустьеры Северных Морей;;;;;;;;;;;;;x
+d_spirestone;Черная Вершина;;;;;;;;;;;;;x
+d_smoulderthorn;Тлеющий Терновник;;;;;;;;;;;;;x
+k_cenarion_circle;Круг Кенария;;;;;;;;;;;;;x
+k_cenarion_circle_adj;Кенарий;;;;;;;;;;;;;x
+k_exodar;Экзодар;;;;;;;;;;;;;x
+k_exodar_adj;Экзодар;;;;;;;;;;;;;x
+e_pantheon;Пантеон;;;;;;;;;;;;;x
+e_herald_cthun;Империя К'Туна;;;;;;;;;;;;;x
+e_herald_nzoth;Империя Н'Зота;;;;;;;;;;;;;x
+e_herald_yoggsaron;Империя Йогг-Сарона;;;;;;;;;;;;;x
+e_herald_yshaarj;Империя И'Шараджа;;;;;;;;;;;;;x
+e_valarjar;Чертоги Доблести;;;;;;;;;;;;;x
+d_roughnecks;Сорвиголовы;;;;;;;;;;;;;x
+d_roughnecks_adj;Сорвиголов;;;;;;;;;;;;;x
+d_ravenholdt;Черный Ворон;;;;;;;;;;;;;x
+d_ravenholdt_adj;Черноворон;;;;;;;;;;;;;x
+d_hemets_hunters;Охотники Хеминга;;;;;;;;;;;;;x
+d_hemets_hunters_adj;Хеминг;;;;;;;;;;;;;x
+d_bloodsail_pirates;Пираты Кровавого Паруса;;;;;;;;;;;;;x
+d_bloodsail_pirates_adj;Кровопарус;;;;;;;;;;;;;x
+d_dogs_of_war;Псы Войны;;;;;;;;;;;;;x
+d_dogs_of_war_adj;Воин;;;;;;;;;;;;;x
+d_stormriggers;Вольные гарпунщики;;;;;;;;;;;;;x
+d_stormriggers_adj;Гарпун;;;;;;;;;;;;;x
+d_highborne_company;Отряд высокорожденных;;;;;;;;;;;;;x
+d_highborne_company_adj;Высокород;;;;;;;;;;;;;x
+d_centaur_company;Отряд кентавров;;;;;;;;;;;;;x
+d_centaur_company_adj;Кентавр;;;;;;;;;;;;;x
+d_farraki_company;Фарракийский отряд;;;;;;;;;;;;;x
+d_farraki_company_adj;Фаррак;;;;;;;;;;;;;x
+d_zandalari_company;Зандаларский отряд;;;;;;;;;;;;;x
+d_zandalari_company_adj;Зандалар;;;;;;;;;;;;;x
+d_korkron;Кор'крон;;;;;;;;;;;;;x
+d_korkron_adj;Кор'крон;;;;;;;;;;;;;x
+d_taunka_band;Отряд зимнерогов;;;;;;;;;;;;;x
+d_taunka_band_adj;Зимнерог;;;;;;;;;;;;;x
+d_vrykul_company;Дракудъяр;;;;;;;;;;;;;x
+d_vrykul_company_adj;Дракудъяр;;;;;;;;;;;;;x
+d_drakkari_band;Драккаррийский отряд;;;;;;;;;;;;;x
+d_drakkari_band_adj;Драккари;;;;;;;;;;;;;x
+d_wolvar_band;Отряд волчеров;;;;;;;;;;;;;x
+d_wolvar_band_adj;Волчер;;;;;;;;;;;;;x
+d_tuskarr_band;Улу'леп;;;;;;;;;;;;;x
+d_tuskarr_band_adj;Улу'леп;;;;;;;;;;;;;x
+d_northern_company;Северяне;;;;;;;;;;;;;x
+d_northern_company_adj;Север;;;;;;;;;;;;;x
+d_goblin_northrend_company;ТК "Белая шестеренка";;;;;;;;;;;;;x
+d_goblin_northrend_company_adj;Белопар;;;;;;;;;;;;;x
+d_frost_vrykul_company;Имирьяр;;;;;;;;;;;;;x
+d_frost_vrykul_company_adj;Имирьяр;;;;;;;;;;;;;x
+d_gorloc_band;Отряд горлоков;;;;;;;;;;;;;x
+d_gorloc_band_adj;Горлок;;;;;;;;;;;;;x
+d_snobold_band;Отряд снобольдов;;;;;;;;;;;;;x
+d_snobold_band_adj;Снобольд;;;;;;;;;;;;;x
+d_goblin_northrend_trade_fleet;Северный торговый флот;;;;;;;;;;;;;x
+d_goblin_northrend_trade_fleet_adj;Северноторг;;;;;;;;;;;;;x
+d_vrykul_fleet;Опустошители;;;;;;;;;;;;;x
+d_vrykul_fleet_adj;Опустошитель;;;;;;;;;;;;;x
+d_frozen_sea_fleet;Флот Ледяного моря;;;;;;;;;;;;;x
+d_frozen_sea_fleet_adj;Ледяномор;;;;;;;;;;;;;x
+d_darkshore;Аубердин;;;;;;;;;;;;;x
+d_darkshore_adj;Аубердин;;;;;;;;;;;;;x
+d_azuremyst_isle;Лазурная Дымка;;;;;;;;;;;;;x
+d_azuremyst_isle_adj;Лазурнодым;;;;;;;;;;;;;x
+k_crystalsong_forest;Хрустальная Песня;;;;;;;;;;;;;x
+k_crystalsong_forest_adj;Хрустальнопесн;;;;;;;;;;;;;x
+k_sholazar_basin;Шолазар;;;;;;;;;;;;;x
+k_sholazar_basin_adj;Шолазар;;;;;;;;;;;;;x
+d_deadwind_pass;Мертвый Ветер;;;;;;;;;;;;;x
+d_deadwind_pass_adj;Мертвоветер;;;;;;;;;;;;;x
+k_durotan;Дуротар;;;;;;;;;;;;;x
+k_durotan_adj;Дуротар;;;;;;;;;;;;;x
+d_redridge_mountains;Красногорье;;;;;;;;;;;;;x
+d_redridge_mountains_adj;Красногор;;;;;;;;;;;;;x
+d_swamp_of_sorrows;Атал'хаккар;;;;;;;;;;;;;x
+d_swamp_of_sorrows_adj;Атал'хаккар;;;;;;;;;;;;;x
+d_cape_of_stranglethorn;Векрише;;;;;;;;;;;;;x
+d_cape_of_stranglethorn_adj;Векриш;;;;;;;;;;;;;x
+d_burning_steppes;Красный Путь;;;;;;;;;;;;;x
+d_burning_steppes_adj;Редпат;;;;;;;;;;;;;x
+d_searing_gorge;Бурдак;;;;;;;;;;;;;x
+d_searing_gorge_adj;Бурдак;;;;;;;;;;;;;x
+d_east_dun_morogh;Хельмово ложе;;;;;;;;;;;;;x
+d_east_dun_morogh_adj;Хельм;;;;;;;;;;;;;x
+c_helms_bed;Хельмово ложе;;;;;;;;;;;;;x
+c_helms_bed_adj;Хельм;;;;;;;;;;;;;x
+b_helms_bed;Хельмово ложе;;;;;;;;;;;;;x
+b_helms_bed_adj;Хельм;;;;;;;;;;;;;x
+d_west_dun_morogh;Старая Наковальня;;;;;;;;;;;;;x
+d_west_dun_morogh_adj;Анвилмар;;;;;;;;;;;;;x
+d_central_dun_morogh;Стальгорн;;;;;;;;;;;;;x
+d_central_dun_morogh_adj;Стальгорн;;;;;;;;;;;;;x
+PROV157;Камнедробы;;;;;;;;;;;;;x
+c_stonesplinter_valley;Камнедробы;;;;;;;;;;;;;x
+c_stonesplinter_valley_adj;Камнедроб;;;;;;;;;;;;;x
+b_stonesplinter_valley;Камнедробы;;;;;;;;;;;;;x
+b_stonesplinter_valley_adj;Камнедроб;;;;;;;;;;;;;x
+PROV160;Каменная плотина;;;;;;;;;;;;;x
+c_stonewrought_dam;Каменная плотина;;;;;;;;;;;;;x
+c_stonewrought_dam_adj;Плотин;;;;;;;;;;;;;x
+b_stonewrought_dam;Каменная плотина;;;;;;;;;;;;;x
+b_stonewrought_dam_adj;Плотин;;;;;;;;;;;;;x
+d_loch_modan;Телсамар;;;;;;;;;;;;;x
+d_loch_modan_adj;Телсамар;;;;;;;;;;;;;x
+PROV158;Крен'шен;;;;;;;;;;;;;x
+c_hidden_ravine;Крен'шен;;;;;;;;;;;;;x
+c_hidden_ravine_adj;Крен'шен;;;;;;;;;;;;;x
+d_high_northeron;Громтар;;;;;;;;;;;;;x
+d_high_northeron_adj;Громтар;;;;;;;;;;;;;x
+PROV176;Торвальд;;;;;;;;;;;;;x
+c_thorvald_ravine;Торвальд;;;;;;;;;;;;;x
+c_thorvald_ravine_adj;Торвальд;;;;;;;;;;;;;x
+b_thorvald_ravine;Торвальд;;;;;;;;;;;;;x
+b_thorvald_ravine_adj;Торвальд;;;;;;;;;;;;;x
+d_western_arathi;Стромгард;;;;;;;;;;;;;x
+d_western_arathi_adj;Стром;;;;;;;;;;;;;x
+d_eastern_arathi;Го'шек;;;;;;;;;;;;;x
+d_eastern_arathi_adj;Го'шек;;;;;;;;;;;;;x
+d_cult_of_sunwell;Культ Солнечного Колодца;;;;;;;;;;;;;x
+d_cult_of_sunwell_adj;Солнцеколодец;;;;;;;;;;;;;x
+d_old_ways;Церковь истинных Путей;;;;;;;;;;;;;x
+d_old_ways_adj;Друидичес;;;;;;;;;;;;;x
+d_wolf_cult_religion;Культ Волка;;;;;;;;;;;;;x
+d_wolf_cult_religion_adj;Волк;;;;;;;;;;;;;x
+d_ursine;Медвежий культ;;;;;;;;;;;;;x
+d_ursine_adj;Урсин;;;;;;;;;;;;;x
+d_kaldorei_religion;Жречество Элуны;;;;;;;;;;;;;x
+d_kaldorei_religion_adj;Элун;;;;;;;;;;;;;x
+d_cult_of_loa;Культ Лоа;;;;;;;;;;;;;x
+d_cult_of_loa_adj;Лоа;;;;;;;;;;;;;x
+d_cult_of_hakkar;Культ Хаккара;;;;;;;;;;;;;x
+d_cult_of_hakkar_adj;Хаккар;;;;;;;;;;;;;x
+d_spider_philosophy;Совет Пауков;;;;;;;;;;;;;x
+d_spider_philosophy_adj;Совет;;;;;;;;;;;;;x
+d_water_deities;Церковь Приливов;;;;;;;;;;;;;x
+d_water_deities_adj;Прилив;;;;;;;;;;;;;x
+d_cult_of_the_candle;Церковь Свечи;;;;;;;;;;;;;x
+d_cult_of_the_candle_adj;Воск;;;;;;;;;;;;;x
+d_agamaggan_worship;Культ Агамаггана;;;;;;;;;;;;;x
+d_agamaggan_worship_adj;Агамагган;;;;;;;;;;;;;x
+d_theradras_worship;Культ Терадрас;;;;;;;;;;;;;x
+d_theradras_worship_adj;Терадрас;;;;;;;;;;;;;x
+d_primitive_shamanism;Священные Леса;;;;;;;;;;;;;x
+d_primitive_shamanism_adj;Шаман;;;;;;;;;;;;;x
+d_orcish_shamanism;Предсказатели;;;;;;;;;;;;;x
+d_orcish_shamanism_adj;Шаман;;;;;;;;;;;;;x
+d_shamanism;Совет шаманов;;;;;;;;;;;;;x
+d_shamanism_adj;Шаман;;;;;;;;;;;;;x
+d_earth_mother_worship;Храм Земли;;;;;;;;;;;;;x
+d_earth_mother_worship_adj;Земль;;;;;;;;;;;;;x
+d_tidemother;Приливные Мудрецы;;;;;;;;;;;;;x
+d_tidemother_adj;Прилив;;;;;;;;;;;;;x
+d_odyn;Чертоги Всеотца;;;;;;;;;;;;;x
+d_odyn_adj;Один;;;;;;;;;;;;;x
+d_helya;Храм морской Ведьмы;;;;;;;;;;;;;x
+d_helya_adj;Хелия;;;;;;;;;;;;;x
+d_voidfarer;Ходоки;;;;;;;;;;;;;x
+d_voidfarer_adj;Бездн;;;;;;;;;;;;;x
+d_forsaken_cult;Культ Забытых Теней;;;;;;;;;;;;;x
+d_forsaken_cult_adj;Тень;;;;;;;;;;;;;x
+PROV132;Хельм;;;;;;;;;;;;;x
+d_lightbound;Озаренные;;;;;;;;;;;;;x
+d_lightbound_adj;Озарень;;;;;;;;;;;;;x
+d_drustwar;Друствар;;;;;;;;;;;;;x
+d_drustwar_adj;Друствар;;;;;;;;;;;;;x
+PROV2204;Шипошкуры;;;;;;;;;;;;;x
+c_briaback;Шипошкуры;;;;;;;;;;;;;x
+c_briaback_adj;Шипошкур;;;;;;;;;;;;;x
+b_briaback;Шипошкуры;;;;;;;;;;;;;x
+b_briaback_adj;Шипошкур;;;;;;;;;;;;;x
+k_storm_peaks;Валькирион;;;;;;;;;;;;;x
+k_storm_peaks_adj;Валькир;;;;;;;;;;;;;x
+PROV876;Подножье;;;;;;;;;;;;;x
+c_foot_steppes;Подножье;;;;;;;;;;;;;x
+c_foot_steppes_adj;Поднож;;;;;;;;;;;;;x
+PROV874;Дыхание Бора;;;;;;;;;;;;;x
+c_bors_breath;Дыхание Бора;;;;;;;;;;;;;x
+c_bors_breath_adj;Бор;;;;;;;;;;;;;x
+PROV883;Зимняя долина;;;;;;;;;;;;;x
+c_winter_valley;Ифелгальд;;;;;;;;;;;;;x
+c_winter_valley_adj;Ифелгальд;;;;;;;;;;;;;x
+e_taunka_wastelands;Великая Тундра;;;;;;;;;;;;;x
+e_taunka_wastelands_adj;Тундр;;;;;;;;;;;;;x
+d_tirisgarde;Тирисгард;;;;;;;;;;;;;x
+d_tirisgarde_adj;Тирисгард;;;;;;;;;;;;;x
+d_gnomeregan_covert_ops;Секретная служба Гномрегана;;;;;;;;;;;;;x
+d_gnomeregan_covert_ops_adj;Гномреган;;;;;;;;;;;;;x
+PROV1609;Фетессин;;;;;;;;;;;;;x
+c_uldum;Фетессин;;;;;;;;;;;;;x
+c_uldum_adj;Фетессин;;;;;;;;;;;;;x
+d_uldum;Тол'нарив;;;;;;;;;;;;;x
+d_uldum_adj;Тол'нарив;;;;;;;;;;;;;x
+k_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+d_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+c_gilneas_adj;Гилнеас;;;;;;;;;;;;;x
+k_stromgarde_adj;Стром;;;;;;;;;;;;;x
+c_stromgarde_adj;Стром;;;;;;;;;;;;;x
+e_kul_tiras_adj;Култирас;;;;;;;;;;;;;x
+k_kul_tiras_adj;Култирас;;;;;;;;;;;;;x
+e_arathor_empire_adj;Арати;;;;;;;;;;;;;x
+d_karazhan;Каражан;;;;;;;;;;;;;x
+d_karazhan_adj;Каражан;;;;;;;;;;;;;x
+k_stratholme;Восточный Лес;;;;;;;;;;;;;x
+k_stratholme_adj;Восточнолес;;;;;;;;;;;;;x
+d_dazaralor;Зулдазар;;;;;;;;;;;;;x
+c_dazaralor;Зулдазар;;;;;;;;;;;;;x
+PROV2232;Зулдазар;;;;;;;;;;;;;x
+d_dazaralor_adj;Зулдазар;;;;;;;;;;;;;x
+c_dazaralor_adj;Зулдазар;;;;;;;;;;;;;x
+d_zuldazar;Бухта Королей;;;;;;;;;;;;;x
+d_zuldazar_adj;Королев;;;;;;;;;;;;;x
+d_defias_brotherhood;Братство Справедливости;;;;;;;;;;;;;x
+d_defias_brotherhood_adj;Брат;;;;;;;;;;;;;x
+d_hammerfall;Павший Молот;;;;;;;;;;;;;x
+d_hammerfall_adj;Молот;;;;;;;;;;;;;x
+d_forsaken;Отрекшиеся;;;;;;;;;;;;;x
+d_forsaken_adj;Отрекший;;;;;;;;;;;;;x
+UNDERCITY;Подгород;;;;;;;;;;;;;x
+UNDERCITY_ADJ;Подгород;;;;;;;;;;;;;x
+b_menethil;Лордейн;;;;;;;;;;;;;x
+b_menethil_adj;Лордейн;;;;;;;;;;;;;x
+b_legation_quarter;Стенфорд;;;;;;;;;;;;;x
+b_legation_quarter_adj;Стенфорд;;;;;;;;;;;;;x
+b_great_cathedral;Андертон;;;;;;;;;;;;;x
+b_great_cathedral_adj;Андертон;;;;;;;;;;;;;x
+d_queldanas_isle;Кель'Данас;;;;;;;;;;;;;x
+d_queldanas_isle_adj;Кель'Данас;;;;;;;;;;;;;x
+e_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+e_quelthalas_adj;Талассий;;;;;;;;;;;;;x
+e_storm_peaks;Грозовая гряда;;;;;;;;;;;;;x
+e_storm_peaks_adj;Грозогряд;;;;;;;;;;;;;x
+k_plunder_isle;Остров Грабежа;;;;;;;;;;;;;x
+k_plunder_isle_adj;Грабеж;;;;;;;;;;;;;x
+k_quelthalas;Кель'Талас;;;;;;;;;;;;;x
+k_quelthalas_adj;Талассий;;;;;;;;;;;;;x
+k_drustvar;Друствар;;;;;;;;;;;;;x
+k_drustvar_adj;Друствар;;;;;;;;;;;;;x
+d_order_of_embers;Орден Пылающих Углей;;;;;;;;;;;;;x
+d_order_of_embers_adj;Пылающеуголь;;;;;;;;;;;;;x
+d_thornspeakers;Терноманты;;;;;;;;;;;;;x
+d_thornspeakers_adj;Терномант;;;;;;;;;;;;;x
+d_throsic;Культ Фрос;;;;;;;;;;;;;x
+d_throsic_adj;Фрос;;;;;;;;;;;;;x
+b_jorg_townsend;Йорг;;;;;;;;;;;;;x
+b_jorg_townsend_adj;Йорг;;;;;;;;;;;;;x
+k_illidari;Иллидари;;;;;;;;;;;;;x
+k_illidari_adj;Иллидарий;;;;;;;;;;;;;x
+k_blasted_lands;Выжженные земли;;;;;;;;;;;;;x
+k_blasted_lands_adj;Выжженнозем;;;;;;;;;;;;;x
+d_southsea_freebooters;Флибустьеры Южных морей;;;;;;;;;;;;;x
+d_southsea_freebooters_adj;Флибустьер;;;;;;;;;;;;;x
+d_coilfang;Кривой Клык;;;;;;;;;;;;;x
+d_coilfang_adj;Кривоклык;;;;;;;;;;;;;x
+d_sunfury;Ярость Солнца;;;;;;;;;;;;;x
+d_sunfury_adj;Яростьсолнц;;;;;;;;;;;;;x
+e_wastewander;Скитальцы Пустыни;;;;;;;;;;;;;x
+e_wastewander_adj;Скиталь;;;;;;;;;;;;;x
+d_darkmoon_island;Остров Новолуния;;;;;;;;;;;;;x
+d_darkmoon_island_adj;Новолун;;;;;;;;;;;;;x
+d_blood_knights_order;Рыцари Крови;;;;;;;;;;;;;x
+e_gorian_empire;Горианская империя;;;;;;;;;;;;;x
+e_gorian_empire_adj;Гориан;;;;;;;;;;;;;x
+NEW_GORIA_NAME;Новая Гория;;;;;;;;;;;;;x
+PROV356;Андилиен;;;;;;;;;;;;;x
+c_andilien_estate_adj;Андилиен;;;;;;;;;;;;;x
+b_andilien_estate;Андилиен;;;;;;;;;;;;;x
+b_andilien_estate_adj;Андилиен;;;;;;;;;;;;;x
+PROV357;Бемларис;;;;;;;;;;;x;;
+c_sanctum_of_the_sun_adj;Бемларис;;;;;;;;;;;;;x
+b_sanctum_of_the_sun;Бемларис;;;;;;;;;;;;;x
+b_sanctum_of_the_sun_adj;Бемларис;;;;;;;;;;;;;x
+PROV368;Квалдрис;;;;;;;;;;;x;;
+c_east_sanctum_adj;Квалдрис;;;;;;;;;;;;;x
+b_east_sanctum;Квалдрис;;;;;;;;;;;;;x
+b_east_sanctum_adj;Квалдрис;;;;;;;;;;;;;x
+PROV376;Кеталис;;;;;;;;;;;x;;
+c_north_sanctum_adj;Кеталис;;;;;;;;;;;;;x
+b_north_sanctum;Кеталис;;;;;;;;;;;;;x
+b_north_sanctum_adj;Кеталис;;;;;;;;;;;;;x
+b_sanctum_of_the_moon;Нарилата;;;;;;;;;;;;;x
+b_sanctum_of_the_moon_adj;Нарилата;;;;;;;;;;;;;x
+b_west_sanctum;Бема'тас;;;;;;;;;;;;;x
+b_west_sanctum_adj;Бема'тас;;;;;;;;;;;;;x
+PROV371;Солнечный Парус;;;;;;;;;;;x;;
+c_sunsail_anchorage_adj;Солнечнопарус;;;;;;;;;;;;;x
+b_sunsail_anchorage;Солнечный Парус;;;;;;;;;;;;;x
+b_sunsail_anchorage_adj;Солнечнопарус;;;;;;;;;;;;;x
+PROV261;Зул;;;;;;;;;;;x
+c_altar_of_zul_adj;Зул;;;;;;;;;;;;;x
+PROV773;Джалан'и;;;;;;;;;;;x
+c_drakkari_arena_adj;Джалан'ий;;;;;;;;;;;;;x
+PROV769;Ка'кона;;;;;;;;;;;x
+d_silverpine;Серебряный бор;;;;;;;;;;;;;x
+d_silverpine_adj;Сребробор;;;;;;;;;;;;;x
+c_low_fields_adj;Ка'кон;;;;;;;;;;;;;x
+PROV695;Ледяная Корона;;;;;;;;;;;;;x
+k_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+k_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+d_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+d_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+c_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+c_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+b_icecrown;Ледяная Корона;;;;;;;;;;;;;x
+b_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+PROV94;Жагуаро;;;;;;;;;;;;;x
+PROV2220;Кровавый Парус;;;;;;;;;;;;;x
+c_south_islands;Жагуаро;;;;;;;;;;;;;x
+c_forlorn_3;Кровавый Парус;;;;;;;;;;;;;x
+c_south_islands_adj;Жагуар;;;;;;;;;;;;;x
+c_forlorn_3_adj;Кровавопарус;;;;;;;;;;;;;x

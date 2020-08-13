@@ -1,0 +1,201 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+# Common;;;;;;;;;;;;;;x
+emperor;Император;;;;;;;;;;;;;x
+emperor_female;Императрица;;;;;;;;;;;;;x
+empire_of;Империя;;;;;;;;;;;;;x
+empire;Империя;;;;;;;;;;;;;x
+king;Король;;;;;;;;;;;;;x
+king_female;Королева;;;;;;;;;;;;;x
+kingdom_of;Королевство;;;;;;;;;;;;;x
+kingdom;Королевство;;;;;;;;;;;;;x
+duke;Верховный лорд;;;;;;;;;;;;;x
+duke_female;Верховная леди;;;;;;;;;;;;;x
+duchy_of;Верховное лордство;;;;;;;;;;;;;x
+duchy;Верховное лордство;;;;;;;;;;;;;x
+count;Лорд;;;;;;;;;;;;;x
+count_female;Леди;;;;;;;;;;;;;x
+county_of;Лордство;;;;;;;;;;;;;x
+county;Лордство;;;;;;;;;;;;;x
+baron;Барон;;;;;;;;;;;;;x
+baron_female;Баронесса;;;;;;;;;;;;;x
+barony_of;Баронство;;;;;;;;;;;;;x
+Barony;Баронство;;;;;;;;;;;;;x
+# dwarf_group;;;;;;;;;;;;;;x
+emperor_dwarf_group;Верховный король;;;;;;;;;;;;;x
+emperor_female_dwarf_group;Верховная королева;;;;;;;;;;;;;x
+empire_of_dwarf_groupf;Верховное королевство;;;;;;;;;;;;;x
+empire_dwarf_group;Верховное королевство;;;;;;;;;;;;;x
+duke_dwarf_group;Тан;;;;;;;;;;;;;x
+duke_female_dwarf_group;Тан;;;;;;;;;;;;;x
+duchy_of_dwarf_group;Клан;;;;;;;;;;;;;x
+duchy_dwarf_group;Клан;;;;;;;;;;;;;x
+count_dwarf_group;Вождь;;;;;;;;;;;;;x
+count_female_dwarf_group;Предводительница;;;;;;;;;;;;;x
+county_of_dwarf_group;Вождество;;;;;;;;;;;;;x
+county_dwarf_group;Вождество;;;;;;;;;;;;;x
+# goblin_group;;;;;;;;;;;;;;x
+count_goblin_group;Верховный барон;;;;;;;;;;;;;x
+count_female_goblin_group;Верховная баронесса;;;;;;;;;;;;;x
+county_of_goblin_group;Верховное баронство;;;;;;;;;;;;;x
+county_goblin_group;Верховное баронство;;;;;;;;;;;;;x
+# shathyar_group;;;;;;;;;;;;;;x
+king_shathyar_group;Верховный генерал;;;;;;;;;;;;;x
+king_female_shathyar_group;Верховный генерал;;;;;;;;;;;;;x
+duke_shathyar_group;Генерал;;;;;;;;;;;;;x
+duke_female_shathyar_group;Генерал;;;;;;;;;;;;;x
+# naga;;;;;;;;;;;;;;x
+king_naga;Военачальник;;;;;;;;;;;;;x
+king_female_naga;Морская ведьма;;;;;;;;;;;;;x
+kingdom_of_naga;Верховное племя;;;;;;;;;;;;;x
+kingdom_naga;Верховный клан;;;;;;;;;;;;;x
+duchy_naga;Клан;;;;;;;;;;;;;x
+duchy_of_naga;Племя;;;;;;;;;;;;;x
+county_of_naga;Вождество;;;;;;;;;;;;;x
+county_naga;Вождество;;;;;;;;;;;;;x
+# aqir_group;;;;;;;;;;;;;;x
+duke_aqir_group;Повелитель роя;;;;;;;;;;;;;x
+duke_female_aqir_group;Повелительница роя;;;;;;;;;;;;;x
+duchy_of_aqir_group;Рой;;;;;;;;;;;;;x
+duchy_aqir_group;Рой;;;;;;;;;;;;;x
+count_aqir_group;Повелитель улья;;;;;;;;;;;;;x
+count_female_aqir_group;Повелительница роя;;;;;;;;;;;;;x
+county_of_aqir_group;Большой улей;;;;;;;;;;;;;x
+county_aqir_group;Большой улей;;;;;;;;;;;;;x
+# tirassian;;;;;;;;;;;;;;x
+emperor_tirassian;Великий лорд-адмирал;;;;;;;;;;;;;x
+emperor_female_tirassian;Верховный лорд-адмирал;;;;;;;;;;;;;x
+king_tirassian;Лорд-адмирал;;;;;;;;;;;;;x
+king_female_tirassian;Лорд-адмирал;;;;;;;;;;;;;x
+# dragon_group;;;;;;;;;;;;;;x
+emperor_dragon_group;Верховный король драконов;;;;;;;;;;;;;x
+emperor_female_dragon_group;Верховная королева драконов;;;;;;;;;;;;;x
+empire_of_dragon_group;Верховная драконья стая;;;;;;;;;;;;;x
+empire_dragon_group;Верховная драконья стая;;;;;;;;;;;;;x
+king_dragon_group;Король драконов;;;;;;;;;;;;;x
+king_female_dragon_group;Королева драконов;;;;;;;;;;;;;x
+kingdom_of_dragon_group;Драконья стая;;;;;;;;;;;;;x
+kingdom_dragon_group;Драконья стая;;;;;;;;;;;;;x
+# troll_group;;;;;;;;;;;;;;x
+emperor_troll_group;Король-бог;;;;;;;;;;;;;x
+emperor_female_troll_group;Королева-богиня;;;;;;;;;;;;;x
+# draenei_group;;;;;;;;;;;;;;x
+emperor_draenei_group;Верховный экзарх;;;;;;;;;;;;;x
+emperor_female_draenei_group;Верховный экзарх;;;;;;;;;;;;;x
+empire_of_draenei_group;Великий экзархат;;;;;;;;;;;;;x
+empire_draenei_group;Великий экзархат;;;;;;;;;;;;;x
+king_draenei_group;Экзарх;;;;;;;;;;;;;x
+king_female_draenei_group;Экзарх;;;;;;;;;;;;;x
+kingdom_of_draenei_group;Экзархат;;;;;;;;;;;;x;
+kingdom_draenei_group;Экзархат;;;;;;;;;;;;;x
+# demonic_group;;;;;;;;;;;;;;x
+emperor_demonic_group;Верховный владыка;;;;;;;;;;;;;x
+emperor_female_demonic_group;Верховная владычица;;;;;;;;;;;;;x
+empire_of_demonic_group;Верховное владычество;;;;;;;;;;;;;x
+empire_demonic_group;Верховное владычество;;;;;;;;;;;;;x
+king_demonic_group;Повелитель демонов;;;;;;;;;;;;;x
+king_female_demonic_group;Повелительница демонов;;;;;;;;;;;;;x
+kingdom_of_demonic_group;Владычество;;;;;;;;;;;;;x
+kingdom_demonic_group;Владычество;;;;;;;;;;;;;x
+# dryad_group;;;;;;;;;;;;;;x
+emperor_dryad_group;Древний;;;;;;;;;;;;;x
+emperor_female_dryad_group;Древняя;;;;;;;;;;;;;x
+king_dryad_group;Повелитель леса;;;;;;;;;;;;;x
+king_female_dryad_group;Повелительница леса;;;;;;;;;;;;;x
+kingdom_of_dryad_group;Лес;;;;;;;;;;;;;x
+kingdom_dryad_group;Лес;;;;;;;;;;;;;x
+duke_dryad_group;Владыка леса;;;;;;;;;;;;;x
+duke_female_dryad_group;Владычица леса;;;;;;;;;;;;;x
+duchy_of_dryad_group;Великая роща;;;;;;;;;;;;;x
+duchy_dryad_group;Великая роща;;;;;;;;;;;;;x
+count_dryad_group;Страж;;;;;;;;;;;;;x
+count_female_dryad_group;Стражница;;;;;;;;;;;;;x
+county_of_dryad_group;Роща;;;;;;;;;;;;;x
+county_dryad_group;Роща;;;;;;;;;;;;;x
+baron_dryad_group;Хранитель;;;;;;;;;;;;;x
+baron_female_dryad_group;Хранительница;;;;;;;;;;;;;x
+barony_of_dryad_group;Пристанище;;;;;;;;;;;;;x
+barony_dryad_group;Пристанище;;;;;;;;;;;;;x
+title_prince_dryad_group;Лесной принц;;;;;;;;;;;;;x
+title_prince_female_dryad_group;Лесная принцесса;;;;;;;;;;;;;x
+# frostnymph;;;;;;;;;;;;;;x
+title_prince_frostnymph;Принц тайги;;;;;;;;;;;;;x
+title_prince_female_frostnymph;Принцесса тайги;;;;;;;;;;;;;x
+# vrykul_group;;;;;;;;;;;;;;x
+duke_vrykul_group;Ярл;;;;;;;;;;;;;x
+duke_female_vrykul_group;Ярл;;;;;;;;;;;;;x
+duchy_of_vrykul_group;Ярлство;;;;;;;;;;;;;x
+duchy_vrykul_group;Клан;;;;;;;;;;;;;x
+# orc_group;;;;;;;;;;;;;;x
+king_orc_group;Верховный вождь;;;;;;;;;;;;;x
+king_female_orc_group;Верховная предводительница;;;;;;;;;;;;;x
+kingdom_of_orc_group;Верховное племя;;;;;;;;;;;;;x
+kingdom_orc_group;Верховный клан;;;;;;;;;;;;;x
+duke_orc_group;Вождь;;;;;;;;;;;;;x
+duke_female_orc_group;Предводительница;;;;;;;;;;;;;x
+duchy_orc_group;Клан;;;;;;;;;;;;;x
+duchy_of_orc_group;Племя;;;;;;;;;;;;;x
+count_orc_group;Вождь;;;;;;;;;;;;;x
+count_female_orc_group;Предводительница;;;;;;;;;;;;;x
+county_of_orc_group;Вождество;;;;;;;;;;;;;x
+county_orc_group;Вождество;;;;;;;;;;;;;x
+# tauren_group;;;;;;;;;;;;;;x
+king_tauren_group;Верховный вождь;;;;;;;;;;;;;x
+king_female_tauren_group;Верховная предводительница;;;;;;;;;;;;;x
+kingdom_of_tauren_group;Верховное племя;;;;;;;;;;;;;x
+kingdom_tauren_group;Верховный клан;;;;;;;;;;;;;x
+duke_tauren_group;Вождь;;;;;;;;;;;;;x
+duke_female_tauren_group;Предводительница;;;;;;;;;;;;;x
+duchy_tauren_group;Клан;;;;;;;;;;;;;x
+duchy_of_tauren_group;Племя;;;;;;;;;;;;;x
+count_tauren_group;Вождь;;;;;;;;;;;;;x
+count_female_tauren_group;Предводительница;;;;;;;;;;;;;x
+county_of_tauren_group;Вождество;;;;;;;;;;;;;x
+county_tauren_group;Вождество;;;;;;;;;;;;;x
+# satyr;;;;;;;;;;;;;;x
+kingdom_of_satyr;Верховное племя;;;;;;;;;;;;;x
+kingdom_satyr;Верховный клан;;;;;;;;;;;;;x
+duchy_satyr;Клан;;;;;;;;;;;;;x
+duchy_of_satyr;Племя;;;;;;;;;;;;;x
+county_of_satyr;Вождество;;;;;;;;;;;;;x
+county_satyr;Вождество;;;;;;;;;;;;;x
+# forsaken;;;;;;;;;;;;;;x
+duke_forsaken;Темный лорд;;;;;;;;;;;;;x
+duke_female_forsaken;Темная леди;;;;;;;;;;;;;x
+# wastewander;;;;;;;;;;;;;;x
+emperor_wastewander;Халиф;;;;;;;;;;;;;x
+emperor_female_wastewander;Халифа;;;;;;;;;;;;;x
+empire_of_wastewander;Халифат;;;;;;;;;;;;;x
+empire_wastewander;Халифат;;;;;;;;;;;;;x
+king_wastewander;Военачальник;;;;;;;;;;;;;x
+king_female_wastewander;Военачальница;;;;;;;;;;;;;x
+kingdom_of_wastewander;Воеводство;;;;;;;;;;;;;x
+kingdom_wastewander;Воеводство;;;;;;;;;;;;;x
+# drust;;;;;;;;;;;;;;x
+king_drust;Горак;;;;;;;;;;;;;
+king_female_drust;Горака;;;;;;;;;;;;;
+kingdom_of_drust;Горакство;;;;;;;;;;;;;
+kingdom_drust;Горакство;;;;;;;;;;;;;
+duke_drust;Ингра;;;;;;;;;;;;;x
+duke_female_drust;Ингра;;;;;;;;;;;;;x
+duchy_drust;Ингрство;;;;;;;;;;;;;x
+duchy_of_drust;Ингрство;;;;;;;;;;;;;x
+# ogre_group;;;;;;;;;;;;;;x
+emperor_ogre_group;Император;;;;;;;;;;;;;x
+emperor_female_ogre_group;Императрица;;;;;;;;;;;;;x
+empire_of_ogre_group;Империя;;;;;;;;;;;;;x
+empire_ogre_group;Империя;;;;;;;;;;;;;x
+# human_group;;;;;;;;;;;;;;x
+emperor_human_group;Верховный король;;;;;;;;;;;;;x
+emperor_female_human_group;Верховная королева;;;;;;;;;;;;;x
+empire_of_human_group;Верховное королевство;;;;;;;;;;;;;x
+empire_human_group;Верховное королевство;;;;;;;;;;;;;x
+# high_elf;;;;;;;;;;;;;;x
+emperor_high_elf;Верховный король;;;;;;;;;;;;;x
+emperor_female_high_elf;Верховная королева;;;;;;;;;;;;;x
+empire_of_high_elf;Верховное королевство;;;;;;;;;;;;;x
+empire_high_elf;Верховное королевство;;;;;;;;;;;;;x
+# blood_elf;;;;;;;;;;;;;;x
+emperor_blood_elf;Верховный король;;;;;;;;;;;;;x
+emperor_female_blood_elf;Верховная королева;;;;;;;;;;;;;x
+empire_of_blood_elf;Верховное королевство;;;;;;;;;;;;;x
+empire_blood_elf;Верховное королевство;;;;;;;;;;;;;x

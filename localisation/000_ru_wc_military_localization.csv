@@ -1,0 +1,462 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+#Military Technologies;;;;;;;;;;;;;;x
+TECH_INFANTRY;Передовые войска;;;;;;;;;;;;;x
+TECH_CAVALRY;Наступательные войска;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT;Военная инженерия;;;;;;;;;;;;;x
+TECH_RECRUITMENT;Военная логистика;;;;;;;;;;;;;x
+TECH_INFANTRY_DESC;Улучшение снаряжения и дисциплины наших передовых войск;;;;;;;;;;;;;x
+TECH_CAVALRY_DESC;Улучшение снаряжения и дисциплины наших наступательных войск;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT_DESC;Более продвинутые методы и осадные машины для наших механических войск;;;;;;;;;;;;;x
+TECH_RECRUITMENT_DESC;Более продвинутые логистические системы и методы набора войск;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+#ABBREVIATIONS;;;;;;;;;;;;;;x
+L_INF;ЗЛ;;;;;;;;;;;;;x
+H_INF;ПТ;;;;;;;;;;;;;x
+PIKE;КП;;;;;;;;;;;;;x
+L_CAV;КВ;;;;;;;;;;;;;x
+ARCH;СП;;;;;;;;;;;;;x
+H_CAV;ВП;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+PIKEMEN;Крупная пехота;;;;;;;;;;;;;x
+PIKEMEN_OFFENSIVE_FIRE;Атака крупной пехоты;;;;;;;;;;;;;x
+PIKEMEN_DEFENSIVE_FIRE;Защита крупной пехоты;;;;;;;;;;;;;x
+PIKEMEN_MORALE;Боевой дух крупной пехоты;;;;;;;;;;;;;x
+PIKEMEN_MODIFIER;Модификатор крупной пехоты;;;;;;;;;;;;;x
+CU_PIKEMEN;Крупная пехота;;;;;;;;;;;;;x
+KNIGHTS;Воздушная пехота;;;;;;;;;;;;;x
+KNIGHTS_OFFENSIVE_FIRE;Атака воздушной пехоты;;;;;;;;;;;;;x
+KNIGHTS_DEFENSIVE_FIRE;Защита воздушной пехоты;;;;;;;;;;;;;x
+KNIGHTS_MORALE;Боевой дух воздушной пехоты;;;;;;;;;;;;;x
+KNIGHTS_MODIFIER;Модификатор воздушной пехоты;;;;;;;;;;;;;x
+CU_KNIGHTS;Воздушная пехота;;;;;;;;;;;;;x
+CU_HEAVY_CAVALRY;Воздушная пехота;;;;;;;;;;;;;x
+LIGHT_CAVALRY;Кавалерия;;;;;;;;;;;;;x
+LIGHT_CAVALRY_OFFENSIVE_FIRE;Атака кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_DEFENSIVE_FIRE;Защита кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_MORALE;Боевой дух кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_MODIFIER;Модификатор кавалерии;;;;;;;;;;;;;x
+CU_LIGHT_CAVALRY;Кавалерия;;;;;;;;;;;;;x
+CU_CAVALRY;Ударные войска;;;;;;;;;;;;;x
+ARCHERS;Стрелковая пехота;;;;;;;;;;;;;x
+ARCHERS_OFFENSIVE_FIRE;Атака стрелковой пехоты;;;;;;;;;;;;;x
+ARCHERS_DEFENSIVE_FIRE;Защита стрелковой пехоты;;;;;;;;;;;;;x
+ARCHERS_MORALE;Боевой дух стрелковой пехоты;;;;;;;;;;;;;x
+ARCHERS_MODIFIER;Модификатор стрелковой пехоты;;;;;;;;;;;;;x
+CU_ARCHERS;Стрелковая пехота;;;;;;;;;;;;;x
+HEAVY_INFANTRY;Пехота;;;;;;;;;;;;;x
+HEAVY_INFANTRY_OFFENSIVE_FIRE;Атака пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_DEFENSIVE_FIRE;Защита пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_MORALE;Боевой дух пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_MODIFIER;Модификатор пехоты;;;;;;;;;;;;;x
+CU_HEAVY_INFANTRY;Войска ближнего боя;;;;;;;;;;;;;x
+CU_ACTUAL_HEAVY_INFANTRY;Пехота;;;;;;;;;;;;;x
+LIGHT_INFANTRY;Заклинатели;;;;;;;;;;;;;x
+LIGHT_INFANTRY_OFFENSIVE_FIRE;Атака заклинателей;;;;;;;;;;;;;x
+LIGHT_INFANTRY_DEFENSIVE_FIRE;Защита заклинателей;;;;;;;;;;;;;x
+LIGHT_INFANTRY_MORALE;Боевой дух заклинателей;;;;;;;;;;;;;x
+LIGHT_INFANTRY_MODIFIER;Модификатор заклинателей;;;;;;;;;;;;;x
+CU_LIGHT_INFANTRY;Войска поддержки;;;;;;;;;;;;;x
+CU_ACTUAL_LIGHT_INFANTRY;Заклинатели;;;;;;;;;;;;;x
+large_cavalry;Крупная кавалерия;;;;;;;;;;;;;x
+large_cavalry_offensive;Атака крупной кавалерии;;;;;;;;;;;;;x
+large_cavalry_defensive;Защита крупной кавалерии;;;;;;;;;;;;;x
+large_cavalry_morale;Боевой дух крупной кавалерии;;;;;;;;;;;;;x
+large_cavalry_modifier;Модификатор крупной кавалерии;;;;;;;;;;;;;x
+archmage;Архимаги;;;;;;;;;;;;;x
+archmage_offensive;Атака архимагов;;;;;;;;;;;;;x
+archmage_defensive;Защита архимагов;;;;;;;;;;;;;x
+archmage_morale;Боевой дух архимагов;;;;;;;;;;;;;x
+archmage_modifier;Модификатор архимагов;;;;;;;;;;;;;x
+undead;Нежить;;;;;;;;;;;;;x
+undead_offensive;Атака нежити;;;;;;;;;;;;;x
+undead_defensive;Защита нежити;;;;;;;;;;;;;x
+undead_morale;Боевой дух нежити;;;;;;;;;;;;;x
+undead_modifier;Модификатор нежити;;;;;;;;;;;;;x
+war_machines;Боевые машины;;;;;;;;;;;;;x
+war_machines_offensive;Атака боевых машин;;;;;;;;;;;;;x
+war_machines_defensive;Защита боевых машин;;;;;;;;;;;;;x
+war_machines_morale;Боевой дух боевых машин;;;;;;;;;;;;;x
+war_machines_modifier;Модификатор боевых машин;;;;;;;;;;;;;x
+animals;Звери;;;;;;;;;;;;;x
+animals_offensive;Атака зверей;;;;;;;;;;;;;x
+animals_defensive;Защита зверей;;;;;;;;;;;;;x
+animals_morale;Боевой дух зверей;;;;;;;;;;;;;x
+animals_modifier;Модификатор зверей;;;;;;;;;;;;;x
+dragons;Драконы;;;;;;;;;;;;;x
+dragons_offensive;Атака драконов;;;;;;;;;;;;;x
+dragons_defensive;Защита драконов;;;;;;;;;;;;;x
+dragons_morale;Боевой дух драконов;;;;;;;;;;;;;x
+dragons_modifier;Модификатор драконов;;;;;;;;;;;;;x
+golems;Големы;;;;;;;;;;;;;x
+golems_offensive;Атака големов;;;;;;;;;;;;;x
+golems_defensive;Защита големов;;;;;;;;;;;;;x
+golems_morale;Боевой дух големов;;;;;;;;;;;;;x
+golems_modifier;Модификатор големов;;;;;;;;;;;;;x
+ancients;Древни;;;;;;;;;;;;;x
+ancients_offensive;Атака древней;;;;;;;;;;;;;x
+ancients_defensive;Защита древней;;;;;;;;;;;;;x
+ancients_morale;Боевой дух древней;;;;;;;;;;;;;x
+ancients_modifier;Модификатор древней;;;;;;;;;;;;;x
+swarm;Рой;;;;;;;;;;;;;x
+swarm_offensive;Атака роя;;;;;;;;;;;;;x
+swarm_defensive;Защита роя;;;;;;;;;;;;;x
+swarm_morale;Боевой дух роя;;;;;;;;;;;;;x
+swarm_modifier;Модификатор роя;;;;;;;;;;;;;x
+siege_machines;Осадные машины;;;;;;;;;;;;;x
+siege_machines_offensive;Атака осадных машин;;;;;;;;;;;;;x
+siege_machines_defensive;Защита осадных машин;;;;;;;;;;;;;x
+siege_machines_morale;Боевой дух осадных машин;;;;;;;;;;;;;x
+siege_machines_modifier;Модификатор осадных машин;;;;;;;;;;;;;x
+thralls;Трэллы;;;;;;;;;;;;;x
+thralls_offensive;Атака трэллов;;;;;;;;;;;;;x
+thralls_defensive;Защита трэллов;;;;;;;;;;;;;x
+thralls_morale;Боевой дух трэллов;;;;;;;;;;;;;x
+thralls_modifier;Модификатор трэллов;;;;;;;;;;;;;x
+elite_infantry;Элитная пехота;;;;;;;;;;;;;x
+elite_infantry_offensive;Атака элитной пехоты;;;;;;;;;;;;;x
+elite_infantry_defensive;Защита элитной пехоты;;;;;;;;;;;;;x
+elite_infantry_morale;Боевой дух элитной пехоты;;;;;;;;;;;;;x
+elite_infantry_modifier;Модификатор элитной пехоты;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+#Tactics;;;;;;;;;;;;;;x
+wc_organized_skirmish_tactic;Организованная перестрелка;;;;;;;;;;;;;x
+wc_skirmish_tactic;Перестрелка;;;;;;;;;;;;;x
+wc_aerial_raid_tactic;Воздушный налет;;;;;;;;;;;;;x
+wc_aerial_strikes_tactic;Воздушные удары;;;;;;;;;;;;;x
+wc_volley_tactic;Залп;;;;;;;;;;;;;x
+wc_magic_volley_tactic;Магический залп;;;;;;;;;;;;;x
+wc_bombardment_tactic;Артиллерийский обстрел;;;;;;;;;;;;;x
+wc_shield_wall_tactic;Стена щитов;;;;;;;;;;;;;x
+wc_find_cover_tactic;Поиск убежища;;;;;;;;;;;;;x
+wc_charge_tactic;Натиск;;;;;;;;;;;;;x
+wc_crushing_charge_tactic;Сокрушающий натиск;;;;;;;;;;;;;x
+wc_undefended_charge_on_flank_tactic;Натиск по беззащитным флангам;;;;;;;;;;;;;x
+wc_spearhead_tactic;Острие копья;;;;;;;;;;;;;x
+wc_advance_tactic;Наступление;;;;;;;;;;;;;x
+wc_push_tactic;Натиск;;;;;;;;;;;;;x
+wc_pike_wall_tactic;Стена копий;;;;;;;;;;;;;x
+wc_barrier_tactic;Барьер;;;;;;;;;;;;;x
+wc_overwhelm_tactic;Подавление;;;;;;;;;;;;;x
+wc_roundabout_charge_tactic;Обходной натиск;;;;;;;;;;;;;x
+wc_barrage_tactic;Заградительный огонь;;;;;;;;;;;;;x
+wc_stand_and_fight_tactic;Стоять и биться;;;;;;;;;;;;;x
+wc_raid_tactic;Налет;;;;;;;;;;;;;x
+wc_overrun_tactic;Подавление;;;;;;;;;;;;;x
+wc_tank_and_heal_tactic;Танки и целители;;;;;;;;;;;;;x
+wc_trample_tactic;Пробивание;;;;;;;;;;;;;x
+wc_reinforce_tactic;Подкрепление;;;;;;;;;;;;;x
+wc_force_back_tactic;Принудительное отступление;;;;;;;;;;;;;x
+wc_swift_volley_tactic;Стремительный залп;;;;;;;;;;;;;x
+wc_aimed_bombardment_tactic;Прицельный артобстрел;;;;;;;;;;;;;x
+wc_draw_out_tactic;Растягивание рядов;;;;;;;;;;;;;x
+wc_aerial_bombardment_tactic;Воздушная бомбардировка;;;;;;;;;;;;;x
+wc_hedgehog_formation_tactic;Построение Ёж;;;;;;;;;;;;;x
+wc_entrench_tactic;Окапывание;;;;;;;;;;;;;x
+wc_heroic_charge_tactic;Героический натиск;;;;;;;;;;;;;x
+wc_trample_spearhead_tactic;Пробивающее острие копья;;;;;;;;;;;;;x
+wc_strengthened_barrier_tactic;Усиленный барьер;;;;;;;;;;;;;x
+wc_crafty_ambush_tactic;Хитрая засада;;;;;;;;;;;;;x
+wc_religious_zeal_tactic;Религиозное рвение;;;;;;;;;;;;;x
+wc_tactical_reinforce_tactic;Тактические подкрепления;;;;;;;;;;;;;x
+wc_slow_harassment_tactic;Медленное преследование;;;;;;;;;;;;;x
+wc_unintentional_charge_tactic;Неожиданный натиск;;;;;;;;;;;;;x
+wc_fire_on_own_troops_tactic;Огонь по своим;;;;;;;;;;;;;x
+wc_outranged_tactic;Обгон;;;;;;;;;;;;;x
+wc_aggressive_defense_tactic;Агрессивная оборона;;;;;;;;;;;;;x
+wc_outstretched_tactic;Растягивание рядов;;;;;;;;;;;;;x
+wc_reckless_charge_tactic;Безрассудный натиск;;;;;;;;;;;;;x
+wc_charge_through_skirmishers_tactic;Натиск по стрелкам;;;;;;;;;;;;;x
+wc_hesitate_tactic;Колебание;;;;;;;;;;;;;x
+wc_failed_barrier_tactic;Failed Barrier;;;;;;;;;;;;;x
+wc_advance_in_the_wrong_direction_tactic;Продвижение в неправильном направлении;;;;;;;;;;;;;x
+wc_aerial_melee_tactic;Воздушный ближний бой;;;;;;;;;;;;;x
+wc_forest_ambush_tactic;Лесная засада;;;;;;;;;;;;;x
+wc_spellbreak_tactic;Разрушение чар;;;;;;;;;;;;;x
+wc_breaking_charge_tactic;Разрывающий натиск;;;;;;;;;;;;;x
+wc_mountain_entrenchment_tactic;Окапывание в горах;;;;;;;;;;;;;x
+wc_desert_ambush_tactic;Засада в пустыне;;;;;;;;;;;;;x
+wc_swarm_charge_tactic;Натиск роя;;;;;;;;;;;;;x
+wc_swarm_volley_tactic;Залп роя;;;;;;;;;;;;;x
+wc_swarm_harassment_tactic;Роевое подавление;;;;;;;;;;;;x
+wc_swarm_encircle_tactic;Роевое окружение;;;;;;;;;;;;;x
+wc_overrun_push_tactic;Обходной натиск;;;;;;;;;;;;;x
+wc_magic_ambush_ractic;Магическая засада;;;;;;;;;;;;;x
+wc_mountain_raid_tactic;Налет с гор;;;;;;;;;;;;;x
+wc_water_assault_tactic;Нападение из воды;;;;;;;;;;;;;x
+wc_commando_raid_tactic;Налет коммандо;;;;;;;;;;;;;x
+wc_crush_and_trample_tactic;Раздавить и растоптать;;;;;;;;;;;;;x
+wc_underground_ambush_ractic;Подземная засада;;;;;;;;;;;;;x
+wc_brutalizing_trample_tactic;Жестокое подавление;;;;;;;;;;;;;x
+wc_tundra_swarm_tactic;Тундровый рой;;;;;;;;;;;;;x
+wc_forest_charge_tactic;Натиск из леса;;;;;;;;;;;;;x
+wc_heroic_trample_tactic;Героическое подавление;;;;;;;;;;;;;x
+wc_desert_entrenchment_tactic;Окапывание в пустыне;;;;;;;;;;;;;x
+wc_winter_ambush_tactic;Зимняя засада;;;;;;;;;;;;;x
+wc_aerial_ambush_tactic;Воздушная засада;;;;;;;;;;;;;x
+wc_undead_overrun_tactic;Обход нежити;;;;;;;;;;;;;x
+wc_undead_spearhead_tactic;Под острием копья;;;;;;;;;;;;;x
+wc_null_magic_tactic;Обнуление магии;;;;;;;;;;;;;x
+wc_undead_ambush_tactic;Засада нежити;;;;;;;;;;;;;x
+wc_blinding_light_charge_tactic;Слепящий натиск;;;;;;;;;;;;;x
+wc_loa_enhanced_zeal_tactic;Усиленное рвение Лоа;;;;;;;;;;;;;x
+wc_ancient_ambush_tactic;Засада Древ;;;;;;;;;;;;;x
+wc_taunt_tactic;Провокация;;;;;;;;;;;;;x
+wc_shield_slam_tactic;Мощный удар щитом;;;;;;;;;;;;;x
+wc_thunderclap_tactic;Удар грома;;;;;;;;;;;;;x
+wc_cleave_tactic;Cleave;;;;;;;;;;;;;x
+wc_multishot_tactic;Multishot;;;;;;;;;;;;;x
+wc_explosive_trap_tactic;Взрывная ловушка;;;;;;;;;;;;;x
+wc_kill_command_tactic;Команда Взять;;;;;;;;;;;;;x
+wc_disengage_tactic;Отрыв;;;;;;;;;;;;;x
+wc_distract_tactic;Отвлечение;;;;;;;;;;;;;x
+wc_evasion_tactic;Ускользание;;;;;;;;;;;;;x
+wc_poisoned_volley_tactic;Ядовитый залп;;;;;;;;;;;;;x
+wc_poisoned_ambush_tactic;Ядовитая засада;;;;;;;;;;;;;x
+wc_death_and_decay_tactic;Смерть и разложение;;;;;;;;;;;;;x
+wc_death_grip_tactic;Хватка смерти;;;;;;;;;;;;;x
+wc_chains_of_ice_tactic;Ледяные оковы;;;;;;;;;;;;;x
+wc_death_coil_tactic;Лик смерти;;;;;;;;;;;;;x
+wc_blight_bombardment_tactic;Чумная бомбардировка;;;;;;;;;;;;;x
+wc_raise_undead_tactic;Воскрешение нежити;;;;;;;;;;;;;x
+wc_empower_undead_tactic;Усиление нежити;;;;;;;;;;;;;x
+wc_cripple_tactic;Увечье;;;;;;;;;;;;;x
+wc_consume_magic_tactic;Поглощение магии;;;;;;;;;;;;;x
+wc_torment_tactic;Истязание;;;;;;;;;;;;;x
+wc_immolation_tactic;Ожог;;;;;;;;;;;;;x
+wc_blade_dance_tactic;Танец клинков;;;;;;;;;;;;;x
+wc_entangling_roots_tactic;Гнев деревьев;;;;;;;;;;;;;x
+wc_rejuvenate_tactic;Омоложение;;;;;;;;;;;;;x
+wc_lunar_strike_tactic;Лунный удар;;;;;;;;;;;;;x
+wc_starfall_tactic;Звездопад;;;;;;;;;;;;;x
+wc_arcane_barrage_tactic;Чародейский обстрел;;;;;;;;;;;;;x
+wc_blizzard_tactic;Метель;;;;;;;;;;;;;x
+wc_slow_tactic;Замедление;;;;;;;;;;;;;x
+wc_flamestrike_tactic;Волна огня;;;;;;;;;;;;;x
+wc_consecration_tactic;Освящение;;;;;;;;;;;;;x
+wc_judgement_tactic;Правосудие;;;;;;;;;;;;;x
+wc_holy_light_tactic;Святой Свет;;;;;;;;;;;;;x
+wc_retribution_tactic;Воздаяние;;;;;;;;;;;;;x
+wc_heal_tactic;Исцеление;;;;;;;;;;;;;x
+wc_resurrection_tactic;Воскрешение;;;;;;;;;;;;;x
+wc_holy_nova_tactic;Кольцо света;;;;;;;;;;;;;x
+wc_power_word_shield_tactic;Слово Силы: Щит;;;;;;;;;;;;;x
+wc_mindflay_tactic;Пытка разума;;;;;;;;;;;;;x
+wc_mind_blast_tactic;Взрыв разума;;;;;;;;;;;;;x
+wc_shadow_word_pain_tactic;Слово Тьмы: Боль;;;;;;;;;;;;;x
+wc_psychic_scream_tactic;Ментальный крик;;;;;;;;;;;;;x
+wc_hex_tactic;Сглаз;;;;;;;;;;;;;x
+wc_loa_bargain_tactic;Сделка с Лоа;;;;;;;;;;;;;x
+wc_defensive_voodoo_tactic;Защитная магия Вуду;;;;;;;;;;;;;x
+wc_offensive_voodoo_tactic;Наступательная магия Вуду;;;;;;;;;;;;;x
+wc_far_sight_tactic;Дальнее зрение;;;;;;;;;;;;;x
+wc_chain_lightning_tactic;Цепная молния;;;;;;;;;;;;;x
+wc_healing_wave_tactic;Волна исцеления;;;;;;;;;;;;;x
+wc_lava_surge_tactic;Волна лавы;;;;;;;;;;;;;x
+wc_fear_trait;Страх;;;;;;;;;;;;;x
+wc_corruption_trait;Порча;;;;;;;;;;;;;x
+wc_rain_of_fire_tactic;Огненный ливень;;;;;;;;;;;;;x
+wc_soul_link_tactic;Родство душ;;;;;;;;;;;;;x
+elephant_trample_tactic;Тяжелый шаг;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Generic;;;;;;;;;;;;;;x
+wc_ret_gen_inf;Пехотная дивизия;;;;;;;;;;;;;x
+wc_ret_gen_ran;Стрелковый батальон;;;;;;;;;;;;;x
+wc_ret_gen_cav;Кавалерийский эскадрон;;;;;;;;;;;;;x
+wc_ret_gen_cas;Отряд заклинателей;;;;;;;;;;;;;x
+wc_ret_gen_aer;Воздушный отряд;;;;;;;;;;;;;x
+wc_ret_gen_van;Авангардная дивизия;;;;;;;;;;;;;x
+wc_ret_gen_adv;Искатели приключений;;;;;;;;;;;;;x
+wc_ret_gen_art;Артиллерийский отряд;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Tribal;;;;;;;;;;;;;;x
+wc_ret_tribe_pure;Толпа племенных воинов;;;;;;;;;;;;;x
+wc_ret_tribe_inf;Воины;;;;;;;;;;;;;x
+wc_ret_tribe_ran;Охотники;;;;;;;;;;;;;x
+wc_ret_tribe_cav;Всадники;;;;;;;;;;;;;x
+wc_ret_tribe_van;Чемпионы;;;;;;;;;;;;;x
+wc_ret_tribe_cas;Тотемисты;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Cultural;;;;;;;;;;;;;;x
+wc_ret_cul_qiraji;Рой силитидов;;;;;;;;;;;;;x
+wc_ret_cul_nerubian;Паучьи повелители;;;;;;;;;;;;;x
+wc_ret_cul_centaur;Наездники;;;;;;;;;;;;;x
+wc_ret_cul_eredar;Дети Хаоса;;;;;;;;;;;;;x
+wc_ret_cul_draenei;Миротворцы;;;;;;;;;;;;;x
+wc_ret_cul_dragon;Дрейки;;;;;;;;;;;;;x
+wc_ret_cul_dryad;Хранители рощи;;;;;;;;;;;;;x
+wc_ret_cul_bronzebeard;Горные пехотинцы;;;;;;;;;;;;;x
+wc_ret_cul_wildhammer;Рыцари на грифонах;;;;;;;;;;;;;x
+wc_ret_cul_darkiron;Драгуны;;;;;;;;;;;;;x
+wc_ret_cul_frostborn;Мастера топора;;;;;;;;;;;;;x
+wc_ret_cul_furbolg;Урсы;;;;;;;;;;;;;x
+wc_ret_cul_gnoll;Громилы;;;;;;;;;;;;;x
+wc_ret_cul_wolvar;Тундровые охотники;;;;;;;;;;;;;x
+wc_ret_cul_gnome;Коммандо;;;;;;;;;;;;;x
+wc_ret_cul_goblin;Крошшеры;;;;;;;;;;;;;x
+wc_ret_cul_harpy;Крылатые разбойницы;;;;;;;;;;;;;x
+wc_ret_cul_highelf;Следопыты;;;;;;;;;;;;;x
+wc_ret_cul_bloodelf;Разрушители чар;;;;;;;;;;;;;x
+wc_ret_cul_hozen;Крушители;;;;;;;;;;;;;x
+wc_ret_cul_lordaeron;Рыцари;;;;;;;;;;;;;x
+wc_ret_cul_gilnean;Волчьи стражи;;;;;;;;;;;;;x
+wc_ret_cul_arathor;Охотники на троллей;;;;;;;;;;;;;x
+wc_ret_cul_azeroth;7-ой Легион;;;;;;;;;;;;;x
+wc_ret_cul_dalaran;Архимаги;;;;;;;;;;;;;x
+wc_ret_cul_alterac;Горные рейнджеры;;;;;;;;;;;;;x
+wc_ret_cul_tiras;Морские пехотинцы;;;;;;;;;;;;;x
+wc_ret_cul_northern;Егеря;;;;;;;;;;;;;x
+wc_ret_cul_pirate;Корсары;;;;;;;;;;;;;x
+wc_ret_cul_kobold;Носители свечей;;;;;;;;;;;;;x
+wc_ret_cul_snobold;Гвардия Тундры;;;;;;;;;;;;;x
+wc_ret_cul_magnataur;Сокрушители;;;;;;;;;;;;;x
+wc_ret_cul_murloc;Приливные охотники;;;;;;;;;;;;;x
+wc_ret_cul_gorloc;Оракулы;;;;;;;;;;;;;x
+wc_ret_cul_naga;Королевская гвардия;;;;;;;;;;;;;x
+wc_ret_cul_nightelf;Часовые;;;;;;;;;;;;;x
+wc_ret_cul_highborne;Чародеи;;;;;;;;;;;;;x
+wc_ret_cul_ogre;Изверги;;;;;;;;;;;;;x
+wc_ret_cul_warsong;Всадники;;;;;;;;;;;;;x
+wc_ret_cul_shadowm;Темные маги;;;;;;;;;;;;;x
+wc_ret_cul_blhollow;Дикари;;;;;;;;;;;;;x
+wc_ret_cul_blackrock;Разрушители;;;;;;;;;;;;;x
+wc_ret_cul_bblade;Мастера клинка;;;;;;;;;;;;;x
+wc_ret_cul_storeave;Чернокнижники;;;;;;;;;;;;;x
+wc_ret_cul_thunlord;Повелители зверей;;;;;;;;;;;;;x
+wc_ret_cul_bonechew;Каннибалы;;;;;;;;;;;;;x
+wc_ret_cul_laughskull;Каратели;;;;;;;;;;;;;x
+wc_ret_cul_shathand;Гладиаторы;;;;;;;;;;;;;x
+wc_ret_cul_frostwolf;Налетчики;;;;;;;;;;;;;x
+wc_ret_cul_twilhammer;Некролиты;;;;;;;;;;;;;x
+wc_ret_cul_dragonmaw;Наездники на драконах;;;;;;;;;;;;;x
+wc_ret_cul_pygmy;Крепконоги;;;;;;;;;;;;;x
+wc_ret_cul_quillboat;Терновые стражи;;;;;;;;;;;;;x
+wc_ret_cul_satyr;Призыватели огня;;;;;;;;;;;;;x
+wc_ret_cul_sethrak;Пустынные налетчики;;;;;;;;;;;;;x
+wc_ret_cul_tauren;Храбрецы;;;;;;;;;;;;;x
+wc_ret_cul_gurubashi;Всадники Раззаши;;;;;;;;;;;;;x
+wc_ret_cul_amani;Стражи;;;;;;;;;;;;;x
+wc_ret_cul_zandalari;Мастера войны;;;;;;;;;;;;;x
+wc_ret_cul_drakkari;Пикейщики;;;;;;;;;;;;;x
+wc_ret_cul_darktroll;Звероловы;;;;;;;;;;;;;x
+wc_ret_cul_farraki;Убийцы;;;;;;;;;;;;;x
+wc_ret_cul_bloodtroll;Боевые матроны;;;;;;;;;;;;;x
+we_ret_cul_tuskarr;Всадники на черепахах;;;;;;;;;;;;;x
+wc_ret_cul_vrykul;Таны;;;;;;;;;;;;;x
+wc_ret_cul_vulpera;Торговцы-наводчики;;;;;;;;;;;;;x
+wc_ret_cul_giant;Гигантские крушители;;;;;;;;;;;;;x
+wc_ret_cul_titanforged;Легион кованных титанами;;;;;;;;;;;;;x
+wc_ret_cul_forsaken;Темные Следопыты;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Religious;;;;;;;;;;;;;;x
+wc_ret_rel_scourge;Гаргульи;;;;;;;;;;;;;x
+wc_ret_rel_scourge2;Ледяные змеи;;;;;;;;;;;;;x
+wc_ret_rel_scourge3;Оживленные гиганты;;;;;;;;;;;;;x
+wc_ret_rel_scourge4;Рыцари Смерти;;;;;;;;;;;;;x
+wc_ret_rel_shaytar;Безмозглые рабы;;;;;;;;;;;;x
+wc_ret_rel_shaytar2;Культисты;;;;;;;;;;;;;x
+wc_ret_rel_shaytar3;Безликие разбойники;;;;;;;;;;;;;x
+wc_ret_rel_shaytar4;Мутанты;;;;;;;;;;;;;x
+wc_ret_rel_legion;Меньшие демоны;;;;;;;;;;;;;x
+wc_ret_rel_legion2;Большие демоны;;;;;;;;;;;;;x
+wc_ret_rel_legion3;Скверноботы;;;;;;;;;;;;;x
+wc_ret_rel_legion4;Стражи ужаса;;;;;;;;;;;;;x
+wc_ret_rel_holylight;Паладины;;;;;;;;;;;;;x
+wc_ret_rel_cultofloa;Воинство Лоа;;;;;;;;;;;;;x
+wc_ret_rel_cultofloa2;Аватары;;;;;;;;;;;;;x
+wc_ret_rel_illidari;Охотники на демонов;;;;;;;;;;;;;x
+wc_ret_rel_kaldoreireligion;Звериная стая;;;;;;;;;;;;;x
+wc_ret_rel_kaldoreireligion2;Древние;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+# Retinues – Nomadic;;;;;;;;;;;;;;x
+wc_ret_horde_ani;Налетчики;;;;;;;;;;;;;x
+wc_ret_horde_cav;Всадники;;;;;;;;;;;;;x
+wc_ret_horde_ran;Мародеры;;;;;;;;;;;;;x
+wc_ret_horde_cas;Ветроловы;;;;;;;;;;;;;x
+wc_ret_horde_lrg;Повелители битв;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+#Phase Descriptions;;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_PURSUE;На этапе Преследования одна из армий была разбита, а другая преследует выживших.\n§Y[GetKnightsName]§W, §Y[GetHorseArchersName]§W, §Y[GetDragonsName]§W и §Y[GetLightCavalryName]§W имеют преимущество на фазе §YPursue Phase§W!;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_SKIRMISH;На этапе Перестрелки обе армии ведут бой на расстоянии.\n§Y[GetActualLightInfantryName]§W, §Y[GetArchersName]§W, §Y[GetArchmageName]§W, §Y[GetSiegeMachinesName]§W и §Y[GetHorseArchersName]§W имеют преимущество на фазе §YSkirmish Phase§W!;;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_MELEE;На этом этапе обе армии скованы ближним боем.\n§Y[GetActualHeavyInfantryName]§W, §Y[GetPikemenName]§W, §Y[GetLightCavalryName]§W, §Y[GetLargeCavalryName]§W, §Y[GetUndeadName]§W, §Y[GetWarMachinesName]§W, §Y[GetAnimalsName]§W, §Y[GetEliteInfantryName]§W, §Y[GetSwarmName]§W, §Y[GetThrallsName]§W имеют преимущество на фазе §YMelee Phase§W!;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x

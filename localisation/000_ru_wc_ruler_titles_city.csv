@@ -1,0 +1,60 @@
+#CODE;ENGLISH;;;;;;;;;;;;;x
+# Common;;;;;;;;;;;;;;x
+city_emperor;Верховный консул;;;;;;;;;;;;;x
+city_emperor_female;Верховный консул;;;;;;;;;;;;;x
+city_empire_of;Великая республика;;;;;;;;;;;;;x
+city_empire;Великая республика;;;;;;;;;;;;;x
+city_king;Консул;;;;;;;;;;;;;x
+city_king_female;Консул;;;;;;;;;;;;;x
+city_kingdom_of;Республика;;;;;;;;;;;;;x
+city_kingdom;Республика;;;;;;;;;;;;;x
+city_duke;Магистр;;;;;;;;;;;;;x
+city_duke_female;Магистр;;;;;;;;;;;;;x
+city_duchy_of;Магистратура;;;;;;;;;;;;;x
+city_duchy;Магистратура;;;;;;;;;;;;;x
+city_count;Мэр;;;;;;;;;;;;;x
+city_count_female;Мэр;;;;;;;;;;;;;x
+city_county_of;Город;;;;;;;;;;;;;x
+city_county;Город;;;;;;;;;;;;;x
+family_palace_baron;Торговый принц;;;;;;;;;;;;;x
+family_palace_baron_female;Торговая принцесса;;;;;;;;;;;;;x
+family_palace_barony_of;Резиденция;;;;;;;;;;;;;x
+family_palace;Резиденция;;;;;;;;;;;;;x
+PALACE_NAME;Резиденция $DYNASTY$;;;;;;;;;;;;;x
+# goblin_group;;;;;;;;;;;;;;x
+city_emperor_goblin_group;Верховный король;;;;;;;;;;;;;x
+city_emperor_female_goblin_group;Верховная королева;;;;;;;;;;;;;x
+city_empire_of_goblin_group;Верховное королевство;;;;;;;;;;;;;x
+city_empire_goblin_group;Верховное королевство;;;;;;;;;;;;;x
+city_king_goblin_group;Король;;;;;;;;;;;;;x
+city_king_female_goblin_group;Королева;;;;;;;;;;;;;x
+city_kingdom_of_goblin_group;Королевство;;;;;;;;;;;;;x
+city_kingdom_goblin_group;Королевство;;;;;;;;;;;;;x
+city_duke_goblin_group;Торговый лорд;;;;;;;;;;;;;x
+city_duke_female_goblin_group;Торговая леди;;;;;;;;;;;;;x
+city_duchy_of_goblin_group;Верховное лордство;;;;;;;;;;;;;x
+city_duchy_goblin_group;Верховное лордство;;;;;;;;;;;;;x
+city_count_goblin_group;Торговый барон;;;;;;;;;;;;;x
+city_count_female_goblin_group;Торговая баронесса;;;;;;;;;;;;;x
+city_county_of_goblin_group;Верховное баронство;;;;;;;;;;;;;x
+city_county_goblin_group;Верховное баронство;;;;;;;;;;;;;x
+# troll_group;;;;;;;;;;;;;;x
+city_emperor_troll_group;Император;;;;;;;;;;;;;x
+city_emperor_female_troll_group;Императрица;;;;;;;;;;;;;x
+city_empire_of_troll_group;Империя;;;;;;;;;;;;;x
+city_empire_troll_group;Империя;;;;;;;;;;;;;x
+city_king;Верховный старейшина;;;;;;;;;;;;;x
+city_king_female;Верховный старейшина;;;;;;;;;;;;;x
+city_kingdom_of;Верховное племя;;;;;;;;;;;;;x
+city_kingdom;Верховное племя;;;;;;;;;;;;;x
+city_duke;Старейшина;;;;;;;;;;;;;x
+city_duke_female;Старейшина;;;;;;;;;;;;;x
+city_duchy_of;Племя;;;;;;;;;;;;;x
+city_duchy;Племя;;;;;;;;;;;;;x
+city_count;Вождь;;;;;;;;;;;;;x
+city_count_female;Предводительница;;;;;;;;;;;;;x
+city_county_of;Вождество;;;;;;;;;;;;;x
+city_county;Вождество;;;;;;;;;;;;;x
+# dryad_group;;;;;;;;;;;;;;x
+city_barony_of_dryad_group;Пристанище друидов;;;;;;;;;;;;;x
+city_barony_dryad_group;Пристанище друидов;;;;;;;;;;;;;x

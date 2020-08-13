@@ -1,0 +1,700 @@
+#CODE;RUSSIAN;;;;;;;;;;;;;x
+##Fallbacks;;;;;;;;;;;;;;x
+artifact_common_affixn1_0;Обычное;;;;;;;;;;;;;x
+artifact_uncommon_affixn1_0;Необычное;;;;;;;;;;;;;x
+artifact_rare_affixn1_0;Редкое;;;;;;;;;;;;;x
+artifact_epic_affixn1_0;Эпическое;;;;;;;;;;;;;x
+artifact_legendary_affixn1_0;Легендарный;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_stat_diplomacy_affixn2_0; Дипломатии;;;;;;;;;;;;;x
+artifact_jewelry_stat_martial_affixn2_0; Военного навыка;;;;;;;;;;;;;x
+artifact_jewelry_stat_stewardship_affixn2_0; Управления;;;;;;;;;;;;;x
+artifact_jewelry_stat_intrigue_affixn2_0; Интриги;;;;;;;;;;;;;x
+artifact_jewelry_stat_learning_affixn2_0; Образованности;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_common_origin;Ходят слухи, что [GetArtifactCommonOrigin].;;;;;;;;;;;;;x
+artifact_uncommon_origin;Ходят истории о том, что [GetArtifactUncommonOrigin].;;;;;;;;;;;;;x
+artifact_rare_origin;В сказках говорится о том, что [GetArtifactRareOrigin].;;;;;;;;;;;;;x
+artifact_epic_origin;В мифах говорится о том, что [GetArtifactEpicOrigin].;;;;;;;;;;;;;x
+artifact_legendary_origin;В легендах говорится о том, что [GetArtifactLegendaryOrigin].;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_common_origin_1;[This.GetName] на самом деле является редким артефактом.\nНе верьте слухам;;;;;;;;;;;;;x
+artifact_common_origin_2;[This.GetName] текущий владелец обнаружил в куче мусора;;;;;;;;;;;;;x
+artifact_common_origin_3;[This.GetName] создал подмастерье, бросивший обучение;;;;;;;;;;;;;x
+artifact_common_origin_4;[This.GetName] пригодно к использованию, но не доведено до совершенства;;;;;;;;;;;;;x
+artifact_common_origin_5;о [This.GetName] нет никаких историй;;;;;;;;;;;;;x
+artifact_common_origin_6;злобный призрак настигнет тех, кто осмелится носить [This.GetName];;;;;;;;;;;;;x
+artifact_common_origin_7;[This.GetName] не свойственны магические качества;;;;;;;;;;;;;x
+artifact_common_origin_8;[This.GetName] выковал пьяный кузнец;;;;;;;;;;;;;x
+artifact_common_origin_9;символы и руны, усеивающие [This.GetName] не имеют смысла;;;;;;;;;;;;;x
+artifact_common_origin_10;ремесленник, создавший [This.GetName] выковал это произведение из совершенно другого артефакта, но значительно ухудшил качество;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_uncommon_origin_1;[This.GetName] никогда не зачаровывали, а магические свойства этот артефакт приобрел случайно;;;;;;;;;;;;;x
+artifact_uncommon_origin_2;[This.GetName] выловили из озера;;;;;;;;;;;;;x
+artifact_uncommon_origin_3;[This.GetName] - копия легендарного оригинала;;;;;;;;;;;;;x
+artifact_uncommon_origin_4;на [This.GetName] все еще можно увидеть следы крови прошлых владельцев;;;;;;;;;;;;;x
+artifact_uncommon_origin_5;[This.GetName] выковали по чертежам оригинала, принадлежавшего знаменитому герою;;;;;;;;;;;;;x
+artifact_uncommon_origin_6;[This.GetName] украли у демона;;;;;;;;;;;;;x
+artifact_uncommon_origin_7;описание [This.GetName] совпадает с описанием артефакта героя в популярной детской колыбельной;;;;;;;;;;;;;x
+artifact_uncommon_origin_8;[This.GetName] нашли в городской библиотеке в сломанном состоянии, осколки собрали в память о давней войне;;;;;;;;;;;;;x
+artifact_uncommon_origin_9;[This.GetName] пропитан странной магией;;;;;;;;;;;;;x
+artifact_uncommon_origin_10;внешний вид [This.GetName] был изменен с целью сокрытия изначального вида;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_rare_origin_1;[This.GetName] являлся семейной реликвией павшего дворянина;;;;;;;;;;;;;x
+artifact_rare_origin_2;[This.GetName] должен быть проклят, но вместо этого зачарован;;;;;;;;;;;;;x
+artifact_rare_origin_3;[This.GetName] когда-то был дарован в качестве приза победителю знаменитого турнира;;;;;;;;;;;;;x
+artifact_rare_origin_4;[This.GetName] изначально являлся копией, но в процессе изготовления превзошел оригинал;;;;;;;;;;;;;x
+artifact_rare_origin_5;[This.GetName] создал загадочный человек, который хотел, чтобы его запомнили, но его имя было стерто из истории;;;;;;;;;;;;;x
+artifact_rare_origin_6;[This.GetName] долго перековывали, чтобы привить текущие магические свойства;;;;;;;;;;;;;x
+artifact_rare_origin_7;магические свойства [This.GetName] интригуют разум. Этот артефакт выкован из обломков множества разнообразных артефактов, принадлежавших героям;;;;;;;;;;;;;x
+artifact_rare_origin_8;[This.GetName] был предназначен для захоронения вместе с умершим правителем, но был передан его наследнику, который начал традицию передачи этого артефакта самым достойным чемпионам;;;;;;;;;;;;;x
+artifact_rare_origin_9;[This.GetName] был найден в процессе исследования древней гробницы;;;;;;;;;;;;;x
+artifact_rare_origin_10;тиран, гордившийся своим внешним видом, носил [This.GetName] в день, когда его убили собственные слуги;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_epic_origin_1;[This.GetName] упал с неба;;;;;;;;;;;;;x
+artifact_epic_origin_2;происхождение [This.GetName] неизвестно;;;;;;;;;;;;;x
+artifact_epic_origin_3;[This.GetName] послужил искрой, из которой вспыхнула кровопролитная война между соседними королевствами, сражавшимися за обладание этим артефактом;;;;;;;;;;;;;x
+artifact_epic_origin_4;[This.GetName] являтся последним доказательством существования давно умершего мистического существа;;;;;;;;;;;;;x
+artifact_epic_origin_5;[This.GetName] когда-то продали за 40 тысяч золотых;;;;;;;;;;;;;x
+artifact_epic_origin_6;изначальный владелец [This.GetName] провел последние годы своей жизни путешествуя по миру в поисках ответов на разнообразные тайны;;;;;;;;;;;;;x
+artifact_epic_origin_7;иногда [This.GetName] светится сущностью жизней, которые были прерваны слишком рано;;;;;;;;;;;;;x
+artifact_epic_origin_8;когда вы слишком долго вглядываетесь в [This.GetName], этот артефакт вглядывается в вас;;;;;;;;;;;;;x
+artifact_epic_origin_9;из [This.GetName] раздается шепот, называющий имя существа из другого мира, создавшего этот артефакт;;;;;;;;;;;;;x
+artifact_epic_origin_10;однажды один мудрец пытался постичь силу [This.GetName], но сошел от полученных знаний с ума;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_legendary_origin_1;[This.GetName] принадлежал мертвецу. Все предыдущие владельцы мертвы, а те, кто владеет артефактом сейчас, также избежат этой судьбы;;;;;;;;;;;;;x
+artifact_legendary_origin_2;многие держали в руке [This.GetName] на протяжении поколений. Легенды об их деяниях можно услышать во всех уголках мира;;;;;;;;;;;;;x
+artifact_legendary_origin_3;[This.GetName] выковали с применением техники, которая превосходит существующие на тысячелетия. Немногие мастера способны создать нечто подобное;;;;;;;;;;;;;x
+artifact_legendary_origin_4;любой, кто хоть раз видел [This.GetName], возжелал этот артефакт себе. Владельцу предстоит не раз проливать кровь, чтобы сохранить артефакт у себя;;;;;;;;;;;;;x
+artifact_legendary_origin_5;[This.GetName] уничтожили тысячелетия назад..;;;;;;;;;;;;;x
+artifact_legendary_origin_6;одного взгляда на [This.GetName] было достаточно для разрешения споров, которые в противном случае привели бы к войне;;;;;;;;;;;;;x
+artifact_legendary_origin_7;[This.GetName] не мог выковать смертный;;;;;;;;;;;;;x
+artifact_legendary_origin_8;[This.GetName] существовал еще в начале времен;;;;;;;;;;;;;x
+artifact_legendary_origin_9;[This.GetName] хранит тайны для тех, кто может расшифровать его замысловатый дизайн;;;;;;;;;;;;;x
+artifact_legendary_origin_10;[This.GetName] выковали из материалов, которые не существуют в этом мире;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_1;Average;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_2;Broken;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_3;Busted;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_4;Cheap;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_5;Common;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_6;Damaged;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_7;Mediocre;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_8;Plain;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_9;Rustic;;;;;;;;;;;;;x
+artifact_jewelry_common_affixn1_10;Simple;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_1;Shining;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_2;Delicate;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_3;Fancy;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_4;Glimmering;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_5;Glittering;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_6;Swan's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_7;Maiden's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_8;Notable;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_9;Odorous;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_diplomacy_10;Pristine;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_1;Aggressor's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_2;Battle;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_3;Boar's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_4;Gorilla's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_5;Plunderer's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_6;Raider's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_7;Savage's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_8;Squire's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_9;Soldier's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_martial_10;Warrior's;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_1;Mercantile;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_2;Caretaker's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_3;Carpenter's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_4;Craftsman's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_5;Energising;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_6;Expensive;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_7;Grandma's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_8;Gardener's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_9;Trader's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_stewardship_10;Noble;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_1;Acrobat's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_2;Bat's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_3;Dancer's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_4;Darkened;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_5;Fox's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_6;Stolen;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_7;Hyena's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_8;Lynx's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_9;Mongoose's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_intrigue_10;Rogue's;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_1;Blessed;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_2;Consecrated;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_3;Student's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_4;Fanatic's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_5;Grandpa's;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_6;Inscribed;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_7;Old;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_8;Pure;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_9;Shiny;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn1_learning_10;Snake's;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_1;Pulsing;;Pulsierender;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_2;Aristocratic;;Aristokratischer;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_3;Bard's;;Des Barden;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_4;Knight's;;Des Ritters;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_5;Damsel's;;Der Magd;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_6;Radiating;;Zeremonieller;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_7;Glowing;;Leuchtender;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_8;Impressive;;Beeindruckender;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_9;Lordly;;Herrschaftlicher;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_diplomacy_10;Magnificent;;Prachtvoller;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_1;Battle Hardened;;Schlachtgehдrteter;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_2;Bloody;;Blutiger;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_3;Bull's;;Bulliger;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_4;Captain's;;Des Kapitдns;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_5;Commander's;;Des Kommandeurs;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_6;Eagle's;;Des Adlers;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_7;Executioner's;;Des Henkers;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_8;Legionnaire's;;Des Legionдrs;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_9;Lieutenant's;;Des Leutnants;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_martial_10;Veteran's;;Des Veteranen;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_1;Advisor's;;Des Beraters;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_2;Architect's;;Des Architekten;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_3;Brewfather's;;Des Braumeisters;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_4;Castellan's;;Des Kastellans;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_5;Etched;;Geдtzter;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_6;Felicitous;;Glьcklicher;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_7;Flourishing;;Blьhender;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_8;Keeper's;;Des Hьters;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_9;Richly Decorated;;Reich verzierter;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_stewardship_10;Steward's;;Des Seneschalls;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_1;Advisor's;;Des Beraters;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_2;Disgraced's;;Des Entehrten;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_3;Enveloped;;Umhьllter;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_4;Snake's;;Finsterer;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_5;Spider's;;Der Spinne;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_6;Malevolent;;Bцswilliger;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_7;Maniac's;;Des Wahnsinnigen;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_8;Noxious;;Schдdlicher;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_9;Oathbreaker's;;Des Eidbrechers;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_intrigue_10;Panther's;;Des Panthers;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_1;Sacred;;Heiliger;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_2;Catalysing;;Katalysierender;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_3;Obscure;;Unbekannter;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_4;Solar;;Solarer;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_5;Elder's;;Des Дltesten;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_6;Inquisitor's;;Des Inquisitors;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_7;Lunar;;Lunarer;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_8;Manaforged;;Magisch geschmiedeter;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_9;Monk's;;Des Mцnchs;;;;;;;;;;;x
+artifact_jewelry_rare_affixn1_learning_10;Serpent's;;Weiser;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_1;Ambassador's;;Des Botschafters;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_2;Blazing;;Brennender;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_3;Brilliant;;Brillanter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_4;Courteous;;Hцflicher;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_5;Courtly;;Hцfischer;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_6;Gracious;;Gnadenvoller;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_7;Minstrel's;;Des Sдngers;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_8;Scintillating;;Schillernder;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_9;Seething;;Schдumender;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_diplomacy_10;Imposing;;Beeindruckender;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_1;Bear's;;Des Bдren;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_2;Warforged;;Im Krieg geschmiedeter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_3;Champion's;;Des Champions;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_4;Victorious;;Siegreicher;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_5;General's;;Des Generals;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_6;Hero's;;Des Helden;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_7;Lion's;;Des Lцwen;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_8;Dreadnaught's;;Des Mutigen;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_9;Solar;;Solarer;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_martial_10;Wolf's;;Des Wolfs;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_1;Incorruptible;;Unbestechlicher;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_2;King's;;Kцniglicher;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_3;Lavishly Jeweled;;Juwelengeschmьckter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_4;Lawgiver's;;Des Rechtssprechers;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_5;Magnificent;;Prachtvoller;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_6;Overseer's;;Des Aufsehers;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_7;Sovereign's;;Souverдner;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_8;Prestigious;;Renommierter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_9;Treasured;;Geschдtzter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_stewardship_10;Serene Protector's;;Des herrlichen Beschьtzers;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_1;Serpent's;;Der Schlange;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_2;Corrupted;;Verdorbener;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_3;Dark;;Finsterer;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_4;Dark Lady's;;Der dunklen Herrin;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_5;Ghastly;;Grдsslicher;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_6;Shadow;;Schattenhafter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_7;Lunar;;Lunarer;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_8;Raven's;;Des Rabens;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_9;Nightblade's;;Der Nachtklinge;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_intrigue_10;Ominous;;Ominцser;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_1;Antique;;Antiker;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_2;Diviner's;;Des Wahrsagers;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_3;Dragon's;;Des Drachen;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_4;Ritual;;Ritueller;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_5;Runed;;Runenverzierter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_6;Hallowed;;Geheiligter;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_7;Mountainsage's;;Des Bergweisen;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_8;Mystic;;Mystischer;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_9;Oracle's;;Des Orakels;;;;;;;;;;;x
+artifact_jewelry_epic_affixn1_learning_10;Owl's;;Der Eule;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_1;Chivalrous;;Ritterlicher;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_2;Troubadour's;;Bardischer;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_3;Glorious;;Glorreicher;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_4;Harbinger's;;Des Vorboten;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_5;Herald's;;Heraldischer;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_6;Imperial;;Kaiserlicher;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_7;Incandescent;;Glьhender;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_8;Oathkeeper's;;Des Schwurhalters;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_9;Singing;;Singender;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_diplomacy_10;Resplendent;;Prдchtiger;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_1;Beast's;;Der Bestie;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_2;Bloodsoaked;;Blutgetrдnkter;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_3;Conqueror's;;Des Eroberers;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_4;Conquistador's;;Erobernder;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_5;Guardian's;;Des Hьters;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_6;Inexorable;;Unerbittlicher;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_7;Vanquisher's;;Bezwingender;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_8;Warlord's;;Des Heerfьhrers;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_9;Warmonger's;;Des Kriegstreibers;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_martial_10;Bloodlord's;;Des Blutfьrsten;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_1;High King's;;Hochkцniglicher;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_2;Ethereal;;Дtherischer;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_3;Majestic;;Majestдtischer;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_4;Overlord's;;Des Lehnsherren;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_5;Peacekeeper's;;Des Friedenswдchters;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_6;Prismatic;;Prismatischer;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_7;Puzzle;;Des Rдtsels;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_8;Royal;;Royaler;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_9;Sublime;;Erhabener;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_stewardship_10;Worldmaker's;;Des Weltenschaffers;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_1;Assassin's;;Des Attentдters;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_2;Shadow Prince's;;Des Schattenprinzen;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_3;Nameless';;Namenloser;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_4;Cursing;;Verfluchender;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_5;Doomed;;Verdammter;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_6;Forgotten;;Vergessener;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_7;Lightdrinker's;;Des Lichttrinkers;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_8;Lost;;Verlorener;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_9;Black;;Schwarzer;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_intrigue_10;Phantom's;;Des Phantoms;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_1;Ancient;;Uralter;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_2;Celestial;;Himmlischer;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_3;Dolphin's;;Exaltierter;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_4;Great Wyrm's;;Des groЯen Wyrms;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_5;Unfathomable;;Unergrьndlicher;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_6;Lorekeeper's;;Des Legendenhьters;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_7;Oculus;;Schlдngelnder;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_8;Prophet's;;Des Propheten;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_9;Rainbow;;Des Regenbogens;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn1_learning_10;Sentient;;Des Vorlдufers;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_1; Невинности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_2; Честности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_3; Чести;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_4; Клятв;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_5; Романтики;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_6; Обещаний;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_7; Доброты;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_8; Общительности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_9; Дружбы;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_diplomacy_10; Волнения;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_1; Агрессии;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_2; Храбрости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_3; Потрошения;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_4; Увечий;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_5; Силы;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_6; Гнева;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_7; Неистовства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_8; Ярости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_9; Ранений;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_martial_10; Силы;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_1; Случайностей;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_2; Мастерства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_3; Жадности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_4; Правосудия;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_5; Богатства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_6; Порядка;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_7; Успеха;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_8; Сосредоточения;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_9; Справедливости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_stewardship_10; Руководства;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_1; Ловкости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_2; Предательства;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_3; Хитрости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_4; Умелости;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_5; Обмана;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_6; Гордыни;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_7; Разрушения;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_8; Зависти;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_9; Страха;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_intrigue_10; Манипуляций;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_1; Проницательности;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_2; Интеллекта;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_3; Магии;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_4; Психики;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_5; Призраков;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_6; Разума;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_7; Правды;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_8; Эрудиции;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_9; Воспоминаний;;;;;;;;;;;;;x
+artifact_jewelry_uncommon_affixn2_learning_10; Роящихся Мыслей;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_1; Красоты;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_2; Милосердия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_3; Тщеславия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_4; Обвинений;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_5; Славы;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_6; Радости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_7; Восторга;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_8; Внимания;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_9; Улыбающейся Судьбы;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_diplomacy_10; Яркости;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_1; Бойни;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_2; Жестокости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_3; Крови;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_4; Могущества;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_5; Отваги;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_6; Безжалостности;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_7; Сокрушения;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_8; Войны;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_9; Вражды;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_martial_10; Ненависти;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_1; Удачи;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_2; Правосудия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_3; Богатства;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_4; Правления;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_5; Усердия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_6; Удачи;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_7; Мира;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_8; Уважения;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_9; Прагматизма;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_stewardship_10; Идеалов;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_1; Точности;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_2; Злобы;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_3; Убийства;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_4; Тайны;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_5; Злой Воли;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_6; Потрошения;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_7; Мучений;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_8; Отвратительный Деяний;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_9; Бесчестной Хитрости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_intrigue_10; Сомнительной Верности;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_1; Разума;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_2; Знаний;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_3; Медитации;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_4; Старости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_5; Мудрости;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_6; Веры;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_7; Благочестия;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_8; Жизненных Сил;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_9; Рассвета;;;;;;;;;;;;;x
+artifact_jewelry_rare_affixn2_learning_10; Чистых Мыслей;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_1; Притяжения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_2; Успокоения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_3; Востановленной Чести;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_4; Доблести;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_5; Отваги;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_6; Благородных Поступков;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_7; Самоотверженности;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_8; Утешения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_9; Славы;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_diplomacy_10; Блаженства;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_1; Крови;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_2; Бездушности;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_3; Резни;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_4; Разрушений;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_5; Сокрушения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_6; Триумфа;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_7; Безрассудства;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_8; Неукротимой Воли;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_9; Стратегии;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_martial_10; Господства;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_1; Бережливости;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_2; Управления;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_3; Удачи;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_4; Щедрости Природы;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_5; Процветания;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_6; Бесконечной Энергии;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_7; Решительного Правосудия;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_8; Неписаных Законов;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_9; Власти;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_stewardship_10; Рассудительности;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_1; Точности;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_2; Тени;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_3; Ночи;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_4; Неуловимости;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_5; Подлых Намерений;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_6; Злых Лиц;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_7; Страха;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_8; Кошмаров;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_9; Отреченных Истин;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_intrigue_10; Иллюзий;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_1; Возможностей;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_2; Предвидения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_3; Средоточия;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_4; Оккультизма;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_5; Поклонения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_6; Смерти;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_7; Жизни;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_8; Неба;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_9; Духовного Рвения;;;;;;;;;;;;;x
+artifact_jewelry_epic_affixn2_learning_10; Разума;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_1; Обреченных Встреч;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_2; Гламура;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_3; Надежды;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_4; Королевского Величия;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_5; Вечной Верности;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_6; Вознесенной Славы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_7; Самопожертвования;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_8; Красноречивости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_9; Эйфории;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_diplomacy_10; Любви;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_1; Несгибаемой Силы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_2; Вечного Пламени;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_3; Неисчислимых Легионов;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_4; Непреодолимой Защиты;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_5; Непобедимости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_6; Сжигания;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_7; Превосходства;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_8; Бессмертного Духа;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_9; Непреодолимой Силы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_martial_10; Бессмертного Командования;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_1; Золотых Рук;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_2; Великой Удачи;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_3; Гармонии;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_4; Вечной Справедливости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_5; Разрушительных Ошибок;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_6; Старой Империи;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_7; Чистого Взгляда;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_8; Нерушимых Законов;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_9; Вечного Дозора;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_stewardship_10; Кования Судьбы;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_1; Невидимости;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_2; Тьмы;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_3; Шепота;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_4; Усопших Королей;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_5; Невысказанных Имен;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_6; Беспросветных Ночей;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_7; Поцелуя Смерти;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_8; Тайн;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_9; Вечных Страхов;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_intrigue_10; Загадочных Снов;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_1; Божественности;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_2; Вечной Жизни;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_3; Всеведания;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_4; Веков;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_5; Превосходства;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_6; Просвещения;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_7; Вечности;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_8; Вознесения;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_9; Древних Знаний;;;;;;;;;;;;;x
+artifact_jewelry_legendary_affixn2_learning_10; Безграничной Мудрости;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_1;Ржав;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_2;Дешев;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_3;Непримечательн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_4;Поврежденн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_5;Обычн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_6;Прост;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_7;Посредственн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_8;Фальшив;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_9;Затупленн;;;;;;;;;;;;;x
+artifact_melee_weapon_common_affixn1_10;Перекованн;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_1;Церемониальн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_2;Военн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_3;Закаленн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_4;Славн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_5;Коварн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_6;Могущественн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_7;Счастлив;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_8;Превосходн;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_9;Варварск;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_affixn1_10;Искусн;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_1;Надежн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_2;Командирск;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_3;Ветеранск;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_4;Блистательн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_5;Победоносн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_6;Исключительн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_7;Удачлив;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_8;Зловещ;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_9;Роскошн;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_affixn1_10;Вероломн;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_1;Закаленн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_2;Генеральск;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_3;Чемпионск;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_4;Могуч;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_5;Триумфальн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_6;Превосходн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_7;Древн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_8;Знаменит;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_9;Мстительн;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_affixn1_10;Фантастическ;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_1;Воительск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_2;Наемническ;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_3;Кровав;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_4;Завоевательск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_5;Мстительск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_6;Имперск;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_7;Первородн;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_8;Тираническ;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_9;Затерянн;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_affixn1_10;Небесн;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_fire_affixn2_1; Огня;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_fire_affixn2_2; Раскаленности;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_fire_affixn2_3; Жары;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_frost_affixn2_1; Льда;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_frost_affixn2_2; Метели;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_frost_affixn2_3; Тундры;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_lightning_affixn2_1; Молний;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_lightning_affixn2_2; Искр;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_lightning_affixn2_3; Энергии;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_poison_affixn2_1; Подлости;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_poison_affixn2_2; Септичности;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_poison_affixn2_3; Отвратительности;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_magic_affixn2_1; Загадок;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_magic_affixn2_2; Странностей;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_magic_affixn2_3; Ритуалов;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_1; Блеска;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_2; Полированности;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_3; Жестокости;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_4; Отваги;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_5; Могущества;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_6; Слабости;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_7; Шока;;;;;;;;;;;;;x
+artifact_melee_weapon_uncommon_physical_affixn2_8; Увечий;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_fire_affixn2_1; Опаления;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_fire_affixn2_2; Огня;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_fire_affixn2_3; Ослепления;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_frost_affixn2_1; Льда;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_frost_affixn2_2; Мороза;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_frost_affixn2_3; Сокрушения;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_lightning_affixn2_1; Искр;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_lightning_affixn2_2; Молний;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_lightning_affixn2_3; Грома;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_poison_affixn2_1; Едкости;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_poison_affixn2_2; Жжения;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_poison_affixn2_3; Кислотности;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_magic_affixn2_1; Тайной Магии;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_magic_affixn2_2; Магии;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_magic_affixn2_3; Загадок;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_1; Тьмы;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_2; Блеска;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_3; Резни;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_4; Безжалостности;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_5; Злобы;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_6; Жестокости;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_7; Кровожадности;;;;;;;;;;;;;x
+artifact_melee_weapon_rare_physical_affixn2_8; Порезов;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_fire_affixn2_1; Пламени;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_fire_affixn2_2; Призывания Огня;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_fire_affixn2_3; Мерцания;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_frost_affixn2_1; Мороза;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_frost_affixn2_2; Льда;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_frost_affixn2_3; Незыблемости;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_lightning_affixn2_1; Шока;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_lightning_affixn2_2; Мерцания;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_lightning_affixn2_3; Заряда;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_poison_affixn2_1; Токсичности;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_poison_affixn2_2; Вреда;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_poison_affixn2_3; Разрушения;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_magic_affixn2_1; Жути;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_magic_affixn2_2; Астральности;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_magic_affixn2_3; Мифов;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_1; Обожженности;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_2; Закаленности;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_3; Зазубренности;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_4; Безжалостности;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_5; Ранений;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_6; Умерщвления;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_7; Коварности;;;;;;;;;;;;;x
+artifact_melee_weapon_epic_physical_affixn2_8; Прокалывания;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_fire_affixn2_1; Извержения;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_fire_affixn2_2; Угля;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_fire_affixn2_3; Бездны;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_frost_affixn2_1; Снежной Бури;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_frost_affixn2_2; Тундры;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_frost_affixn2_3; Холодной Метели;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_lightning_affixn2_1; Призывания Грома;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_lightning_affixn2_2; Штормов;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_lightning_affixn2_3; Бури;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_poison_affixn2_1; Коварности;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_poison_affixn2_2; Яда;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_poison_affixn2_3; Чумы;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_magic_affixn2_1; Мистицизма;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_magic_affixn2_2; Неба;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_magic_affixn2_3; Радуги;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_1; Смерти;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_2; Разорения;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_3; Дикости;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_4; Свирепости;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_5; Пронзания;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_6; Увечий;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_7; Ненасытности;;;;;;;;;;;;;x
+artifact_melee_weapon_legendary_physical_affixn2_8; Кровожадности;;;;;;;;;;;;;x
