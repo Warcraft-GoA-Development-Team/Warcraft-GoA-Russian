@@ -740,5 +740,5 @@ write_down_whispers;Записать шепот в голове;;;;;;;;;;;;;x
 write_down_whispers_desc;Записать шепот Древних Богов, который всегда звучит в ваших ушах.;;;;;;;;;;;;;x
 write_down_whispers_power_desc;Позволяет, кликнув §Gправой кнопкой мыши§! на Вашем портрете, приступить к записи шепота Древних Богов в вашей голове. Качество книги зависит от количества вашего §Y[This.TrueReligion.GetPietyName]§!.;;;;;;;;;;;;;x
 write_down_whispers_duplicate_tooltip;Убедитесь, что НЕ владеете записью Шепотов ни по одной из тем.;;;;;;;;;;;;;x
-chogall_journey_length;Ваше путешествие займет четыре года.;;;;;;;;;;;;;x
-important_old_god_task_tooltip;Не выполняет поручение для Хозяина [Root.GetHerHis].;;;;;;;;;;;;;x
+chogall_journey_length;Ваше путешествие продлится четыре года.;;;;;;;;;;;;;x
+important_old_god_task_tooltip;НЕ выполняет важное задание для [Root.GetHerHis] повелителя.;;;;;;;;;;;;;x
