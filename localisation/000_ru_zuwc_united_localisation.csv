@@ -929,7 +929,7 @@ EVTTITLE_WCPOD_2000_lordaeron;Чума Лордерона;;;;;;;;;;;;;x
 EVTDESC_WCPOD_2000_lordaeron;В сердце Лордерона начинает распространятся странная болезнь. Ходят слухи, что это та же загадочная болезнь, что поразила людей Нордскола. Те, кто были убиты этой болезнью, возвращались обратно к жизни, заточенные в своих гниющих телах. Если это действительно так, то людские королевства должны всеми силами противостоять ее распространению.;;;;;;;;;;;;;x
 DEATH_IS_COMING;Смерть идет...;;;;;;;;;;;;;x
 FOOLS;Глупцы!;;;;;;;;;;;;;x
-EVTDESC_WCDAC_9996_light_class;После того, как вы отреклись от Света, вы больше не можете нести его благословение в дальние уголки Азерота. Теперь, когда его живительные силы покинули вас, вы остались наедине с самим собой.;;;;;;;;;;;;;x
+EVTDESC_WCDAC_9996;После того, как вы отреклись от Света, вы больше не можете нести его благословение в дальние уголки Азерота. Теперь, когда его живительные силы покинули вас, вы остались наедине с самим собой.;;;;;;;;;;;;;x
 EVTOPTA_WCDAC_9996;Я не сожалею об этом.;;;;;;;;;;;;;x
 EVTDESC_WCUND_150_flesh;Зловонный запах гниющей плоти уже давно окружает вас. Смотря на одну из своих конечностей, вы понимаете, что гниение уже слишком иссушило вашу плоть и раскрошило кости. Если вы не хотите превратиться в бесформенную кучку разлагающегося мяса, то вам нужно найти замену.;;;;;;;;;;;;;x
 EVTDESC_WCUND_150_bones;Темная магия, что окружает ваше холодное костлявое тело, уже начинает ослабевать и с трудом держит дряхлые износившиеся костяшки воедино. Если вы не хотите, превратиться в костяной порошок, то вам нужно найти замену.;;;;;;;;;;;;;x
@@ -2121,10 +2121,10 @@ twilight_viceroy;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 twilight_viceroy_desc;Избранный чемпион Древних Богов, [This.GetFirstNameWithNick], который восстановил древнюю Черную Империю и стал вестником Часа Сумерек.;;;;;;;;;;;;;x
 reborn_black_empire_tt;§YЧерная Империя§! ныне действует.;;;;;;;;;;;;;x
 gain_twilight_viceroy_bloodline_tt;Вы получили уникальную §Yродословную§!.;;;;;;;;;;;;;x
-monthly_insanity;Monthly Insanity;;;;;;;;;;;;;x
+monthly_insanity;Месячный прирост Безумия;;;;;;;;;;;;;x
 bloodline_effect_insanity_gain;Увеличивает параметр §GБезумия§!, получаемый от осад и жертвоприношений.;;;;;;;;;;;;;x
 nick_the_godslayer;Убийца Бога;;;;;;;;;;;;;x
-godslayer_cthun;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+godslayer_bloodline;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 godslayer_cthun_desc;[This.GetFirstNameWithNick] был командиром, который руководил осадой Ан'Кираджа и лично победил Древнего Бога К'Туна в темных глубинах храмового города Киражей.;;;;;;;;;;;;;x
 silver_hand_justice;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 silver_hand_justice_desc;[This.GetFirstNameWithNick] был одним из членов-основателей Ордена Серебряной Длани, рыцарского ордена паладинов, назначенного самим Архиепископом.;;;;;;;;;;;;;x
@@ -3022,4 +3022,101 @@ EVTOPTA_WCDAC_5045;Близится время Сумерек.;;;;;;;;;;;;;x
 EVTDESC_WCDAC_5046_kalimdor;Вы и ваши последователи прибыли к безжизненным пескам Силитуса. \n\nОкружающие вас земли покрыты тьмой и мраком, все наводит вас на мысль о присутствии Древнего Бога.\n\nСтупив на пески Силитуса, вы ощутили как нечто огромное роится под вашими ногами. Благодаря этому вы услышали шепот К'Туна, призывающий вас продолжить путешествие к разрушенному городу-храму, очертания башен которого можно узреть далеко впереди, расплываясь в горячем воздухе безжизненной пустоши.;;;;;;;;;;;;;x
 EVTDESC_WCDAC_5046_northrend;Вы и ваши последователи достигли обледеневших берегов Грозовой гряды.\n\nОкружающие вас земли покрыты тьмой и мраков, все наводит вас на мысль о присутствии Древнего Бога.\n\nСтупив в заснеженные земли Нордскола, вы ощутили как нечто огромное роится под вашими ногами. Благодаря этому вы услышали шепот Йогг-Сарона, призывающий вас продолжить путешествие к стенам комплекса титанов, очертания башен которого можно узреть далеко впереди, расплываясь у вершин гор.;;;;;;;;;;;;;x
 EVTOPTA_WCDAC_5046;Оковы будут разбиты.;;;;;;;;;;;;;x
+DYN1_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Лотаров. Этот дом получил известность во времена Торадина, правившего небольшим племенем в Нагорье Арати. Торадин являлся умелым стратегом, который объединил все людские племена путем завоеваний и дипломатии, создав империю Аратор. Он также являлся владельцем легендарного меча Стром'кар и основателем Строма. После начала упадка Аратора, потомки Торадина направились юг, основав там королевство Штормград. Последний представитель этого рода - Андуин Лотар являлся Верховным главнокомандующим Альянс до своей гибели во время войны против орочей Орды.;;;;;;;;;;;;;x
+DYN2_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Троллебоев. История этого рода берет свое начало в племени, обитавшем в Альтеракских горах под руководством Игнея Троллебоя, который присягнул на верность королю Торадину и стал генералом империи Аратор. После падения империи Троллебои стали королями Стромгарда. Один из самых прославленных представителей этого рода, Данат Троллебой, входил в экспедицию, направившейся в Запределье, являясь заместителем командующего. В конечном счете, он стал комендантом Оплота Чести Альянса. Эта династия известна многими деяниями, но в основном из-за таланта к убийству троллей.;;;;;;;;;;;;;x
+DYN3_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Бронзобородов. Первое упоминание этого клана затерялось в истории, но получил известность во времена правления тана Мадорана Бронзоборода, последовавшего после смерти последнего Верховного короля дворфов. Хрупкий мир между кланами перерос в гражданскую войну за Стальгорн, в которой клан Бронзобородов одержал победу. Правление Бронзобородов привело к процветанию Стальгорна: дворфы заключили союз с людьми, а также восстановили связи с кланом Громового Молота.;;;;;;;;;;;;;x
+DYN4_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Северных Волков. Клан был основан за 800 лет до Первой Войны, но сведения о его ранней истории крайне малы. За одиннадцать лет до Первой Войны во главе клана встал вождь Гарад, передавший свои идеалы семьи и единства своим трем сыновьям. Дуротан был выбран в качестве наследника и поддержал эти традиции, выступив против истребления дренеев и Договора Крови с Манноротом. Сын Дуротана, Го'эль, спустя много лет после гибели своего отца, создал новую Орду на Азероте, продолжив соблюдение многовековых традиций и идеалов клана, передававшихся из поколения в поколение.;;;;;;;;;;;;;x
+DYN5_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Солнечных Скитальцев, первым известным членом которого является Дат'Ремар. Рожденный в среде богатства и могущества, он стал одержим магией, что привело к изгнанию его рода после Войны Древних из общества ночных эльфов. Он повел своих людей через моря, основав Кель’Талас и Солнечный Колодец. Его потомок, Анастериан, правил высшими эльфами около 2800 лет, проведя их через кровопролитную Войну Троллей. Гибель Анастериана привела к упадку династии. Его сын, Кель'Тас, взял на себя бремя правления и попытался спасти свое разрушенное после вторжения Плети королевство.;;;;;;;;;;;;;x
+DYN6_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Старая Наковальня, потомков последнего верховного короля дворфов, Модимуса Старая Наковальня, мудро и справедливо правившего своим королевством. По мере разрастания общества внутри их великой горы, народ дворфов раскололся на три могущественные фракции: кланы Бронзобородов, Громового Молота и Темного Железа. Этот раскол в конечном итоге привел к падению династии Старая Наковальня. После смерти Модимуса от старости, его сыну не хватило времени провести официальную коронацию до того, как между кланами разразилась гражданская война.;;;;;;;;;;;;;x
+DYN7_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Песнь Теней. Несмотря на то, что эта семья не входила в благородное сословие, ее члены стали известны во времена Войны Древних. Джерод Песнь Теней, капитан Сурамарской стражи, стал командующим Сопротивлением ночных эльфов. Его сестра Майев являлась старшей жрицей в Сестринстве Элуны. После завершения войны она вызвалась стать предводителем новосформированного элитного воинства, Стражей. Династия Песнь Теней кровью, слезами и потом достигла своего престижного положения в обществе калдорай.;;;;;;;;;;;;;x
+DYN8_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Кровавое Копыто. Этот род берет свое начало в Степях, где родился и вырос Кэрн Кровавое Копыто. Его племя было бы полностью истреблено кентаврами, если бы не помощь со стороны Орды Тралла. Кэрн привел свой народ в Мулгор и в благодарность за поддержку заключил союз с Ордой. После его смерти, его сын Бэйн, столь же благородный и мудрый, как отец, принял власть над племенем, руководствуясь идеалами чести.;;;;;;;;;;;;;x
+DYN9_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Укротителей Драконов. Клан Укротителей Драконов прославился благодаря королю Имирону, гениальному стратегу, одержавшему верх над своими извечными врагами, джалгарами, в войне за господство над Ревущим Фьордом. Победа врайкулов привела к вымиранию джалгаров, но она была омрачена недугом, поразившим их. Проклятие Плоти привело к тому, что женщины-врайкулы стали рожать маленьких уродливых детей, которые привели в ужас все кланы врайкулов.;;;;;;;;;;;;;x
+DYN10_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Вайш. Эта семья Высокорожденных известно благодаря правлению Лестарии в Вайш'ире, получившего свое название в ее честь. Среди прочих известных представителей также можно выделить дочь Лестарии, леди Вайш, которая стала одной из служанок королевы Азшары. Однако после Войны Древних ее красота была осквернена после превращения в нагу, что омрачило ее репутацию после Великого Раскола.;;;;;;;;;;;;;x
+DYN11_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Грозовая Вершина. Происхождение этого клана доподлинно неизвестно, хотя с уверенностью можно предположить, что они появились спустя некоторое время после Войны Трех Молотов в качестве подданных правящего клана Бронзобородов. Этот клан пользуется уважением и известен своим богатством. Под руководством Ванндара Грозовой Вершины они направили экспедицию в Альтеракскую долину, чтобы защитить ее от Северных Волков, а также проводить наблюдение и добычу реликвий прошлого.;;;;;;;;;;;;;x
+DYN12_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Мехагон. В далеком прошлом эта семья основала монархию Гномреган. Последний король гномов, Мехагон, покинул свой народ в поисках таинственной земли, полной затерянных технологий, которую они позже заселили и назвали в честь короля. Под его руководством в Мехагоне гномы побороли свою главную проблему, Проклятие Плоти, заменив части своих тел механизмами.;;;;;;;;;;;;;x
+DYN13_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Мародин, клан кентавров, основанный Мародосом, первым ханом и четвертым сыном Зейтара, сына Кенария и Терадрас, дочери Теразан, Матери Камня. Будучи одним из пяти главных кланов кентавров, Мародин обосновались в Долине Копий, у входа в храм Мародон и гробницу Зейтара. Они заняли и оберегали храм Мародон, святыню, посвященную первому хану и его прародителям, честью охранять которую наделялись лишь самые могущественные воины племени.;;;;;;;;;;;;;x
+DYN14_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Агамонд, богатый род, обосновавшийся в Тирисфальских лесах. Раньше они владели мельницами и огромными земельными наделами, окружающими их. Также им принадлежал фамильный склеп и прославненные семейные реликвии. Девлин Агамонд, позволивший Плети войти в мельницу, привел к падению своего дома. Несмотря на твердое решение защищать свой дом, их усилия пошли прахом, в основном из-за предательства родича, и большинство представителей этого рода впоследствии были порабощены Плетью.;;;;;;;;;;;;;x
+DYN15_DESC;Cо счётом $SCORE$ Вы $FAILED$ превзошли дом Эллериан, один из малых знатных родов Штормграда. Этот дом берет свое начало в плодородных землях Западного Края, изначально владея небольшим земельным наделом в его пределах. Благодаря браку Тиффин Эллериан и короля Вариана Ринна, помолвленной с ним еще при рождении, дом занял свое место среди прочих дворян Штормграда. Наиболее заметным достижением этой семьи является родство с королевской семьей и рождение наследника престола, хотя тот и не является представителем их династии.;;;;;;;;;;;;;x
+GetClassSkill_marksmanship;меткость;;;;;;;;;;;;;x
+champion_discard_weapon_tooltip;§Y[target_champion.GetTitledFirstNameWithNick]§! отбросит §Y[target_champion_previous_weapon.GetName]§!;;;;;;;;;;;;;x
+EVTDESC_WCTHW_2047;После слухов о скоплении сил зла в [c_frostfate.GetName], вы послали лазутчиков. Вскоре после возвращения они доложили о том, что обнаружили некое оружие в странной пещере.;;;;;;;;;;;;;x
+EVTOPTA_WCTHW_2047;Что это оружие там делает?;;;;;;;;;;;;;x
+GetClassSkill_meditation_and_martial_arts;медитация и боевые искусства;;;;;;;;;;;;;x
+A_MONK;Монах.;;;;;;;;;;;;;x
+teach_yourself_monk;Самостоятельно изучить навыки монахов;;;;;;;;;;;;;x
+teach_yourself_monk_desc;Самостоятельно изучить навыки монахов и стать одним из них.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1600;You decide to start with meditation exercises. You have heard that the most important thing is to control your breathing. You sit in the lotus position and begin to breathe in and out calmly. Your training will take some time indeed.;;Ihr beschlieЯt, mit Meditationsьbungen zu beginnen. Wie Ihr erfahren habt, ist das Wichtigste, die Atmung zu kontrollieren. Ihr nehmt die Lotusstellung ein und beginnt, ruhig ein- und auszuatmen. Ihr Training wird in der Tat einige Zeit in Anspruch nehmen.;;;;;;;;;;;x
+EVTDESC_WCCLS_1700;You have finally mastered the final skill of a monk: the martial arts of bare-handed combat. Your hands hurt, but you feel stronger. Of course, you understand your training isn't over yet. The path to excellence may take your entire life, but you are happy with today's result.;;Ihr habt endlich das Allerletzte gemeistert: die Kampfkьnste des waffenlosen Kampfs. Eure Hдnde schmerzen, aber Ihr fьhlt Euch stдrker. Natьrlich wisst Ihr, dass Euer Training noch nicht zu Ende ist. Der Weg zur Vortrefflichkeit mag Euer ganzes Leben dauern, aber mit dem heutigen Ergebnis seid Ihr zufrieden.;;;;;;;;;;;x
+training_self_monk;Тренировка навыков монаха;;;;;;;;;;;;;x
+training_mentor_monk;Тренировка навыков монаха;;;;;;;;;;;;;x
+is_monk_class_trigger_tooltip;Является монахом;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1605;[Root.PrimaryTitle.GetFOA], I would be glad to heal your stress and depression with the help of my magic, if you allow me to.\n\nSigned,\n[From.GetTitledName];;[Root.PrimaryTitle.GetFOA], ich wьrde mich freuen, Euren Stress und Eure Depressionen mit Hilfe meiner Magie zu heilen, wenn Ihr es mir erlaubt.\n\nGezeichnet,\n[From.GetTitledName];;;;;;;;;;;x
+soothing_mist;Weave Soothing Mist;;;;;;;;;;;;;x
+soothing_mist_desc;Weave soothing mist, healing the stress and depression of §Y[Root.GetBestName]§!.;;Webt beruhigenden Nebel und heilt den Stress und die Depression von §Y[Root.GetBestName]§!.;;;;;;;;;;;x
+text_effect_soothing_mist;Enables §GWeave Soothing Mist§! on character portraits;;Aktiviert §GBeruhigenden Nebel weben§! auf Charakterportrдts;;;;;;;;;;;x
+text_effect_heal_army;Can §GHeal Army§! in combat;;Kann im Kampf §GArmee heilen§!;;;;;;;;;;;x
+GetMagicType_Loa_magic;Моджо;;;;;;;;;;;;;x
+GetMagicType_Chi;Ци;;;;;;;;;;;;;x
+EVTDESC_WCCLS_105_you;Your fights in the heat of battle alongside your soldiers. When the first unfortunate enemy soldier dies by your hand, his blood splashes onto the tunic. you quickly rushes to the next opponent with a deafening cry!;Vous avez combattu dans le feu de l'action aux cфtйs de vos soldats. Lorsque le premier malheureux soldat ennemi est mort par votre main, son sang a йclaboussй votre tunique. Vous vous кtes rapidement prйcipitй vers l'adversaire suivant avec un cri assourdissant !;Ihr habt in der Hitze der Schlacht mit Euren Soldaten gekдmpft. Als der erste unglьckselige feindliche Soldat durch Eure Hand starb, spritzte sein Blut auf Euren Waffenrock. Ihr seid mit einem ohrenbetдubenden Schrei blitzschnell auf den nдchsten Gegner zu gestьrmt!;;;;;;;;;;;x
+EVTDESC_WCCLS_105_other;[target_class.GetFirstName] fights in the heat of battle alongside [target_class.GetHerHis] soldiers. When the first unfortunate enemy soldier dies by [target_class.GetHerHis] hand, his blood splashes onto the tunic. [target_class.GetFirstName] quickly rushes to the next opponent with a deafening cry!;;[target_class.GetFirstName] kдmpft in der Hitze der Schlacht an der Seite [target_class.GetHerHis]er Soldaten. Als der erste unglьckliche feindliche Soldat durch [target_class.GetHerHis]e Hand stirbt, spritzt sein Blut auf die Tunika. [target_class.GetFirstName] stьrzt sich umgehend mit einem ohrenbetдubenden Schrei auf den nдchsten Gegner!;;;;;;;;;;;x
+EVTDESC_WCCLS_1610_you;You fight in the heat of battle alongside your soldiers. You watch as their lifeless bodies fall one by one on the blood-soaked ground. With all your strength, you begin to weave a healing spell. It shrouds the warriors, healing their cuts and bruises. Inspired and healed, the troops around you rush back into battle.;;Ihr kдmpft in der Hitze der Schlacht an der Seite Eurer Soldaten. Ihr beobachtet, wie ihre leblosen Kцrper einer nach dem anderen auf den blutgetrдnkten Boden fallen. Mit all Eurer Kraft beginnt Ihr, einen Heilungszauber zu weben. Er hьllt die Krieger ein und heilt ihre Schnitte und Prellungen. Inspiriert und geheilt eilen die Truppen um Euch herum zurьck in die Schlacht.;;;;;;;;;;;x
+EVTDESC_WCCLS_1610_other;[target_class.GetFirstName] fights in the heat of battle alongside your soldiers. [target_class.GetSheHeCap] watch as their lifeless bodies fall one by one on the blood-soaked ground. With all [target_class.GetHerHis] strength, [target_class.GetSheHe] begins to weave a healing spell. It shrouds the warriors, healing their cuts and bruises. Inspired and healed, the troops around [target_class.GetFirstName] rush back into battle.;;[target_class.GetFirstName] kдmpft in der Hitze der Schlacht an der Seite Eurer Soldaten. [target_class.GetSheHeCap] beobachtet, wie ihre leblosen Kцrper einer nach dem anderen auf den blutgetrдnkten Boden fallen. Mit all [target_class.GetHerHis]er Kraft beginnt [target_class.GetSheHe], einen Heilzauber zu weben. Er hьllt die Krieger ein und heilt ihre Schnitte und Prellungen. Inspiriert und geheilt eilen die Truppen um [target_class.GetFirstName] zurьck in die Schlacht.;;;;;;;;;;;x
+text_effect_inspire_army;Can §GInspire Army§! in combat;;Kann im Kampf §GArmee inspirieren§!;;;;;;;;;;;x
+EVTDESC_WCCLS_625;Your spell target, [target_mind.GetBestName], has disappeared from your sight. Thus you have to stop the ritual of a mind control.;;;;;;;;;;;;;x
+RULE_OLD_GOD_BLACK_EMPIRE_INVASION;§RWarCraft§!: Древние Боги и Черная Империя;;;;;;;;;;;;;x
+RULE_OLD_GOD_BLACK_EMPIRE_INVASION_ON;Разрешено;;;;;;;;;;;;;x
+RULE_OLD_GOD_BLACK_EMPIRE_INVASION_ON_DESC;Freeing Old Gods and recreating Black Empire is enabled.;;Das Befreien der alter Gцtter und die Neuerschaffung des schwarzen Imperiums ist mцglich.;;;;;;;;;;;x
+RULE_OLD_GOD_BLACK_EMPIRE_INVASION_OFF;Отключено;;;;;;;;;;;;;x
+RULE_OLD_GOD_BLACK_EMPIRE_INVASION_OFF_DESC;Freeing Old Gods and recreating Black Empire is disabled.;;Das Befreien der alter Gцtter und die Neuerschaffung des schwarzen Imperiums ist NICHT mцglich.;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X1_5_DESC;Invasion spawned troops of an Old God are modified by §G1.5§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §G1,5§! multipliziert.;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X2_DESC;Invasion spawned troops of an Old God are modified by §G2§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §G2§! multipliziert.;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X0_5_DESC;Invasion spawned troops of an Old God are modified by §R0.5§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §R0,5§! multipliziert.;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X0_25_DESC;Invasion spawned troops of an Old God are modified by §R0.25§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §R0,25§! multipliziert.;;;;;;;;;;;x
+godslayer_nzoth_desc;[Root.GetFirstNameWithNick] was the commander who led the siege of Shrine of Storms and who personally vanquished the Old God N'Zoth in the depths of the Crucible of Storms.;;[Root.GetFirstNameWithNick] war [Root.OriginalOwner.Getderdie] Kommandant[Root.OriginalOwner.GetinFemale], [Root.OriginalOwner.Getderdie] die Belagerung des Schreins der Stьrme anfьhrte und den alten Gott N'Zoth im Tiegel der Stьrme besiegte.;;;;;;;;;;;x
+godslayer_yogg_saron_desc;[Root.GetFirstNameWithNick] was the commander who led the siege of Ulduar and who personally vanquished the Old God Yogg-Saron in the depths of the Titan city complex.;;[Root.GetFirstNameWithNick] war [Root.OriginalOwner.Getderdie] Kommandant[Root.OriginalOwner.GetinFemale], [Root.OriginalOwner.Getderdie] die Belagerung von Ulduar anfьhrte und den alten Gott Yogg-Saron im Inneren des titanischen Komplexes besiegte.;;;;;;;;;;;x
+spawn_old_god_follower_troops_tooltip;A §Y[This.GetMainOldGodName]§! regiment arrives in §Y[target_province.GetName]§!;Un rйgiment §Y[This.GetMainOldGodName]§! arrive en §Y[target_province.GetName]§!;Ein Regiment der §Y[This.GetMainOldGodName]§! erscheint in §Y[target_province.GetName]§!.;;;;;;;;;;;x
+spawn_old_god_invasion_troops_tooltip;§Y[This.GetMainOldGodName]§! will unleash his eldritch legions in §Y[target_province.GetName]§!;;§Y[This.GetMainOldGodName]§! wird seine unheimlichen Legionen in §Y[target_province.GetName]§! entfesseln.;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
