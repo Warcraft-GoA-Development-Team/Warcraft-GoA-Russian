@@ -638,3 +638,25 @@ light_elune_branch;Последователь Матери Луны;;;;;;;;;;;;;x
 light_elune_branch_desc;Этот персонаж поклоняется доброму, щедрому и любящему аспекту Элуны. Известная как Мать Луна, этот аспект Элуны оберегает покой и гармонию, чтобы обеспечить равновесие между обитателями Азерота.;;;;;;;;;;;;;x
 dark_elune_branch;Последователь Ночного Воина;;;;;;;;;;;;;x
 dark_elune_branch_desc;Этот персонаж поклоняется праведному, гневному и мстительному аспекту Элуны. Никто не скроется от взора аспекта богини, известного как Ночной Воин. Она выслеживает злодеев и вершит правосудие в тенях своими клинками.;;;;;;;;;;;;;x
+GetMonkNameCap_Monk;монах;;;;;;;;;;;;;x
+class_monk_1;Неумелый [GetMonkNameCap] I;;;;;;;;;;;;;x
+class_monk_2;Начинающий [GetMonkNameCap] II;;;;;;;;;;;;;x
+class_monk_3;Ученик-[GetMonkNameCap] III;;;;;;;;;;;;;x
+class_monk_4;Умелый [GetMonkNameCap] IV;;;;;;;;;;;;;x
+class_monk_5;Опытный [GetMonkNameCap] V;;;;;;;;;;;;;x
+class_monk_6;Искусный [GetMonkNameCap] VI;;;;;;;;;;;;;x
+class_monk_7;Превосходный [GetMonkNameCap] VII;;;;;;;;;;;;;x
+class_monk_8;Выдающийся [GetMonkNameCap] VIII;;;;;;;;;;;;;x
+class_monk_9;Великий [GetMonkNameCap] IX;;;;;;;;;;;;;x
+class_monk_10;Легендарный [GetMonkNameCap] X;;;;;;;;;;;;;x
+GetMonkDesc_desc;Этот персонаж - монах. Мастера рукопашного боя, монахи не нуждаются в оружии, чтобы отразить нападение врагов. Монахи привносят уникальный стиль боевых искусств в любой бой и применяют таинственную форму магической энергии, недоступную тем, кто практикует другие магические искусства.;;;;;;;;;;;;;x
+class_monk_1_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_2_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_3_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_4_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_5_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_6_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_7_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_8_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_9_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
+class_monk_10_desc;[GetMonkDesc];;[GetMonkDesc];;;;;;;;;;;x
