@@ -745,28 +745,32 @@ important_old_god_task_tooltip;НЕ выполняет важное задание для [Root.GetHerHis] 
 GetOldGodLairNameOnWonder_AhnQiraj;Ан'Кираж;;;;;;;;;;;;;x
 GetOldGodLairNameOnWonder_Nyalotha;Ни'алота;;;;;;;;;;;;;x
 GetOldGodLairNameOnWonder_Ulduar;Ульдуар;;;;;;;;;;;;;x
-GetOldGodLairDescOnWonder_AhnQiraj;the Old God's lair, the dangerous and fortified city of Ahn'Qiraj in the southern desert of Silithus;;;;;;;;;;;;;x
-GetOldGodLairDescOnWonder_Nyalotha;the Old God's realm, the dangerous and maddening city of Ny'alotha;;;;;;;;;;;;;x
-GetOldGodLairDescOnWonder_Ulduar;the Old God's lair, the dangerous and fortified titan complex of Ulduar in the northern mountains of Storm Peaks;;;;;;;;;;;;;x
+GetOldGodLairDescOnWonder_AhnQiraj;логово Древнего Бога, опасный и укрепленный город Ан'Кираж в пустыне Силитус на юге;;;;;;;;;;;;;x
+GetOldGodLairDescOnWonder_Nyalotha;владение Древнего Бога, опасный и сводящий с ума город Ни'алота;;;;;;;;;;;;;x
+GetOldGodLairDescOnWonder_Ulduar;логово Древнего Бога, опасный и укрепленный комплекс титанов Ульдуар в северных горах Грозовой Гряды;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-EVTDESC_WCOME_300;The ritual finally commences in [target_province.GetName], you, among other loyal followers of [target_old_god.GetFirstName], begin sacrificing old relics, animals, and humanoid beings alike on a dark, ancient Old God altar. The magical essences from the old sacred relics and the souls of your victims strengthen your dark master whilst weakening the bonds that have kept him imprisoned for so long.;;Das Ritual konnte endlich in [target_province.GetName] beginnen. Gemeinsam mit anderen loyalen Anhдngern [target_province.GetName]s beginnt Ihr, alte Reliquien, Tiere und humanoide Wesen gleichermaЯen auf einem dunklen Altar der alten Gцtter zu opfern. Die magischen Essenzen aus den alten heiligen Reliquien und die Seelen Eurer Opfer stдrken Euren dunklen Meister und schwдchen gleichzeitig die Bande, die ihn so lange gefangen gehalten haben.;;;;;;;;;;;x
-#LINE_REMOVED_DONT_TOUCH;;;Das Ritual konnte endlich in Sagehold beginnen. Gemeinsam mit anderen loyalen Anhдngern N'Zoths beginnt Ihr, alte Reliquien, Tiere und humanoide Wesen gleichermaЯen auf einem dunklen Altar der alten Gцtter zu opfern. Die magischen Essenzen aus den alten heiligen Reliquien und die Seelen Eurer Opfer stдrken Euren dunklen Meister und schwдchen gleichzeitig die Bande, die ihn so lange gefangen gehalten haben.;;;;;;;;;;;x
-#LINE_REMOVED_DONT_TOUCH;;;Das Ritual konnte endlich in Ulduar beginnen. Gemeinsam mit anderen loyalen Anhдngern Yogg-Sarons beginnt Ihr, alte Reliquien, Tiere und humanoide Wesen gleichermaЯen auf einem dunklen Altar der alten Gцtter zu opfern. Die magischen Essenzen aus den alten heiligen Reliquien und die Seelen Eurer Opfer stдrken Euren dunklen Meister und schwдchen gleichzeitig die Bande, die ihn so lange gefangen gehalten haben.;;;;;;;;;;;x
-EVTOPTA_WCOME.300;The Old One shall be freed!;;Der alte Gott soll befreit werden!;;;;;;;;;;;x
+EVTDESC_WCOME_300;Ритуал, подготовленный в [target_province.GetName], начинается. Вы, среди других верных последователей [target_old_god.GetFirstName]а, начинаете приносить в жертву ему артефакты, животных и человекоподобных существ на темном, древнем алтаре Древних Богов. Магические эссенции древних артефактов и души ваших жертв придают вашему повелителю новые силы, ослабляя узы, так долго удерживавшие его в заточении.;;;;;;;;;;;;;x
+#LINE_REMOVED_DONT_TOUCH;;;;;;;;;;;;;;x
+#LINE_REMOVED_DONT_TOUCH;;;;;;;;;;;;;;x
+EVTOPTA_WCOME.300;Древний освободится!;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-EVTDESC_WCOME_360;After completing the dark, twisted ritual, the chains that imprison [target_old_god.GetFirstName] become frail and weak.\n\nAs he feeds upon the souls and suffering inflicted upon this world, he grows stronger and bolder!\n\nThese bonds won't hold [target_old_god.GetFirstName] for much longer, and it is only a matter of time before he is released from his prison!;;Nachdem das dunkle, seltsame Ritual abgeschlossen war, sind die Ketten, die [target_old_god.GetFirstName] gefangen halten, zerbrechlich geworden.\n\nWдhrend er sich von den Seelen und dem Leid ernдhrt, das dieser Welt zugefьgt wurde, wird er stдrker und mutiger!\n\nDie Fesseln werden [target_old_god.GetFirstName] nicht mehr lange halten! Es ist nur eine Frage der Zeit, bis er sein Gefдngnis verlassen wird!;;;;;;;;;;;x
-EVTTITLE_WCOME.360;Old God's Bonds Loosen;;Die Bande des alten Gottes lцsen sich;;;;;;;;;;;x
-EVTOPTA_WCOME.360;The Hour of Twilight is upon us!;;Die Stunde der Dдmmerung ist nah!;;;;;;;;;;;x
-EVTOPTB_WCOME.360;The ancient evil must remain in confinement!;;Das alte Ьbel muss in Gefangenschaft bleiben!;;;;;;;;;;;x
+EVTDESC_WCOME_360;После завершения темного и сложного ритуала, цепи, удерживающие [target_old_god.GetFirstName]а в заточении, дают трещины и ослабевают.\n\nПоглощая души и страдания, причиненные этому миру, он становится сильнее и решительнее!\n\nЭти оковы не удержат [target_old_god.GetFirstName]а надолго, его освобождение из заточения является лишь вопросом времени!;;;;;;;;;;;;;x
+EVTTITLE_WCOME.360;Узы Древнего Бога ослабли;;;;;;;;;;;;;x
+EVTOPTA_WCOME.360;Наступил Час Сумерек!;;;;;;;;;;;;;x
+EVTOPTB_WCOME.360;Древнее зло должно оставаться в заточении!;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-EVTDESC_WCOME_370;[target_old_god.GetFirstName]'s whispers grow ever louder with every minute.\n\nHis influence is spreading further than previously ever thought possible, all while herds of different races flock to his cause.\n\n[target_old_god.GetFirstName]'s voice calls to these new followers, and now their lives shall have new meaning as they serve their new master.;;[target_old_god.GetFirstName]s Flьstern ist lauter geworden, sein Einfluss hat sich weiter ausgedehnt als frьher, wдhrend sich Herden verschiedener Rassen zu seiner Sache zusammenschlieЯen.\n\n[target_old_god.GetFirstName]s Geflьster ruft nach Euch, Euer Leben wird endlich einen Sinn haben, wenn Ihr Eurem neuen Herrn dient.;;;;;;;;;;;x
-EVTTITLE_WCOME.370;An Old God on the Rise;;;;;;;;;;;;;x
+EVTDESC_WCOME_370;Шепот [target_old_god.GetFirstName]а становится все отчетливее с каждой минутой.\n\nЕго влияние усилилось, чем когда-либо прежде. Толпы верных последователей стекаются к нему.\n\nГолос [target_old_god.GetFirstName]а взывает к своим новым слугах, обещая, что их жизни обретут новый смысл в служении своему новому повелителю.;;;;;;;;;;;;;x
+EVTTITLE_WCOME.370;Восхождение Древнего Бога;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-EVTDESC_WCOME.252;Deep underneath the lands of [target_prison_location.GetName], an eldritch shadow lies: a monstrous Old God with legions of dreadful servants. Terror and madness has soaked the land itself making it impossible to hold. You need to rally your armies and vanquish the ancient horror.;;Tief unter dem Land von [From.GetName] liegt ein eldritscher Schatten, ein monstrцser alter Gott mit Legionen seiner schrecklichen Diener. Der Schrecken und der Wahnsinn durchtrдnkten das Land selbst und machten es unmцglich, es zu halten. Ihr mьsst Eure Armeen versammeln und den uralten Schrecken bezwingen.;;;;;;;;;;;x
-EVTOPTA_WCOME.252;Prepare for the final assault.;;Bereitet euch auf den letzten Angriff vor.;;;;;;;;;;;x
+EVTDESC_WCOME.252;Глубоко под землями, известными как [target_prison_location.GetName], обитает древнее зло: чудовищный Древний Бог и его легионы жутких слуг. Ужас и безумие пропитали те земли, которые невозможно защитить. Вам нужно созвать войска и одолеть древнее зло.;;;;;;;;;;;;;x
+EVTOPTA_WCOME.252;Приготовиться к последнему рывку.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 nick_twilight_of_the_gods;Сумерки Богов;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 recruit_old_god_guard;Призвать гвардию Древних Богов;;;;;;;;;;;;;x
 recruit_old_god_guard_desc;Древние Боги могут создавать легионы верных слуг, чтобы выпустить их на вражеские ряды.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+forge_hammer_of_the_twilight;Выковать Молот Сумерек;;;;;;;;;;;;;x
+forge_hammer_of_the_twilight_desc;Выковать элементиевый молот, пропитанный силой Древних Богов, по подобию символа культа Сумеречного Молота.;;;;;;;;;;;;;x
+forge_hammer_of_the_twilight_power_desc;Дает доступ к решению, которое позволит выковать Молот Сумерек.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
