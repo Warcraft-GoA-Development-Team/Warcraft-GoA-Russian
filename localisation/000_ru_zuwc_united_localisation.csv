@@ -3078,25 +3078,25 @@ text_effect_soothing_mist;Позволяет §GНавести успокаивающий туман§! через взаимо
 text_effect_heal_army;Позволяет во время боя §Gисцелить войска§!;;;;;;;;;;;;;x
 GetMagicType_Loa_magic;Моджо;;;;;;;;;;;;;x
 GetMagicType_Chi;Ци;;;;;;;;;;;;;x
-EVTDESC_WCCLS_105_you;Your fights in the heat of battle alongside your soldiers. When the first unfortunate enemy soldier dies by your hand, his blood splashes onto the tunic. you quickly rushes to the next opponent with a deafening cry!;;;;;;;;;;;;;x
-EVTDESC_WCCLS_105_other;[target_class.GetFirstName] fights in the heat of battle alongside [target_class.GetHerHis] soldiers. When the first unfortunate enemy soldier dies by [target_class.GetHerHis] hand, his blood splashes onto the tunic. [target_class.GetFirstName] quickly rushes to the next opponent with a deafening cry!;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1610_you;You fight in the heat of battle alongside your soldiers. You watch as their lifeless bodies fall one by one on the blood-soaked ground. With all your strength, you begin to weave a healing spell. It shrouds the warriors, healing their cuts and bruises. Inspired and healed, the troops around you rush back into battle.;;;;;;;;;;;;;x
-EVTDESC_WCCLS_1610_other;[target_class.GetFirstName] fights in the heat of battle alongside your soldiers. [target_class.GetSheHeCap] watch as their lifeless bodies fall one by one on the blood-soaked ground. With all [target_class.GetHerHis] strength, [target_class.GetSheHe] begins to weave a healing spell. It shrouds the warriors, healing their cuts and bruises. Inspired and healed, the troops around [target_class.GetFirstName] rush back into battle.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_105_you;Вы сражаетесь бок о бок с вашими солдатами в самом пылу битвы. Когда первый вражеский солдат гибнет от вашей руки, его кровь орошает ваше одеяние. Вы с оглушительным боевым кличем стремительно бросаетесь на следующего противника!;;;;;;;;;;;;;x
+EVTDESC_WCCLS_105_other;[target_class.GetFirstName] сражается бок о бок со своими солдатами в самом пылу битвы. Когда первый вражеский солдат гибнет от [target_class.GetHerHis] рук, кровь врага оросила его одеяние. [target_class.GetFirstName] с оглушительным боевым кличем бросается на следующего противника!;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1610_you;Вы сражаетесь бок о бок с вашими солдатами в самом пылу битвы. Вы видите, как ваши соратники гибнут один за другим, безжизненно падая на пропитанную кровью землю. Вы направили все свои силы на сплетение исцеляющих чар. Они окутывают ваших воинов, исцеляя их раны. Воодушевленные и исцеленные, ваши войска вновь бросаются в бой.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_1610_other;[target_class.GetFirstName] сражается бок о бок со своими солдатами в самом пылу битвы. [target_class.GetSheHeCap] видит, как бездыханные тела соратников падают на пропитанную кровью землю. Направив все [target_class.GetHerHis] силы, [target_class.GetSheHe] начинает сплетение исцеляющих чар. Они окутывают павших, исцеляя их раны. Воодушевленные и исцеленные воины вокруг [target_class.GetFirstName] вновь бросаются в бой.;;;;;;;;;;;;;x
 text_effect_inspire_army;Может §Gвоодушевить войска§! во время боя;;;;;;;;;;;;;x
-EVTDESC_WCCLS_625;Your spell target, [target_mind.GetBestName], has disappeared from your sight. Thus you have to stop the ritual of a mind control.;;;;;;;;;;;;;x
+EVTDESC_WCCLS_625;Цель вашего заклинания, [target_mind.GetBestName], исчезла из вашего поля зрения. Ритуал контроля разума, проведенный вами, прекратится.;;;;;;;;;;;;;x
 RULE_OLD_GOD_BLACK_EMPIRE_INVASION;§RWarCraft§!: Древние Боги и Темная Империя;;;;;;;;;;;;;x
 RULE_OLD_GOD_BLACK_EMPIRE_INVASION_ON;Разрешено;;;;;;;;;;;;;x
-RULE_OLD_GOD_BLACK_EMPIRE_INVASION_ON_DESC;Freeing Old Gods and recreating Black Empire is enabled.;;Das Befreien der alter Gцtter und die Neuerschaffung des schwarzen Imperiums ist mцglich.;;;;;;;;;;;x
+RULE_OLD_GOD_BLACK_EMPIRE_INVASION_ON_DESC;Разрешено освобождение Древних Богов и воссоздание Темной Империи.;;;;;;;;;;;;;x
 RULE_OLD_GOD_BLACK_EMPIRE_INVASION_OFF;Отключено;;;;;;;;;;;;;x
-RULE_OLD_GOD_BLACK_EMPIRE_INVASION_OFF_DESC;Freeing Old Gods and recreating Black Empire is disabled.;;Das Befreien der alter Gцtter und die Neuerschaffung des schwarzen Imperiums ist NICHT mцglich.;;;;;;;;;;;x
-RULE_OLD_GOD_INVASION_STRENGTH_X1_5_DESC;Invasion spawned troops of an Old God are modified by §G1.5§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §G1,5§! multipliziert.;;;;;;;;;;;x
-RULE_OLD_GOD_INVASION_STRENGTH_X2_DESC;Invasion spawned troops of an Old God are modified by §G2§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §G2§! multipliziert.;;;;;;;;;;;x
-RULE_OLD_GOD_INVASION_STRENGTH_X0_5_DESC;Invasion spawned troops of an Old God are modified by §R0.5§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §R0,5§! multipliziert.;;;;;;;;;;;x
-RULE_OLD_GOD_INVASION_STRENGTH_X0_25_DESC;Invasion spawned troops of an Old God are modified by §R0.25§!.;;Alle auftauchenden Truppen ein alter Gott werden mit §R0,25§! multipliziert.;;;;;;;;;;;x
-godslayer_nzoth_desc;[Root.GetFirstNameWithNick] was the commander who led the siege of Shrine of Storms and who personally vanquished the Old God N'Zoth in the depths of the Crucible of Storms.;;;;;;;;;;;;;x
-godslayer_yogg_saron_desc;[Root.GetFirstNameWithNick] was the commander who led the siege of Ulduar and who personally vanquished the Old God Yogg-Saron in the depths of the Titan city complex.;;;;;;;;;;;;;x
-spawn_old_god_follower_troops_tooltip;A §Y[This.GetMainOldGodName]§! regiment arrives in §Y[target_province.GetName]§!;Un rйgiment §Y[This.GetMainOldGodName]§! arrive en §Y[target_province.GetName]§!;;;;;;;;;;;;x
-spawn_old_god_invasion_troops_tooltip;§Y[This.GetMainOldGodName]§! will unleash his eldritch legions in §Y[target_province.GetName]§!;;;;;;;;;;;;;x
+RULE_OLD_GOD_BLACK_EMPIRE_INVASION_OFF_DESC;Освобождение Древних Богов и воссоздание Темной Империи отключено.;;;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X1_5_DESC;Количество войск вторжения Древних Богов - §G1.5§!.;;;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X2_DESC;Количество войск вторжения Древних Богов - §G2§!.;;;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X0_5_DESC;Количество войск вторжения Древних Богов - §R0.5§!.;;;;;;;;;;;;;x
+RULE_OLD_GOD_INVASION_STRENGTH_X0_25_DESC;Количество войск вторжения Древних Богов - §R0.25§!.;;;;;;;;;;;;;x
+godslayer_nzoth_desc;[Root.GetFirstNameWithNick] возглавил[Root.GetEndA] осаду Святилища Штормов и лично сразил[Root.GetEndA] Древнего Бога Н'Зота в глубинах Горнила Штормов.;;;;;;;;;;;;;x
+godslayer_yogg_saron_desc;[Root.GetFirstNameWithNick] возглавил[Root.GetEndA] осаду Ульдуара и лично сразил[Root.GetEndA] Древнего Бога Йогг-Сарона в глубинах титанического комплекса.;;;;;;;;;;;;;x
+spawn_old_god_follower_troops_tooltip;Войска §Y[This.GetMainOldGodName]§!а прибудут в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
+spawn_old_god_invasion_troops_tooltip;§Y[This.GetMainOldGodName]§! высвободит свои жуткие легионы в §Y[target_province.GetName]§!;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
