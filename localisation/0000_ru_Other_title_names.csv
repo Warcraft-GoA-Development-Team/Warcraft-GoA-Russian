@@ -447,9 +447,47 @@ c_icecrown;Ледяная Корона;;;;;;;;;;;;;x
 c_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
 b_icecrown;Ледяная Корона;;;;;;;;;;;;;x
 b_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+c_low_fields_adj;Ка'кон;;;;;;;;;;;;;x
+k_shado_pan;Шадо-пан;;;;;;;;;;;;;x
+d_black_ox;Черный Бык;;;;;;;;;;;;;x
+d_jade_serpent;Нефритовая Змея;;;;;;;;;;;;;x
+d_red_crane;Красный Журавль;;;;;;;;;;;;;x
+d_white_tiger;Белый Тигр;;;;;;;;;;;;;x
+d_golden_lotus;Золотой Лотос;;;;;;;;;;;;;x
+d_klaxxi;Клаккси;;;;;;;;;;;;;x
 PROV94;Жагуаро;;;;;;;;;;;;;x
 PROV2220;Кровавый Парус;;;;;;;;;;;;;x
 c_south_islands;Жагуаро;;;;;;;;;;;;;x
 c_forlorn_3;Кровавый Парус;;;;;;;;;;;;;x
 c_south_islands_adj;Жагуар;;;;;;;;;;;;;x
 c_forlorn_3_adj;Кровавопарус;;;;;;;;;;;;;x
+e_pandaria_empire;Пандария;;;;;;;;;;;;;x
+e_pandaria_empire_adj;Пандарий;;;;;;;;;;;;;x
+CULTURAL_EMPIRE;[Root.Culture.GetName] империя;;;;;;;;;;;;;x
+CULTURAL_EMPIRE_ADJ;[Root.Culture.GetName];;;;;;;;;;;;;x
+CULTURAL_GROUP_EMPIRE;[Root.Culture.GetGroupName] империя;;;;;;;;;;;;;x
+CULTURAL_GROUP_EMPIRE_ADJ;[Root.Culture.GetGroupName];;;;;;;;;;;;;x
+d_mountain_hozen_band;Mountain Hozen Band;;Berghozenbande;;;;;;;;;;;x
+d_mountain_hozen_band_adj;Mountain Hozen;;berghozenisch;;;;;;;;;;;x
+d_jungle_hozen_band;Jungle Hozen Band;;Dschungelhozenbande;;;;;;;;;;;x
+d_jungle_hozen_band_adj;Jungle Hozen;;dschungelhozenisch;;;;;;;;;;;x
+d_forest_hozen_band;Forest Hozen Band;;Waldhozenbande;;;;;;;;;;;x
+d_forest_hozen_band_adj;Forest Hozen;;waldhozenisch;;;;;;;;;;;x
+d_yaungol_band;Yaungol Band;;Yaungolbande;;;;;;;;;;;x
+d_yaungol_band_adj;Yaungol;;yaungolisch;;;;;;;;;;;x
+d_saurok_band;Saurok Band;;Saurokbande;;;;;;;;;;;x
+d_saurok_band_adj;Saurok;;saurokisch;;;;;;;;;;;x
+d_mogu_company;Mogu Company;;Mogu-Kompanie;;;;;;;;;;;x
+d_mogu_company_adj;Mogu;;mogisch;;;;;;;;;;;x
+d_jinyu_company;Jinyu Company;;Jinyu-Kompanie;;;;;;;;;;;x
+d_jinyu_company_adj;Jinyu;;jinyuisch;;;;;;;;;;;x
+d_mainland_pandaren_company_1;Halfhill Company;;Halbhьgel-Kompanie;;;;;;;;;;;x
+d_mainland_pandaren_company_1_adj;Halfhill;;halbhьglisch;;;;;;;;;;;x
+d_mainland_pandaren_company_2;Dawnblossom Company;;Morgenblьte-Kompanie;;;;;;;;;;;x
+d_mainland_pandaren_company_2_adj;Dawnblossom;;morgenblьtisch;;;;;;;;;;;x
+d_mainland_pandaren_fleet;Coastal Pandaren Fleet;;Pandaren-Kьstenflotte;;;;;;;;;;;x
+d_mainland_pandaren_fleet_adj;Coastal;;kьstenflottisch;;;;;;;;;;;x
+d_saurok_fleet;Saurok Fleet;;Saurokflotte;;;;;;;;;;;x
+d_saurok_fleet_adj;Saurok;;saurokisch;;;;;;;;;;;x
+d_jungle_hozen_fleet;Jungle Hozen Fleet;;Dschungelhozenflotte;;;;;;;;;;;x
+d_jungle_hozen_fleet_adj;Jungle Hozen;;dschungelhozenisch;;;;;;;;;;;x
