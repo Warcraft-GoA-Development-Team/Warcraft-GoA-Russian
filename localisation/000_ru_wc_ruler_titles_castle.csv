@@ -199,3 +199,14 @@ emperor_blood_elf;Верховный король;;;;;;;;;;;;;x
 emperor_female_blood_elf;Верховная королева;;;;;;;;;;;;;x
 empire_of_blood_elf;Верховное королевство;;;;;;;;;;;;;x
 empire_blood_elf;Верховное королевство;;;;;;;;;;;;;x
+# pandaren_group;;;;;;;;;;;;;;x
+kingdom_pandaren_group;Княжество;;;;;;;;;;;;;x
+kingdom_of_pandaren_group;Княжество;;;;;;;;;;;;;x
+duchy_pandaren_group;Префектура;;;;;;;;;;;;;x
+duchy_of_pandaren_group;Префектура;;;;;;;;;;;;;x
+duke_pandaren_group;Префект;;;;;;;;;;;;;x
+duke_female_pandaren_group;Префект;;;;;;;;;;;;;x
+county_pandaren_group;Провинция;;;;;;;;;;;;;x
+county_of_pandaren_group;Провинция;;;;;;;;;;;;;x
+count_pandaren_group;Губернатор;;;;;;;;;;;;;x
+count_female_pandaren_group;Губернатор;;;;;;;;;;;;;x

@@ -447,9 +447,47 @@ c_icecrown;Ледяная Корона;;;;;;;;;;;;;x
 c_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
 b_icecrown;Ледяная Корона;;;;;;;;;;;;;x
 b_icecrown_adj;Ледянокорон;;;;;;;;;;;;;x
+c_low_fields_adj;Ка'кон;;;;;;;;;;;;;x
+k_shado_pan;Шадо-пан;;;;;;;;;;;;;x
+d_black_ox;Черный Бык;;;;;;;;;;;;;x
+d_jade_serpent;Нефритовая Змея;;;;;;;;;;;;;x
+d_red_crane;Красный Журавль;;;;;;;;;;;;;x
+d_white_tiger;Белый Тигр;;;;;;;;;;;;;x
+d_golden_lotus;Золотой Лотос;;;;;;;;;;;;;x
+d_klaxxi;Клаккси;;;;;;;;;;;;;x
 PROV94;Жагуаро;;;;;;;;;;;;;x
 PROV2220;Кровавый Парус;;;;;;;;;;;;;x
 c_south_islands;Жагуаро;;;;;;;;;;;;;x
 c_forlorn_3;Кровавый Парус;;;;;;;;;;;;;x
 c_south_islands_adj;Жагуар;;;;;;;;;;;;;x
 c_forlorn_3_adj;Кровавопарус;;;;;;;;;;;;;x
+e_pandaria_empire;Пандария;;;;;;;;;;;;;x
+e_pandaria_empire_adj;Пандарий;;;;;;;;;;;;;x
+CULTURAL_EMPIRE;[Root.Culture.GetName] империя;;;;;;;;;;;;;x
+CULTURAL_EMPIRE_ADJ;[Root.Culture.GetName];;;;;;;;;;;;;x
+CULTURAL_GROUP_EMPIRE;[Root.Culture.GetGroupName] империя;;;;;;;;;;;;;x
+CULTURAL_GROUP_EMPIRE_ADJ;[Root.Culture.GetGroupName];;;;;;;;;;;;;x
+d_mountain_hozen_band;Отряд горных хозенов;;;;;;;;;;;;;x
+d_mountain_hozen_band_adj;Горнохозен;;;;;;;;;;;;;x
+d_jungle_hozen_band;Отряд джунглевых хозенов;;;;;;;;;;;;;x
+d_jungle_hozen_band_adj;Джунглехозен;;;;;;;;;;;;;x
+d_forest_hozen_band;Отряд лесных хозенов;;;;;;;;;;;;;x
+d_forest_hozen_band_adj;Леснохозен;;;;;;;;;;;;;x
+d_yaungol_band;Яунгольский отряд;;;;;;;;;;;;;x
+d_yaungol_band_adj;Яунголь;;;;;;;;;;;;;x
+d_saurok_band;Саурокский отряд;;;;;;;;;;;;;x
+d_saurok_band_adj;Саурок;;;;;;;;;;;;;x
+d_mogu_company;Отряд могу;;;;;;;;;;;;;x
+d_mogu_company_adj;Могу;;;;;;;;;;;;;x
+d_jinyu_company;Цзинь-юйский отряд;;;;;;;;;;;;;x
+d_jinyu_company_adj;Цзинь-юй;;;;;;;;;;;;;x
+d_mainland_pandaren_company_1;Отряд Полугорья;;;;;;;;;;;;;x
+d_mainland_pandaren_company_1_adj;Полугор;;;;;;;;;;;;;x
+d_mainland_pandaren_company_2;Отряд Цветущей Зари;;;;;;;;;;;;;x
+d_mainland_pandaren_company_2_adj;Цветущезарь;;;;;;;;;;;;;x
+d_mainland_pandaren_fleet;Прибрежный флот пандаренов;;;;;;;;;;;;;x
+d_mainland_pandaren_fleet_adj;Пандарен;;;;;;;;;;;;;x
+d_saurok_fleet;Флот сауроков;;;;;;;;;;;;;x
+d_saurok_fleet_adj;Саурок;;;;;;;;;;;;;x
+d_jungle_hozen_fleet;Флот джунглевых хозенов;;;;;;;;;;;;;x
+d_jungle_hozen_fleet_adj;Хозен;;;;;;;;;;;;;x

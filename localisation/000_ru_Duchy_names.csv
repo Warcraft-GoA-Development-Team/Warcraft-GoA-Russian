@@ -11,6 +11,8 @@ d_alterac;Альтерак;;;;;;;;;;;;;x
 d_alterac_adj;Альтерак;;;;;;;;;;;;;x
 d_amber_ledge;Янтарная Гряда;;;;;;;;;;;;;x
 d_amber_ledge_adj;Янтарногряд;;;;;;;;;;;;;x
+d_amberfly;Янтарная муха;;;;;;;;;;;;;x
+d_amberfly_adj;Янтарномух;;;;;;;;;;;;;x
 d_ambermill;Янтарная Мельница;;;;;;;;;;;;;x
 d_ambermill_adj;Янтарномельник;;;;;;;;;;;;;x
 d_andorhal;Андорал;;;;;;;;;;;;;x
@@ -35,6 +37,8 @@ d_bambala;Бамбала;;;;;;;;;;;;;x
 d_bambala_adj;Бамбал;;;;;;;;;;;;;x
 d_baymouth;Устье залива;;;;;;;;;;;;;x
 d_baymouth_adj;Беймут;;;;;;;;;;;;;x
+d_binan;Бинан;;;;;;;;;;;;;x
+d_binan_adj;Бинан;;;;;;;;;;;;;x
 d_black_morass;Черные Топи;;;;;;;;;;;;;x
 d_black_morass_adj;Чернотоп;;;;;;;;;;;;;x
 d_blackmaw;Черночрево;;;;;;;;;;;;;x
@@ -63,10 +67,14 @@ d_brightwood;Светлая Роща;;;;;;;;;;;;;x
 d_brightwood_adj;Светлорощь;;;;;;;;;;;;;x
 d_brill;Брилл;;;;;;;;;;;;;x
 d_brill_adj;Брилл;;;;;;;;;;;;;x
+d_broketooth;Ломаный Зуб;;;;;;;;;;;;;x
+d_broketooth_adj;Ломанозуб;;;;;;;;;;;;;x
 d_brunnhildar;Брунхильдар;;;;;;;;;;;;;x
 d_brunnhildar_adj;Брунхильдар;;;;;;;;;;;;;x
 d_bulwark;Бастион;;;;;;;;;;;;;x
 d_bulwark_adj;Бастион;;;;;;;;;;;;;x
+d_burlap;Джутовый путь;;;;;;;;;;;;;x
+d_burlap_adj;Джут;;;;;;;;;;;;;x
 d_burning_steppes;Пылающие Cтепи;;;;;;;;;;;;;x
 d_burning_steppes_adj;Пылающестеп;;;;;;;;;;;;;x
 d_bwonalor;Бвон'алор;;;;;;;;;;;;;x
@@ -79,10 +87,16 @@ d_central_dun_morogh;Центральный Дун Морог;;;;;;;;;;;;;x
 d_central_dun_morogh_adj;Дунморог;;;;;;;;;;;;;x
 d_channel_islands;Острова канала;;;;;;;;;;;;;x
 d_channel_islands_adj;Островоканал;;;;;;;;;;;;;x
+d_chi_huandi;Ци Ху'анди;;;;;;;;;;;;;x
+d_chi_huandi_adj;Ци Ху'андий;;;;;;;;;;;;;x
+d_chun_tian;Чунь Тянь;;;;;;;;;;;;;x
+d_chun_tian_adj;Чуньтянь;;;;;;;;;;;;;x
 d_cifonill;Кифонилл;;;;;;;;;;;;;x
 d_cifonill_adj;Кифонилл;;;;;;;;;;;;;x
 d_cleftlands;Расселина;;;;;;;;;;;;;x
 d_cleftlands_adj;Расселин;;;;;;;;;;;;;x
+d_cloudstrike;Небесный Удар;;;;;;;;;;;;;x
+d_cloudstrike_adj;Небесноудар;;;;;;;;;;;;;x
 d_cocheta;Кохета;;;;;;;;;;;;;x
 d_cocheta_adj;Кохет;;;;;;;;;;;;;x
 d_coldarra;Хладарра;;;;;;;;;;;;;x
@@ -97,6 +111,8 @@ d_crystalvale;Хрустальная Долина;;;;;;;;;;;;;x
 d_crystalvale_adj;Хрустальнодол;;;;;;;;;;;;;x
 d_dalaran;Даларан;;;;;;;;;;;;;x
 d_dalaran_adj;Даларан;;;;;;;;;;;;;x
+d_dampsoil;Сыроземье;;;;;;;;;;;;;x
+d_dampsoil_adj;Сырозем;;;;;;;;;;;;;x
 d_darkmist;Мглистая пещера;;;;;;;;;;;;;x
 d_darkmist_adj;Мглистопещер;;;;;;;;;;;;;x
 d_darkmoon_island;Остров Новолуния;;;;;;;;;;;;;x
@@ -107,14 +123,22 @@ d_darkspear_islands;Острова Черного Копья;;;;;;;;;;;;;x
 d_darkspear_islands_adj;Темнокопей;;;;;;;;;;;;;x
 d_darrowshire;Дарроушир;;;;;;;;;;;;;x
 d_darrowshire_adj;Дарроушир;;;;;;;;;;;;;x
+d_dawnchaser;Искатель Зари;;;;;;;;;;;;;x
+d_dawnchaser_adj;Искательзарий;;;;;;;;;;;;;x
 d_dazaralor;Дазар'алор;;;;;;;;;;;;;x
 d_dazaralor_adj;Дазар'алор;;;;;;;;;;;;;x
 d_deadwind_pass;Перевал Мертвого ветра;;;;;;;;;;;;;x
 d_deadwind_pass_adj;Мертвоветер;;;;;;;;;;;;;x
 d_deep_elem;Серебряный рудник;;;;;;;;;;;;;x
 d_deep_elem_adj;Элем;;;;;;;;;;;;;x
+d_deepwild;Дикие заросли;;;;;;;;;;;;;x
+d_deepwild_adj;Дикозаросль;;;;;;;;;;;;;x
 d_dhurrah;Дхуррах;;;;;;;;;;;;;x
 d_dhurrah_adj;Дхуррах;;;;;;;;;;;;;x
+d_diremoor;Мрачные топи;;;;;;;;;;;;;x
+d_diremoor_adj;Мрачнотопь;;;;;;;;;;;;;x
+d_dojan;Доцзян;;;;;;;;;;;;;x
+d_dojan_adj;Доцзян;;;;;;;;;;;;;x
 d_dordanil;Дор'данил;;;;;;;;;;;;;x
 d_dordanil_adj;Дор'данил;;;;;;;;;;;;;x
 d_downs;Курганы;;;;;;;;;;;;;x
@@ -147,6 +171,8 @@ d_dun_niffelem;Дун Ниффелем;;;;;;;;;;;;;x
 d_dun_niffelem_adj;Ниффелем;;;;;;;;;;;;;x
 d_durnholde;Дарнхольд;;;;;;;;;;;;;x
 d_durnholde_adj;Дарнхольд;;;;;;;;;;;;;x
+d_dusklight;Ложбина Тусклого Света;;;;;;;;;;;;;x
+d_dusklight_adj;Тусклосвет;;;;;;;;;;;;;x
 d_duskmist_shore;Сумеречный берег;;;;;;;;;;;;;x
 d_duskmist_shore_adj;Сумеречноберег;;;;;;;;;;;;;x
 d_east_dun_morogh;Восточный Дун Морог;;;;;;;;;;;;;x
@@ -169,6 +195,10 @@ d_elwynn;Элвинн;;;;;;;;;;;;;x
 d_elwynn_adj;Элвинн;;;;;;;;;;;;;x
 d_far_highlands;Дальние нагорья;;;;;;;;;;;;;x
 d_far_highlands_adj;Дальненагор;;;;;;;;;;;;;x
+d_firebough;Огненная Ветвь;;;;;;;;;;;;;x
+d_firebough_adj;Огненноветвь;;;;;;;;;;;;;x
+d_foxgrove;Лисья роща;;;;;;;;;;;;;x
+d_foxgrove_adj;Лисорощь;;;;;;;;;;;;;x
 d_freehold;Вольная гавань;;;;;;;;;;;;;x
 d_freehold_adj;Вольногавань;;;;;;;;;;;;;x
 d_frenzyheart;Бешеное Сердце;;;;;;;;;;;;;x
@@ -179,6 +209,8 @@ d_frosthold;Ледяная крепость;;;;;;;;;;;;;x
 d_frosthold_adj;Ледянокреп;;;;;;;;;;;;;x
 d_frostsaber;Ледопард;;;;;;;;;;;;;x
 d_frostsaber_adj;Ледопард;;;;;;;;;;;;;x
+d_gan_shi;Гань Ши;;;;;;;;;;;;;x
+d_gan_shi_adj;Гань Ший;;;;;;;;;;;;;x
 d_giants_run;Тропа великанов;;;;;;;;;;;;;x
 d_giants_run_adj;Великотроп;;;;;;;;;;;;;x
 d_gilneas;Гилнеас;;;;;;;;;;;;;x
@@ -195,14 +227,22 @@ d_greatwood;Великий лес;;;;;;;;;;;;;x
 d_greatwood_adj;Грейтвуд;;;;;;;;;;;;;x
 d_greenrush;Зеленая лихорадка;;;;;;;;;;;;;x
 d_greenrush_adj;Зеленолихорад;;;;;;;;;;;;;x
+d_greenstone;Зеленая Скала;;;;;;;;;;;;;x
+d_greenstone_adj;Зеленоскаль;;;;;;;;;;;;;x
 d_grim_batol;Грим Батол;;;;;;;;;;;;;x
 d_grim_batol_adj;Грим Батол;;;;;;;;;;;;;x
 d_grizzlemaw;Седая пасть;;;;;;;;;;;;;x
 d_grizzlemaw_adj;Седопаст;;;;;;;;;;;;;x
+d_grookin;Грукин;;;;;;;;;;;;;x
+d_grookin_adj;Грукин;;;;;;;;;;;;;x
 d_gundrak;Гундрак;;;;;;;;;;;;;x
 d_gundrak_adj;Гундрак;;;;;;;;;;;;;x
+d_hakshix;Хак'шикс;;;;;;;;;;;;;x
+d_hakshix_adj;Хакшикс;;;;;;;;;;;;;x
 d_haldarr;Халдарр;;;;;;;;;;;;;x
 d_haldarr_adj;Халдарр;;;;;;;;;;;;;x
+d_halfhill;Полугорье;;;;;;;;;;;;;x
+d_halfhill_adj;Полугор;;;;;;;;;;;;;x
 d_halgrind;Халгринд;;;;;;;;;;;;;x
 d_halgrind_adj;Халгринд;;;;;;;;;;;;;x
 d_hearthglen;Дольный Очаг;;;;;;;;;;;;;x
@@ -219,10 +259,16 @@ d_hillsbrad;Хилсбрад;;;;;;;;;;;;;x
 d_hillsbrad_adj;Хилсбрад;;;;;;;;;;;;;x
 d_holmslatr;Хольмслатр;;;;;;;;;;;;;x
 d_holmslatr_adj;Хольмслатр;;;;;;;;;;;;;x
+d_honeydew;Медовая Роса;;;;;;;;;;;;;x
+d_honeydew_adj;Медорос;;;;;;;;;;;;;x
 d_hotfield;Хотфилд;;;;;;;;;;;;;x
 d_hotfield_adj;Хотфилд;;;;;;;;;;;;;x
+d_howlingwind;Ревущий Ветер;;;;;;;;;;;;;x
+d_howlingwind_adj;Ревущеветер;;;;;;;;;;;;;x
 d_icecrown;Ледяная Корона;;;;;;;;;;;;;x
 d_icecrown_adj;Льдянокорон;;;;;;;;;;;;;x
+d_ihgaluk;Ихгалук;;;;;;;;;;;;;x
+d_ihgaluk_adj;Ихгалук;;;;;;;;;;;;;x
 d_indule;Инду'ле;;;;;;;;;;;;;x
 d_indule_adj;Инду'лей;;;;;;;;;;;;;x
 d_irontree;Железнолесье;;;;;;;;;;;;;x
@@ -239,6 +285,8 @@ d_jagtar;Джаг'Тар;;;;;;;;;;;;;x
 d_jagtar_adj;Джаг'тар;;;;;;;;;;;;;x
 d_jahaqua;Джахакуа;;;;;;;;;;;;;x
 d_jahaqua_adj;Джахак;;;;;;;;;;;;;x
+d_jehsed;Дже'сед;;;;;;;;;;;;;x
+d_jehsed_adj;Джесед;;;;;;;;;;;;;x
 d_jinkalak;Джин'Калак;;;;;;;;;;;;;x
 d_jinkalak_adj;Джин'калак;;;;;;;;;;;;;x
 d_jinthaalor;Джинта'Алор;;;;;;;;;;;;;x
@@ -263,12 +311,26 @@ d_khartut;Хартут;;;;;;;;;;;;;x
 d_khartut_adj;Хартут;;;;;;;;;;;;;x
 d_khintaset;Кинтасет;;;;;;;;;;;;;x
 d_khintaset_adj;Кинтасет;;;;;;;;;;;;;x
+d_klaxxivess;Клаккси'весс;;;;;;;;;;;;;x
+d_klaxxivess_adj;Клаккси'весс;;;;;;;;;;;;;x
+d_korja;Корцзя;;;;;;;;;;;;;x
+d_korja_adj;Корцзян;;;;;;;;;;;;;x
+d_korune;Корун;;;;;;;;;;;;;x
+d_korune_adj;Корун;;;;;;;;;;;;;x
+d_kota;Коту;;;;;;;;;;;;;x
+d_kota_adj;Коту;;;;;;;;;;;;;x
 d_krensen;Крен'сен;;;;;;;;;;;;;x
 d_krensen_adj;Кренсен;;;;;;;;;;;;;x
+d_krivess;Кри'весс;;;;;;;;;;;;;x
+d_krivess_adj;Кривесс;;;;;;;;;;;;;x
 d_lardonir;Лар'донир;;;;;;;;;;;;;x
 d_lardonir_adj;Лар'донир;;;;;;;;;;;;;x
 d_legash;Легаши;;;;;;;;;;;;;x
 d_legash_adj;Легаши;;;;;;;;;;;;;x
+d_lei_jiao;Лэй Цзяо;;;;;;;;;;;;;x
+d_lei_jiao_adj;Лэйцзяо;;;;;;;;;;;;;x
+d_lei_shen;Лэй Шень;;;;;;;;;;;;;x
+d_lei_shen_adj;Лэй Шень;;;;;;;;;;;;;x
 d_lethlor;Летлор;;;;;;;;;;;;;x
 d_lethlor_adj;Летлор;;;;;;;;;;;;;x
 d_lifewarden;Хранитель жизни;;;;;;;;;;;;;x
@@ -293,30 +355,54 @@ d_low_northeron;Нижний Нортерон;;;;;;;;;;;;;x
 d_low_northeron_adj;Нижненортерон;;;;;;;;;;;;;x
 d_ludei;Лу'дей;;;;;;;;;;;;;x
 d_ludei_adj;Лу'дий;;;;;;;;;;;;;x
+d_lulkail;Лул'каил;;;;;;;;;;;;;x
+d_lulkail_adj;Лул'каил;;;;;;;;;;;;;x
 d_magmoth;Магмот;;;;;;;;;;;;;x
 d_magmoth_adj;Магмот;;;;;;;;;;;;;x
 d_magram;Маграм;;;;;;;;;;;;;x
 d_magram_adj;Маграм;;;;;;;;;;;;;x
+d_mantivess;Манти'весс;;;;;;;;;;;;;x
+d_mantivess_adj;Манти'весс;;;;;;;;;;;;;x
 d_maraudon;Мародон;;;;;;;;;;;;;x
 d_maraudon_adj;Мародон;;;;;;;;;;;;;x
+d_marista;Мариста;;;;;;;;;;;;;x
+d_marista_adj;Маристан;;;;;;;;;;;;;x
 d_mazthoril;Мазторил;;;;;;;;;;;;;x
 d_mazthoril_adj;Мазторил;;;;;;;;;;;;;x
+d_mazu;Мацзу;;;;;;;;;;;;;x
+d_mazu_adj;Мацзуй;;;;;;;;;;;;;x
 d_mirage;Мираж;;;;;;;;;;;;;x
 d_mirage_adj;Мираж;;;;;;;;;;;;;x
+d_mistfall;Туманный Водопад;;;;;;;;;;;;;x
+d_mistfall_adj;Водопад;;;;;;;;;;;;;x
+d_mogushan;Могу'шан;;;;;;;;;;;;;x
+d_mogushan_adj;Могушан;;;;;;;;;;;;;x
 d_moonrest;Сады Лунного Покоя;;;;;;;;;;;;;x
 d_moonrest_adj;Мунрест;;;;;;;;;;;;;x
 d_mugamba;Мугамба;;;;;;;;;;;;;x
 d_mugamba_adj;Мугамб;;;;;;;;;;;;;x
 d_murcevin;Муркевин;;;;;;;;;;;;;x
 d_murcevin_adj;Муркевин;;;;;;;;;;;;;x
+d_nalaksha;Налак'ша;;;;;;;;;;;;;x
+d_nalaksha_adj;Налакшан;;;;;;;;;;;;;x
+d_narsong;Поющие Вершины;;;;;;;;;;;;;x
+d_narsong_adj;Поющевершин;;;;;;;;;;;;;x
+d_nayel;Найели;;;;;;;;;;;;;x
+d_nayel_adj;Найелий;;;;;;;;;;;;;x
 d_nazmir;Назмир;;;;;;;;;;;;;x
 d_nazmir_adj;Назмир;;;;;;;;;;;;;x
 d_nazwatha;Назвата;;;;;;;;;;;;;x
 d_nazwatha_adj;Назвата;;;;;;;;;;;;;x
+d_nectarbreeze;Сладкий Ветерок;;;;;;;;;;;;;x
+d_nectarbreeze_adj;Сладковетер;;;;;;;;;;;;;x
 d_neferset;Неферсет;;;;;;;;;;;;;x
 d_neferset_adj;Неферсет;;;;;;;;;;;;;x
 d_nesingwary;Эрнестуэй;;;;;;;;;;;;;x
 d_nesingwary_adj;Эрнестуэй;;;;;;;;;;;;;x
+d_neverest;Гора Неутомимых;;;;;;;;;;;;;x
+d_neverest_adj;Неверест;;;;;;;;;;;;;x
+d_new_cifera;Новая Цифера;;;;;;;;;;;;;x
+d_new_cifera_adj;Новоцифер;;;;;;;;;;;;;x
 d_new_tinkertown;Новый Город механиков;;;;;;;;;;;;;x
 d_new_tinkertown_adj;Тинкертаун;;;;;;;;;;;;;x
 d_nifflevar;Ниффлвар;;;;;;;;;;;;;x
@@ -324,11 +410,13 @@ d_nifflevar_adj;Ниффлвар;;;;;;;;;;;;;x
 d_night_run;Ночной бег;;;;;;;;;;;;;x
 d_night_run_adj;Найтран;;;;;;;;;;;;;x
 d_nighthaven;Ночная Гавань;;;;;;;;;;;;;x
-d_nighthaven_adj;Ночногаван;;;;;;;;;;;;;x
+d_nighthaven_adj;Ночногавань;;;;;;;;;;;;;x
 d_nightsong;Ночная Песня;;;;;;;;;;;;;x
 d_nightsong_adj;Найтсонг;;;;;;;;;;;;;x
 d_nittawosew;Ниттавосев;;;;;;;;;;;;;x
 d_nittawosew_adj;Ниттавосев;;;;;;;;;;;;;x
+d_niuzao;Нюцзао;;;;;;;;;;;;;x
+d_niuzao_adj;Нюцзао;;;;;;;;;;;;;x
 d_njord;Ньорд;;;;;;;;;;;;;x
 d_njord_adj;Ньорд;;;;;;;;;;;;;x
 d_nordrassil;Нордрассил;;;;;;;;;;;;;x
@@ -343,10 +431,18 @@ d_orgrimmar;Оргриммар;;;;;;;;;;;;;x
 d_orgrimmar_adj;Оргриммар;;;;;;;;;;;;;x
 d_orsis;Орсис;;;;;;;;;;;;;x
 d_orsis_adj;Орсис;;;;;;;;;;;;;x
+d_osul;Осул;;;;;;;;;;;;;x
+d_osul_adj;Осул;;;;;;;;;;;;;x
 d_overlook_cliffs;Отвесные скалы;;;;;;;;;;;;;x
 d_overlook_cliffs_adj;Отвесноскал;;;;;;;;;;;;;x
+d_paoquan;Паоцюань;;;;;;;;;;;;;x
+d_paoquan_adj;Паоцюань;;;;;;;;;;;;;x
 d_paradise_islands;Райские острова;;;;;;;;;;;;;x
 d_paradise_islands_adj;Райскоостров;;;;;;;;;;;;;x
+d_pawdon;Лап'дон;;;;;;;;;;;;;x
+d_pawdon_adj;Лап'дон;;;;;;;;;;;;;x
+d_pearlfin;Жемчужный Плавник;;;;;;;;;;;;;x
+d_pearlfin_adj;Жемчужноплавник;;;;;;;;;;;;;x
 d_plunder_isle;Остров грабежа;;;;;;;;;;;;;x
 d_plunder_isle_adj;Островграбеж;;;;;;;;;;;;;x
 d_ponisuk;Понисук;;;;;;;;;;;;;x
@@ -399,20 +495,32 @@ d_sentinel_hill;Сторожевой холм;;;;;;;;;;;;;x
 d_sentinel_hill_adj;Сторожехолм;;;;;;;;;;;;;x
 d_seradane;Серадан;;;;;;;;;;;;;x
 d_seradane_adj;Серадан;;;;;;;;;;;;;x
+d_shado_pan;Шадо-пан;;;;;;;;;;;;;x
+d_shado_pan_adj;Шадопан;;;;;;;;;;;;;x
 d_shaibi;Шаиби;;;;;;;;;;;;;x
 d_shaibi_adj;Шаиб;;;;;;;;;;;;;x
 d_shalandis;Шаландис;;;;;;;;;;;;;x
 d_shalandis_adj;Шаландис;;;;;;;;;;;;;x
+d_shanze;Шань'цзэ;;;;;;;;;;;;;x
+d_shanze_adj;Шань'цзэй;;;;;;;;;;;;;x
 d_shatterspear;Пронзающее копье;;;;;;;;;;;;;x
 d_shatterspear_adj;Пронзающеекопей;;;;;;;;;;;;;x
+d_shekzeer;Шек'зир;;;;;;;;;;;;;x
+d_shekzeer_adj;Шек'зир;;;;;;;;;;;;;x
+d_shil_qem;Шил-Цем;;;;;;;;;;;;;x
+d_shil_qem_adj;Шилцем;;;;;;;;;;;;;x
 d_shindun;Шиндун;;;;;;;;;;;;;x
 d_shindun_adj;Шиндун;;;;;;;;;;;;;x
 d_shobassa;Шобасса;;;;;;;;;;;;;x
 d_shobassa_adj;Шобасс;;;;;;;;;;;;;x
+d_sikvess;Сик'весс;;;;;;;;;;;;;x
+d_sikvess_adj;Сик'весс;;;;;;;;;;;;;x
 d_sildinas;Силдинас;;;;;;;;;;;;;x
 d_sildinas_adj;Силдинас;;;;;;;;;;;;;x
 d_silentreach;Тихий простор;;;;;;;;;;;;;x
 d_silentreach_adj;Тихопростор;;;;;;;;;;;;;x
+d_silkwood;Шелкодревный лес;;;;;;;;;;;;;x
+d_silkwood_adj;Шелкодревнолес;;;;;;;;;;;;;x
 d_silvermoon;Луносвет;;;;;;;;;;;;;x
 d_silvermoon_adj;Луносвет;;;;;;;;;;;;;x
 d_silverpine;Серебряный бор;;;;;;;;;;;;;x
@@ -425,6 +533,8 @@ d_skypeak;Небесный пик;;;;;;;;;;;;;x
 d_skypeak_adj;Небеснопик;;;;;;;;;;;;;x
 d_snowblind;Слепящие снега;;;;;;;;;;;;;x
 d_snowblind_adj;Слепоснег;;;;;;;;;;;;;x
+d_snowblossom;Цветущая Зима;;;;;;;;;;;;;x
+d_snowblossom_adj;Цветущезим;;;;;;;;;;;;;x
 d_snowdrift;Снежный вихрь;;;;;;;;;;;;;x
 d_snowdrift_adj;Снежновихрь;;;;;;;;;;;;;x
 d_solarsal;Соларсаль;;;;;;;;;;;;;x
@@ -437,6 +547,8 @@ d_spears_isles;Острова Копья;;;;;;;;;;;;;x
 d_spears_isles_adj;Островкопей;;;;;;;;;;;;;x
 d_splursh;Брызгунья;;;;;;;;;;;;;x
 d_splursh_adj;Брызгун;;;;;;;;;;;;;x
+d_sravess;Шра'весс;;;;;;;;;;;;;x
+d_sravess_adj;Шра'весс;;;;;;;;;;;;;x
 d_stardust;Звездная Пыль;;;;;;;;;;;;;x
 d_stardust_adj;Звезднопыль;;;;;;;;;;;;;x
 d_starfall;Звездопад;;;;;;;;;;;;;x
@@ -445,6 +557,8 @@ d_stonard;Каменор;;;;;;;;;;;;;x
 d_stonard_adj;Каменор;;;;;;;;;;;;;x
 d_stone_hill;Каменный холм;;;;;;;;;;;;;x
 d_stone_hill_adj;Каменнохолм;;;;;;;;;;;;;x
+d_stoneplow;Каменный Плуг;;;;;;;;;;;;;x
+d_stoneplow_adj;Камнеплуг;;;;;;;;;;;;;x
 d_stonetalon;Когтистые горы;;;;;;;;;;;;;x
 d_stonetalon_adj;Когтистогор;;;;;;;;;;;;;x
 d_stonewatch;Каменная Стража;;;;;;;;;;;;;x
@@ -467,6 +581,8 @@ d_sungraze_peak;Пик солнечного света;;;;;;;;;;;;;x
 d_sungraze_peak_adj;Sungraze Peakian;;;;;;;;;;;;;x
 d_sunnyglade;Солнечная поляна;;;;;;;;;;;;;x
 d_sunnyglade_adj;Солнцеполян;;;;;;;;;;;;;x
+d_sunsoak;Солнечник;;;;;;;;;;;;;x
+d_sunsoak_adj;Солнечник;;;;;;;;;;;;;x
 d_sunstrider_isle;Остров Солнечного Скитальца;;;;;;;;;;;;;x
 d_sunstrider_isle_adj;Островскитал;;;;;;;;;;;;;x
 d_swamp_of_sorrows;Болото Печали;;;;;;;;;;;;;x
@@ -497,6 +613,8 @@ d_thorvald;Торвальд;;;;;;;;;;;;;x
 d_thorvald_adj;Торвальд;;;;;;;;;;;;;x
 d_thunder_bluff;Громовой Утес;;;;;;;;;;;;;x
 d_thunder_bluff_adj;Громоутес;;;;;;;;;;;;;x
+d_tigerswood;Тигриный лес;;;;;;;;;;;;;x
+d_tigerswood_adj;Тигролес;;;;;;;;;;;;;x
 d_tiragarde;Тирагард;;;;;;;;;;;;;x
 d_tiragarde_adj;Тирагард;;;;;;;;;;;;;x
 d_tol_barad;Тол Барад;;;;;;;;;;;;;x
@@ -527,6 +645,8 @@ d_utgarde;Утгард;;;;;;;;;;;;;x
 d_utgarde_adj;Утгард;;;;;;;;;;;;;x
 d_valkyrion;Валькирион;;;;;;;;;;;;;x
 d_valkyrion_adj;Валькирион;;;;;;;;;;;;;x
+d_veiled_stair;Сокрытая лестница;;;;;;;;;;;;;x
+d_veiled_stair_adj;Сокрытолестниц;;;;;;;;;;;;;x
 d_verdant_wilds;Зеленые дебри;;;;;;;;;;;;;x
 d_verdant_wilds_adj;Зеленодебр;;;;;;;;;;;;;x
 d_vermillion;Вермилион;;;;;;;;;;;;;x
@@ -553,24 +673,44 @@ d_whispering_gardens;Шепчущие сады;;;;;;;;;;;;;x
 d_whispering_gardens_adj;Шептосад;;;;;;;;;;;;;x
 d_whispering_reef;Шепчущий риф;;;;;;;;;;;;;x
 d_whispering_reef_adj;Шепториф;;;;;;;;;;;;;x
+d_whitepetal;Белые Лепестки;;;;;;;;;;;;;x
+d_whitepetal_adj;Белолепестк;;;;;;;;;;;;;x
 d_wildgrowth;Буйный рост;;;;;;;;;;;;;x
 d_wildgrowth_adj;Буйнорост;;;;;;;;;;;;;x
+d_windedge;Лезвие Ветра;;;;;;;;;;;;;x
+d_windedge_adj;Ветролезвий;;;;;;;;;;;;;x
 d_windshear;Пронизывающий ветер;;;;;;;;;;;;;x
 d_windshear_adj;Пронизветер;;;;;;;;;;;;;x
+d_windward;Наветренный остров;;;;;;;;;;;;;x
+d_windward_adj;Наветренноостров;;;;;;;;;;;;;x
+d_winterbough;Зимняя Ветвь;;;;;;;;;;;;;x
+d_winterbough_adj;Зимневетвь;;;;;;;;;;;;;x
 d_wintergarde;Стражи Зимы;;;;;;;;;;;;;x
 d_wintergarde_adj;Винтергард;;;;;;;;;;;;;x
 d_wintergrasp;Озеро ледяных оков;;;;;;;;;;;;;x
 d_wintergrasp_adj;Ледянооков;;;;;;;;;;;;;x
+d_writhingwood;Кривое дерево;;;;;;;;;;;;;x
+d_writhingwood_adj;Криводрев;;;;;;;;;;;;;x
 d_wyrmbog;Драконьи топи;;;;;;;;;;;;;x
 d_wyrmbog_adj;Драконотоп;;;;;;;;;;;;;x
 d_wyrmrest;Драконий покой;;;;;;;;;;;;;x
 d_wyrmrest_adj;Драконопогост;;;;;;;;;;;;;x
+d_xuen;Сюэнь;;;;;;;;;;;;;x
+d_xuen_adj;Сюэнь;;;;;;;;;;;;;x
 d_ymirheim;Имирхейм;;;;;;;;;;;;;x
 d_ymirheim_adj;Имирхейм;;;;;;;;;;;;;x
+d_yulon;Юй'лун;;;;;;;;;;;;;x
+d_yulon_adj;Юй'лун;;;;;;;;;;;;;x
+d_zanvess;Зан'весс;;;;;;;;;;;;;x
+d_zanvess_adj;Зан'весс;;;;;;;;;;;;;x
 d_zebahari;Зеб'ахари;;;;;;;;;;;;;x
 d_zebahari_adj;Зеб'ахар;;;;;;;;;;;;;x
+d_zhu;Чжу;;;;;;;;;;;;;x
+d_zhu_adj;Чжу;;;;;;;;;;;;;x
 d_zolnanji;Золнанджи;;;;;;;;;;;;;x
 d_zolnanji_adj;Золнанж;;;;;;;;;;;;;x
+d_zouchin;Цзоучин;;;;;;;;;;;;;x
+d_zouchin_adj;Цзоучин;;;;;;;;;;;;;x
 d_zulaman;Зул'аман;;;;;;;;;;;;;x
 d_zulaman_adj;Зул'аман;;;;;;;;;;;;;x
 d_zuldare;Зул'дар;;;;;;;;;;;;;x

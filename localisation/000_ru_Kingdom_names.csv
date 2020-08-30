@@ -49,6 +49,8 @@ k_grizzly_hills;Седые холмы;;;;;;;;;;;;;x
 k_grizzly_hills_adj;Седохолм;;;;;;;;;;;;;x
 k_gurubashi;Гурубаши;;;;;;;;;;;;;x
 k_gurubashi_adj;Гурубаш;;;;;;;;;;;;;x
+k_halfhill;Полугорье;;;;;;;;;;;;;x
+k_halfhill_adj;Полугор;;;;;;;;;;;;;x
 k_hillsbrad;Хилсбрад;;;;;;;;;;;;;x
 k_hillsbrad_adj;Хилсбрад;;;;;;;;;;;;;x
 k_hinterlands;Внутренние земли;;;;;;;;;;;;;x
@@ -65,12 +67,22 @@ k_isle_of_conquest;Остров Завоеваний;;;;;;;;;;;;;x
 k_isle_of_conquest_adj;Островзавоеван;;;;;;;;;;;;;x
 k_kezan;Кезан;;;;;;;;;;;;;x
 k_kezan_adj;Кезан;;;;;;;;;;;;;x
+k_krasarang;Красаранг;;;;;;;;;;;;;x
+k_krasarang_adj;Красаранг;;;;;;;;;;;;;x
 k_kul_tiras;Кул-Тирас;;;;;;;;;;;;;x
 k_kul_tiras_adj;Кул-Тирас;;;;;;;;;;;;;x
+k_kun_lai;Кунь-Лай;;;;;;;;;;;;;x
+k_kun_lai_adj;Кунь-лай;;;;;;;;;;;;;x
+k_kyparqov;Кипар'коу;;;;;;;;;;;;;x
+k_kyparqov_adj;Кипар'коу;;;;;;;;;;;;;x
+k_lei_dao;Лэй Дао;;;;;;;;;;;;;x
+k_lei_dao_adj;Лэй-дао;;;;;;;;;;;;;x
 k_lordaeron;Лордерон;;;;;;;;;;;;;x
 k_lordaeron_adj;Лордерон;;;;;;;;;;;;;x
 k_mechagon;Мехагон;;;;;;;;;;;;;x
 k_mechagon_adj;Мехагон;;;;;;;;;;;;;x
+k_mogushan;Могу'шан;;;;;;;;;;;;;x
+k_mogushan_adj;Могушан;;;;;;;;;;;;;x
 k_moonglade;Лунная поляна;;;;;;;;;;;;;x
 k_moonglade_adj;Луннополян;;;;;;;;;;;;;x
 k_morlosaran;Морлос'Аран;;;;;;;;;;;;;x
@@ -87,6 +99,8 @@ k_quelthalas;Кель'Талас;;;;;;;;;;;;;x
 k_quelthalas_adj;Талассий;;;;;;;;;;;;;x
 k_ramkahen;Рамкахен;;;;;;;;;;;;;x
 k_ramkahen_adj;Рамкахен;;;;;;;;;;;;;x
+k_sheilun;Шей-лун;;;;;;;;;;;;;x
+k_sheilun_adj;Шейлун;;;;;;;;;;;;;x
 k_sholazar_basin;Низина Шолазар;;;;;;;;;;;;;x
 k_sholazar_basin_adj;Шолазар;;;;;;;;;;;;;x
 k_silithus;Силитус;;;;;;;;;;;;;x
@@ -111,6 +125,8 @@ k_thousand_needles;Тысяча Игл;;;;;;;;;;;;;x
 k_thousand_needles_adj;Тысячеигл;;;;;;;;;;;;;x
 k_tol_barad;Тол Барад;;;;;;;;;;;;;x
 k_tol_barad_adj;Толбарад;;;;;;;;;;;;;x
+k_townlong;Танлун;;;;;;;;;;;;;x
+k_townlong_adj;Танлун;;;;;;;;;;;;;x
 k_tranquillien;Транквиллион;;;;;;;;;;;;;x
 k_tranquillien_adj;Транквиллион;;;;;;;;;;;;;x
 k_ulduar;Ульдуар;;;;;;;;;;;;;x
@@ -125,8 +141,12 @@ k_wildhammer;Неистовый Молот;;;;;;;;;;;;;x
 k_wildhammer_adj;Неистовомолот;;;;;;;;;;;;;x
 k_winterspring;Зимние Ключи;;;;;;;;;;;;;x
 k_winterspring_adj;Зимнеключ;;;;;;;;;;;;;x
+k_yulin;Юйлинь;;;;;;;;;;;;;x
+k_yulin_adj;Юйлинь;;;;;;;;;;;;;x
 k_zandalar;Зандалар;;;;;;;;;;;;;x
 k_zandalar_adj;Зандалар;;;;;;;;;;;;;x
+k_zouchin;Цзоучин;;;;;;;;;;;;;x
+k_zouchin_adj;Цзоучин;;;;;;;;;;;;;x
 k_zulaman;Зул'Аман;;;;;;;;;;;;;x
 k_zulaman_adj;Зул'аман;;;;;;;;;;;;;x
 k_zuldrak;Зул'Драк;;;;;;;;;;;;;x
