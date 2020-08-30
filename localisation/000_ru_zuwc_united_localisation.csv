@@ -3126,45 +3126,45 @@ spawn_old_god_invasion_troops_tooltip;§Y[This.GetMainOldGodName]§! высвободит св
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-nick_the_burning_one;the Burning One;;[From.Getderdie] Brennende;;;;;;;;;;;x
-nick_the_emissary;the Emissary;;[From.Getderdie] Botschafter[From.GetinFemale];;;;;;;;;;;x
-dojan;Blood of Dojan "Firecrown";;Blut von Dojan "Feuerkrone";;;;;;;;;;;x
-dojan_desc;Dojan "Firecrown", the Uroe Sovereign, was the mythical founder of the Dojani clan and the ruler responsible for the Great Saurok Purge.;;Dojan "Feuerkrone", der Herrscher der Uroe, war der mythische Grьnder des Dojani-Clans und der Herrscher, der fьr die groЯe Saurok-Sдuberung verantwortlich war.;;;;;;;;;;;x
-saurok_opinion;[saurok.GetName] Opinion;;[saurok.GetName] Meinung;;;;;;;;;;;x
-mogu_opinion;[mogu.GetName] Opinion;;[mogu.GetName] meinung;;;;;;;;;;;x
-nick_the_vile;the Vile;;[From.Getderdie] Ьble;;;;;;;;;;;x
-world_pandaria_kun_lai_summit;Kun-Lai Summit;;Kun-Lai-Gipfel;;;;;;;;;;;x
-world_pandaria_townlong_steppes;Townlong Steppes;;Tonlong-Steppe;;;;;;;;;;;x
-world_pandaria_dread_wastes;Dread Wastes;;Schreckensцde;;;;;;;;;;;x
-world_pandaria_vale_of_eternal_blossoms;Vale of Eternal Blossoms;;Tal der ewigen Blьten;;;;;;;;;;;x
-world_pandaria_valley_of_the_four_winds;Valley of the Four Winds;;Tal der vier Winde;;;;;;;;;;;x
-world_pandaria_krasarang_wilds;Krasarang Wilds;;Krasarang-Wildnis;;;;;;;;;;;x
-world_pandaria_jade_forest;Jade Forest;;Jadewald;;;;;;;;;;;x
-world_pandaria_pandaria_isles_isle_of_thunder;Isle of Thunder;;Insel des Donners;;;;;;;;;;;x
-world_pandaria_pandaria_isles;Pandaria Isles;;Pandaria-Inseln;;;;;;;;;;;x
-world_pandaria;Pandaria;;Pandaria;;;;;;;;;;;x
-nick_the_nightingale;the Nightingale;;die Nachtigall;;;;;;;;;;;x
-nick_the_brute;the Brute;;der Rohling;;;;;;;;;;;x
-nick_the_weaponmaster;the Weaponmaster;;[From.Getderdie] Waffenmeister[From.GetinFemale];;;;;;;;;;;x
-nick_the_cunning;the Cunning;;[From.Getderdie] Gerissene;;;;;;;;;;;x
-nick_the_unstoppable;the Unstoppable;;[From.Getderdie] Unaufhaltsame;;;;;;;;;;;x
-nick_the_thunderous;the Thunderous;;[From.Getderdie] Donnernde;;;;;;;;;;;x
-nick_the_lightning_fist;the Lightning-Fist;;die Blitz-Faust;;;;;;;;;;;x
-DEATH_WANDERING_ISLE_NO_KILLER;went to the Wandering Isle;;ging auf die wandernde Insel;;;;;;;;;;;x
-ANGER_OPTION;Get out!;;Verschwindet!;;;;;;;;;;;x
-DESPAIR_OPTION;We're doomed!;;Wir sind verloren!;;;;;;;;;;;x
-DOUBT_OPTION;Traitors are everywhere!;;Ьberall nur Verrдter!;;;;;;;;;;;x
-FEAR_OPTION;They're outside!;;Sie sind vor der Tьr!;;;;;;;;;;;x
-HATRED_OPTION;I hate it!;;Ich hasse es!;;;;;;;;;;;x
-PRIDE_OPTION;I'm the heart of Pandaria!;;ICH bin das Herz von Pandaria!;;;;;;;;;;;x
-VIOLENCE_OPTION;Violence is the answer!;;Gewalt IST die Antwort!;;;;;;;;;;;x
-infested_by_sha_of_anger;Infested by Sha of Anger;;Infiziert vom Sha der Wut;;;;;;;;;;;x
-infested_by_sha_of_despair;Infested by Sha of Despair;;Infiziert vom Sha der Verzweiflung;;;;;;;;;;;x
-infested_by_sha_of_doubt;Infested by Sha of Doubt;;Infiziert vom Sha des Zweifels;;;;;;;;;;;x
-infested_by_sha_of_fear;Infested by Sha of Fear;;Infiziert vom Sha der Furcht;;;;;;;;;;;x
-infested_by_sha_of_hatred;Infested by Sha of Hatred;;Infiziert vom Sha des Hasses;;;;;;;;;;;x
-infested_by_sha_of_pride;Infested by Sha of Pride;;Infiziert vom Sha des Stolzes;;;;;;;;;;;x
-infested_by_sha_of_violence;Infested by Sha of Violence;;Infiziert vom Sha der Gewalt;;;;;;;;;;;x
+nick_the_burning_one;Горящ[From.GetEndIyAya];;;;;;;;;;;;;x
+nick_the_emissary;Посланник;;;;;;;;;;;;;x
+dojan;Кровь Доцзяна "Огненная Корона";;;;;;;;;;;;;x
+dojan_desc;Доцзян "Огненная Корона", повелитель Уроэ, является мифическим основателем клан Доцзян и правителем, ответственным за Великую Чистку сауроков.;;;;;;;;;;;;;x
+saurok_opinion;Отношение [saurok.GetName];;;;;;;;;;;;;x
+mogu_opinion;Отношение [mogu.GetName];;;;;;;;;;;;;x
+nick_the_vile;Подл[Root.GetEndYyAya];;;;;;;;;;;;;x
+world_pandaria_kun_lai_summit;Вершина Кунь-Лай;;;;;;;;;;;;;x
+world_pandaria_townlong_steppes;Танлунские степи;;;;;;;;;;;;;x
+world_pandaria_dread_wastes;Жуткие пустоши;;;;;;;;;;;;;x
+world_pandaria_vale_of_eternal_blossoms;Вечноцветущий дол;;;;;;;;;;;;;x
+world_pandaria_valley_of_the_four_winds;Долина Четырех Ветров;;;;;;;;;;;;;x
+world_pandaria_krasarang_wilds;Красарангские джунгли;;;;;;;;;;;;;x
+world_pandaria_jade_forest;Нефритовый лес;;;;;;;;;;;;;x
+world_pandaria_pandaria_isles_isle_of_thunder;Остров Грома;;;;;;;;;;;;;x
+world_pandaria_pandaria_isles;Острова Пандария;;;;;;;;;;;;;x
+world_pandaria;Пандария;;;;;;;;;;;;;x
+nick_the_nightingale;Соловей;;;;;;;;;;;;;x
+nick_the_brute;Бесчеловечн[From.GetEndYyAya];;;;;;;;;;;;;x
+nick_the_weaponmaster;Мастер Боя;;;;;;;;;;;;;x
+nick_the_cunning;Коварн[From.GetEndYyAya];;;;;;;;;;;;;x
+nick_the_unstoppable;Неудержим[From.GetEndYyAya];;;;;;;;;;;;;x
+nick_the_thunderous;Громовой;;;;;;;;;;;;;x
+nick_the_lightning_fist;Грозовой Кулак;;;;;;;;;;;;;x
+DEATH_WANDERING_ISLE_NO_KILLER;пропал[From.GetEndA] на Скитающемся острове;;;;;;;;;;;;;x
+ANGER_OPTION;Пошел прочь!;;;;;;;;;;;;;x
+DESPAIR_OPTION;Мы обречены!;;;;;;;;;;;;;x
+DOUBT_OPTION;Предатели повсюду!;;;;;;;;;;;;;x
+FEAR_OPTION;Они снаружи!;;;;;;;;;;;;;x
+HATRED_OPTION;Ненавижу!;;;;;;;;;;;;;x
+PRIDE_OPTION;Я - сердце Пандарии!;;;;;;;;;;;;;x
+VIOLENCE_OPTION;Насилие - вот ответ!;;;;;;;;;;;;;x
+infested_by_sha_of_anger;Поражен[From.GetEndA] Ша Злости;;;;;;;;;;;;;x
+infested_by_sha_of_despair;Поражен[From.GetEndA] Ша Отчаяния;;;;;;;;;;;;;x
+infested_by_sha_of_doubt;Поражен[From.GetEndA] Ша Сомнения;;;;;;;;;;;;;x
+infested_by_sha_of_fear;Поражен[From.GetEndA] Ша Страха;;;;;;;;;;;;;x
+infested_by_sha_of_hatred;Поражен[From.GetEndA] Ша Ненависти;;;;;;;;;;;;;x
+infested_by_sha_of_pride;Поражен[From.GetEndA] Ша Гордыни;;;;;;;;;;;;;x
+infested_by_sha_of_violence;Поражен[From.GetEndA] Ша Жестокости;;;;;;;;;;;;;x
 EVTDESC_WCSHA_110;For the last couple of days, you have been feeling someone's presence. In your peripheral vision, you notice some black slimes in the long corridors of your home. Your mystics call them evil spirits or sha. Legends tell that they are all that is left of Y'Shaarj, an Old God. It looks like you have attracted them.;;In den letzten paar Tagen habt Ihr jemandes Prдsenz gespьrt. Am Rande Eures Blickfeldes bemerkt Ihr in den langen Korridoren Eures Heims einige schwarze Schleime. Eure Mystiker nennen sie bцse Geister oder Sha. Die Legenden erzдhlen, dass sie das Einzige sind, was von Y'Shaarj, einem alten Gott, ьbrig geblieben ist. Es sieht so aus, als wьrdet Ihr sie anziehen.;;;;;;;;;;;x
 EVTDESC_WCSHA_120;Your thoughts unravel... like frayed rope... it looked like someone has possessed you. You don't see the black slime anymore and feel relieved. The sha vanished as suddenly as they had appeared.;;Eure Gedanken entwirren sich... wie ein ausgefranstes Seil... es schien, als hдtte jemand von Euch Besitz ergriffen. Ihr seht den schwarzen Schleim nicht mehr und fьhlt Euch erleichtert. Die Schatten sind so plцtzlich verschwunden, wie sie aufgetaucht waren.;;;;;;;;;;;x
 EVTOPTA_WCSHA_120;They're gone?;;Sind sie fort?;;;;;;;;;;;x
@@ -3200,10 +3200,10 @@ EVTDESC_WCCLN_113;Unfortunately, the marriage between [target_other_spouse.GetDy
 GetDivorceReason_mists;You sent messengers to [target_other_spouse.GetFirstName], but they disappeared in the mists of the South Seas.;;Ihr habt Boten an [target_other_spouse.GetFirstName] geschickt, aber sie verschwanden im Nebel der sьdlichen Meere.;;;;;;;;;;;x
 GetDivorceReason_cant_marry;Due to [target_spouse.GetHerHis] race, [target_spouse.GetFirstName] can't marry and love someone [target_spouse.GetSheHe] wish.;;Aufgrund der Rasse [target_spouse.GetHerHis]er kann [target_spouse.GetFirstName] nicht heiraten und jemanden lieben, den [target_spouse.GetSheHe] sich wьnscht.;;;;;;;;;;;x
 GetDivorceReason_wrong_race;Due to the different physiology and incompatibility of their races, they can't marry and love each other.;;Aufgrund der unterschiedlichen Physiologie und Unvertrдglichkeit ihrer Rassen kцnnen sie nicht heiraten und sich nicht lieben.;;;;;;;;;;;x
-RULE_MISTS_OF_PANDARIA;§RWarCraft§!: Mists of Pandaria;;§RWarCraft§!: Nebel von Pandaria;;;;;;;;;;;x
-RULE_MISTS_OF_PANDARIA_ON;On;;Aktiviert;;;;;;;;;;;x
+RULE_MISTS_OF_PANDARIA;§RWarCraft§!: Туманы Пандарии;;;;;;;;;;;;;x
+RULE_MISTS_OF_PANDARIA_ON;Включены;;;;;;;;;;;;;x
 RULE_MISTS_OF_PANDARIA_ON_DESC;The Mists of Pandaria are enabled, making Pandaria isolated until they part around the 613th year. ;;Die Nebel von Pandaria sind aktiviert, Interaktionen sind bis zum Jahr 613 blockiert.;;;;;;;;;;;x
-RULE_MISTS_OF_PANDARIA_OFF;Off;;Deaktiviert;;;;;;;;;;;x
+RULE_MISTS_OF_PANDARIA_OFF;Выключены;;;;;;;;;;;;;x
 RULE_MISTS_OF_PANDARIA_OFF_DESC;The Mists of Pandaria are disabled, making Pandaria open to the world. ;;Die Nebel von Pandaria sind deaktiviert, Pandaria steht der Welt offen.;;;;;;;;;;;x
 EVTOPTA_MNM_8001_red_crane;The Temple of the Red Crane in Krasarang.;;Der Tempel des Roten Kranichs in Krasarang.;;;;;;;;;;;x
 EVTOPTB_MNM_8001_niuzao;Niuzao Temple in Townlong.;;Niuzao-Tempel in Townlong.;;;;;;;;;;;x
@@ -3250,29 +3250,29 @@ EVTDESC_WCSHA_510;Finally, you have received news from the excavation sites in t
 EVTOPTA_WCSHA_510;Fine, I'll invest more.;;Na schцn, wir werden mehr investieren.;;;;;;;;;;;x
 EVTOPTB_WCSHA_510;Call the prospectors back.;;Ruft die Prospektoren zurьck.;;;;;;;;;;;x
 EVTDESC_WCSHA_520;The lead archaeologist of the Vale of Eternal Blossoms reports to you today. They managed to open the vault.\n\nHe speaks: "When the gates were open, we felt animal fear and awe at the same time. Not many were able to enter the chamber. The heart was sealed in a giant cage chained to the ceiling and walls. We gently pulled out the heart and plunged it onto a stretcher. It wasn't an easy task to deliver the heart to the capital. Many workers were driven mad. If we plan to store it here, we must construct a new vault.";;Der leitende Archдologe des Tals der ewigen Blьten erstattet Euch heute Bericht. Es ist ihnen gelungen, das Gewцlbe zu цffnen.\n\nEr sagt: „Als die Tore geцffnet wurden, spьrten wir tierische Angst und Ehrfurcht zugleich. Nicht viele waren in der Lage, die Kammer zu betreten. Das Herz war in einem riesigen Kдfig eingeschlossen, der an die Decke und die Wдnde gekettet war. Wir zogen das Herz vorsichtig heraus und legten es auf eine Bahre. Es war keine leichte Aufgabe, das Herz in die Hauptstadt zu bringen. Viele Arbeiter wurden auf dem Weg in den Wahnsinn getrieben. Wenn Ihr plant, es hier zu lagern, muss ein neues Gewцlbe gebaut werden.“;;;;;;;;;;;x
-EVTOPTA_WCSHA_520;The heart is mine!;;Das Herz ist mein!;;;;;;;;;;;x
+EVTOPTA_WCSHA_520;Сердце принадлежит мне!;;;;;;;;;;;;;x
 EVTDESC_WCSHA_550;Sadly, we have had to stop excavations in the Vale of Eternal Blossoms. Your expedition can no longer work there, so we must call them back.;;Bedauerlicherweise mьssen wir die Ausgrabungen im Tal der ewigen Blьte einstellen. Eure Expedition kann dort nicht mehr arbeiten, deshalb holen wir sie zurьck.;;;;;;;;;;;x
-infest_with_sha;Infest with Sha;;Mit Sha infizieren;;;;;;;;;;;x
-infest_with_sha_desc;Using the Heart of Y'Shaarj, infest §Y[Root.GetBestName]§! with Sha giving a huge opinion debuff and increasing a revolt risk.;;Infiziert §Y[Root.GetBestName]§! mit Sha, indem Ihr das Herz von Y'Shaarj benutzen, was [Root.Getihmihr] einen erheblichen Meinungsmalus beschert und das Risiko fьr einen Aufstand erhцht;;;;;;;;;;;x
-sha_immunity_NO_tooltip;Is NOT immune to Sha;;Ist NICHT immun gegen Sha;;;;;;;;;;;x
-is_infested_by_sha_NO_tooltip;Is NOT infested with Sha;;Ist NICHT mit Sha infiziert;;;;;;;;;;;x
-infest_with_sha_cooldown;Recently Infested with Sha;;Kьrzlich mit Sha infiziert worden;;;;;;;;;;;x
+infest_with_sha;Заразить Ша;;;;;;;;;;;;;x
+infest_with_sha_desc;Используя Сердце И'Шараджа, заразить §Y[Root.GetBestName]§! Ша. Ваша цель получит минус к общественному отношению и увеличенный риск восстания.;;;;;;;;;;;;;x
+sha_immunity_NO_tooltip;НЕ является неуязвимым к Ша;;;;;;;;;;;;;x
+is_infested_by_sha_NO_tooltip;Этот персонаж НЕ поражен Ша;;;;;;;;;;;;;x
+infest_with_sha_cooldown;Недавно поражен Ша;;;;;;;;;;;;;x
 is_susceptible_to_void_corruption_tooltip;Is susceptible to §YVoid Corruption§!;;Ist empfдnglich fьr §YKorruption der Leere§!;;;;;;;;;;;x
 text_effect_infest_with_sha;Enables §GInfest with Sha§! on character portraits;;Ermцglicht §GMit Sha infizieren§! auf Charakterportrдts;;;;;;;;;;;x
 resurrect_lei_shen;Resurrect Lei Shen;;Lei Shen wiedererwecken;;;;;;;;;;;x
 resurrect_lei_shen_desc;Resurrect Emperor Lei Shen, also known as the Thunder King, who was the first emperor of the mogu and the most powerful warlord in mogu history. Ancient prophecies tell that one day he will come back to life to reign over Pandaria once again.;;Erweckt Kaiser Lei Shen, auch bekannt als der Donnerkцnig, der der erste Kaiser des Mogu und der mдchtigste Kriegsherr in der Geschichte des Mogu war, zum Leben. Alte Prophezeiungen sagen, dass er eines Tages wieder zum Leben erwachen wird, um erneut ьber Pandaria zu herrschen.;;;;;;;;;;;x
-EVTTITLE_WCCRS_305;The Thunder King;;Der Donnerkцnig;;;;;;;;;;;x
+EVTTITLE_WCCRS_305;Властелин Грома;;;;;;;;;;;;;x
 EVTDESC_WCCRS_305;Astounding news reached you from the Valley of Emperors in Kun-Lai, [target_resurrector.GetBestName] unburied the body of [target_lei_shen.GetDynName], the first mogu emperor, and resurrected him using dark magic.\nA long time ago, [target_lei_shen.GetDynName] usurped the strength of his very own master, the titan watcher Ra-Den, becoming the most powerful warlord in mogu history. Armed with the power of storms, [target_lei_shen.GetDynName], now known as the Thunder King, gathered together his followers and rose to power "the mogu way", eliminating his rivals one by one. Thus the Mogu Empire has been created. Other races have become nothing more than slaves.\nLegends told that the Thunder King would return, but no one believed. [target_lei_shen.GetDynName] rallies more and more mogu under his banner every day. This army may be enough to restore the mogu's rule over Pandaria.;;Erstaunliche Nachrichten erreichten Euch aus dem Tal der Kaiser in Kun-Lai: [target_resurrector.GetBestName] hat den Leichnam des ersten Mogu-Kaisers [target_lei_shen.GetDynName] ausgegraben und ihn mit Hilfe dunkler Magie wiederbelebt.\nVor langer Zeit ergriff [target_lei_shen.GetDynName] die Macht seines eigenen Meisters, des titanischen Wдchters Ra-Den, und wurde zum mдchtigsten Kriegsherrn der Mogu-Geschichte. Mit der Kraft der Stьrme bewaffnet, versammelte [target_lei_shen.GetDynName], der Donnerkцnig, seine Anhдnger und ergriff die Macht „auf Mogu-Art“, indem er seine Rivalen einen nach dem anderen ausschaltete. So wurde das Mogu-Imperium geschaffen.Legenden erzдhlten von der Rьckkehr des Donnerkцnigs, aber niemand glaubte daran. [target_lei_shen.GetDynName] versammelt jeden Tag mehr und mehr Mogu unter seinem Banner. Diese Armee kцnnte ausreichen, um die Herrschaft der Mogu ьber Pandaria wiederherzustellen.;;;;;;;;;;;x
 EVTOPTA_WCCRS_305;I'm Lei Shen, slayer of kings and gods.;;Ich bin Lei Shen, Schlдchter von Kцnigen und Gцttern.;;;;;;;;;;;x
-EVTOPTB_WCCRS_305;If only I were the Thunder King...;;Wenn ich nur der Donnerkцnig wдre...;;;;;;;;;;;x
+EVTOPTB_WCCRS_305;Если бы я только был Властелином Грома...;;;;;;;;;;;;;x
 EVTOPTC_WCCRS_305;Bow to the Thunder King!;;Verneigt euch vor dem Donnerkцnig!;;;;;;;;;;;x
-EVTOPTD_WCCRS_305;Now let's talk about our deal.;;Nun lasst uns ьber unser Abkommen sprechen.;;;;;;;;;;;x
+EVTOPTD_WCCRS_305;Теперь, поговорим о нашей сделке.;;;;;;;;;;;;;x
 EVTOPTE_WCCRS_305;He better stay in his grave.;;Er sollte besser im Grab bleiben.;;;;;;;;;;;x
-nick_the_thunder_king;the Thunder King;;[From.Getderdie] Donnerkцnig[From.GetinFemale];;;;;;;;;;;x
-thunder_king_opinion;[thunder_king.GetName] Opinion;;[thunder_king.GetName] Meinung;;;;;;;;;;;x
-lei_shen;Blood of [This.GetFirstNameWithNick];;Blut von [This.GetFirstNameWithNick];;;;;;;;;;;x
-lei_shen_desc;[This.GetFirstNameWithNick] is the first emperor of the mogu. The construction of the Serpent's Spine is often cited as his greatest achievement.;;[This.GetFirstNameWithNick] war der erste Kaiser des Mogu. Die Errichtung des Schlangenrьckens wird oft als seine grцЯte Errungenschaft zitiert.;;;;;;;;;;;x
-EVTTITLE_WCCRS_330;Zandalari Claims on Pandaria;;Zandalari-Ansprьche auf Pandaria;;;;;;;;;;;x
+nick_the_thunder_king;Властелин Грома;;;;;;;;;;;;;x
+thunder_king_opinion;Мнение [thunder_king.GetName];;;;;;;;;;;;;x
+lei_shen;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+lei_shen_desc;[This.GetFirstNameWithNick] являлся первым императором могу. Строительство Змеиного Хребта часто называют одним из его величайших достижений.;;;;;;;;;;;;;x
+EVTTITLE_WCCRS_330;Зандаларские претензии на Пандарию;;;;;;;;;;;;;x
 EVTDESC_WCCRS_330;Your [target_spiritual.GetJobTitle] [target_spiritual.GetFirstName] asks for your audience. "You may have heard of the legend of Lei Shen", [target_spiritual.GetSheHe] says, "a long time ago, the Zandalari and mogu were allies".\n\nLei Shen made a promise to the Zandalari: a large plot of land near the Vale of Eternal Blossoms would forever belong to the trolls. Lei Shen, not trusting his mogu underlings to resurrect him if killed, also told the trolls the secret to his resurrection.\n\n"We must claim these lands, keep our word and bring Lei Shen back to life", he ends.;;Euer [target_spiritual.GetJobTitle] [target_spiritual.GetFirstName] bittet um eine Audienz. „Ihr habt vielleicht von der Legende von Lei Shen gehцrt“, sagt [target_spiritual.GetSheHe], „vor langer Zeit waren die Zandalari und die Mogu Verbьndete.“\n\nLei Shen gab den Zandalari ein Versprechen: ein groЯes Stьck Land in der Nдhe des Tals der ewigen Blьten wьrde fьr immer den Trollen gehцren. Lei Shen vertraute seinen Mogu-Untergebenen nicht an, dass sie ihn auferstehen lassen wьrden, falls er getцtet wьrde, und verriet den Trollen auch das Geheimnis seiner Auferstehung.\n\n„Wir mьssen diese Lдndereien einfordern, unser Wort halten und Lei Shen wieder zum Leben erwecken“ endet er.;;;;;;;;;;;x
 EVTOPTA_WCCRS_330;Agree. It's our birthright.;;Einverstanden. Es ist unser Geburtsrecht.;;;;;;;;;;;x
 EVTOPTB_WCCRS_330;Let the people of Pandaria live in peace.;;Lasst das Volk von Pandaria in Frieden leben.;;;;;;;;;;;x
@@ -3281,11 +3281,11 @@ EVTOPTA_WCRAC_1005;The honour is mine.;;Die Ehre ist auf meiner Seite.;;;;;;;;;;
 EVTOPTB_WCRAC_1005;I am sorry, but my people need me here.;;Es tut mir leid, aber mein Volk braucht mich hier.;;;;;;;;;;;x
 EVTDESC_WCRAC_1010;It is time to start the ritual of hibernation. Together with your ambersmith, you head to a hidden place under the roots of a kypari tree. You enter a cave where the ambersmith begins to weave spells enveloping you in fiery amber. Your skin burns, and you have to hold back a scream. Finally, whether because of pain or the ritual, you begin to faint. The last moment that you remember is your ambersmith cutting his throat, so that your location will be a secret for everyone except the Klaxxi.;;Es ist an der Zeit, mit dem Ritual des Schlafes zu beginnen. Zusammen mit Eurem Bernsteinschmied begibt Ihr Euch an einen verborgenen Ort unter den Wurzeln eines Kypari-Baums. Ihr betretet eine Hцhle, in der der Bernsteinschmied beginnt, Zauber zu weben, die Euch mit feurigem Bernstein umhьllen. Eure Haut brennt und Ihr mьsst einen Schrei zurьckhalten. Kurz bevor Ihr ohnmдchtig werdet seht Ihr noch, wie Euer Bernsteinschmied sich die Kehle durchschneidet, so dass Euer Aufenthaltsort fьr alle auЯer den Klaxxi ein Geheimnis sein wird.;;;;;;;;;;;x
 EVTOPTA_WCRAC_1010;So wake me up when it's all over...;;Weckt mich auf, wenn alles vorbei ist...;;;;;;;;;;;x
-EVTTITLE_WCRAC_1005;The Path of Paragons;;Der Pfad der Getreuen;;;;;;;;;;;x
-mantid_opinion;[mantid.GetName] Opinion;;[mantid.GetName] Meinung;;;;;;;;;;;x
-nick_the_swarmkeeper;the Swarmkeeper;;[From.Getderdie] Schwarmwдchter;;;;;;;;;;;x
-nick_the_lucid;the Lucid;;[From.Getderdie] Klare;;;;;;;;;;;x
-nick_the_locust;the Locust;;die Heuschrecke;;;;;;;;;;;x
+EVTTITLE_WCRAC_1005;Путь Идеалов;;;;;;;;;;;;;x
+mantid_opinion;Мнение [mantid.GetName];;;;;;;;;;;;;x
+nick_the_swarmkeeper;the Swarmkeeper;;;;;;;;;;;;;x
+nick_the_lucid;the Lucid;;;;;;;;;;;;;x
+nick_the_locust;the Locust;;;;;;;;;;;;;x
 nick_the_manipulator;the Manipulator;;[From.Getderdie] Manipulator[From.GetinFemale];;;;;;;;;;;x
 nick_the_wind_reaver;the Wind-Reaver;;[From.Getderdie] Windjдger[From.GetinFemale];;;;;;;;;;;x
 nick_the_prime;the Prime;;der Primus;;;;;;;;;;;x
@@ -3300,8 +3300,8 @@ mantid_paragon_bloodline_desc;[This.GetFirstNameWithNick] was chosen by the Klax
 EVTDESC_WCRAC_1020;An emissary of the Klaxxi pays you a visit. He tells you that the Klaxxi have decided to awaken a paragon hidden in your lands. If you follow his orders, the paragon may be willing to join your forces.;;Ein Gesandter der Klaxxi stattet Euch einen Besuch ab. Er teilt Euch mit, dass die Klaxxi beschlossen haben, einen in Euren Lдndern verborgenen Getreuen zu erwecken. Wenn Ihr seinen Befehlen folgt, ist der Getreue vielleicht bereit, sich Euch anzuschlieЯen.;;;;;;;;;;;x
 EVTOPTA_WCRAC_1020;Let's awake [From.GetHerHim] then.;;Dann lasst uns [From.Getihnsie] erwecken.;;;;;;;;;;;x
 EVTOPTB_WCRAC_1020;[From.GetSheHeCap] is of my blood. [From.GetSheHeCap] shall lead us!;;[From.GetSheHeCap] ist von meinem Blut. [From.GetSheHeCap] soll uns fьhren! ;;;;;;;;;;;x
-awaken_paragon;Awaken Paragon;;Getreuen erwecken;;;;;;;;;;;x
+awaken_paragon;Пробудить Идеала;;;;;;;;;;;;;x
 awaken_paragon_desc;Ask the Klaxxi to awaken [Root.GetBestName].;;Bittet die Klaxxi, [Root.GetBestName] zu wecken.;;;;;;;;;;;x
 recently_became_paragon_cooldown;Recently Became Paragon;;Kьrzlich zum Getreuen geworden;;;;;;;;;;;x
-EVTTITLE_WCRAC_1013;A New Paragon;;Ein neuer Getreuer;;;;;;;;;;;x
+EVTTITLE_WCRAC_1013;Новый Идеал;;;;;;;;;;;;;x
 EVTDESC_WCRAC_1013;The Klaxxi have chosen [target_paragon.GetBestName] to be a paragon, a champion of the mantid, due to [target_paragon.GetHerHis] high skills. As well as the other paragons, the Klaxxi have preserved [target_paragon.GetHerHim] in case of a great crisis.;;Die Klaxxi haben [target_paragon.GetBestName] aufgrund [target_paragon.GetHerHis]er Fдhigkeiten zu [target_paragon.Geteinemeiner] Getreuen, einem Champion der Mantide, gewдhlt. Wie auch die anderen Getreuen haben die Klaxxi [target_paragon.Getihnsie] fьr den Fall einer groЯen Krise bewahrt.;;;;;;;;;;;x
