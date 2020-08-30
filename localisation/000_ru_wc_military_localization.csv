@@ -346,6 +346,14 @@ wc_ret_cul_vulpera;Торговцы-наводчики;;;;;;;;;;;;;x
 wc_ret_cul_giant;Гигантские крушители;;;;;;;;;;;;;x
 wc_ret_cul_titanforged;Легион кованных титанами;;;;;;;;;;;;;x
 wc_ret_cul_forsaken;Темные Следопыты;;;;;;;;;;;;;x
+wc_ret_cul_pandaren;Barepaws;;BloЯpfoten;;;;;;;;;;;x
+wc_ret_cul_mogu;Subjugators;;Unterdrьcker;;;;;;;;;;;x
+wc_ret_cul_mantid;Strikers;;Stьrmer;;;;;;;;;;;x
+wc_ret_cul_jinyu;Waterspeakers;;Wassersprecher;;;;;;;;;;;x
+wc_ret_cul_ankoan;Waveblades;;Wellenklingen;;;;;;;;;;;x
+wc_ret_cul_saurok;Scalelords;;Schuppenmeister;;;;;;;;;;;x
+wc_ret_cul_grummle;Yak Caravans;;Yak-Karawane;;;;;;;;;;;x
+wc_ret_cul_yaungol;Ordon Pyromancers;;Ordon-Pyromancer;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 # Retinues – Religious;;;;;;;;;;;;;;x
 wc_ret_rel_scourge;Гаргульи;;;;;;;;;;;;;x
