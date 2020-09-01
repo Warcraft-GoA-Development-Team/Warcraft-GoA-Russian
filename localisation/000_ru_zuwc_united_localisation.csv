@@ -3132,7 +3132,7 @@ dojan;Кровь Доцзяня "Огненная Корона";;;;;;;;;;;;;x
 dojan_desc;Доцзянь "Огненная Корона", повелитель Уроэ, является мифическим основателем клан Доцзянь и правителем, ответственным за Великую Чистку сауроков.;;;;;;;;;;;;;x
 saurok_opinion;Отношение [saurok.GetName];;;;;;;;;;;;;x
 mogu_opinion;Отношение [mogu.GetName];;;;;;;;;;;;;x
-nick_the_vile;Подл[Root.GetEndYyAya];;;;;;;;;;;;;x
+nick_the_vile;Подл[This.GetAyaYy];;;;;;;;;;;;;x
 world_pandaria_kun_lai_summit;Вершина Кунь-Лай;;;;;;;;;;;;;x
 world_pandaria_townlong_steppes;Танлунские степи;;;;;;;;;;;;;x
 world_pandaria_dread_wastes;Жуткие пустоши;;;;;;;;;;;;;x
@@ -3144,10 +3144,10 @@ world_pandaria_pandaria_isles_isle_of_thunder;Остров Грома;;;;;;;;;;;;;x
 world_pandaria_pandaria_isles;Острова Пандария;;;;;;;;;;;;;x
 world_pandaria;Пандария;;;;;;;;;;;;;x
 nick_the_nightingale;Соловей;;;;;;;;;;;;;x
-nick_the_brute;Бесчеловечн[Root.GetEndYyAya];;;;;;;;;;;;;x
+nick_the_brute;Бесчеловечн[This.GetAyaYy];;;;;;;;;;;;;x
 nick_the_weaponmaster;Мастер Боя;;;;;;;;;;;;;x
-nick_the_cunning;Коварн[Root.GetEndYyAya];;;;;;;;;;;;;x
-nick_the_unstoppable;Неудержим[Root.GetEndYyAya];;;;;;;;;;;;;x
+nick_the_cunning;Коварн[This.GetAyaYy];;;;;;;;;;;;;x
+nick_the_unstoppable;Неудержим[This.GetAyaYy];;;;;;;;;;;;;x
 nick_the_thunderous;Громовой;;;;;;;;;;;;;x
 nick_the_lightning_fist;Грозовой Кулак;;;;;;;;;;;;;x
 DEATH_WANDERING_ISLE_NO_KILLER;пропал[Root.GetEndA] на Скитающемся острове;;;;;;;;;;;;;x
@@ -3263,7 +3263,7 @@ resurrect_lei_shen;Воскресить Лэй Шэня;;;;;;;;;;;;;x
 resurrect_lei_shen_desc;Воскресить императора Лэй Шэня, также известного как Властелин Грома, который являлся первым императором могу и могущественнейшим военачальником во всей их истории. Древние пророчества гласят, что однажды он воскреснет, чтобы вновь править Пандарией.;;;;;;;;;;;;;x
 EVTTITLE_WCCRS_305;Властелин Грома;;;;;;;;;;;;;x
 EVTDESC_WCCRS_305;Поразительные новости из Долины Императоров, находящейся в Кунь-Лае, достигли ваших ушей. [target_resurrector.GetBestName] откопал тело [target_lei_shen.GetDynName], первого императора могу, и воскресил его с помощью темной магии.\nВ давние времена, [target_lei_shen.GetDynName] похитил силу своего господина, Смотрителя Ра-Дена, став самым могущественным военачальником в истории могу. Вооруженный силой бури, [target_lei_shen.GetDynName], ставший известным как Властелин Грома, собрал своих последователей и пришел к власти, следуя "пути могу", уничтожив всех своих врагов одного за другим. Так была создана империя Могу. Все прочие расы были порабощены.\nЛегенды гласят, что однажды Властелин Грома вернется, но им никто не верил. С каждым днем в ряды [target_lei_shen.GetDynName] стекается все больше и больше могу. Эта армия вполне может восстановить власть могу над Пандарией.;;;;;;;;;;;;;x
-EVTOPTA_WCCRS_305;Я Лэй Шэнь, убийца королей и богов.;;;;;;;;;;;;;x
+EVTOPTA_WCCRS_305;Я Лэй Шэнь, низвергатель богов и королей.;;;;;;;;;;;;;x
 EVTOPTB_WCCRS_305;Если бы я только был Властелином Грома...;;;;;;;;;;;;;x
 EVTOPTC_WCCRS_305;Склонитесь перед Властелином Грома!;;;;;;;;;;;;;x
 EVTOPTD_WCCRS_305;Теперь, поговорим о нашей сделке.;;;;;;;;;;;;;x
@@ -3284,16 +3284,16 @@ EVTOPTA_WCRAC_1010;Пробудите меня, когда все закончится...;;;;;;;;;;;;;x
 EVTTITLE_WCRAC_1005;Путь Идеалов;;;;;;;;;;;;;x
 mantid_opinion;Мнение [mantid.GetName];;;;;;;;;;;;;x
 nick_the_swarmkeeper;Хранитель Роя;;;;;;;;;;;;;x
-nick_the_lucid;Проницательный;;;;;;;;;;;;;x
+nick_the_lucid;Проницательн[This.GetAyaYy];;;;;;;;;;;;;x
 nick_the_locust;Саранча;;;;;;;;;;;;;x
 nick_the_manipulator;Манипулятор;;;;;;;;;;;;;x
 nick_the_wind_reaver;Рассекающий Ветер;;;;;;;;;;;;;x
-nick_the_prime;Первейший;;;;;;;;;;;;;x
-nick_the_unscathed;Невредимый;;;;;;;;;;;;;x
+nick_the_prime;Первейш[This.GetAyaIy];;;;;;;;;;;;;x
+nick_the_unscathed;Невредим[This.GetAyaYy];;;;;;;;;;;;;x
 nick_the_bloodcaller;Призыватель Крови;;;;;;;;;;;;;x
-nick_the_deathcaller;Зовущий Смерть;;;;;;;;;;;;;x
+nick_the_deathcaller;Зовущ[This.GetAyaIy] Смерть;;;;;;;;;;;;;x
 nick_the_dissector;Разрезатель;;;;;;;;;;;;;x
-nick_the_bloodseeker;Кровожадный;;;;;;;;;;;;;x
+nick_the_bloodseeker;Кровожадн[This.GetAyaYy];;;;;;;;;;;;;x
 nick_the_poisoned_mind;Отравленный Разум;;;;;;;;;;;;;x
 mantid_paragon_bloodline;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
 mantid_paragon_bloodline_desc;[This.GetFirstNameWithNick] был избран Клакси стать Идеалом, одним из величайших богомолов, сохраненных в янтаре на случай великой беды.;;;;;;;;;;;;;x
