@@ -1,4 +1,18 @@
 #CODE;RUSSIAN;;;;;;;;;;;;;x
+RULE_GROUP_WARCRAFT_ARTIFACTS;WarCraft - артефакты;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+RULE_PHYSICAL_WEAPON_CLASS_REQUIREMENT;§RWarCraft§!: требования к классу для оружия ближнего боя;;;;;;;;;;;;;x
+RULE_PHYSICAL_WEAPON_CLASS_REQUIREMENT_DEFAULT_DESC;Некоторые оружия ближнего боя доступны только физическим классам.;;;;;;;;;;;;;x
+RULE_PHYSICAL_WEAPON_CLASS_REQUIREMENT_UNRESTRICTED_DESC;Взрослые персонажи могут использовать любые оружия ближнего боя независимо от класса.;;;;;;;;;;;;;x
+RULE_RANGED_WEAPON_CLASS_REQUIREMENT;§RWarCraft§!: требования к классу для оружия дальнего боя;;;;;;;;;;;;;x
+RULE_RANGED_WEAPON_CLASS_REQUIREMENT_DEFAULT_DESC;Некоторые оружия дальнего боя доступны только физическим классам.;;;;;;;;;;;;;x
+RULE_RANGED_WEAPON_CLASS_REQUIREMENT_UNRESTRICTED_DESC;Взрослые персонажи могут использовать любые оружия ближнего боя независимо от класса.;;;;;;;;;;;;;x
+RULE_RANGED_WEAPON_CLASS_REQUIREMENT_RESTRICTED_DESC;Некоторые оружия дальнего боя доступны только стрелковым классам.;;;;;;;;;;;;;x
+RULE_MAGICAL_WEAPON_CLASS_REQUIREMENT;§RWarCraft§!: требования к классу для магическоо оружия;;;;;;;;;;;;;x
+RULE_MAGICAL_WEAPON_CLASS_REQUIREMENT_DEFAULT_DESC;Некоторые магические оружия доступны только магическим и гибридным классам.;;;;;;;;;;;;;x
+RULE_MAGICAL_WEAPON_CLASS_REQUIREMENT_UNRESTRICTED_DESC;Взрослые персонажи могут использовать любые магические оружия независимо от класса.;;;;;;;;;;;;;x
+RULE_MAGICAL_WEAPON_CLASS_REQUIREMENT_RESTRICTED_DESC;Некоторые магические оружия доступны только магическим классам.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
 RULE_ARTIFACT_SPAWN;§RWarCraft§!: Генерация случайных артефактов на старте игры ;;;;;;;;;;;;;x
 RULE_ARTIFACT_SPAWN_DEFAULT;По умолчанию;;;;;;;;;;;;;x
 RULE_ARTIFACT_SPAWN_DEFAULT_DESC;На старте игры генерируется стандартное количество случайных артефактов.;;;;;;;;;;;;;x
@@ -8,6 +22,43 @@ RULE_ARTIFACT_SPAWN_X0_5_DESC;Количество случайных артефактов, сгенерированных н
 RULE_ARTIFACT_SPAWN_X0_25_DESC;Количество случайных артефактов, сгенерированных на старте игры - §R0.25§!.;;;;;;;;;;;;;x
 RULE_ARTIFACT_SPAWN_OFF;Отключена;;;;;;;;;;;;;x
 RULE_ARTIFACT_SPAWN_OFF_DESC;Генерация случайных артефактов на старте игры отключена.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_RARITY;§RWarCraft§!: Редкость случайных артефактов, созданных на старте игры;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_RARITY_LESS_RANDOM;Зависит от уровня титула;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_RARITY_LESS_RANDOM_DESC;Персонажи с более высоким уровня титула получат повышенный шанс на получение артефактов высокого уровня, в то время как персонажи с низким уровнем титула с большей вероятностью получат артефакты низкого уровня при старте игры.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_RARITY_EVEN_LESS_RANDOM;Привязано к уровню титула;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_RARITY_EVEN_LESS_RANDOM_DESC;Персонажи с более высоким уровнем титула НЕ могут получить артефакты низкого уровня, в то время как персонажи с низким уровнем титула НЕ могут получить артефакты высокого уровня при старте игры.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_RARITY_RANDOM;Случайно;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_RARITY_RANDOM_DESC;Уровень титула персонажа НЕ влияет на уровень сгенерированных на старте игры артефактов.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_SOCIETY;§RWarCraft§!: артефакты в качестве награды за задания сообществ;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_SOCIETY_DEFAULT_DESC;Стандартные шансы на получение артефактов после выполнения заданий сообществ.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_SOCIETY_X1_5_DESC;Шанс на получение артефактов после выполнения заданий сообществ - §G1.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_SOCIETY_X2_DESC;Шанс на получение артефактов после выполнения заданий сообществ - §G2§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_SOCIETY_X0_5_DESC;Шанс на получение артефактов после выполнения заданий сообществ - §R0.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_OFF_DESC;Отключена возможность получения артефактов в качестве награды за выполнение заданий сообществ.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_ON_LOOT_SETTLEMENT;§RWarCraft§!: появление артефактов после разграбления поселений;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_ON_LOOT_SETTLEMENT_DEFAULT_DESC;Стандартные шансы на получение артефакта после разграбления поселений.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_ON_LOOT_SETTLEMENT_OFF_DESC;Возможность получить артефакт после разграбления поселений отключена.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_ON_LOOT_SETTLEMENT_X0_25_DESC;Возможность получить артефакт после разграбления поселений - §R0.25§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_ON_LOOT_SETTLEMENT_X0_5_DESC;Возможность получить артефакт после разграбления поселений - §R0.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_ON_LOOT_SETTLEMENT_X1_5_DESC;Возможность получить артефакт после разграбления поселений - §G1.5§!.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_ON_LOOT_SETTLEMENT_X2_DESC;Возможность получить артефакт после разграбления поселений - §G2§!.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES;§RWarCraft§!: предпочтения артефактов;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_NO;Нет предпочтений;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_NO_DESC;Различные факторы, такие, как культура, НЕ влияют на возможность получить артефакт определенного типа артефакта.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_NORMAL;Нормальные предпочтения;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_NORMAL_DESC;Различные факторы, такие, как культура, влияют на возможность получить артефакт определенного типа артефакта.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_STRONG;Сильные предпочтения;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_STRONG_DESC;Различные факторы, такие, как культура, сильнее влияют на возможность получить артефакт определенного типа артефакта.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_STRONGER;Более сильные предпочтения;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_STRONGER_DESC;Различные факторы, такие, как культура, гораздо сильнее влияют на возможность получить артефакт определенного типа артефакта.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_WEAK;Слабые предпочтения;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_WEAK_DESC;Различные факторы, такие, как культура, слабо влияют на возможность получить артефакт определенного типа артефакта.;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_WEAKER;Более слабые предпочтения;;;;;;;;;;;;;x
+RULE_ARTIFACT_SPAWN_PREFERENCES_WEAKER_DESC;Различные факторы, такие, как культура, гораздо слабее влияют на возможность получить артефакт определенного типа артефакта.;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
@@ -245,3 +296,63 @@ spear_4;[GetArtifactMeleeWeaponEpicAffixN1]ое копье[GetArtifactMeleeWeaponEpicAf
 spear_4_desc;Эпическое копье.;;;;;;;;;;;;;x
 spear_5;[GetArtifactMeleeWeaponLegendaryAffixN1]ое копье[GetArtifactMeleeWeaponLegendaryAffixN2];;;;;;;;;;;;;x
 spear_5_desc;Легендарное копье.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+bow_1;[GetArtifactRangedWeaponCommonAffixN1] лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponCommonAffixN3][GetArtifactRangedWeaponCommonAffixN4];;;;;;;;;;;;;x
+bow_1_variant_2;Лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponCommonAffixN2][GetArtifactRangedWeaponCommonAffixN3][GetArtifactRangedWeaponCommonAffixN4];;;;;;;;;;;;;x
+bow_1_desc;Обычный лук;;;;;;;;;;;;;x
+bow_2;[GetArtifactRangedWeaponUncommonAffixN1] лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponUncommonAffixN3][GetArtifactRangedWeaponUncommonAffixN4];;;;;;;;;;;;;x
+bow_2_variant_2;Лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponUncommonAffixN2][GetArtifactRangedWeaponUncommonAffixN3][GetArtifactRangedWeaponUncommonAffixN4];;;;;;;;;;;;;x
+bow_2_desc;Необычный лук;;;;;;;;;;;;;x
+bow_3;[GetArtifactRangedWeaponRareAffixN1] лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponRareAffixN3][GetArtifactRangedWeaponRareAffixN4];;;;;;;;;;;;;x
+bow_3_variant_2;Лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponRareAffixN2][GetArtifactRangedWeaponRareAffixN3][GetArtifactRangedWeaponRareAffixN4];;;;;;;;;;;;;x
+bow_3_desc;Редкий лук;;;;;;;;;;;;;x
+bow_4;[GetArtifactRangedWeaponEpicAffixN1] лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponEpicAffixN3][GetArtifactRangedWeaponEpicAffixN4];;;;;;;;;;;;;x
+bow_4_variant_2;Лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponEpicAffixN2][GetArtifactRangedWeaponEpicAffixN3][GetArtifactRangedWeaponEpicAffixN4];;;;;;;;;;;;;x
+bow_4_desc;Эпический лук;;;;;;;;;;;;;x
+bow_5;[GetArtifactRangedWeaponLegendaryAffixN1] лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponLegendaryAffixN3][GetArtifactRangedWeaponLegendaryAffixN4];;;;;;;;;;;;;x
+bow_5_variant_2;Лук[GetArtifactPrepositionOf][GetArtifactRangedWeaponLegendaryAffixN2][GetArtifactRangedWeaponLegendaryAffixN3][GetArtifactRangedWeaponLegendaryAffixN4];;;;;;;;;;;;;x
+bow_5_desc;Легендарный лук;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+crossbow_1;[GetArtifactRangedWeaponCommonAffixN1] арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponCommonAffixN3][GetArtifactRangedWeaponCommonAffixN4];;;;;;;;;;;;;x
+crossbow_1_variant_2;Арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponCommonAffixN2][GetArtifactRangedWeaponCommonAffixN3][GetArtifactRangedWeaponCommonAffixN4];;;;;;;;;;;;;x
+crossbow_1_desc;Обычный арбалет;;;;;;;;;;;;;x
+crossbow_2;[GetArtifactRangedWeaponUncommonAffixN1] арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponUncommonAffixN3][GetArtifactRangedWeaponUncommonAffixN4];;;;;;;;;;;;;x
+crossbow_2_variant_2;Арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponUncommonAffixN2][GetArtifactRangedWeaponUncommonAffixN3][GetArtifactRangedWeaponUncommonAffixN4];;;;;;;;;;;;;x
+crossbow_2_desc;Необычный арбалет;;;;;;;;;;;;;x
+crossbow_3;[GetArtifactRangedWeaponRareAffixN1] арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponRareAffixN3][GetArtifactRangedWeaponRareAffixN4];;;;;;;;;;;;;x
+crossbow_3_variant_2;Арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponRareAffixN2][GetArtifactRangedWeaponRareAffixN3][GetArtifactRangedWeaponRareAffixN4];;;;;;;;;;;;;x
+crossbow_3_desc;Редкий арбалет;;;;;;;;;;;;;x
+crossbow_4;[GetArtifactRangedWeaponEpicAffixN1] арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponEpicAffixN3][GetArtifactRangedWeaponEpicAffixN4];;;;;;;;;;;;;x
+crossbow_4_variant_2;Арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponEpicAffixN2][GetArtifactRangedWeaponEpicAffixN3][GetArtifactRangedWeaponEpicAffixN4];;;;;;;;;;;;;x
+crossbow_4_desc;Эпический арбалет;;;;;;;;;;;;;x
+crossbow_5;[GetArtifactRangedWeaponLegendaryAffixN1] арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponLegendaryAffixN3][GetArtifactRangedWeaponLegendaryAffixN4];;;;;;;;;;;;;x
+crossbow_5_variant_2;Арбалет[GetArtifactPrepositionOf][GetArtifactRangedWeaponLegendaryAffixN2][GetArtifactRangedWeaponLegendaryAffixN3][GetArtifactRangedWeaponLegendaryAffixN4];;;;;;;;;;;;;x
+crossbow_5_desc;Легендарный арбалет;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+rifle_1;[GetArtifactRangedWeaponCommonAffixN1] ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponCommonAffixN3][GetArtifactRangedWeaponCommonAffixN4];;;;;;;;;;;;;x
+rifle_1_variant_2;Ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponCommonAffixN2][GetArtifactRangedWeaponCommonAffixN3][GetArtifactRangedWeaponCommonAffixN4];;;;;;;;;;;;;x
+rifle_1_desc;Обычное ружье;;;;;;;;;;;;;x
+rifle_2;[GetArtifactRangedWeaponUncommonAffixN1] ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponUncommonAffixN3][GetArtifactRangedWeaponUncommonAffixN4];;;;;;;;;;;;;x
+rifle_2_variant_2;Ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponUncommonAffixN2][GetArtifactRangedWeaponUncommonAffixN3][GetArtifactRangedWeaponUncommonAffixN4];;;;;;;;;;;;;x
+rifle_2_desc;Необычное ружье;;;;;;;;;;;;;x
+rifle_3;[GetArtifactRangedWeaponRareAffixN1] ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponRareAffixN3][GetArtifactRangedWeaponRareAffixN4];;;;;;;;;;;;;x
+rifle_3_variant_2;Ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponRareAffixN2][GetArtifactRangedWeaponRareAffixN3][GetArtifactRangedWeaponRareAffixN4];;;;;;;;;;;;;x
+rifle_3_desc;Редкое ружье;;;;;;;;;;;;;x
+rifle_4;[GetArtifactRangedWeaponEpicAffixN1] ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponEpicAffixN3][GetArtifactRangedWeaponEpicAffixN4];;;;;;;;;;;;;x
+rifle_4_variant_2;Ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponEpicAffixN2][GetArtifactRangedWeaponEpicAffixN3][GetArtifactRangedWeaponEpicAffixN4];;;;;;;;;;;;;x
+rifle_4_desc;Эпическое ружье;;;;;;;;;;;;;x
+rifle_5;[GetArtifactRangedWeaponLegendaryAffixN1] ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponLegendaryAffixN3][GetArtifactRangedWeaponLegendaryAffixN4];;;;;;;;;;;;;x
+rifle_5_variant_2;Ружье[GetArtifactPrepositionOf][GetArtifactRangedWeaponLegendaryAffixN2][GetArtifactRangedWeaponLegendaryAffixN3][GetArtifactRangedWeaponLegendaryAffixN4];;;;;;;;;;;;;x
+rifle_5_desc;Легендарное ружье;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+EVTDESC_WCARTSPWN_2;[Root.GetTitledName], члены сообщества [Root.Society.GetName] впечатлены вашими достижениями и надеются, что вы и дальше будете служить для нас хорошим примером.\n\n[target_rewarder.GetFirstName] и другие члены сообщества [Root.Society.GetName];;;;;;;;;;;;;x
+EVTOPT_WCARTSPWN_2_A;Я выберу этот...;;;;;;;;;;;;;x
+EVTOPT_WCARTSPWN_2_B;...Или вот этот?..;;;;;;;;;;;;;x
+EVTOPT_WCARTSPWN_2_C;...Вот этот выглядит многообещающе...;;;;;;;;;;;;;x
+EVTOPT_WCARTSPWN_2_D;... Ох, что это тут у нас?;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+EVTDESC_WCARTSPWN_3;Налетчики, разграбившие [target_looted_holding.GetName], вернулись с трофеями. Они спрашивают, хотите ли вы забрать их себе.;;;;;;;;;;;;;x
+EVTOPT_WCARTSPWN_3_A;Прекрасное дополнение к моей коллекции.;;;;;;;;;;;;;x
+EVTOPT_WCARTSPWN_3_B;Вы можете оставить их себе.;;;;;;;;;;;;;x
