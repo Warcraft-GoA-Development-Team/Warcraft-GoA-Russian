@@ -96,12 +96,12 @@ ca_barracks_4;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
 ca_barracks_5;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
 ca_barracks_6;[Root.Holder.GetCastleAdjectiveCap] казармы;;;;;;;;;;;;;x
 ca_barracks_1_desc;Эти здания являются местом сбора ополчения замка [Root.Holder.GetCastleAdjective].;;;;;;;;;;;;;x
-ca_stable_1;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
-ca_stable_2;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
-ca_stable_3;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
-ca_stable_4;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
-ca_stable_5;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
-ca_stable_6;[Root.Holder.GetStableTypeCap] конюшни;;;;;;;;;;;;;x
+ca_stable_1;Стойла для [Root.Holder.GetStableTypeCap];;;;;;;;;;;;;x
+ca_stable_2;Стойла для [Root.Holder.GetStableTypeCap];;;;;;;;;;;;;x
+ca_stable_3;Стойла для [Root.Holder.GetStableTypeCap];;;;;;;;;;;;;x
+ca_stable_4;Стойла для [Root.Holder.GetStableTypeCap];;;;;;;;;;;;;x
+ca_stable_5;Стойла для [Root.Holder.GetStableTypeCap];;;;;;;;;;;;;x
+ca_stable_6;Стойла для [Root.Holder.GetStableTypeCap];;;;;;;;;;;;;x
 ca_stable_1_desc;В этих конюшнях расположены все скакуны [Root.Holder.GetStableType] ополчения.;;;;;;;;;;;;;x
 ca_town_1;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
 ca_town_2;[Root.Holder.GetCastleAdjectiveCap] поселения;;;;;;;;;;;;;x
