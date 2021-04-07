@@ -3368,3 +3368,6 @@ tekahn_failure;§RВам не удалось отразить наступление Сумерек§!;;;;;;;;;;;;;x
 you_leave_the_tomb;Вы решили оставить гробницу нетронутой.;;;;;;;;;;;;;x
 you_reject_the_offer;Вы решили отклонить предложение.;;;;;;;;;;;;;x
 is_locked_qiraji_not_tooltip;[This.GetTitledFirstName] не является киражем, запертым в Ан'Кираже.;;;;;;;;;;;;;x
+yaungol_opinion;[yaungol.GetName] мнение;;;;;;;;;;;;;x
+EVTOPTA_WCFTW_100_honour;В этом нет чести.;;;;;;;;;;;;;
+is_not_sealed_with_cthun_tooltip;Не запечатан с К'Туном;;;;;;;;;;;;;

@@ -463,9 +463,9 @@ c_south_islands_adj;Жагуар;;;;;;;;;;;;;x
 c_forlorn_3_adj;Кровавопарус;;;;;;;;;;;;;x
 e_pandaria_empire;Пандария;;;;;;;;;;;;;x
 e_pandaria_empire_adj;Пандарий;;;;;;;;;;;;;x
-CULTURAL_EMPIRE;[Root.Culture.GetName] империя;;;;;;;;;;;;;x
+CULTURAL_EMPIRE;Империя [Root.Culture.GetName];;;;;;;;;;;;;x
 CULTURAL_EMPIRE_ADJ;[Root.Culture.GetName];;;;;;;;;;;;;x
-CULTURAL_GROUP_EMPIRE;[Root.Culture.GetGroupName] империя;;;;;;;;;;;;;x
+CULTURAL_GROUP_EMPIRE;Империя [Root.Culture.GetGroupName];;;;;;;;;;;;;x
 CULTURAL_GROUP_EMPIRE_ADJ;[Root.Culture.GetGroupName];;;;;;;;;;;;;x
 d_mountain_hozen_band;Отряд горных хозенов;;;;;;;;;;;;;x
 d_mountain_hozen_band_adj;Горнохозен;;;;;;;;;;;;;x
